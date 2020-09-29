@@ -8,36 +8,43 @@ from urllib.request import urlopen
 
 requestHead = {"User-Agent": "Chrome/47.0.2526.111"}
 
-def getSeasonIDs(num):
-    if num < 10:
-        strnum = '0' + str(num)
-    elif num >= 10:
-        strnum = str(num)
-    url = "http://sim-football.com/indexes/NSFLS%s/GameResults.html"%strnum
-    page = requests.get(url,headers=requestHead)
-    soup = BeautifulSoup(page.text,'html.parser')
+def getSeasonIDs(num,online = True,prefix = None,post=True):
+    if online:
+        if num < 10:
+            strnum = '0' + str(num)
+        elif num >= 10:
+            strnum = str(num)
+        if num < 24:
+            url = "http://sim-football.com/indexes/NSFLS"+strnum+"/GameResults.html"
+        else:
+            url = "http://sim-football.com/indexes/ISFLS"+strnum+"/GameResults.html"
+        page = requests.get(url, headers = requestHead)
+        soup = BeautifulSoup(page.text,'html.parser')
+    else:
+        with open(prefix+'/GameResults.html') as f:
+            soup = BeautifulSoup(f,'html.parser')
     
     if num > 21:
-        preseason = 24
-        postseason = 7
+        preseason=24
+        postseason=7
     elif num > 15:
         preseason = 20
-        postseason = 7
+        postseason= 7
     elif num > 1:
         preseason = 16
-        postseason = 3
+        postseason= 3
     else:
         preseason = 12
-        postseason = 3
+        postseason= 3
     
-    pbplist = soup.find_all('a',href = re.compile('Logs'))
+    pbplist = soup.find_all('a',href=re.compile('Logs'))
     pbpURLs = [p.get('href') for p in pbplist]
-    
     if len(pbpURLs[preseason:-postseason]) == 55:
-        preseason = preseason - 1
-        
-    idList = [p[5:].strip('.html') for p in pbpURLs[preseason:]]
-    
+        preseason = preseason-1
+    if post:
+        idList = [p[5:].strip('.html') for p in pbpURLs[preseason:]]
+    else:
+        idList = [p[5:].strip('.html') for p in pbpURLs[preseason:-postseason]]
     return idList
 
 def getTeams(S,teamID):
@@ -107,7 +114,12 @@ def getGameData(S,gameID):
     elif S >= 10:
         strnum = str(S)
     
-    pagePBP = requests.get('http://sim-football.com/indexes/NSFLS%s/Logs/%s.html'%(strnum,gameID),headers=requestHead)
+    if S < 24:
+        url = "http://sim-football.com/indexes/NSFLS"+strnum
+    else:
+        url = "http://sim-football.com/indexes/ISFLS"+strnum
+    
+    pagePBP = requests.get('%s/Logs/%s.html'%(url,gameID),headers=requestHead)
     soupPBP = BeautifulSoup(pagePBP.content.decode('ISO-8859-1'),'lxml')
     tablePBP = soupPBP.find_all('table',class_='Grid')[0]
     
@@ -154,7 +166,7 @@ def getGameData(S,gameID):
     pbpDF['homeTeam'] = teamList[0]
     pbpDF['awayTeam'] = teamList[-1]
     
-    pageBox = requests.get('http://sim-football.com/indexes/NSFLS%s/Boxscores/%s.html'%(strnum,gameID),headers=requestHead)
+    pageBox = requests.get('%s/Boxscores/%s.html'%(url,gameID),headers=requestHead)
     soupBox = BeautifulSoup(pageBox.content.decode('ISO-8859-1'),'lxml')
     tableBox = soupBox.find_all('table',class_='Grid')[0]
     
