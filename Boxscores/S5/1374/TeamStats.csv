@@ -1,0 +1,19 @@
+,Stat,COL,AZ
+1,First Downs,9,15
+2,3rd Down Efficiency,0.1875,0.2727272727272727
+3,4rd Down Efficiency,0.3333333333333333,0
+4,Total Yards,215,445
+5,Passing,80,375
+0,Completions,12,25
+1,Attempts,23,37
+7,Yards per Pass,3.5,10.1
+8,Rushing,135,70
+9,Rushing Attempts,38,24
+10,Yards per Rush,3.6,2.9
+2,Penalties,4,8
+3,Penalty Yards,35,74
+12,Turnovers,3,0
+4,Fumbles,0,1
+5,Fumbles Lost,0,0
+14,Had Intercepted,3,0
+15,Time of Possession,29:56,30:04

@@ -1,0 +1,21 @@
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
+"Guard, L.",COL,1,5,3,0
+"Tackle, R.",COL,1,10,3,0
+"King, A.",COL,1,5,1,0
+"Parker, P.",COL,1,5,0,0
+"Centre, S.",COL,0,0,4,0
+"Guard, R.",COL,0,0,4,0
+"Tackle, L.",COL,0,0,3,0
+"Owens, A.",COL,0,0,1,1
+"Vincent, M.",COL,0,0,1,0
+"Hank, F.",PHI,2,10,1,1
+"Arthur, C.",PHI,1,10,1,0
+"Dotson, F.",PHI,1,4,1,0
+"Dropson, J.",PHI,1,5,0,0
+"Emoji, E.",PHI,1,5,0,0
+"Falconi, A.",PHI,1,5,0,0
+"McGwire, A.",PHI,1,13,0,0
+"Varga, N.",PHI,1,5,0,0
+"Hayes, R.",PHI,0,0,7,0
+"Fillmore, M.",PHI,0,0,2,0
+"Van Buren, M.",PHI,0,0,2,0

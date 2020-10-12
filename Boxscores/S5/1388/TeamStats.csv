@@ -1,0 +1,19 @@
+,Stat,LV,AZ
+1,First Downs,15,15
+2,3rd Down Efficiency,0.29411764705882354,0.42857142857142855
+3,4rd Down Efficiency,0.3333333333333333,0
+4,Total Yards,378,524
+5,Passing,313,457
+0,Completions,28,23
+1,Attempts,40,35
+7,Yards per Pass,7.8,13.1
+8,Rushing,65,67
+9,Rushing Attempts,27,20
+10,Yards per Rush,2.4,3.4
+2,Penalties,5,1
+3,Penalty Yards,35,5
+12,Turnovers,0,3
+4,Fumbles,0,1
+5,Fumbles Lost,0,1
+14,Had Intercepted,0,2
+15,Time of Possession,30:27,29:33

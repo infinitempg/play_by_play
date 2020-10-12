@@ -1,0 +1,19 @@
+,Stat,COL,AUS
+1,First Downs,11,14
+2,3rd Down Efficiency,0.2,0.3333333333333333
+3,4rd Down Efficiency,0,0.5
+4,Total Yards,378,435
+5,Passing,185,355
+0,Completions,15,21
+1,Attempts,28,46
+7,Yards per Pass,6.6,7.7
+8,Rushing,193,80
+9,Rushing Attempts,32,23
+10,Yards per Rush,6.0,3.5
+2,Penalties,4,3
+3,Penalty Yards,40,31
+12,Turnovers,0,1
+4,Fumbles,0,1
+5,Fumbles Lost,0,0
+14,Had Intercepted,0,1
+15,Time of Possession,30:22,29:38
