@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",PHI,8,136,17,37,1
-"Garden, J.",PHI,6,139,23.2,63,2
-"North, F.",PHI,3,115,38.3,59,0
-"Ross, J.",PHI,1,8,8,8,0
-"Kroetch, D.",PHI,1,7,7,7,0
-"Milan, C.",PHI,1,4,4,4,0
-"Browning, B.",AZ,7,101,14.4,34,1
-"Law, C.",AZ,6,38,6.3,8,0
-"Chess, C.",AZ,5,70,14,22,1
-"West, D.",AZ,3,38,12.7,27,0
-"Zhang, S.",AZ,2,42,21,28,0
-"Wright, O.",AZ,2,17,8.5,11,0
-"Mackworthy, R.",AZ,2,10,5,7,0
-"Davis, A.",AZ,1,39,39,39,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",PHI,8,136,17,37,1,5,5
+"Garden, J.",PHI,6,139,23.2,63,2,5,5
+"North, F.",PHI,3,115,38.3,59,0,5,5
+"Ross, J.",PHI,1,8,8,8,0,5,5
+"Kroetch, D.",PHI,1,7,7,7,0,5,5
+"Milan, C.",PHI,1,4,4,4,0,5,5
+"Browning, B.",AZ,7,101,14.4,34,1,5,5
+"Law, C.",AZ,6,38,6.3,8,0,5,5
+"Chess, C.",AZ,5,70,14,22,1,5,5
+"West, D.",AZ,3,38,12.7,27,0,5,5
+"Zhang, S.",AZ,2,42,21,28,0,5,5
+"Wright, O.",AZ,2,17,8.5,11,0,5,5
+"Mackworthy, R.",AZ,2,10,5,7,0,5,5
+"Davis, A.",AZ,1,39,39,39,0,5,5

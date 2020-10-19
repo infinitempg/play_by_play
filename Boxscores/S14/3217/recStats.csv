@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crindy, B.",COL,7,96,13.7,27,1
-"Squanch, V.",COL,6,126,21,42,1
-"Miller, H.",COL,5,106,21.2,56,0
-"Chipmunk, A.",COL,2,35,17.5,30,0
-"Cansino, D.",COL,2,14,7,10,0
-"Bishop, J.",COL,1,37,37,37,0
-"Grau, M.",COL,1,2,2,2,0
-"L'Alto, V.",BAL,7,85,12.1,21,1
-"Valentine, V.",BAL,5,101,20.2,38,1
-"Nagasawa, Y.",BAL,5,54,10.8,20,0
-"Brown, M.",BAL,4,24,6,8,0
-"Maddox, E.",BAL,2,25,12.5,17,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crindy, B.",COL,7,96,13.7,27,1,4,14
+"Squanch, V.",COL,6,126,21,42,1,4,14
+"Miller, H.",COL,5,106,21.2,56,0,4,14
+"Chipmunk, A.",COL,2,35,17.5,30,0,4,14
+"Cansino, D.",COL,2,14,7,10,0,4,14
+"Bishop, J.",COL,1,37,37,37,0,4,14
+"Grau, M.",COL,1,2,2,2,0,4,14
+"L'Alto, V.",BAL,7,85,12.1,21,1,4,14
+"Valentine, V.",BAL,5,101,20.2,38,1,4,14
+"Nagasawa, Y.",BAL,5,54,10.8,20,0,4,14
+"Brown, M.",BAL,4,24,6,8,0,4,14
+"Maddox, E.",BAL,2,25,12.5,17,0,4,14

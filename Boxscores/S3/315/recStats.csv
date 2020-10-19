@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Stormblessed, N.",BAL,5,85,17,31,1
-"Willie, T.",BAL,4,63,15.8,20,0
-"Christmas, C.",BAL,4,34,8.5,15,1
-"Vincent, M.",BAL,4,27,6.8,12,0
-"Sanderson, J.",BAL,2,12,6,9,0
-"Farlane, D.",BAL,1,6,6,6,0
-"West, D.",COL,4,49,12.2,25,0
-"Hendrix, K.",COL,4,37,9.2,13,0
-"Young, J.",COL,2,6,3,3,0
-"Joyce, S.",COL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Stormblessed, N.",BAL,5,85,17,31,1,10,3
+"Willie, T.",BAL,4,63,15.8,20,0,10,3
+"Christmas, C.",BAL,4,34,8.5,15,1,10,3
+"Vincent, M.",BAL,4,27,6.8,12,0,10,3
+"Sanderson, J.",BAL,2,12,6,9,0,10,3
+"Farlane, D.",BAL,1,6,6,6,0,10,3
+"West, D.",COL,4,49,12.2,25,0,10,3
+"Hendrix, K.",COL,4,37,9.2,13,0,10,3
+"Young, J.",COL,2,6,3,3,0,10,3
+"Joyce, S.",COL,1,5,5,5,0,10,3

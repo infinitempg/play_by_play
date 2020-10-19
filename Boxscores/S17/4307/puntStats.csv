@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Jones II, J.",COL,3,131,43.7,57,1
-"Frost, A.",NO,5,259,51.8,68,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Jones II, J.",COL,3,131,43.7,57,1,4,17
+"Frost, A.",NO,5,259,51.8,68,0,4,17

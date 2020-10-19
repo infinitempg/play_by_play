@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wright, O.",PHI,21,57,2.7,8,0
-"Christ, J.",PHI,1,-2,-2,0,0
-"Newman, M.",PHI,1,0,0,0,0
-"Mackworthy, R.",ARI,22,75,3.4,11,1
-"Tuck, J.",ARI,3,14,4.7,6,0
-"MacManus, C.",ARI,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wright, O.",PHI,21,57,2.7,8,0,14,2
+"Christ, J.",PHI,1,-2,-2,0,0,14,2
+"Newman, M.",PHI,1,0,0,0,0,14,2
+"Mackworthy, R.",ARI,22,75,3.4,11,1,14,2
+"Tuck, J.",ARI,3,14,4.7,6,0,14,2
+"MacManus, C.",ARI,1,1,1,1,0,14,2

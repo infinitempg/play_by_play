@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Harrison, H.",OCO,1,5,1,0
-"Reed, A.",OCO,1,5,1,0
-"Lazer-Eyes, G.",OCO,1,15,0,0
-"Pak, Y.",OCO,0,0,4,0
-"Wokkenfuss, G.",OCO,0,0,2,0
-"Iridian, G.",OCO,0,0,1,0
-"Johns, A.",OCO,0,0,1,0
-"Blocksdale Jr., A.",PHI,1,5,2,0
-"Harding, J.",PHI,1,15,0,0
-"Howyanow, W.",PHI,1,5,0,0
-"McMorris, J.",PHI,1,4,0,0
-"Vuxta, R.",PHI,1,5,0,0
-"Tyler, J.",PHI,0,0,7,0
-"Van Buren, M.",PHI,0,0,4,0
-"Arthur, C.",PHI,0,0,3,0
-"Hayes, R.",PHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Harrison, H.",OCO,1,5,1,0,10,20
+"Reed, A.",OCO,1,5,1,0,10,20
+"Lazer-Eyes, G.",OCO,1,15,0,0,10,20
+"Pak, Y.",OCO,0,0,4,0,10,20
+"Wokkenfuss, G.",OCO,0,0,2,0,10,20
+"Iridian, G.",OCO,0,0,1,0,10,20
+"Johns, A.",OCO,0,0,1,0,10,20
+"Blocksdale Jr., A.",PHI,1,5,2,0,10,20
+"Harding, J.",PHI,1,15,0,0,10,20
+"Howyanow, W.",PHI,1,5,0,0,10,20
+"McMorris, J.",PHI,1,4,0,0,10,20
+"Vuxta, R.",PHI,1,5,0,0,10,20
+"Tyler, J.",PHI,0,0,7,0,10,20
+"Van Buren, M.",PHI,0,0,4,0,10,20
+"Arthur, C.",PHI,0,0,3,0,10,20
+"Hayes, R.",PHI,0,0,2,0,10,20

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Rector, D.",NO,0,0,27,0,17,0,0,2
-"Blaylock, M.",NO,4,129,0,46,0,0,0,0
-"Hanyadi, M.",YKW,3,159,38,98,14,0,0,5
-"Sakura, K.",YKW,2,62,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Rector, D.",NO,0,0,27,0,17,0,0,2,4,25
+"Blaylock, M.",NO,4,129,0,46,0,0,0,0,4,25
+"Sakura, K.",YKW,2,62,0,33,0,0,0,0,4,25
+"Hanyadi, M.",YKW,3,159,38,98,14,0,0,5,4,25

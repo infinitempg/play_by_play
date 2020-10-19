@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Browning, B.",BAL,5,104,20.8,33,0
-"L'Alto, V.",BAL,5,51,10.2,22,0
-"Willie, T.",BAL,4,54,13.5,18,0
-"Taylor, O.",BAL,4,29,7.2,15,0
-"LeClair, A.",BAL,3,56,18.7,28,0
-"Nuck, B.",BAL,3,33,11,23,0
-"Harris Jr., F.",YKW,6,49,8.2,16,0
-"Kennedy, E.",YKW,3,67,22.3,34,1
-"McPoyal, G.",YKW,2,22,11,12,0
-"Cook, B.",YKW,2,16,8,10,1
-"Gore, B.",YKW,1,8,8,8,0
-"Rainey, R.",YKW,1,4,4,4,0
-"Milan, C.",YKW,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Browning, B.",BAL,5,104,20.8,33,0,1,9
+"L'Alto, V.",BAL,5,51,10.2,22,0,1,9
+"Willie, T.",BAL,4,54,13.5,18,0,1,9
+"Taylor, O.",BAL,4,29,7.2,15,0,1,9
+"LeClair, A.",BAL,3,56,18.7,28,0,1,9
+"Nuck, B.",BAL,3,33,11,23,0,1,9
+"Harris Jr., F.",YKW,6,49,8.2,16,0,1,9
+"Kennedy, E.",YKW,3,67,22.3,34,1,1,9
+"McPoyal, G.",YKW,2,22,11,12,0,1,9
+"Cook, B.",YKW,2,16,8,10,1,1,9
+"Gore, B.",YKW,1,8,8,8,0,1,9
+"Rainey, R.",YKW,1,4,4,4,0,1,9
+"Milan, C.",YKW,1,1,1,1,0,1,9

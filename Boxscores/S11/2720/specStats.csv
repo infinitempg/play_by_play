@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,5,120,35,44,19,0,0,2
-"Pennington, T.",YKW,3,86,0,32,0,0,0,0
-"Aaron, D.",COL,2,53,0,38,0,0,0,0
-"Miller, H.",COL,1,46,18,46,20,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,5,120,35,44,19,0,0,2,13,11
+"Pennington, T.",YKW,3,86,0,32,0,0,0,0,13,11
+"Aaron, D.",COL,2,53,0,38,0,0,0,0,13,11
+"Miller, H.",COL,1,46,18,46,20,0,0,2,13,11

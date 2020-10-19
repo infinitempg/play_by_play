@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Storm, B.",NO,8,82,10.2,24,0
-"DiMirio, P.",NO,8,71,8.9,19,0
-"Fyodorovich, V.",NO,6,137,22.8,46,2
-"Halvorsen, T.",NO,6,65,10.8,18,0
-"Gore, B.",NO,6,25,4.2,7,0
-"von Matt, J.",PHI,5,62,12.4,35,1
-"Hasselhoff, F.",PHI,4,54,13.5,20,0
-"Bush, C.",PHI,3,66,22,46,0
-"Brown, M.",PHI,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Storm, B.",NO,8,82,10.2,24,0,10,12
+"DiMirio, P.",NO,8,71,8.9,19,0,10,12
+"Fyodorovich, V.",NO,6,137,22.8,46,2,10,12
+"Halvorsen, T.",NO,6,65,10.8,18,0,10,12
+"Gore, B.",NO,6,25,4.2,7,0,10,12
+"von Matt, J.",PHI,5,62,12.4,35,1,10,12
+"Hasselhoff, F.",PHI,4,54,13.5,20,0,10,12
+"Bush, C.",PHI,3,66,22,46,0,10,12
+"Brown, M.",PHI,1,1,1,1,0,10,12

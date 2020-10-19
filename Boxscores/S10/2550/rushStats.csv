@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,28,143,5.1,18,2
-"Blocksdale, A.",BAL,1,10,10,10,0
-"Rainey, R.",YKW,15,52,3.5,13,1
-"Gore, B.",YKW,4,27,6.8,14,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,28,143,5.1,18,2,8,10
+"Blocksdale, A.",BAL,1,10,10,10,0,8,10
+"Rainey, R.",YKW,15,52,3.5,13,1,8,10
+"Gore, B.",YKW,4,27,6.8,14,0,8,10

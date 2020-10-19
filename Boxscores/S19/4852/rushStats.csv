@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ruff, R.",AZ,23,121,5.3,11,0
-"Allan, C.",AZ,5,33,6.6,11,1
-"Kwemen, K.",AZ,1,0,0,0,0
-"Reese, A.",AZ,1,11,11,11,0
-"Danielsson, A.",CHI,6,33,5.5,11,0
-"Utler, J.",CHI,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ruff, R.",AZ,23,121,5.3,11,0,10,19
+"Allan, C.",AZ,5,33,6.6,11,1,10,19
+"Kwemen, K.",AZ,1,0,0,0,0,10,19
+"Reese, A.",AZ,1,11,11,11,0,10,19
+"Danielsson, A.",CHI,6,33,5.5,11,0,10,19
+"Utler, J.",CHI,1,0,0,0,0,10,19

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Reed, A.",OCO,1,40,0,40,0,0,0,0
-"Schneider, D.",OCO,5,135,89,42,76,0,0,3
-"Gump, F.",NO,1,10,22,10,18,0,0,3
-"Fyodorovich, V.",NO,4,68,0,32,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Reed, A.",OCO,1,40,0,40,0,0,0,0,11,17
+"Schneider, D.",OCO,5,135,89,42,76,0,0,3,11,17
+"Gump, F.",NO,1,10,22,10,18,0,0,3,11,17
+"Fyodorovich, V.",NO,4,68,0,32,0,0,0,0,11,17

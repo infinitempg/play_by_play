@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,4,66,0,35,0,0,0,0
-"Oles, K.",SJS,1,40,26,40,16,0,0,3
-"Aaron, D.",COL,4,61,0,39,0,0,0,0
-"Miller, H.",COL,1,43,8,43,8,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,4,66,0,35,0,0,0,0,10,11
+"Oles, K.",SJS,1,40,26,40,16,0,0,3,10,11
+"Aaron, D.",COL,4,61,0,39,0,0,0,0,10,11
+"Miller, H.",COL,1,43,8,43,8,0,0,1,10,11

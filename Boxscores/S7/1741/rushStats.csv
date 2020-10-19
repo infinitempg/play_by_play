@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kroetch, D.",PHI,23,100,4.3,13,0
-"Bush, C.",PHI,5,15,3,9,0
-"Taylor, O.",BAL,20,89,4.4,16,0
-"Blocksdale, A.",BAL,2,11,5.5,13,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kroetch, D.",PHI,23,100,4.3,13,0,4,7
+"Bush, C.",PHI,5,15,3,9,0,4,7
+"Taylor, O.",BAL,20,89,4.4,16,0,4,7
+"Blocksdale, A.",BAL,2,11,5.5,13,0,4,7

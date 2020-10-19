@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Maximus III, B.",NO,"[19, 35]",207,10.9,3,0,100.5
-"Akselsen, M.",YKW,"[21, 34]",189,9,1,1,74.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Maximus III, B.",NO,207,10.9,3,0,100.5,19,21,10,9
+"Akselsen, M.",YKW,189,9,1,1,74.3,19,21,10,9

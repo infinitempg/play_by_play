@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle Jr., D.",AUS,4,104,26,39,14,0,0,2
-"Owens, A.",AUS,2,60,0,38,0,0,0,0
-"Maddox, E.",BAL,3,90,0,35,0,0,0,0
-"Sunnycursed, N.",BAL,4,44,0,14,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle Jr., D.",AUS,4,104,26,39,14,0,0,2,5,18
+"Owens, A.",AUS,2,60,0,38,0,0,0,0,5,18
+"Maddox, E.",BAL,3,90,0,35,0,0,0,0,5,18
+"Sunnycursed, N.",BAL,4,44,0,14,0,0,0,0,5,18

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Williams, D.",BAL,15,36,2.4,9,0
-"Fukushu, M.",BAL,13,67,5.2,15,0
-"Chan, R.",SAR,13,49,3.8,10,0
-"Banks II, D.",SAR,12,69,5.8,23,1
-"Back, R.",SAR,6,31,5.2,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Williams, D.",BAL,15,36,2.4,9,0,12,24
+"Fukushu, M.",BAL,13,67,5.2,15,0,12,24
+"Chan, R.",SAR,13,49,3.8,10,0,12,24
+"Banks II, D.",SAR,12,69,5.8,23,1,12,24
+"Back, R.",SAR,6,31,5.2,11,0,12,24

@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Kamaka, E.",PHI,1,5,0,0
-"Hayes, R.",PHI,0,0,6,0
-"Fillmore, M.",PHI,0,0,5,0
-"Arthur, C.",PHI,0,0,4,0
-"Van Buren, M.",PHI,0,0,4,0
-"Hondo, A.",PHI,0,0,3,0
-"O'Sullivan, S.",PHI,0,0,3,0
-"Tyler, J.",PHI,0,0,1,0
-"Guard, R.",COL,2,20,4,0
-"Grau, M.",COL,2,11,2,0
-"Cansino, D.",COL,1,5,1,0
-"Tackle, L.",COL,0,0,7,0
-"Centre, S.",COL,0,0,2,0
-"Guard, L.",COL,0,0,1,0
-"Tackle, R.",COL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Kamaka, E.",PHI,1,5,0,0,12,11
+"Hayes, R.",PHI,0,0,6,0,12,11
+"Fillmore, M.",PHI,0,0,5,0,12,11
+"Arthur, C.",PHI,0,0,4,0,12,11
+"Van Buren, M.",PHI,0,0,4,0,12,11
+"Hondo, A.",PHI,0,0,3,0,12,11
+"O'Sullivan, S.",PHI,0,0,3,0,12,11
+"Tyler, J.",PHI,0,0,1,0,12,11
+"Guard, R.",COL,2,20,4,0,12,11
+"Grau, M.",COL,2,11,2,0,12,11
+"Cansino, D.",COL,1,5,1,0,12,11
+"Tackle, L.",COL,0,0,7,0,12,11
+"Centre, S.",COL,0,0,2,0,12,11
+"Guard, L.",COL,0,0,1,0,12,11
+"Tackle, R.",COL,0,0,1,0,12,11

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Sauce, E.",BAL,5,70,14,32,0
-"Landers, B.",BAL,5,66,13.2,26,1
-"Maddox, E.",BAL,3,62,20.7,45,0
-"Quinn, A.",BAL,3,43,14.3,33,0
-"Bigby, L.",BAL,2,28,14,20,1
-"Williams, D.",BAL,1,7,7,7,0
-"Jackson, A.",SJS,6,137,22.8,31,0
-"Olsen, C.",SJS,3,38,12.7,18,0
-"Thomas-Fox, D.",SJS,2,17,8.5,9,0
-"Bot, B.",SJS,2,5,2.5,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Sauce, E.",BAL,5,70,14,32,0,9,20
+"Landers, B.",BAL,5,66,13.2,26,1,9,20
+"Maddox, E.",BAL,3,62,20.7,45,0,9,20
+"Quinn, A.",BAL,3,43,14.3,33,0,9,20
+"Bigby, L.",BAL,2,28,14,20,1,9,20
+"Williams, D.",BAL,1,7,7,7,0,9,20
+"Jackson, A.",SJS,6,137,22.8,31,0,9,20
+"Olsen, C.",SJS,3,38,12.7,18,0,9,20
+"Thomas-Fox, D.",SJS,2,17,8.5,9,0,9,20
+"Bot, B.",SJS,2,5,2.5,4,0,9,20

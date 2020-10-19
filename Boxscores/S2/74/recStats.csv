@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hendrix, K.",COL,5,97,19.4,44,2
-"Law, D.",COL,4,63,15.8,37,0
-"Tweed, B.",COL,4,44,11,23,0
-"Gucci, R.",COL,4,35,8.8,13,0
-"Ross, J.",COL,2,17,8.5,9,0
-"DiMirio, P.",PHI,9,102,11.3,31,0
-"Kroetch, D.",PHI,6,74,12.3,33,1
-"North, F.",PHI,5,103,20.6,41,0
-"Wright, O.",PHI,5,25,5,7,0
-"Mason, H.",PHI,3,22,7.3,15,0
-"Washington, W.",PHI,2,22,11,17,0
-"Jensen, R.",PHI,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hendrix, K.",COL,5,97,19.4,44,2,12,2
+"Law, D.",COL,4,63,15.8,37,0,12,2
+"Tweed, B.",COL,4,44,11,23,0,12,2
+"Gucci, R.",COL,4,35,8.8,13,0,12,2
+"Ross, J.",COL,2,17,8.5,9,0,12,2
+"DiMirio, P.",PHI,9,102,11.3,31,0,12,2
+"Kroetch, D.",PHI,6,74,12.3,33,1,12,2
+"North, F.",PHI,5,103,20.6,41,0,12,2
+"Wright, O.",PHI,5,25,5,7,0,12,2
+"Mason, H.",PHI,3,22,7.3,15,0,12,2
+"Washington, W.",PHI,2,22,11,17,0,12,2
+"Jensen, R.",PHI,1,5,5,5,0,12,2

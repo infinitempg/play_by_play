@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Oles, K.",SJS,5,89,17.8,37,1
-"Orosz, C.",SJS,5,62,12.4,36,0
-"Justice, T.",SJS,2,51,25.5,27,0
-"Flash, X.",SJS,2,33,16.5,23,2
-"Brannigan, Z.",SJS,1,8,8,8,0
-"Bot, B.",SJS,1,0,0,0,0
-"Fyodorovich, V.",NO,4,120,30,42,0
-"Swift, T.",NO,2,54,27,28,1
-"Francisco, S.",NO,2,14,7,8,0
-"Danielsson, A.",NO,1,6,6,6,0
-"Halvorsen, T.",NO,1,6,6,6,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Oles, K.",SJS,5,89,17.8,37,1,11,14
+"Orosz, C.",SJS,5,62,12.4,36,0,11,14
+"Justice, T.",SJS,2,51,25.5,27,0,11,14
+"Flash, X.",SJS,2,33,16.5,23,2,11,14
+"Brannigan, Z.",SJS,1,8,8,8,0,11,14
+"Bot, B.",SJS,1,0,0,0,0,11,14
+"Fyodorovich, V.",NO,4,120,30,42,0,11,14
+"Swift, T.",NO,2,54,27,28,1,11,14
+"Francisco, S.",NO,2,14,7,8,0,11,14
+"Danielsson, A.",NO,1,6,6,6,0,11,14
+"Halvorsen, T.",NO,1,6,6,6,1,11,14

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",SJS,20,97,4.8,14,0
-"Orosz, C.",SJS,11,57,5.2,13,0
-"Christ, J.",SJS,2,9,4.5,5,0
-"Summer, A.",BAL,15,50,3.3,7,1
-"Taylor, O.",BAL,6,33,5.5,9,0
-"Gambino, C.",BAL,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",SJS,20,97,4.8,14,0,6,12
+"Orosz, C.",SJS,11,57,5.2,13,0,6,12
+"Christ, J.",SJS,2,9,4.5,5,0,6,12
+"Summer, A.",BAL,15,50,3.3,7,1,6,12
+"Taylor, O.",BAL,6,33,5.5,9,0,6,12
+"Gambino, C.",BAL,1,5,5,5,0,6,12

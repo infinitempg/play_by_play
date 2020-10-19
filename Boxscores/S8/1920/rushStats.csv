@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kroetch, D.",COL,14,49,3.5,7,0
-"Grau, M.",COL,8,44,5.5,10,0
-"Joyce, S.",COL,2,8,4,8,0
-"Gore, B.",YKW,18,62,3.4,16,2
-"Rainey, R.",YKW,14,48,3.4,9,0
-"Akselsen, M.",YKW,2,-1,-0.5,0,0
-"Milan, C.",YKW,1,3,3,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kroetch, D.",COL,14,49,3.5,7,0,11,8
+"Grau, M.",COL,8,44,5.5,10,0,11,8
+"Joyce, S.",COL,2,8,4,8,0,11,8
+"Gore, B.",YKW,18,62,3.4,16,2,11,8
+"Rainey, R.",YKW,14,48,3.4,9,0,11,8
+"Akselsen, M.",YKW,2,-1,-0.5,0,0,11,8
+"Milan, C.",YKW,1,3,3,3,0,11,8

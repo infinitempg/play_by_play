@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"LeClair, A.",LV,3,69,0,39,0,0,0,0
-"Carter, P.",LV,0,0,23,0,16,0,0,3
-"Fulton, W.",LV,4,89,0,33,0,0,0,0
-"Lavelle, D.",YKW,2,29,7,22,7,0,0,3
-"Cook, B.",YKW,2,65,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"LeClair, A.",LV,3,69,0,39,0,0,0,0,3,4
+"Carter, P.",LV,0,0,23,0,16,0,0,3,3,4
+"Fulton, W.",LV,4,89,0,33,0,0,0,0,3,4
+"Lavelle, D.",YKW,2,29,7,22,7,0,0,3,3,4
+"Cook, B.",YKW,2,65,0,42,0,0,0,0,3,4

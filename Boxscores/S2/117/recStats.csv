@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"North, F.",PHI,6,91,15.2,25,0
-"DiMirio, P.",PHI,6,47,7.8,13,0
-"Mason, H.",PHI,4,19,4.8,8,0
-"Kroetch, D.",PHI,2,22,11,12,0
-"Washington, W.",PHI,1,8,8,8,0
-"Jensen, R.",PHI,1,7,7,7,0
-"Stormblessed, N.",LV,5,58,11.6,26,1
-"LeClair, A.",LV,4,74,18.5,26,0
-"Rocket, J.",LV,2,28,14,15,0
-"Tenzini, G.",LV,2,9,4.5,5,0
-"Larsendorf, R.",LV,1,8,8,8,0
-"Savea, A.",LV,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"North, F.",PHI,6,91,15.2,25,0,7,2
+"DiMirio, P.",PHI,6,47,7.8,13,0,7,2
+"Mason, H.",PHI,4,19,4.8,8,0,7,2
+"Kroetch, D.",PHI,2,22,11,12,0,7,2
+"Washington, W.",PHI,1,8,8,8,0,7,2
+"Jensen, R.",PHI,1,7,7,7,0,7,2
+"Stormblessed, N.",LV,5,58,11.6,26,1,7,2
+"LeClair, A.",LV,4,74,18.5,26,0,7,2
+"Rocket, J.",LV,2,28,14,15,0,7,2
+"Tenzini, G.",LV,2,9,4.5,5,0,7,2
+"Larsendorf, R.",LV,1,8,8,8,0,7,2
+"Savea, A.",LV,1,1,1,1,0,7,2

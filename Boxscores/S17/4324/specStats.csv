@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Sunnycursed, N.",OCO,3,60,0,29,0,0,0,1
-"Blaze, J.",OCO,3,42,0,24,0,0,0,0
-"Emoji, E.",PHI,0,0,13,0,13,0,0,1
-"von Matt, J.",PHI,2,65,0,37,0,0,0,0
-"Garnett, L.",PHI,2,45,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Sunnycursed, N.",OCO,3,60,0,29,0,0,0,1,8,17
+"Blaze, J.",OCO,3,42,0,24,0,0,0,0,8,17
+"Emoji, E.",PHI,0,0,13,0,13,0,0,1,8,17
+"von Matt, J.",PHI,2,65,0,37,0,0,0,0,8,17
+"Garnett, L.",PHI,2,45,0,33,0,0,0,0,8,17

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Summer, A.",YKW,7,89,12.7,38,2
-"Cook, B.",YKW,4,47,11.8,31,0
-"McPoyal, G.",YKW,4,23,5.8,10,0
-"Parker, J.",YKW,3,69,23,40,0
-"Harris Jr., F.",YKW,1,6,6,6,0
-"Aaron, D.",COL,8,97,12.1,31,1
-"Miller, H.",COL,6,109,18.2,43,1
-"Chipmunk, A.",COL,6,41,6.8,11,0
-"North, F.",COL,5,74,14.8,26,0
-"Grau, M.",COL,3,8,2.7,3,0
-"Cansino, D.",COL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Summer, A.",YKW,7,89,12.7,38,2,13,11
+"Cook, B.",YKW,4,47,11.8,31,0,13,11
+"McPoyal, G.",YKW,4,23,5.8,10,0,13,11
+"Parker, J.",YKW,3,69,23,40,0,13,11
+"Harris Jr., F.",YKW,1,6,6,6,0,13,11
+"Aaron, D.",COL,8,97,12.1,31,1,13,11
+"Miller, H.",COL,6,109,18.2,43,1,13,11
+"Chipmunk, A.",COL,6,41,6.8,11,0,13,11
+"North, F.",COL,5,74,14.8,26,0,13,11
+"Grau, M.",COL,3,8,2.7,3,0,13,11
+"Cansino, D.",COL,1,5,5,5,0,13,11

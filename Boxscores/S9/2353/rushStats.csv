@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,27,114,4.2,14,3
-"Blocksdale, A.",BAL,2,-4,-2,0,0
-"Nuck, B.",BAL,1,0,0,0,0
-"Mackworthy, R.",AZ,25,111,4.4,21,0
-"Fitzpatrick, K.",AZ,1,14,14,14,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,27,114,4.2,14,3,10,9
+"Blocksdale, A.",BAL,2,-4,-2,0,0,10,9
+"Nuck, B.",BAL,1,0,0,0,0,10,9
+"Mackworthy, R.",AZ,25,111,4.4,21,0,10,9
+"Fitzpatrick, K.",AZ,1,14,14,14,0,10,9

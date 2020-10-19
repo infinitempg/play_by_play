@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Toriki, M.",NO,23,101,4.4,13,0
-"Gump, F.",NO,18,77,4.3,15,0
-"Danielsson, A.",CHI,12,44,3.7,10,0
-"Utler, J.",CHI,5,14,2.8,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Toriki, M.",NO,23,101,4.4,13,0,10,20
+"Gump, F.",NO,18,77,4.3,15,0,10,20
+"Danielsson, A.",CHI,12,44,3.7,10,0,10,20
+"Utler, J.",CHI,5,14,2.8,7,0,10,20

@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, R.",YKW,7,66,9.4,20,0
-"Garden, J.",YKW,4,95,23.8,36,0
-"LeClair, A.",YKW,3,44,14.7,22,0
-"Larsendorf, R.",YKW,2,8,4,8,0
-"Stephen, W.",YKW,1,28,28,28,0
-"Bennett, A.",YKW,1,21,21,21,0
-"Nuck, B.",YKW,1,11,11,11,0
-"Tobin, T.",YKW,1,9,9,9,0
-"Stats, J.",YKW,1,1,1,1,1
-"Law, D.",COL,4,63,15.8,28,1
-"Shaloiko, J.",COL,3,49,16.3,23,0
-"Hendrix, K.",COL,3,43,14.3,25,0
-"Gucci, R.",COL,2,17,8.5,10,0
-"Hargrove, M.",COL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, R.",YKW,7,66,9.4,20,0,8,1
+"Garden, J.",YKW,4,95,23.8,36,0,8,1
+"LeClair, A.",YKW,3,44,14.7,22,0,8,1
+"Larsendorf, R.",YKW,2,8,4,8,0,8,1
+"Stephen, W.",YKW,1,28,28,28,0,8,1
+"Bennett, A.",YKW,1,21,21,21,0,8,1
+"Nuck, B.",YKW,1,11,11,11,0,8,1
+"Tobin, T.",YKW,1,9,9,9,0,8,1
+"Stats, J.",YKW,1,1,1,1,1,8,1
+"Law, D.",COL,4,63,15.8,28,1,8,1
+"Shaloiko, J.",COL,3,49,16.3,23,0,8,1
+"Hendrix, K.",COL,3,43,14.3,25,0,8,1
+"Gucci, R.",COL,2,17,8.5,10,0,8,1
+"Hargrove, M.",COL,1,5,5,5,0,8,1

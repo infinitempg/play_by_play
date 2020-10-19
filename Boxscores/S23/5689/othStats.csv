@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Arbage, G.",AZ,2,20,5,0
-"Unk, J.",AZ,1,13,2,0
-"Ryeu, S.",AZ,1,5,0,0
-"Buckley, B.",AZ,0,0,10,0
-"Yoda, B.",AZ,0,0,3,0
-"Evans, H.",AZ,0,0,2,0
-"Golladay, C.",AZ,0,0,2,0
-"Block, T.",AZ,0,0,1,0
-"Noble Jr., L.",HON,2,20,0,0
-"Alexander, W.",HON,1,5,0,0
-"Kearse, J.",HON,1,5,0,0
-"Moreno, V.",HON,1,10,0,0
-"Blake, D.",HON,0,0,6,1
-"Doo, S.",HON,0,0,6,0
-"Rogers, S.",HON,0,0,5,0
-"Dinkley, V.",HON,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Arbage, G.",AZ,2,20,5,0,16,23
+"Unk, J.",AZ,1,13,2,0,16,23
+"Ryeu, S.",AZ,1,5,0,0,16,23
+"Buckley, B.",AZ,0,0,10,0,16,23
+"Yoda, B.",AZ,0,0,3,0,16,23
+"Evans, H.",AZ,0,0,2,0,16,23
+"Golladay, C.",AZ,0,0,2,0,16,23
+"Block, T.",AZ,0,0,1,0,16,23
+"Noble Jr., L.",HON,2,20,0,0,16,23
+"Alexander, W.",HON,1,5,0,0,16,23
+"Kearse, J.",HON,1,5,0,0,16,23
+"Moreno, V.",HON,1,10,0,0,16,23
+"Blake, D.",HON,0,0,6,1,16,23
+"Doo, S.",HON,0,0,6,0,16,23
+"Rogers, S.",HON,0,0,5,0,16,23
+"Dinkley, V.",HON,0,0,3,0,16,23

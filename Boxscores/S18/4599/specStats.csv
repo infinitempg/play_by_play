@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Rice, J.",CHI,0,0,5,0,5,0,0,1
-"Brown, M.",CHI,1,32,0,32,0,0,0,0
-"Parker, J.",CHI,1,7,0,7,0,0,0,0
-"Lavelle Jr., D.",AUS,3,83,7,40,4,0,0,2
-"Owens, A.",AUS,5,118,0,37,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Rice, J.",CHI,0,0,5,0,5,0,0,1,9,18
+"Brown, M.",CHI,1,32,0,32,0,0,0,0,9,18
+"Parker, J.",CHI,1,7,0,7,0,0,0,0,9,18
+"Lavelle Jr., D.",AUS,3,83,7,40,4,0,0,2,9,18
+"Owens, A.",AUS,5,118,0,37,0,0,0,0,9,18

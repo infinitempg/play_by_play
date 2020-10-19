@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Crisco, A.",AUS,7,292,41.7,59,1
-"Louis, L.",PHI,7,326,46.6,60,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Crisco, A.",AUS,7,292,41.7,59,1,7,23
+"Louis, L.",PHI,7,326,46.6,60,1,7,23

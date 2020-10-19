@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Justice, T.",SJS,4,89,22.2,41,0
-"Oles, K.",SJS,3,70,23.3,40,0
-"Canton, J.",SJS,3,22,7.3,11,0
-"Flash, X.",SJS,2,63,31.5,35,1
-"Orosz, C.",SJS,2,20,10,12,0
-"Valentine, V.",BAL,6,117,19.5,32,1
-"Maddox, E.",BAL,4,68,17,42,0
-"Brown, M.",BAL,3,57,19,45,0
-"Squanch, V.",BAL,2,16,8,9,0
-"Harp, D.",BAL,1,17,17,17,0
-"Miller, H.",BAL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Justice, T.",SJS,4,89,22.2,41,0,12,14
+"Oles, K.",SJS,3,70,23.3,40,0,12,14
+"Canton, J.",SJS,3,22,7.3,11,0,12,14
+"Flash, X.",SJS,2,63,31.5,35,1,12,14
+"Orosz, C.",SJS,2,20,10,12,0,12,14
+"Valentine, V.",BAL,6,117,19.5,32,1,12,14
+"Maddox, E.",BAL,4,68,17,42,0,12,14
+"Brown, M.",BAL,3,57,19,45,0,12,14
+"Squanch, V.",BAL,2,16,8,9,0,12,14
+"Harp, D.",BAL,1,17,17,17,0,12,14
+"Miller, H.",BAL,1,8,8,8,0,12,14

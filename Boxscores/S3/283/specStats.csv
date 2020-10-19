@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,2,57,2,34,4,0,0,2
-"Phelps, R.",OCO,1,34,0,34,0,0,0,0
-"Hayden, A.",COL,4,94,0,35,0,0,0,0
-"Tweed, B.",COL,1,26,6,26,6,0,0,1
-"Law, D.",COL,2,27,0,18,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,2,57,2,34,4,0,0,2,2,3
+"Phelps, R.",OCO,1,34,0,34,0,0,0,0,2,3
+"Hayden, A.",COL,4,94,0,35,0,0,0,0,2,3
+"Tweed, B.",COL,1,26,6,26,6,0,0,1,2,3
+"Law, D.",COL,2,27,0,18,0,0,0,0,2,3

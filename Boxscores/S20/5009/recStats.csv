@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Olsen, C.",SJS,5,115,23,54,0
-"Jackson, A.",SJS,5,75,15,25,2
-"Thomas-Fox, D.",SJS,2,36,18,30,0
-"Bot, B.",SJS,1,1,1,1,0
-"Blaze, J.",OCO,4,63,15.8,39,0
-"Mongo, H.",OCO,3,38,12.7,26,1
-"Banks II, D.",OCO,2,53,26.5,43,1
-"Oles, K.",OCO,1,8,8,8,0
-"Reed, A.",OCO,1,8,8,8,0
-"Z, D.",OCO,1,8,8,8,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Olsen, C.",SJS,5,115,23,54,0,8,20
+"Jackson, A.",SJS,5,75,15,25,2,8,20
+"Thomas-Fox, D.",SJS,2,36,18,30,0,8,20
+"Bot, B.",SJS,1,1,1,1,0,8,20
+"Blaze, J.",OCO,4,63,15.8,39,0,8,20
+"Mongo, H.",OCO,3,38,12.7,26,1,8,20
+"Banks II, D.",OCO,2,53,26.5,43,1,8,20
+"Oles, K.",OCO,1,8,8,8,0,8,20
+"Reed, A.",OCO,1,8,8,8,0,8,20
+"Z, D.",OCO,1,8,8,8,1,8,20

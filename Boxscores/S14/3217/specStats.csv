@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Squanch, V.",COL,3,85,0,41,0,0,0,0
-"Grau, M.",COL,5,134,0,73,0,0,0,0
-"Valentine, V.",BAL,3,91,0,46,0,0,0,0
-"Bly Jr., A.",BAL,4,91,9,31,9,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Squanch, V.",COL,3,85,0,41,0,0,0,0,4,14
+"Grau, M.",COL,5,134,0,73,0,0,0,0,4,14
+"Valentine, V.",BAL,3,91,0,46,0,0,0,0,4,14
+"Bly Jr., A.",BAL,4,91,9,31,9,0,0,1,4,14

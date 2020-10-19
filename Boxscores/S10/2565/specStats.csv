@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Barnes, B.",AZ,3,85,0,40,0,0,0,0
-"Hayden, A.",PHI,2,127,0,92,0,1,0,0
-"Felix, L.",PHI,2,59,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Barnes, B.",AZ,3,85,0,40,0,0,0,0,11,10
+"Hayden, A.",PHI,2,127,0,92,0,1,0,0,11,10
+"Felix, L.",PHI,2,59,0,31,0,0,0,0,11,10

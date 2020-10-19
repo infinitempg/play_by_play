@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Flash, X.",SJS,1,14,0,14,0,0,0,0
-"Oles, K.",SJS,2,32,0,20,0,0,0,0
-"Parker, J.",YKW,2,24,0,22,0,0,0,0
-"Applehort, R.",YKW,1,13,0,13,0,0,0,0
-"Marshall, M.",YKW,0,0,1,0,2,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Flash, X.",SJS,1,14,0,14,0,0,0,0,11,15
+"Oles, K.",SJS,2,32,0,20,0,0,0,0,11,15
+"Parker, J.",YKW,2,24,0,22,0,0,0,0,11,15
+"Applehort, R.",YKW,1,13,0,13,0,0,0,0,11,15
+"Marshall, M.",YKW,0,0,1,0,2,0,0,2,11,15

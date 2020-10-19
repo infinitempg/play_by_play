@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",COL,4,88,0,29,0,0,0,0
-"Tweed, B.",COL,4,137,6,43,17,0,0,4
-"Westfield, B.",OCO,3,130,0,108,0,1,0,0
-"Phelps, R.",OCO,2,71,0,37,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",COL,4,88,0,29,0,0,0,0,6,4
+"Tweed, B.",COL,4,137,6,43,17,0,0,4,6,4
+"Westfield, B.",OCO,3,130,0,108,0,1,0,0,6,4
+"Phelps, R.",OCO,2,71,0,37,0,0,0,0,6,4

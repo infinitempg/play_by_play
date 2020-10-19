@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Mongo, H.",OCO,6,44,7.3,11,1
-"Trunks, F.",OCO,5,99,19.8,49,1
-"Phillips, J.",OCO,5,44,8.8,14,2
-"George, D.",OCO,2,9,4.5,5,0
-"Z, D.",OCO,1,7,7,7,0
-"Clay, J.",HON,5,31,6.2,10,0
-"Podolak, J.",HON,4,36,9,11,0
-"Kane-Maika'i, K.",HON,2,29,14.5,25,0
-"Ruff, R.",HON,2,10,5,5,0
-"Z, D.",HON,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Mongo, H.",OCO,6,44,7.3,11,1,2,23
+"Trunks, F.",OCO,5,99,19.8,49,1,2,23
+"Phillips, J.",OCO,5,44,8.8,14,2,2,23
+"George, D.",OCO,2,9,4.5,5,0,2,23
+"Z, D.",OCO,1,7,7,7,0,2,23
+"Clay, J.",HON,5,31,6.2,10,0,2,23
+"Podolak, J.",HON,4,36,9,11,0,2,23
+"Kane-Maika'i, K.",HON,2,29,14.5,25,0,2,23
+"Ruff, R.",HON,2,10,5,5,0,2,23
+"Z, D.",HON,1,7,7,7,0,2,23

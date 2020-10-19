@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Phoenix, B.",PHI,"[17, 38]",192,11.3,1,1,58.2
-"Cue, J.",AZ,"[20, 39]",265,13.2,1,0,81.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Phoenix, B.",PHI,192,11.3,1,1,58.2,17,20,9,23
+"Cue, J.",AZ,265,13.2,1,0,81.7,17,20,9,23

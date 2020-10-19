@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"O'Leary, S.",CHI,2,23,0,14,0,0,0,0
-"Firestorm-Fjord, O.",CHI,2,64,37,34,14,0,0,5
-"D'Attoria V, R.",PHI,4,47,-6,18,0,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"O'Leary, S.",CHI,2,23,0,14,0,0,0,0,9,22
+"Firestorm-Fjord, O.",CHI,2,64,37,34,14,0,0,5,9,22
+"D'Attoria V, R.",PHI,4,47,-6,18,0,0,0,2,9,22

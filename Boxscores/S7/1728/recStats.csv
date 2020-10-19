@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Aaron, D.",COL,5,69,13.8,29,1
-"Miller, H.",COL,3,40,13.3,19,0
-"Crush, C.",COL,3,22,7.3,12,0
-"Wheat, B.",COL,2,29,14.5,22,0
-"Joyce, S.",COL,1,6,6,6,0
-"Kennedy, E.",YKW,6,113,18.8,38,0
-"Cook, B.",YKW,6,72,12,25,0
-"Harris Jr., F.",YKW,6,54,9,16,1
-"McPoyal, G.",YKW,4,63,15.8,28,0
-"Rocket, J.",YKW,3,56,18.7,23,0
-"Rainey, R.",YKW,1,21,21,21,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Aaron, D.",COL,5,69,13.8,29,1,1,7
+"Miller, H.",COL,3,40,13.3,19,0,1,7
+"Crush, C.",COL,3,22,7.3,12,0,1,7
+"Wheat, B.",COL,2,29,14.5,22,0,1,7
+"Joyce, S.",COL,1,6,6,6,0,1,7
+"Kennedy, E.",YKW,6,113,18.8,38,0,1,7
+"Cook, B.",YKW,6,72,12,25,0,1,7
+"Harris Jr., F.",YKW,6,54,9,16,1,1,7
+"McPoyal, G.",YKW,4,63,15.8,28,0,1,7
+"Rocket, J.",YKW,3,56,18.7,23,0,1,7
+"Rainey, R.",YKW,1,21,21,21,0,1,7

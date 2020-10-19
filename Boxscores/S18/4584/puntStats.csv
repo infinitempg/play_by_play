@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Fulture, K.",CHI,11,552,50.2,66,1
-"Harris Jr, S.",COL,10,419,41.9,61,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Fulture, K.",CHI,11,552,50.2,66,1,6,18
+"Harris Jr, S.",COL,10,419,41.9,61,0,6,18

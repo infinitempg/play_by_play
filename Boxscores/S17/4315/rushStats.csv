@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,21,80,3.8,12,0
-"Carrasco, T.",COL,4,24,6,13,0
-"McDummy, W.",COL,2,0,0,0,0
-"Jimbo, D.",BAL,16,81,5.1,14,1
-"Trevor, C.",BAL,12,54,4.5,11,0
-"Havran, C.",BAL,2,15,7.5,17,0
-"Pancakes, P.",BAL,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,21,80,3.8,12,0,6,17
+"Carrasco, T.",COL,4,24,6,13,0,6,17
+"McDummy, W.",COL,2,0,0,0,0,6,17
+"Jimbo, D.",BAL,16,81,5.1,14,1,6,17
+"Trevor, C.",BAL,12,54,4.5,11,0,6,17
+"Havran, C.",BAL,2,15,7.5,17,0,6,17
+"Pancakes, P.",BAL,1,1,1,1,0,6,17

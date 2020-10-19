@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jimbo, D.",BAL,24,160,6.7,14,0
-"Trevor, C.",BAL,13,60,4.6,11,0
-"Taffy, T.",COL,24,77,3.2,13,1
-"Carrasco, T.",COL,2,2,1,2,0
-"Crindy, B.",COL,2,1,0.5,1,0
-"McDummy, W.",COL,2,0,0,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jimbo, D.",BAL,24,160,6.7,14,0,3,17
+"Trevor, C.",BAL,13,60,4.6,11,0,3,17
+"Taffy, T.",COL,24,77,3.2,13,1,3,17
+"Carrasco, T.",COL,2,2,1,2,0,3,17
+"Crindy, B.",COL,2,1,0.5,1,0,3,17
+"McDummy, W.",COL,2,0,0,1,0,3,17

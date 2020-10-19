@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bottles, B.",SJS,7,37,5.3,8,1
-"Jackson, M.",SJS,6,76,12.7,17,0
-"Smallwood, D.",SJS,6,46,7.7,21,1
-"Weston, S.",SJS,5,109,21.8,47,0
-"Durden, J.",SJS,2,1,0.5,3,0
-"North, F.",PHI,8,104,13,31,1
-"DiMirio, P.",PHI,7,68,9.7,25,0
-"Browning, B.",PHI,5,31,6.2,10,0
-"Kroetch, D.",PHI,3,63,21,31,0
-"Wright, O.",PHI,2,21,10.5,14,0
-"O'Connell, K.",PHI,2,12,6,12,0
-"Rocket, J.",PHI,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bottles, B.",SJS,7,37,5.3,8,1,3,3
+"Jackson, M.",SJS,6,76,12.7,17,0,3,3
+"Smallwood, D.",SJS,6,46,7.7,21,1,3,3
+"Weston, S.",SJS,5,109,21.8,47,0,3,3
+"Durden, J.",SJS,2,1,0.5,3,0,3,3
+"North, F.",PHI,8,104,13,31,1,3,3
+"DiMirio, P.",PHI,7,68,9.7,25,0,3,3
+"Browning, B.",PHI,5,31,6.2,10,0,3,3
+"Kroetch, D.",PHI,3,63,21,31,0,3,3
+"Wright, O.",PHI,2,21,10.5,14,0,3,3
+"O'Connell, K.",PHI,2,12,6,12,0,3,3
+"Rocket, J.",PHI,1,7,7,7,0,3,3

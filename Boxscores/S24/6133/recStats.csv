@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McCormick, A.",NO,3,21,7,12,0
-"Barker, E.",NO,2,45,22.5,26,1
-"Snyder, S.",NO,2,20,10,16,0
-"Bodenhamer, B.",NO,1,10,10,10,0
-"Gump, F.",NO,1,7,7,7,0
-"Wolfcastle, R.",NO,1,4,4,4,0
-"Jackson, A.",YKW,4,60,15,30,0
-"Rechs, Z.",YKW,4,45,11.2,18,1
-"Sakura, K.",YKW,3,36,12,17,0
-"Skyline, A.",YKW,3,22,7.3,11,0
-"Cash Jr., S.",YKW,2,54,27,40,0
-"Lee, M.",YKW,2,39,19.5,34,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McCormick, A.",NO,3,21,7,12,0,9,24
+"Barker, E.",NO,2,45,22.5,26,1,9,24
+"Snyder, S.",NO,2,20,10,16,0,9,24
+"Bodenhamer, B.",NO,1,10,10,10,0,9,24
+"Gump, F.",NO,1,7,7,7,0,9,24
+"Wolfcastle, R.",NO,1,4,4,4,0,9,24
+"Jackson, A.",YKW,4,60,15,30,0,9,24
+"Rechs, Z.",YKW,4,45,11.2,18,1,9,24
+"Sakura, K.",YKW,3,36,12,17,0,9,24
+"Skyline, A.",YKW,3,22,7.3,11,0,9,24
+"Cash Jr., S.",YKW,2,54,27,40,0,9,24
+"Lee, M.",YKW,2,39,19.5,34,0,9,24

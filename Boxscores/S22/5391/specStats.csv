@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"O'Leary, S.",CHI,7,142,0,31,0,0,0,0
-"Firestorm-Fjord, O.",CHI,2,35,1,22,1,0,0,1
-"Abernathy, K.",OCO,2,65,0,46,0,0,0,0
-"Dream, K.",OCO,2,48,14,41,14,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"O'Leary, S.",CHI,7,142,0,31,0,0,0,0,6,22
+"Firestorm-Fjord, O.",CHI,2,35,1,22,1,0,0,1,6,22
+"Abernathy, K.",OCO,2,65,0,46,0,0,0,0,6,22
+"Dream, K.",OCO,2,48,14,41,14,0,0,1,6,22

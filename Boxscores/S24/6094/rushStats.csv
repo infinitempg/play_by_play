@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Lackson, J.",SJS,15,53,3.5,11,0
-"Cardrissian, R.",SJS,6,36,6,11,0
-"Jack, M.",SJS,1,0,0,0,0
-"Gump, F.",NO,11,31,2.8,9,0
-"Toriki, M.",NO,11,43,3.9,10,0
-"Slothlisberger, B.",NO,3,9,3,8,0
-"Wolfcastle, R.",NO,3,8,2.7,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Lackson, J.",SJS,15,53,3.5,11,0,16,24
+"Cardrissian, R.",SJS,6,36,6,11,0,16,24
+"Jack, M.",SJS,1,0,0,0,0,16,24
+"Gump, F.",NO,11,31,2.8,9,0,16,24
+"Toriki, M.",NO,11,43,3.9,10,0,16,24
+"Slothlisberger, B.",NO,3,9,3,8,0,16,24
+"Wolfcastle, R.",NO,3,8,2.7,5,0,16,24

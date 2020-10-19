@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Donut, S.",AZ,6,116,19.3,34,1
-"Passmann, T.",AZ,6,108,18,51,0
-"Evans, H.",AZ,6,79,13.2,27,0
-"Keppler, Z.",AZ,2,6,3,3,1
-"Bur'Berry, J.",AZ,1,9,9,9,0
-"Jeeta, E.",AUS,6,71,11.8,34,0
-"Mendonca, M.",AUS,5,26,5.2,9,0
-"Gaines, N.",AUS,4,108,27,50,0
-"Tidwell, R.",AUS,3,34,11.3,20,0
-"Videl-San, N.",AUS,3,23,7.7,12,0
-"Jones, K.",AUS,1,29,29,29,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Donut, S.",AZ,6,116,19.3,34,1,2,24
+"Passmann, T.",AZ,6,108,18,51,0,2,24
+"Evans, H.",AZ,6,79,13.2,27,0,2,24
+"Keppler, Z.",AZ,2,6,3,3,1,2,24
+"Bur'Berry, J.",AZ,1,9,9,9,0,2,24
+"Jeeta, E.",AUS,6,71,11.8,34,0,2,24
+"Mendonca, M.",AUS,5,26,5.2,9,0,2,24
+"Gaines, N.",AUS,4,108,27,50,0,2,24
+"Tidwell, R.",AUS,3,34,11.3,20,0,2,24
+"Videl-San, N.",AUS,3,23,7.7,12,0,2,24
+"Jones, K.",AUS,1,29,29,29,0,2,24

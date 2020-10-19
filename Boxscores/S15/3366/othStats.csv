@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Orosz, C.",SJS,1,10,0,0
-"Tuck, J.",SJS,1,5,0,0
-"McKoutchie, M.",SJS,0,0,3,0
-"Probincrux III, D.",SJS,0,0,3,0
-"Jahelpme, H.",SJS,0,0,2,0
-"Rucker, F.",SJS,0,0,2,0
-"Tacktheritrix, J.",SJS,0,0,2,0
-"Crane, F.",COL,2,10,0,0
-"Centre, S.",COL,1,5,0,0
-"Gabagool, T.",COL,1,5,0,0
-"Grau, M.",COL,1,5,0,0
-"Guard, L.",COL,1,5,0,0
-"Ludvig, O.",COL,1,5,0,0
-"Tackle, L.",COL,0,0,4,0
-"Tackle, R.",COL,0,0,3,0
-"Guard, R.",COL,0,0,1,0
-"Cansino, D.",COL,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Orosz, C.",SJS,1,10,0,0,3,15
+"Tuck, J.",SJS,1,5,0,0,3,15
+"McKoutchie, M.",SJS,0,0,3,0,3,15
+"Probincrux III, D.",SJS,0,0,3,0,3,15
+"Jahelpme, H.",SJS,0,0,2,0,3,15
+"Rucker, F.",SJS,0,0,2,0,3,15
+"Tacktheritrix, J.",SJS,0,0,2,0,3,15
+"Crane, F.",COL,2,10,0,0,3,15
+"Centre, S.",COL,1,5,0,0,3,15
+"Gabagool, T.",COL,1,5,0,0,3,15
+"Grau, M.",COL,1,5,0,0,3,15
+"Guard, L.",COL,1,5,0,0,3,15
+"Ludvig, O.",COL,1,5,0,0,3,15
+"Tackle, L.",COL,0,0,4,0,3,15
+"Tackle, R.",COL,0,0,3,0,3,15
+"Guard, R.",COL,0,0,1,0,3,15
+"Cansino, D.",COL,0,0,0,1,3,15

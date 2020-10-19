@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gaines, N.",AUS,6,94,15.7,29,1
-"Videl-San, N.",AUS,4,51,12.8,21,0
-"Larson, P.",AUS,2,32,16,21,0
-"Jeeta, E.",AUS,2,25,12.5,17,0
-"Mendonca, M.",AUS,2,21,10.5,11,0
-"Jones, K.",AUS,1,10,10,10,0
-"Lewandowski, J.",BAL,4,27,6.8,12,0
-"Kaepercolin, N.",BAL,3,48,16,32,0
-"Quinn, A.",BAL,2,29,14.5,16,1
-"Fukushu, M.",BAL,1,17,17,17,0
-"Skuff, R.",BAL,1,7,7,7,0
-"Williams, D.",BAL,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gaines, N.",AUS,6,94,15.7,29,1,7,24
+"Videl-San, N.",AUS,4,51,12.8,21,0,7,24
+"Larson, P.",AUS,2,32,16,21,0,7,24
+"Jeeta, E.",AUS,2,25,12.5,17,0,7,24
+"Mendonca, M.",AUS,2,21,10.5,11,0,7,24
+"Jones, K.",AUS,1,10,10,10,0,7,24
+"Lewandowski, J.",BAL,4,27,6.8,12,0,7,24
+"Kaepercolin, N.",BAL,3,48,16,32,0,7,24
+"Quinn, A.",BAL,2,29,14.5,16,1,7,24
+"Fukushu, M.",BAL,1,17,17,17,0,7,24
+"Skuff, R.",BAL,1,7,7,7,0,7,24
+"Williams, D.",BAL,1,1,1,1,0,7,24

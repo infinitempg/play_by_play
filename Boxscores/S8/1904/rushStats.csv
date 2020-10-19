@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,20,95,4.8,19,0
-"Taylor, O.",BAL,27,90,3.3,11,2
-"Blocksdale, A.",BAL,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,20,95,4.8,19,0,7,8
+"Taylor, O.",BAL,27,90,3.3,11,2,7,8
+"Blocksdale, A.",BAL,1,0,0,0,0,7,8

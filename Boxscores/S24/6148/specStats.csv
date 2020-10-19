@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Firestorm-Fjord, O.",CHI,1,38,9,38,9,0,0,1
-"Thomas-Fox, D.",SJS,1,0,17,0,17,0,0,1
-"PickSix, H.",SJS,2,63,0,44,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Firestorm-Fjord, O.",CHI,1,38,9,38,9,0,0,1,7,24
+"Thomas-Fox, D.",SJS,1,0,17,0,17,0,0,1,7,24
+"PickSix, H.",SJS,2,63,0,44,0,0,0,0,7,24

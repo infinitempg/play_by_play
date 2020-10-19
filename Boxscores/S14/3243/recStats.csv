@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Halvorsen, T.",NO,6,88,14.7,28,1
-"Swift, T.",NO,5,109,21.8,74,1
-"Fyodorovich, V.",NO,5,92,18.4,44,0
-"Francisco, S.",NO,4,29,7.2,9,0
-"Danielsson, A.",NO,1,13,13,13,0
-"von Matt, J.",PHI,7,128,18.3,44,1
-"Bush, C.",PHI,7,111,15.9,27,1
-"Batoff, R.",PHI,6,124,20.7,46,0
-"Boija, F.",PHI,5,37,7.4,11,0
-"Davenport, C.",PHI,2,8,4,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Halvorsen, T.",NO,6,88,14.7,28,1,10,14
+"Swift, T.",NO,5,109,21.8,74,1,10,14
+"Fyodorovich, V.",NO,5,92,18.4,44,0,10,14
+"Francisco, S.",NO,4,29,7.2,9,0,10,14
+"Danielsson, A.",NO,1,13,13,13,0,10,14
+"von Matt, J.",PHI,7,128,18.3,44,1,10,14
+"Bush, C.",PHI,7,111,15.9,27,1,10,14
+"Batoff, R.",PHI,6,124,20.7,46,0,10,14
+"Boija, F.",PHI,5,37,7.4,11,0,10,14
+"Davenport, C.",PHI,2,8,4,7,0,10,14

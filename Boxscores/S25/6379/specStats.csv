@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle Jr., D.",AUS,3,82,40,31,20,0,0,3
-"Jeeta, E.",AUS,4,107,0,44,0,0,0,0
-"Vuxta, R.",PHI,3,51,0,33,0,0,0,0
-"Panda, F.",PHI,3,46,8,34,8,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle Jr., D.",AUS,3,82,40,31,20,0,0,3,2,25
+"Jeeta, E.",AUS,4,107,0,44,0,0,0,0,2,25
+"Vuxta, R.",PHI,3,51,0,33,0,0,0,0,2,25
+"Panda, F.",PHI,3,46,8,34,8,0,0,1,2,25

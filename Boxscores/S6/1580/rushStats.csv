@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kennedy, E.",YKW,16,70,4.4,13,0
-"Akselsen, M.",YKW,7,83,11.9,66,1
-"Nuck, B.",YKW,1,4,4,4,0
-"Kroetch, D.",PHI,19,56,2.9,9,1
-"O'Connell, K.",PHI,5,23,4.6,7,0
-"Oles, T.",PHI,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kennedy, E.",YKW,16,70,4.4,13,0,1,6
+"Akselsen, M.",YKW,7,83,11.9,66,1,1,6
+"Nuck, B.",YKW,1,4,4,4,0,1,6
+"Kroetch, D.",PHI,19,56,2.9,9,1,1,6
+"O'Connell, K.",PHI,5,23,4.6,7,0,1,6
+"Oles, T.",PHI,1,1,1,1,0,1,6

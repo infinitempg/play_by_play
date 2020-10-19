@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,17,80,4.7,18,0
-"McDummy, W.",COL,3,-1,-0.3,4,0
-"Carrasco, T.",COL,1,0,0,0,0
-"Marshall, M.",YKW,17,77,4.5,12,1
-"Canton, J.",YKW,9,30,3.3,8,0
-"Bigsby, C.",YKW,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,17,80,4.7,18,0,8,17
+"McDummy, W.",COL,3,-1,-0.3,4,0,8,17
+"Carrasco, T.",COL,1,0,0,0,0,8,17
+"Marshall, M.",YKW,17,77,4.5,12,1,8,17
+"Canton, J.",YKW,9,30,3.3,8,0,8,17
+"Bigsby, C.",YKW,1,0,0,0,0,8,17

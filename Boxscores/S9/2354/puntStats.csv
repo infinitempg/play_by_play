@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Madlad, B.",OCO,5,201,40.2,53,1
-"Meoff, B.",PHI,10,482,48.2,60,3
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Madlad, B.",OCO,5,201,40.2,53,1,10,9
+"Meoff, B.",PHI,10,482,48.2,60,3,10,9

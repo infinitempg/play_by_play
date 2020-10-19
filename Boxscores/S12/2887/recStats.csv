@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Brown, M.",PHI,5,72,14.4,36,0
-"von Matt, J.",PHI,5,39,7.8,12,1
-"Bush, C.",PHI,3,54,18,21,0
-"Hardwick, S.",PHI,3,34,11.3,23,0
-"Hasselhoff, F.",PHI,3,15,5,7,1
-"Hondo, A.",PHI,1,7,7,7,0
-"Fyodorovich, V.",NO,4,134,33.5,76,2
-"Halvorsen, T.",NO,4,48,12,28,0
-"DiMirio, P.",NO,4,18,4.5,6,0
-"Storm, B.",NO,2,24,12,17,0
-"Gore, B.",NO,2,3,1.5,2,0
-"Yobanna-Kanayochukwu, C.",NO,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Brown, M.",PHI,5,72,14.4,36,0,3,12
+"von Matt, J.",PHI,5,39,7.8,12,1,3,12
+"Bush, C.",PHI,3,54,18,21,0,3,12
+"Hardwick, S.",PHI,3,34,11.3,23,0,3,12
+"Hasselhoff, F.",PHI,3,15,5,7,1,3,12
+"Hondo, A.",PHI,1,7,7,7,0,3,12
+"Fyodorovich, V.",NO,4,134,33.5,76,2,3,12
+"Halvorsen, T.",NO,4,48,12,28,0,3,12
+"DiMirio, P.",NO,4,18,4.5,6,0,3,12
+"Storm, B.",NO,2,24,12,17,0,3,12
+"Gore, B.",NO,2,3,1.5,2,0,3,12
+"Yobanna-Kanayochukwu, C.",NO,1,4,4,4,0,3,12

@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Arthur, C.",PHI,1,10,5,0
-"Tyler, J.",PHI,1,10,5,0
-"Boija, F.",PHI,1,10,1,0
-"Morley, R.",PHI,1,12,0,0
-"Van Buren, M.",PHI,0,0,5,0
-"Fillmore, M.",PHI,0,0,3,0
-"Hayes, R.",PHI,0,0,3,0
-"McCargue, B.",PHI,0,0,1,0
-"Arbage, G.",AZ,2,10,5,1
-"Aste, W.",AZ,1,10,6,0
-"Unk, J.",AZ,1,5,3,0
-"McCann, J.",AZ,1,15,0,0
-"Rudd, E.",AZ,1,15,0,0
-"Vans, R.",AZ,1,5,0,0
-"Woodham, A.",AZ,1,5,0,0
-"Rash, T.",AZ,0,0,5,0
-"Shady, S.",AZ,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Arthur, C.",PHI,1,10,5,0,1,14
+"Tyler, J.",PHI,1,10,5,0,1,14
+"Boija, F.",PHI,1,10,1,0,1,14
+"Morley, R.",PHI,1,12,0,0,1,14
+"Van Buren, M.",PHI,0,0,5,0,1,14
+"Fillmore, M.",PHI,0,0,3,0,1,14
+"Hayes, R.",PHI,0,0,3,0,1,14
+"McCargue, B.",PHI,0,0,1,0,1,14
+"Arbage, G.",AZ,2,10,5,1,1,14
+"Aste, W.",AZ,1,10,6,0,1,14
+"Unk, J.",AZ,1,5,3,0,1,14
+"McCann, J.",AZ,1,15,0,0,1,14
+"Rudd, E.",AZ,1,15,0,0,1,14
+"Vans, R.",AZ,1,5,0,0,1,14
+"Woodham, A.",AZ,1,5,0,0,1,14
+"Rash, T.",AZ,0,0,5,0,1,14
+"Shady, S.",AZ,0,0,3,0,1,14

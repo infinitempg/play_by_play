@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lejune, L.",COL,1,7,10,7,16,0,0,3
-"Bishop, J.",COL,5,113,0,39,0,0,0,0
-"Lavelle Jr., D.",AUS,1,32,28,32,33,0,0,3
-"Owens, A.",AUS,3,65,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lejune, L.",COL,1,7,10,7,16,0,0,3,11,18
+"Bishop, J.",COL,5,113,0,39,0,0,0,0,11,18
+"Lavelle Jr., D.",AUS,1,32,28,32,33,0,0,3,11,18
+"Owens, A.",AUS,3,65,0,39,0,0,0,0,11,18

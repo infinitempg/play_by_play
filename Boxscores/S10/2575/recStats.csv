@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Westfield, B.",OCO,5,83,16.6,26,0
-"Garden, J.",OCO,4,79,19.8,41,0
-"Adams, R.",OCO,3,11,3.7,6,0
-"Zephyrous, S.",OCO,2,15,7.5,9,0
-"Broxton, J.",OCO,2,14,7,8,0
-"Miller, H.",COL,5,114,22.8,51,0
-"Aaron, D.",COL,5,107,21.4,37,0
-"Chipmunk, A.",COL,5,39,7.8,15,1
-"North, F.",COL,4,55,13.8,26,1
-"Grau, M.",COL,2,10,5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Westfield, B.",OCO,5,83,16.6,26,0,14,10
+"Garden, J.",OCO,4,79,19.8,41,0,14,10
+"Adams, R.",OCO,3,11,3.7,6,0,14,10
+"Zephyrous, S.",OCO,2,15,7.5,9,0,14,10
+"Broxton, J.",OCO,2,14,7,8,0,14,10
+"Miller, H.",COL,5,114,22.8,51,0,14,10
+"Aaron, D.",COL,5,107,21.4,37,0,14,10
+"Chipmunk, A.",COL,5,39,7.8,15,1,14,10
+"North, F.",COL,4,55,13.8,26,1,14,10
+"Grau, M.",COL,2,10,5,6,0,14,10

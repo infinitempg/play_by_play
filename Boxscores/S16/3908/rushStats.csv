@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,25,99,4,16,1
-"Swift, T.",NO,20,91,4.6,12,3
-"Francisco, S.",NO,8,77,9.6,27,0
-"Wizardry, D.",AUS,24,63,2.6,10,1
-"Mendonca, M.",AUS,8,41,5.1,13,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,25,99,4,16,1,8,16
+"Swift, T.",NO,20,91,4.6,12,3,8,16
+"Francisco, S.",NO,8,77,9.6,27,0,8,16
+"Wizardry, D.",AUS,24,63,2.6,10,1,8,16
+"Mendonca, M.",AUS,8,41,5.1,13,0,8,16

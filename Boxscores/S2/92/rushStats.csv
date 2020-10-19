@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Farlane, D.",BAL,26,105,4,18,1
-"Robinson, M.",BAL,3,13,4.3,7,0
-"Durden, J.",SJS,25,90,3.6,10,0
-"Diaz, D.",SJS,4,1,0.2,2,0
-"Hunt, E.",SJS,2,6,3,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Farlane, D.",BAL,26,105,4,18,1,5,2
+"Robinson, M.",BAL,3,13,4.3,7,0,5,2
+"Durden, J.",SJS,25,90,3.6,10,0,5,2
+"Diaz, D.",SJS,4,1,0.2,2,0,5,2
+"Hunt, E.",SJS,2,6,3,5,0,5,2

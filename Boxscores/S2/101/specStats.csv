@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",COL,6,101,-3,30,0,0,0,1
-"Rocket, J.",LV,2,61,0,31,0,0,0,0
-"Stormblessed, N.",LV,2,21,11,19,17,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",COL,6,101,-3,30,0,0,0,1,12,2
+"Rocket, J.",LV,2,61,0,31,0,0,0,0,12,2
+"Stormblessed, N.",LV,2,21,11,19,17,0,0,4,12,2

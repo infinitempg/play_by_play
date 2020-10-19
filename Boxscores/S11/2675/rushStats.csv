@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,25,127,5.1,15,2
-"Applehort, R.",BAL,4,12,3,8,1
-"Grau, M.",COL,11,35,3.2,7,0
-"Cansino, D.",COL,3,13,4.3,8,0
-"McCormick, M.",COL,2,2,1,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,25,127,5.1,15,2,2,11
+"Applehort, R.",BAL,4,12,3,8,1,2,11
+"Grau, M.",COL,11,35,3.2,7,0,2,11
+"Cansino, D.",COL,3,13,4.3,8,0,2,11
+"McCormick, M.",COL,2,2,1,4,0,2,11

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,32,121,3.8,14,1
-"Fitzpatrick, K.",AZ,1,6,6,6,0
-"Rainey, R.",YKW,25,113,4.5,10,0
-"Gore, B.",YKW,17,72,4.2,8,3
-"Akselsen, M.",YKW,6,15,2.5,11,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,32,121,3.8,14,1,9,9
+"Fitzpatrick, K.",AZ,1,6,6,6,0,9,9
+"Rainey, R.",YKW,25,113,4.5,10,0,9,9
+"Gore, B.",YKW,17,72,4.2,8,3,9,9
+"Akselsen, M.",YKW,6,15,2.5,11,1,9,9

@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Brown, M.",PHI,1,5,1,0
-"Hardwick, S.",PHI,1,5,0,0
-"Weathers III, B.",PHI,1,15,0,0
-"Tyler, J.",PHI,0,0,7,0
-"Hayes, R.",PHI,0,0,5,0
-"Van Buren, M.",PHI,0,0,3,0
-"Arthur, C.",PHI,0,0,2,0
-"Fillmore, M.",PHI,0,0,1,0
-"Strike, L.",PHI,0,0,1,0
-"Grithead, D.",OCO,2,22,0,0
-"Salami, T.",OCO,2,15,0,0
-"Manchester, M.",OCO,1,5,4,0
-"Rice, J.",OCO,1,10,0,0
-"Bumchester, A.",OCO,0,0,6,0
-"Dumchester, L.",OCO,0,0,4,1
-"Tim, T.",OCO,0,0,3,0
-"Zephyrous, S.",OCO,0,0,3,0
-"Minchester, M.",OCO,0,0,2,0
-"Adams, R.",OCO,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Brown, M.",PHI,1,5,1,0,7,13
+"Hardwick, S.",PHI,1,5,0,0,7,13
+"Weathers III, B.",PHI,1,15,0,0,7,13
+"Tyler, J.",PHI,0,0,7,0,7,13
+"Hayes, R.",PHI,0,0,5,0,7,13
+"Van Buren, M.",PHI,0,0,3,0,7,13
+"Arthur, C.",PHI,0,0,2,0,7,13
+"Fillmore, M.",PHI,0,0,1,0,7,13
+"Strike, L.",PHI,0,0,1,0,7,13
+"Grithead, D.",OCO,2,22,0,0,7,13
+"Salami, T.",OCO,2,15,0,0,7,13
+"Manchester, M.",OCO,1,5,4,0,7,13
+"Rice, J.",OCO,1,10,0,0,7,13
+"Bumchester, A.",OCO,0,0,6,0,7,13
+"Dumchester, L.",OCO,0,0,4,1,7,13
+"Tim, T.",OCO,0,0,3,0,7,13
+"Zephyrous, S.",OCO,0,0,3,0,7,13
+"Minchester, M.",OCO,0,0,2,0,7,13
+"Adams, R.",OCO,0,0,1,0,7,13

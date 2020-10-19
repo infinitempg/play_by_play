@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,1,42,3,42,4,0,0,2
-"Cook, B.",YKW,1,38,0,38,0,0,0,0
-"Mackworthy, R.",ARI,4,99,0,37,0,0,0,0
-"Evans, D.",ARI,1,26,0,26,0,0,0,0
-"Garden, J.",ARI,0,0,34,0,13,0,0,6
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,1,42,3,42,4,0,0,2,6,4
+"Cook, B.",YKW,1,38,0,38,0,0,0,0,6,4
+"Mackworthy, R.",ARI,4,99,0,37,0,0,0,0,6,4
+"Evans, D.",ARI,1,26,0,26,0,0,0,0,6,4
+"Garden, J.",ARI,0,0,34,0,13,0,0,6,6,4

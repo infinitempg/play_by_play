@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ruff, R.",AZ,20,67,3.4,8,0
-"Cue, J.",AZ,5,7,1.4,7,0
-"Irving, J.",AZ,1,6,6,6,0
-"Mendonca, M.",AUS,22,68,3.1,9,1
-"Cole, E.",AUS,2,11,5.5,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ruff, R.",AZ,20,67,3.4,8,0,2,21
+"Cue, J.",AZ,5,7,1.4,7,0,2,21
+"Irving, J.",AZ,1,6,6,6,0,2,21
+"Mendonca, M.",AUS,22,68,3.1,9,1,2,21
+"Cole, E.",AUS,2,11,5.5,11,0,2,21

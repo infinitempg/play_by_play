@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,1,4,0,4,0,0,0,0
-"Staley, T.",SJS,4,127,40,34,29,0,0,2
-"Emoji, E.",PHI,2,27,33,26,21,0,0,3
-"Garnett, L.",PHI,2,54,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,1,4,0,4,0,0,0,0,12,20
+"Staley, T.",SJS,4,127,40,34,29,0,0,2,12,20
+"Emoji, E.",PHI,2,27,33,26,21,0,0,3,12,20
+"Garnett, L.",PHI,2,54,0,39,0,0,0,0,12,20

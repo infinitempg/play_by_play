@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Tyler, J.",PHI,1,5,6,0
-"Van Buren, M.",PHI,0,0,7,0
-"Fillmore, M.",PHI,0,0,6,0
-"Dotson, F.",PHI,0,0,3,0
-"Blocksdale Jr., A.",PHI,0,0,2,0
-"Torenson, S.",PHI,0,0,2,0
-"Arthur, C.",PHI,0,0,1,2
-"Hayes, R.",PHI,0,0,1,0
-"Tackle, R.",COL,1,5,2,1
-"Sinclair, Q.",COL,1,5,0,0
-"Smirh, J.",COL,1,5,0,0
-"Guard, L.",COL,0,0,4,0
-"Sauce, E.",COL,0,0,4,0
-"Guard, R.",COL,0,0,3,0
-"Owens, A.",COL,0,0,2,0
-"Vincent, M.",COL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Tyler, J.",PHI,1,5,6,0,8,21
+"Van Buren, M.",PHI,0,0,7,0,8,21
+"Fillmore, M.",PHI,0,0,6,0,8,21
+"Dotson, F.",PHI,0,0,3,0,8,21
+"Blocksdale Jr., A.",PHI,0,0,2,0,8,21
+"Torenson, S.",PHI,0,0,2,0,8,21
+"Arthur, C.",PHI,0,0,1,2,8,21
+"Hayes, R.",PHI,0,0,1,0,8,21
+"Tackle, R.",COL,1,5,2,1,8,21
+"Sinclair, Q.",COL,1,5,0,0,8,21
+"Smirh, J.",COL,1,5,0,0,8,21
+"Guard, L.",COL,0,0,4,0,8,21
+"Sauce, E.",COL,0,0,4,0,8,21
+"Guard, R.",COL,0,0,3,0,8,21
+"Owens, A.",COL,0,0,2,0,8,21
+"Vincent, M.",COL,0,0,1,0,8,21

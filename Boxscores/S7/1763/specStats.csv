@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,4,94,17,39,16,0,0,2
-"Jackson, M.",SJS,1,30,0,30,0,0,0,0
-"Oakes, B.",NO,2,34,0,20,0,0,0,0
-"Evans, D.",NO,4,111,55,36,38,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,4,94,17,39,16,0,0,2,9,7
+"Jackson, M.",SJS,1,30,0,30,0,0,0,0,9,7
+"Oakes, B.",NO,2,34,0,20,0,0,0,0,9,7
+"Evans, D.",NO,4,111,55,36,38,0,0,4,9,7

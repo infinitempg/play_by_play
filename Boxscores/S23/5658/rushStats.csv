@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yoda, B.",AZ,25,80,3.2,11,2
-"Cue, J.",AZ,6,24,4,14,2
-"Z, D.",AZ,1,3,3,3,0
-"Skyline, A.",YKW,16,38,2.4,10,1
-"Hanyadi, M.",YKW,14,59,4.2,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yoda, B.",AZ,25,80,3.2,11,2,11,23
+"Cue, J.",AZ,6,24,4,14,2,11,23
+"Z, D.",AZ,1,3,3,3,0,11,23
+"Skyline, A.",YKW,16,38,2.4,10,1,11,23
+"Hanyadi, M.",YKW,14,59,4.2,11,0,11,23

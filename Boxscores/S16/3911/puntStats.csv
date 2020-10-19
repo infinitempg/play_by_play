@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Crisco, A.",AUS,9,444,49.3,66,0
-"Fulture, K.",CHI,7,363,51.9,69,4
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Crisco, A.",AUS,9,444,49.3,66,0,9,16
+"Fulture, K.",CHI,7,363,51.9,69,4,9,16

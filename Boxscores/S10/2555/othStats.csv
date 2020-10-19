@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Rchon, A.",YKW,1,10,2,0
-"Rainey, R.",YKW,1,5,1,0
-"Pooky, S.",YKW,0,0,5,0
-"Harris Jr., F.",YKW,0,0,4,0
-"McPoyal, G.",YKW,0,0,2,0
-"Mushing, M.",YKW,0,0,2,0
-"Ones, B.",YKW,0,0,2,0
-"Amper, T.",YKW,0,0,1,0
-"Robotman, E.",AZ,2,10,6,1
-"Robotman, C.",AZ,2,10,3,0
-"Earl, B.",AZ,2,20,0,0
-"Robotman, A.",AZ,1,5,7,0
-"Robotman, B.",AZ,1,10,1,0
-"Chess, C.",AZ,1,5,0,0
-"Tiernan, L.",AZ,1,7,0,0
-"Robotman, D.",AZ,0,0,8,0
-"Crindy, B.",AZ,0,0,4,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Rchon, A.",YKW,1,10,2,0,9,10
+"Rainey, R.",YKW,1,5,1,0,9,10
+"Pooky, S.",YKW,0,0,5,0,9,10
+"Harris Jr., F.",YKW,0,0,4,0,9,10
+"McPoyal, G.",YKW,0,0,2,0,9,10
+"Mushing, M.",YKW,0,0,2,0,9,10
+"Ones, B.",YKW,0,0,2,0,9,10
+"Amper, T.",YKW,0,0,1,0,9,10
+"Robotman, E.",AZ,2,10,6,1,9,10
+"Robotman, C.",AZ,2,10,3,0,9,10
+"Earl, B.",AZ,2,20,0,0,9,10
+"Robotman, A.",AZ,1,5,7,0,9,10
+"Robotman, B.",AZ,1,10,1,0,9,10
+"Chess, C.",AZ,1,5,0,0,9,10
+"Tiernan, L.",AZ,1,7,0,0,9,10
+"Robotman, D.",AZ,0,0,8,0,9,10
+"Crindy, B.",AZ,0,0,4,0,9,10

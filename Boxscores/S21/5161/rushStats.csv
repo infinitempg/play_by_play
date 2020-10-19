@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,30,153,5.1,16,2
-"Hank, F.",PHI,8,33,4.1,8,0
-"Bigby, L.",OCO,15,60,4,10,0
-"Kurisuto, R.",OCO,12,38,3.2,9,1
-"Sarvepally, S.",OCO,11,40,3.6,11,2
-"Armstrong, F.",OCO,3,10,3.3,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,30,153,5.1,16,2,2,21
+"Hank, F.",PHI,8,33,4.1,8,0,2,21
+"Bigby, L.",OCO,15,60,4,10,0,2,21
+"Kurisuto, R.",OCO,12,38,3.2,9,1,2,21
+"Sarvepally, S.",OCO,11,40,3.6,11,2,2,21
+"Armstrong, F.",OCO,3,10,3.3,9,0,2,21

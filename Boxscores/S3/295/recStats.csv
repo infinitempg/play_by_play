@@ -1,9 +1,9 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Stormblessed, N.",BAL,5,116,23.2,37,2
-"Willie, T.",BAL,3,86,28.7,49,0
-"Vincent, M.",BAL,3,30,10,16,0
-"Christmas, C.",BAL,2,16,8,9,0
-"Tenzini, G.",LV,8,43,5.4,7,0
-"LeClair, A.",LV,5,79,15.8,20,0
-"Ross, J.",LV,4,47,11.8,25,0
-"Savea, A.",LV,1,30,30,30,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Stormblessed, N.",BAL,5,116,23.2,37,2,5,3
+"Willie, T.",BAL,3,86,28.7,49,0,5,3
+"Vincent, M.",BAL,3,30,10,16,0,5,3
+"Christmas, C.",BAL,2,16,8,9,0,5,3
+"Tenzini, G.",LV,8,43,5.4,7,0,5,3
+"LeClair, A.",LV,5,79,15.8,20,0,5,3
+"Ross, J.",LV,4,47,11.8,25,0,5,3
+"Savea, A.",LV,1,30,30,30,0,5,3

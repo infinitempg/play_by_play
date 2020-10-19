@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"D'Attoria V, R.",PHI,3,100,0,37,0,0,0,0
-"Panda, F.",PHI,1,10,0,10,2,0,0,2
-"Beerus, L.",OCO,1,18,12,18,6,0,0,3
-"Trunks, F.",OCO,4,86,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"D'Attoria V, R.",PHI,3,100,0,37,0,0,0,0,10,23
+"Panda, F.",PHI,1,10,0,10,2,0,0,2,10,23
+"Beerus, L.",OCO,1,18,12,18,6,0,0,3,10,23
+"Trunks, F.",OCO,4,86,0,41,0,0,0,0,10,23

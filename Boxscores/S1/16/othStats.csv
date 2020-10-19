@@ -1,25 +1,25 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Robicheaux, D.",SJS,1,10,4,0
-"Tebow, T.",SJS,1,5,2,0
-"Bowers Jr, V.",SJS,1,1,1,0
-"Cameron, J.",SJS,1,15,0,0
-"Hunt, E.",SJS,1,8,0,0
-"Selich, A.",SJS,1,15,0,0
-"Shoate, T.",SJS,1,15,0,0
-"Longshaw, B.",SJS,0,0,3,0
-"Bigboy8, Z.",SJS,0,0,2,0
-"Savea, A.",SJS,0,0,1,0
-"Harris, F.",OCO,1,15,0,0
-"Jenkins, L.",OCO,1,5,0,0
-"Petrakis, A.",OCO,1,15,0,0
-"Phelps, R.",OCO,1,5,0,0
-"Thor, L.",OCO,1,17,0,0
-"Westfield, B.",OCO,1,10,0,0
-"Wright, O.",OCO,1,5,0,0
-"Hamilton, C.",OCO,0,0,4,0
-"Clegane, G.",OCO,0,0,3,1
-"Davidson, J.",OCO,0,0,2,0
-"Boyd, M.",OCO,0,0,1,0
-"Winchester, A.",OCO,0,0,1,0
-"Wright Jr, G.",OCO,0,0,1,0
-"Yates, J.",OCO,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Robicheaux, D.",SJS,1,10,4,0,11,1
+"Tebow, T.",SJS,1,5,2,0,11,1
+"Bowers Jr, V.",SJS,1,1,1,0,11,1
+"Cameron, J.",SJS,1,15,0,0,11,1
+"Hunt, E.",SJS,1,8,0,0,11,1
+"Selich, A.",SJS,1,15,0,0,11,1
+"Shoate, T.",SJS,1,15,0,0,11,1
+"Longshaw, B.",SJS,0,0,3,0,11,1
+"Bigboy8, Z.",SJS,0,0,2,0,11,1
+"Savea, A.",SJS,0,0,1,0,11,1
+"Harris, F.",OCO,1,15,0,0,11,1
+"Jenkins, L.",OCO,1,5,0,0,11,1
+"Petrakis, A.",OCO,1,15,0,0,11,1
+"Phelps, R.",OCO,1,5,0,0,11,1
+"Thor, L.",OCO,1,17,0,0,11,1
+"Westfield, B.",OCO,1,10,0,0,11,1
+"Wright, O.",OCO,1,5,0,0,11,1
+"Hamilton, C.",OCO,0,0,4,0,11,1
+"Clegane, G.",OCO,0,0,3,1,11,1
+"Davidson, J.",OCO,0,0,2,0,11,1
+"Boyd, M.",OCO,0,0,1,0,11,1
+"Winchester, A.",OCO,0,0,1,0,11,1
+"Wright Jr, G.",OCO,0,0,1,0,11,1
+"Yates, J.",OCO,0,0,0,1,11,1

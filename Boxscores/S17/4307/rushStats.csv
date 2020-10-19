@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,30,112,3.7,12,1
-"Carrasco, T.",COL,9,41,4.6,7,2
-"McDummy, W.",COL,3,16,5.3,9,0
-"Gump, F.",NO,15,57,3.8,10,1
-"Swift, T.",NO,4,29,7.2,9,0
-"Francisco, S.",NO,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,30,112,3.7,12,1,4,17
+"Carrasco, T.",COL,9,41,4.6,7,2,4,17
+"McDummy, W.",COL,3,16,5.3,9,0,4,17
+"Gump, F.",NO,15,57,3.8,10,1,4,17
+"Swift, T.",NO,4,29,7.2,9,0,4,17
+"Francisco, S.",NO,1,5,5,5,0,4,17

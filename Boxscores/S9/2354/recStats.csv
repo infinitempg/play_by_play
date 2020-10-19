@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Westfield, B.",OCO,8,85,10.6,21,2
-"Crush, C.",OCO,7,142,20.3,58,2
-"Atwell, T.",OCO,7,135,19.3,54,0
-"Yates, J.",OCO,7,55,7.9,28,0
-"Phelps, R.",OCO,4,30,7.5,15,0
-"Bush, C.",PHI,5,54,10.8,18,0
-"O'Sullivan, S.",PHI,3,18,6,9,0
-"Farlane, D.",PHI,3,16,5.3,8,0
-"North, F.",PHI,2,14,7,9,0
-"Garden, J.",PHI,2,13,6.5,7,0
-"Nyquist, W.",PHI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Westfield, B.",OCO,8,85,10.6,21,2,10,9
+"Crush, C.",OCO,7,142,20.3,58,2,10,9
+"Atwell, T.",OCO,7,135,19.3,54,0,10,9
+"Yates, J.",OCO,7,55,7.9,28,0,10,9
+"Phelps, R.",OCO,4,30,7.5,15,0,10,9
+"Bush, C.",PHI,5,54,10.8,18,0,10,9
+"O'Sullivan, S.",PHI,3,18,6,9,0,10,9
+"Farlane, D.",PHI,3,16,5.3,8,0,10,9
+"North, F.",PHI,2,14,7,9,0,10,9
+"Garden, J.",PHI,2,13,6.5,7,0,10,9
+"Nyquist, W.",PHI,1,4,4,4,0,10,9

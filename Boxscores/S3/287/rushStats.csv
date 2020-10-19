@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Durden, J.",SJS,33,90,2.7,14,0
-"Diaz, D.",SJS,8,23,2.9,9,0
-"Hunt, E.",SJS,5,15,3,9,0
-"Wright, O.",PHI,30,82,2.7,15,1
-"O'Connell, K.",PHI,5,9,1.8,5,0
-"Rove, C.",PHI,3,-1,-0.3,1,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Durden, J.",SJS,33,90,2.7,14,0,3,3
+"Diaz, D.",SJS,8,23,2.9,9,0,3,3
+"Hunt, E.",SJS,5,15,3,9,0,3,3
+"Wright, O.",PHI,30,82,2.7,15,1,3,3
+"O'Connell, K.",PHI,5,9,1.8,5,0,3,3
+"Rove, C.",PHI,3,-1,-0.3,1,1,3,3

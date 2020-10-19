@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Boom, J.",OCO,1,5,0,0
-"Reigns, J.",OCO,1,15,0,0
-"Clegane, G.",OCO,0,0,5,1
-"Hamilton, C.",OCO,0,0,4,1
-"Madlad, B.",OCO,0,0,4,1
-"Winchester, A.",OCO,0,0,4,0
-"Wright Jr, G.",OCO,0,0,3,0
-"Ferguson, D.",OCO,0,0,1,0
-"Jenkins, L.",OCO,0,0,1,0
-"Lee, B.",BAL,2,25,1,0
-"Andres, J.",BAL,1,5,4,0
-"Danvers, J.",BAL,1,9,3,0
-"Koch, D.",BAL,0,0,5,2
-"Blocksdale, A.",BAL,0,0,4,0
-"Farlane, D.",BAL,0,0,1,1
-"Robinson, M.",BAL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Boom, J.",OCO,1,5,0,0,13,3
+"Reigns, J.",OCO,1,15,0,0,13,3
+"Clegane, G.",OCO,0,0,5,1,13,3
+"Hamilton, C.",OCO,0,0,4,1,13,3
+"Madlad, B.",OCO,0,0,4,1,13,3
+"Winchester, A.",OCO,0,0,4,0,13,3
+"Wright Jr, G.",OCO,0,0,3,0,13,3
+"Ferguson, D.",OCO,0,0,1,0,13,3
+"Jenkins, L.",OCO,0,0,1,0,13,3
+"Lee, B.",BAL,2,25,1,0,13,3
+"Andres, J.",BAL,1,5,4,0,13,3
+"Danvers, J.",BAL,1,9,3,0,13,3
+"Koch, D.",BAL,0,0,5,2,13,3
+"Blocksdale, A.",BAL,0,0,4,0,13,3
+"Farlane, D.",BAL,0,0,1,1,13,3
+"Robinson, M.",BAL,0,0,1,0,13,3

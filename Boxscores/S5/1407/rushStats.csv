@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,9,34,3.8,12,0
-"Wright, O.",AZ,1,6,6,6,0
-"Smallwood, D.",SJS,18,53,2.9,11,1
-"Diaz, D.",SJS,4,9,2.2,3,0
-"Orosz, C.",SJS,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,9,34,3.8,12,0,9,5
+"Wright, O.",AZ,1,6,6,6,0,9,5
+"Smallwood, D.",SJS,18,53,2.9,11,1,9,5
+"Diaz, D.",SJS,4,9,2.2,3,0,9,5
+"Orosz, C.",SJS,1,1,1,1,0,9,5

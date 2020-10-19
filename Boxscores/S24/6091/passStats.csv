@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"McDummy, W.",COL,"[34, 46]",398,11.7,4,1,119.7
-"Phoenix, B.",PHI,"[25, 40]",230,9.2,0,2,57.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"McDummy, W.",COL,398,11.7,4,1,119.7,34,25,16,24
+"Phoenix, B.",PHI,230,9.2,0,2,57.3,34,25,16,24

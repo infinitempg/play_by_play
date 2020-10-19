@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Beerus, L.",OCO,3,105,26,49,13,0,0,2
-"Trunks, F.",OCO,4,86,0,40,0,0,0,0
-"Mendonca, M.",AUS,3,71,0,36,0,0,0,0
-"Lavelle Jr., D.",AUS,4,87,40,35,17,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Beerus, L.",OCO,3,105,26,49,13,0,0,2,3,24
+"Trunks, F.",OCO,4,86,0,40,0,0,0,0,3,24
+"Mendonca, M.",AUS,3,71,0,36,0,0,0,0,3,24
+"Lavelle Jr., D.",AUS,4,87,40,35,17,0,0,4,3,24

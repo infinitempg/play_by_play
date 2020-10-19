@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",NO,6,42,7,12,0
-"Fyodorovich, V.",NO,5,105,21,41,0
-"Halvorsen, T.",NO,4,50,12.5,17,1
-"Storm, B.",NO,4,46,11.5,21,0
-"Gore, B.",NO,4,18,4.5,8,0
-"L'Alto, V.",BAL,6,66,11,20,0
-"Harp, D.",BAL,5,55,11,28,0
-"Nagasawa, Y.",BAL,4,83,20.8,41,0
-"Valentine, V.",BAL,4,33,8.2,12,0
-"Taylor, O.",BAL,2,10,5,8,0
-"Maddox, E.",BAL,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",NO,6,42,7,12,0,14,12
+"Fyodorovich, V.",NO,5,105,21,41,0,14,12
+"Halvorsen, T.",NO,4,50,12.5,17,1,14,12
+"Storm, B.",NO,4,46,11.5,21,0,14,12
+"Gore, B.",NO,4,18,4.5,8,0,14,12
+"L'Alto, V.",BAL,6,66,11,20,0,14,12
+"Harp, D.",BAL,5,55,11,28,0,14,12
+"Nagasawa, Y.",BAL,4,83,20.8,41,0,14,12
+"Valentine, V.",BAL,4,33,8.2,12,0,14,12
+"Taylor, O.",BAL,2,10,5,8,0,14,12
+"Maddox, E.",BAL,1,6,6,6,0,14,12

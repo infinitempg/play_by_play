@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bowers Jr, V.",SJS,22,78,3.5,12,0
-"Wiley, D.",SJS,6,30,5,12,0
-"Hunt, E.",SJS,4,9,2.2,8,0
-"Savea, A.",SJS,1,3,3,3,1
-"Robinson, M.",BAL,11,42,3.8,15,0
-"Novel, L.",BAL,7,20,2.9,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bowers Jr, V.",SJS,22,78,3.5,12,0,14,1
+"Wiley, D.",SJS,6,30,5,12,0,14,1
+"Hunt, E.",SJS,4,9,2.2,8,0,14,1
+"Savea, A.",SJS,1,3,3,3,1,14,1
+"Robinson, M.",BAL,11,42,3.8,15,0,14,1
+"Novel, L.",BAL,7,20,2.9,8,0,14,1

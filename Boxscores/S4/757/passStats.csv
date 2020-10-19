@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Stone, W.",LV,"[21, 41]",182,8.7,1,1,61.2
-"Bronko, K.",ARI,"[30, 50]",329,11,4,2,89.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Stone, W.",LV,182,8.7,1,1,61.2,21,30,9,4
+"Bronko, K.",ARI,329,11,4,2,89.5,21,30,9,4

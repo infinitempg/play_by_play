@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Brown, M.",PHI,1,11,0,11,0,0,0,0
-"Bly Jr., A.",PHI,2,132,6,89,6,0,0,3
-"Barnes, B.",AZ,1,32,0,32,0,0,0,0
-"Hobbs, S.",AZ,3,46,12,19,10,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Brown, M.",PHI,1,11,0,11,0,0,0,0,11,11
+"Bly Jr., A.",PHI,2,132,6,89,6,0,0,3,11,11
+"Barnes, B.",AZ,1,32,0,32,0,0,0,0,11,11
+"Hobbs, S.",AZ,3,46,12,19,10,0,0,2,11,11

@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,3,83,0,38,1,0,0,3
-"Stormblessed, N.",LV,5,96,19,33,18,0,0,3
-"Ross, J.",LV,2,32,0,22,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,3,83,0,38,1,0,0,3,3,3
+"Stormblessed, N.",LV,5,96,19,33,18,0,0,3,3,3
+"Ross, J.",LV,2,32,0,22,0,0,0,0,3,3

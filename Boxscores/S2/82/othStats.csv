@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Yates, J.",SJS,2,9,4,0
-"Stephen, W.",SJS,1,15,0,0
-"Sharpei, V.",SJS,0,0,10,1
-"Longshaw, B.",SJS,0,0,10,0
-"Sharp, B.",SJS,0,0,3,0
-"Walters, S.",SJS,0,0,2,1
-"Durden, J.",SJS,0,0,0,1
-"Finkenlarkin, S.",OCO,1,10,3,1
-"Bowers Jr, V.",OCO,1,10,0,0
-"Kronen, R.",OCO,1,15,0,0
-"Petrakis, A.",OCO,1,5,0,0
-"Phelps, R.",OCO,1,12,0,0
-"Spector, M.",OCO,1,37,0,0
-"Hamilton, C.",OCO,0,0,4,0
-"Clegane, G.",OCO,0,0,3,0
-"Wright Jr, G.",OCO,0,0,2,0
-"Davidson, J.",OCO,0,0,1,0
-"Ferguson, D.",OCO,0,0,1,0
-"Jenkins, L.",OCO,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Yates, J.",SJS,2,9,4,0,4,2
+"Stephen, W.",SJS,1,15,0,0,4,2
+"Sharpei, V.",SJS,0,0,10,1,4,2
+"Longshaw, B.",SJS,0,0,10,0,4,2
+"Sharp, B.",SJS,0,0,3,0,4,2
+"Walters, S.",SJS,0,0,2,1,4,2
+"Durden, J.",SJS,0,0,0,1,4,2
+"Finkenlarkin, S.",OCO,1,10,3,1,4,2
+"Bowers Jr, V.",OCO,1,10,0,0,4,2
+"Kronen, R.",OCO,1,15,0,0,4,2
+"Petrakis, A.",OCO,1,5,0,0,4,2
+"Phelps, R.",OCO,1,12,0,0,4,2
+"Spector, M.",OCO,1,37,0,0,4,2
+"Hamilton, C.",OCO,0,0,4,0,4,2
+"Clegane, G.",OCO,0,0,3,0,4,2
+"Wright Jr, G.",OCO,0,0,2,0,4,2
+"Davidson, J.",OCO,0,0,1,0,4,2
+"Ferguson, D.",OCO,0,0,1,0,4,2
+"Jenkins, L.",OCO,0,0,1,0,4,2

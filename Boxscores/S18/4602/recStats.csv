@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hank, F.",PHI,5,75,15,30,1
-"Torenson, S.",PHI,2,44,22,39,0
-"Varga, N.",PHI,2,34,17,20,1
-"Harp, D.",CHI,8,68,8.5,14,1
-"Jackson, A.",CHI,7,118,16.9,30,0
-"Parker, J.",CHI,5,80,16,43,0
-"Brown, M.",CHI,1,15,15,15,0
-"Smith, W.",CHI,1,6,6,6,0
-"Danielsson, A.",CHI,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hank, F.",PHI,5,75,15,30,1,10,18
+"Torenson, S.",PHI,2,44,22,39,0,10,18
+"Varga, N.",PHI,2,34,17,20,1,10,18
+"Harp, D.",CHI,8,68,8.5,14,1,10,18
+"Jackson, A.",CHI,7,118,16.9,30,0,10,18
+"Parker, J.",CHI,5,80,16,43,0,10,18
+"Brown, M.",CHI,1,15,15,15,0,10,18
+"Smith, W.",CHI,1,6,6,6,0,10,18
+"Danielsson, A.",CHI,1,5,5,5,0,10,18

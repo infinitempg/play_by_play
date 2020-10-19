@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",ARI,29,91,3.1,11,2
-"Tuck, J.",ARI,9,35,3.9,10,0
-"Strike, M.",ARI,2,-1,-0.5,0,0
-"Savea, A.",LV,13,28,2.2,7,0
-"Cobb, K.",LV,11,33,3,9,1
-"Bercovici, J.",LV,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",ARI,29,91,3.1,11,2,14,2
+"Tuck, J.",ARI,9,35,3.9,10,0,14,2
+"Strike, M.",ARI,2,-1,-0.5,0,0,14,2
+"Savea, A.",LV,13,28,2.2,7,0,14,2
+"Cobb, K.",LV,11,33,3,9,1,14,2
+"Bercovici, J.",LV,1,0,0,0,0,14,2

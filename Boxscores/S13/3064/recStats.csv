@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, T.",NO,8,96,12,29,0
-"Fyodorovich, V.",NO,7,101,14.4,34,0
-"Hasselhoff, F.",NO,6,106,17.7,42,0
-"Halvorsen, T.",NO,5,48,9.6,18,1
-"DiMirio, P.",NO,5,33,6.6,14,0
-"Danielsson, A.",NO,2,21,10.5,12,0
-"Danger, H.",NO,1,5,5,5,0
-"Adams, R.",OCO,6,59,9.8,26,0
-"Atwell, T.",OCO,5,114,22.8,42,1
-"Crush, C.",OCO,3,46,15.3,33,0
-"Sunnycursed, N.",OCO,3,38,12.7,20,0
-"McPoyal, G.",OCO,2,50,25,26,0
-"Zephyrous, S.",OCO,2,4,2,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, T.",NO,8,96,12,29,0,14,13
+"Fyodorovich, V.",NO,7,101,14.4,34,0,14,13
+"Hasselhoff, F.",NO,6,106,17.7,42,0,14,13
+"Halvorsen, T.",NO,5,48,9.6,18,1,14,13
+"DiMirio, P.",NO,5,33,6.6,14,0,14,13
+"Danielsson, A.",NO,2,21,10.5,12,0,14,13
+"Danger, H.",NO,1,5,5,5,0,14,13
+"Adams, R.",OCO,6,59,9.8,26,0,14,13
+"Atwell, T.",OCO,5,114,22.8,42,1,14,13
+"Crush, C.",OCO,3,46,15.3,33,0,14,13
+"Sunnycursed, N.",OCO,3,38,12.7,20,0,14,13
+"McPoyal, G.",OCO,2,50,25,26,0,14,13
+"Zephyrous, S.",OCO,2,4,2,4,0,14,13

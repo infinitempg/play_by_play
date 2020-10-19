@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,27,85,3.1,14,0
-"Hank, F.",PHI,8,23,2.9,4,0
-"Falconi, A.",PHI,1,3,3,3,0
-"Bigby, L.",BAL,20,87,4.4,11,1
-"Havran, C.",BAL,3,1,0.3,5,0
-"Pancakes, P.",BAL,1,3,3,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,27,85,3.1,14,0,11,19
+"Hank, F.",PHI,8,23,2.9,4,0,11,19
+"Falconi, A.",PHI,1,3,3,3,0,11,19
+"Bigby, L.",BAL,20,87,4.4,11,1,11,19
+"Havran, C.",BAL,3,1,0.3,5,0,11,19
+"Pancakes, P.",BAL,1,3,3,3,0,11,19

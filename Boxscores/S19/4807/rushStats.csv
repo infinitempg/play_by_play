@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Danielsson, A.",CHI,36,121,3.4,11,0
-"Jenkins, R.",CHI,2,5,2.5,5,0
-"Utler, J.",CHI,1,4,4,4,0
-"Bigby, L.",BAL,29,157,5.4,20,0
-"Trevor, C.",BAL,11,42,3.8,11,0
-"Havran, C.",BAL,2,3,1.5,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Danielsson, A.",CHI,36,121,3.4,11,0,1,19
+"Jenkins, R.",CHI,2,5,2.5,5,0,1,19
+"Utler, J.",CHI,1,4,4,4,0,1,19
+"Bigby, L.",BAL,29,157,5.4,20,0,1,19
+"Trevor, C.",BAL,11,42,3.8,11,0,1,19
+"Havran, C.",BAL,2,3,1.5,3,0,1,19

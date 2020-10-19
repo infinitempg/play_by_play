@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",PHI,26,130,5,14,0
-"Falconi, A.",PHI,3,12,4,7,0
-"O'Sullivan, C.",PHI,3,15,5,8,0
-"Hondo, A.",PHI,2,14,7,8,0
-"Mackworthy, R.",AZ,33,123,3.7,13,0
-"Fitzpatrick, K.",AZ,5,18,3.6,15,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",PHI,26,130,5,14,0,11,11
+"Falconi, A.",PHI,3,12,4,7,0,11,11
+"O'Sullivan, C.",PHI,3,15,5,8,0,11,11
+"Hondo, A.",PHI,2,14,7,8,0,11,11
+"Mackworthy, R.",AZ,33,123,3.7,13,0,11,11
+"Fitzpatrick, K.",AZ,5,18,3.6,15,0,11,11

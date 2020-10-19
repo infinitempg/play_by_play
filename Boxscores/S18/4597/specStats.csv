@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Maddox, E.",BAL,3,80,81,46,75,0,0,3
-"Sunnycursed, N.",BAL,2,54,0,33,0,0,0,0
-"Emoji, E.",PHI,0,0,9,0,9,0,0,1
-"Garnett, L.",PHI,1,41,0,41,0,0,0,0
-"Varga, N.",PHI,5,110,0,40,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Maddox, E.",BAL,3,80,81,46,75,0,0,3,9,18
+"Sunnycursed, N.",BAL,2,54,0,33,0,0,0,0,9,18
+"Emoji, E.",PHI,0,0,9,0,9,0,0,1,9,18
+"Garnett, L.",PHI,1,41,0,41,0,0,0,0,9,18
+"Varga, N.",PHI,5,110,0,40,0,0,0,0,9,18

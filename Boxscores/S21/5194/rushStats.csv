@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Williams, D.",BAL,13,54,4.2,10,0
-"Reed, A.",BAL,11,66,6,11,0
-"Havran, C.",BAL,1,1,1,1,0
-"Torenson, S.",PHI,22,102,4.6,21,0
-"Dotson, F.",PHI,9,44,4.9,12,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Williams, D.",BAL,13,54,4.2,10,0,9,21
+"Reed, A.",BAL,11,66,6,11,0,9,21
+"Havran, C.",BAL,1,1,1,1,0,9,21
+"Torenson, S.",PHI,22,102,4.6,21,0,9,21
+"Dotson, F.",PHI,9,44,4.9,12,1,9,21

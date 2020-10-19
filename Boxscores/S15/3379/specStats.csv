@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Fyodorovich, V.",NO,3,79,1,27,1,0,0,1
-"Swift, T.",NO,3,61,0,30,0,0,0,0
-"Flash, X.",SJS,2,33,0,18,0,0,0,0
-"Oles, K.",SJS,2,85,99,45,80,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Fyodorovich, V.",NO,3,79,1,27,1,0,0,1,6,15
+"Swift, T.",NO,3,61,0,30,0,0,0,0,6,15
+"Flash, X.",SJS,2,33,0,18,0,0,0,0,6,15
+"Oles, K.",SJS,2,85,99,45,80,0,0,3,6,15

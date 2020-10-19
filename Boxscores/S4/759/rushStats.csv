@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Burnsman, E.",OCO,7,11,1.6,4,1
-"Jenkins, L.",OCO,7,17,2.4,8,0
-"Yates, J.",SJS,16,48,3,10,0
-"Diaz, D.",SJS,3,5,1.7,4,0
-"Orosz, C.",SJS,2,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Burnsman, E.",OCO,7,11,1.6,4,1,9,4
+"Jenkins, L.",OCO,7,17,2.4,8,0,9,4
+"Yates, J.",SJS,16,48,3,10,0,9,4
+"Diaz, D.",SJS,3,5,1.7,4,0,9,4
+"Orosz, C.",SJS,2,0,0,0,0,9,4

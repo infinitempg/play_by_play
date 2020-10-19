@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lejune, L.",COL,1,43,29,43,12,0,0,3
-"Bishop, J.",COL,2,58,0,36,0,0,0,0
-"Brown, M.",CHI,2,36,0,22,0,0,0,0
-"Oles, K.",CHI,1,31,68,31,34,0,0,6
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lejune, L.",COL,1,43,29,43,12,0,0,3,3,18
+"Bishop, J.",COL,2,58,0,36,0,0,0,0,3,18
+"Brown, M.",CHI,2,36,0,22,0,0,0,0,3,18
+"Oles, K.",CHI,1,31,68,31,34,0,0,6,3,18

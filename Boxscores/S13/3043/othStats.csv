@@ -1,22 +1,22 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Orosz, C.",SJS,1,5,1,0
-"Methane, D.",SJS,1,5,0,0
-"Rucker, F.",SJS,0,0,5,1
-"Probincrux III, D.",SJS,0,0,5,0
-"Jahelpme, H.",SJS,0,0,3,0
-"McKoutchie, M.",SJS,0,0,3,0
-"Tacktheritrix, J.",SJS,0,0,2,0
-"Brannigan, Z.",SJS,0,0,1,0
-"Cox, P.",YKW,1,15,0,0
-"Enchant, E.",YKW,1,5,0,0
-"Jefferson IV, J.",YKW,1,10,0,0
-"Parker, J.",YKW,1,10,0,0
-"Pennington, B.",YKW,1,15,0,0
-"Woodham, A.",YKW,1,5,0,0
-"Mushing, M.",YKW,0,0,5,0
-"Ones, B.",YKW,0,0,5,0
-"Amper, T.",YKW,0,0,4,0
-"Carrasco, T.",YKW,0,0,2,1
-"Pitcher, A.",YKW,0,0,2,0
-"Rchon, A.",YKW,0,0,1,0
-"Wizardry, D.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Orosz, C.",SJS,1,5,1,0,8,13
+"Methane, D.",SJS,1,5,0,0,8,13
+"Rucker, F.",SJS,0,0,5,1,8,13
+"Probincrux III, D.",SJS,0,0,5,0,8,13
+"Jahelpme, H.",SJS,0,0,3,0,8,13
+"McKoutchie, M.",SJS,0,0,3,0,8,13
+"Tacktheritrix, J.",SJS,0,0,2,0,8,13
+"Brannigan, Z.",SJS,0,0,1,0,8,13
+"Cox, P.",YKW,1,15,0,0,8,13
+"Enchant, E.",YKW,1,5,0,0,8,13
+"Jefferson IV, J.",YKW,1,10,0,0,8,13
+"Parker, J.",YKW,1,10,0,0,8,13
+"Pennington, B.",YKW,1,15,0,0,8,13
+"Woodham, A.",YKW,1,5,0,0,8,13
+"Mushing, M.",YKW,0,0,5,0,8,13
+"Ones, B.",YKW,0,0,5,0,8,13
+"Amper, T.",YKW,0,0,4,0,8,13
+"Carrasco, T.",YKW,0,0,2,1,8,13
+"Pitcher, A.",YKW,0,0,2,0,8,13
+"Rchon, A.",YKW,0,0,1,0,8,13
+"Wizardry, D.",YKW,0,0,1,0,8,13

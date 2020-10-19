@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Hayes, V.",CHI,1,15,3,0
-"McCringleberry, H.",CHI,1,15,0,0
-"Vassallo, S.",CHI,1,10,0,0
-"Works, S.",CHI,1,15,0,0
-"Lesnar, B.",CHI,0,0,6,0
-"Bayley Jr., B.",CHI,0,0,5,0
-"Ahstreet, C.",CHI,0,0,4,0
-"LaFleur, F.",CHI,0,0,3,1
-"Tucker Jr., P.",CHI,0,0,3,0
-"Hank, F.",CHI,0,0,1,1
-"Gelbman, T.",CHI,0,0,0,1
-"Hellzapoppin, J.",YKW,1,5,0,0
-"Money, P.",YKW,1,15,0,0
-"Quaid, D.",YKW,1,5,0,0
-"Valdyr, M.",YKW,1,5,0,0
-"Pooky, S.",YKW,0,0,5,0
-"Forty-Two, L.",YKW,0,0,4,0
-"Amper, T.",YKW,0,0,3,0
-"Rchonsucks, A.",YKW,0,0,3,0
-"Ones, B.",YKW,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Hayes, V.",CHI,1,15,3,0,14,23
+"McCringleberry, H.",CHI,1,15,0,0,14,23
+"Vassallo, S.",CHI,1,10,0,0,14,23
+"Works, S.",CHI,1,15,0,0,14,23
+"Lesnar, B.",CHI,0,0,6,0,14,23
+"Bayley Jr., B.",CHI,0,0,5,0,14,23
+"Ahstreet, C.",CHI,0,0,4,0,14,23
+"LaFleur, F.",CHI,0,0,3,1,14,23
+"Tucker Jr., P.",CHI,0,0,3,0,14,23
+"Hank, F.",CHI,0,0,1,1,14,23
+"Gelbman, T.",CHI,0,0,0,1,14,23
+"Hellzapoppin, J.",YKW,1,5,0,0,14,23
+"Money, P.",YKW,1,15,0,0,14,23
+"Quaid, D.",YKW,1,5,0,0,14,23
+"Valdyr, M.",YKW,1,5,0,0,14,23
+"Pooky, S.",YKW,0,0,5,0,14,23
+"Forty-Two, L.",YKW,0,0,4,0,14,23
+"Amper, T.",YKW,0,0,3,0,14,23
+"Rchonsucks, A.",YKW,0,0,3,0,14,23
+"Ones, B.",YKW,0,0,2,0,14,23

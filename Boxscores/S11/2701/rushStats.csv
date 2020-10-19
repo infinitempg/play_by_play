@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",SJS,16,65,4.1,11,0
-"Orosz, C.",SJS,10,36,3.6,12,1
-"Christ, J.",SJS,3,7,2.3,6,0
-"Riddick, D.",SJS,1,2,2,2,0
-"Zephyrous, S.",OCO,10,22,2.2,8,0
-"Adams, R.",OCO,9,29,3.2,7,0
-"Showbiz, G.",OCO,2,3,1.5,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",SJS,16,65,4.1,11,0,8,11
+"Orosz, C.",SJS,10,36,3.6,12,1,8,11
+"Christ, J.",SJS,3,7,2.3,6,0,8,11
+"Riddick, D.",SJS,1,2,2,2,0,8,11
+"Zephyrous, S.",OCO,10,22,2.2,8,0,8,11
+"Adams, R.",OCO,9,29,3.2,7,0,8,11
+"Showbiz, G.",OCO,2,3,1.5,4,0,8,11

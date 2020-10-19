@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Akselsen, M.",YKW,"[20, 31]",290,14.5,3,0,127.1
-"Pierno, N.",COL,"[12, 25]",123,10.2,0,2,29.2
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Akselsen, M.",YKW,290,14.5,3,0,127.1,20,12,13,6
+"Pierno, N.",COL,123,10.2,0,2,29.2,20,12,13,6

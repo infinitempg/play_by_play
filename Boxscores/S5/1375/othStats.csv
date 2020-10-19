@@ -1,26 +1,26 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Chambers III, C.",SJS,1,10,0,0
-"Weston, S.",SJS,1,5,0,0
-"Rucker, F.",SJS,0,0,4,1
-"McKoutchie, M.",SJS,0,0,4,0
-"Jahelpme, H.",SJS,0,0,3,2
-"Probincrux III, D.",SJS,0,0,3,2
-"Tanner, C.",SJS,0,0,3,0
-"Tacktheritrix, J.",SJS,0,0,2,2
-"Smallwood, D.",SJS,0,0,2,0
-"Phelps, R.",OCO,2,15,0,0
-"Johnny-Walker, J.",OCO,1,5,4,0
-"Boss, M.",OCO,1,5,0,0
-"Clegane, G.",OCO,1,5,0,0
-"Cox, V.",OCO,1,6,0,0
-"Spector, M.",OCO,1,15,0,0
-"Verns, D.",OCO,1,5,0,0
-"Westfield, B.",OCO,1,5,0,0
-"Wright Jr, G.",OCO,1,5,0,0
-"Beam, J.",OCO,0,0,4,1
-"Kentucky, D.",OCO,0,0,4,1
-"Durden, J.",OCO,0,0,2,0
-"O'Sullivan, S.",OCO,0,0,2,0
-"Yates, J.",OCO,0,0,2,0
-"Makers, M.",OCO,0,0,1,0
-"Jamison, J.",OCO,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Chambers III, C.",SJS,1,10,0,0,1,5
+"Weston, S.",SJS,1,5,0,0,1,5
+"Rucker, F.",SJS,0,0,4,1,1,5
+"McKoutchie, M.",SJS,0,0,4,0,1,5
+"Jahelpme, H.",SJS,0,0,3,2,1,5
+"Probincrux III, D.",SJS,0,0,3,2,1,5
+"Tanner, C.",SJS,0,0,3,0,1,5
+"Tacktheritrix, J.",SJS,0,0,2,2,1,5
+"Smallwood, D.",SJS,0,0,2,0,1,5
+"Phelps, R.",OCO,2,15,0,0,1,5
+"Johnny-Walker, J.",OCO,1,5,4,0,1,5
+"Boss, M.",OCO,1,5,0,0,1,5
+"Clegane, G.",OCO,1,5,0,0,1,5
+"Cox, V.",OCO,1,6,0,0,1,5
+"Spector, M.",OCO,1,15,0,0,1,5
+"Verns, D.",OCO,1,5,0,0,1,5
+"Westfield, B.",OCO,1,5,0,0,1,5
+"Wright Jr, G.",OCO,1,5,0,0,1,5
+"Beam, J.",OCO,0,0,4,1,1,5
+"Kentucky, D.",OCO,0,0,4,1,1,5
+"Durden, J.",OCO,0,0,2,0,1,5
+"O'Sullivan, S.",OCO,0,0,2,0,1,5
+"Yates, J.",OCO,0,0,2,0,1,5
+"Makers, M.",OCO,0,0,1,0,1,5
+"Jamison, J.",OCO,0,0,0,1,1,5

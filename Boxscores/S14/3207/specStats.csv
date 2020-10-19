@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garnett, L.",PHI,1,108,5,108,3,1,0,2
-"Barnes, B.",PHI,1,43,0,43,0,0,0,0
-"Hardwick, S.",AZ,3,60,0,30,0,0,0,0
-"Hasselhoff, F.",AZ,3,71,27,33,16,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garnett, L.",PHI,1,108,5,108,3,1,0,2,1,14
+"Barnes, B.",PHI,1,43,0,43,0,0,0,0,1,14
+"Hardwick, S.",AZ,3,60,0,30,0,0,0,0,1,14
+"Hasselhoff, F.",AZ,3,71,27,33,16,0,0,3,1,14

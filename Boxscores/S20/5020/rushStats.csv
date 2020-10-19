@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,27,112,4.1,11,0
-"Hank, F.",PHI,9,28,3.1,9,0
-"Dotson, F.",PHI,4,16,4,5,0
-"Phoenix, B.",PHI,2,1,0.5,3,0
-"Hanyadi, M.",YKW,17,74,4.4,11,0
-"Drake, O.",YKW,10,33,3.3,8,0
-"Bigsby, C.",YKW,2,14,7,14,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,27,112,4.1,11,0,10,20
+"Hank, F.",PHI,9,28,3.1,9,0,10,20
+"Dotson, F.",PHI,4,16,4,5,0,10,20
+"Phoenix, B.",PHI,2,1,0.5,3,0,10,20
+"Hanyadi, M.",YKW,17,74,4.4,11,0,10,20
+"Drake, O.",YKW,10,33,3.3,8,0,10,20
+"Bigsby, C.",YKW,2,14,7,14,0,10,20

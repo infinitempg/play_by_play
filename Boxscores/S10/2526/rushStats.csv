@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Grau, M.",COL,17,76,4.5,12,0
-"Taylor, O.",BAL,28,111,4,11,2
-"Blocksdale, A.",BAL,1,67,67,67,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Grau, M.",COL,17,76,4.5,12,0,2,10
+"Taylor, O.",BAL,28,111,4,11,2,2,10
+"Blocksdale, A.",BAL,1,67,67,67,0,2,10

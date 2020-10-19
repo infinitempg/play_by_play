@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Emoji, E.",PHI,0,0,-3,0,0,0,0,1
-"von Matt, J.",PHI,1,17,0,17,0,0,0,0
-"Garnett, L.",PHI,3,70,0,32,0,0,0,0
-"Hornbacher, A.",BAL,0,0,-2,0,0,0,0,1
-"Maddox, E.",BAL,3,84,17,45,17,0,0,2
-"Troyski, X.",BAL,1,24,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Emoji, E.",PHI,0,0,-3,0,0,0,0,1,7,17
+"von Matt, J.",PHI,1,17,0,17,0,0,0,0,7,17
+"Garnett, L.",PHI,3,70,0,32,0,0,0,0,7,17
+"Hornbacher, A.",BAL,0,0,-2,0,0,0,0,1,7,17
+"Maddox, E.",BAL,3,84,17,45,17,0,0,2,7,17
+"Troyski, X.",BAL,1,24,0,24,0,0,0,0,7,17

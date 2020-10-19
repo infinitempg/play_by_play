@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Brill, J.",SJS,1,10,0,0
-"Canton, J.",SJS,1,5,0,0
-"Harrison, S.",SJS,1,5,0,0
-"Jackson, M.",SJS,1,5,0,0
-"Joshua, C.",SJS,1,44,0,0
-"Weston, S.",SJS,1,5,0,0
-"Probincrux III, D.",SJS,0,0,5,0
-"Rucker, F.",SJS,0,0,3,3
-"Jahelpme, H.",SJS,0,0,3,0
-"McKoutchie, M.",SJS,0,0,2,1
-"Diaz, D.",SJS,0,0,1,0
-"Tacktheritrix, J.",SJS,0,0,1,0
-"Ruger, W.",OCO,3,20,4,2
-"Remington, J.",OCO,2,15,6,0
-"Wright Jr, G.",OCO,2,30,0,0
-"Wesson, D.",OCO,1,5,6,0
-"Savage, B.",OCO,1,10,4,0
-"Burnsman, E.",OCO,1,5,0,1
-"Brown, M.",OCO,1,4,0,0
-"Fitzfatrick, R.",OCO,1,15,0,0
-"Smith, W.",OCO,0,0,3,0
-"Yates, J.",OCO,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Brill, J.",SJS,1,10,0,0,2,8
+"Canton, J.",SJS,1,5,0,0,2,8
+"Harrison, S.",SJS,1,5,0,0,2,8
+"Jackson, M.",SJS,1,5,0,0,2,8
+"Joshua, C.",SJS,1,44,0,0,2,8
+"Weston, S.",SJS,1,5,0,0,2,8
+"Probincrux III, D.",SJS,0,0,5,0,2,8
+"Rucker, F.",SJS,0,0,3,3,2,8
+"Jahelpme, H.",SJS,0,0,3,0,2,8
+"McKoutchie, M.",SJS,0,0,2,1,2,8
+"Diaz, D.",SJS,0,0,1,0,2,8
+"Tacktheritrix, J.",SJS,0,0,1,0,2,8
+"Ruger, W.",OCO,3,20,4,2,2,8
+"Remington, J.",OCO,2,15,6,0,2,8
+"Wright Jr, G.",OCO,2,30,0,0,2,8
+"Wesson, D.",OCO,1,5,6,0,2,8
+"Savage, B.",OCO,1,10,4,0,2,8
+"Burnsman, E.",OCO,1,5,0,1,2,8
+"Brown, M.",OCO,1,4,0,0,2,8
+"Fitzfatrick, R.",OCO,1,15,0,0,2,8
+"Smith, W.",OCO,0,0,3,0,2,8
+"Yates, J.",OCO,0,0,3,0,2,8

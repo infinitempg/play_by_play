@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crush, C.",OCO,11,129,11.7,40,0
-"Westfield, B.",OCO,8,101,12.6,28,0
-"Yates, J.",OCO,7,76,10.9,22,0
-"Phelps, R.",OCO,5,28,5.6,7,0
-"Atwell, T.",OCO,4,113,28.2,42,0
-"Winchester, A.",OCO,1,7,7,7,0
-"Evans, D.",NO,6,106,17.7,68,0
-"Law, C.",NO,5,47,9.4,14,1
-"DiMirio, P.",NO,4,44,11,20,1
-"Jackson, M.",NO,2,20,10,10,0
-"Smallwood, D.",NO,2,13,6.5,7,0
-"Savea, A.",NO,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crush, C.",OCO,11,129,11.7,40,0,9,9
+"Westfield, B.",OCO,8,101,12.6,28,0,9,9
+"Yates, J.",OCO,7,76,10.9,22,0,9,9
+"Phelps, R.",OCO,5,28,5.6,7,0,9,9
+"Atwell, T.",OCO,4,113,28.2,42,0,9,9
+"Winchester, A.",OCO,1,7,7,7,0,9,9
+"Evans, D.",NO,6,106,17.7,68,0,9,9
+"Law, C.",NO,5,47,9.4,14,1,9,9
+"DiMirio, P.",NO,4,44,11,20,1,9,9
+"Jackson, M.",NO,2,20,10,10,0,9,9
+"Smallwood, D.",NO,2,13,6.5,7,0,9,9
+"Savea, A.",NO,1,6,6,6,0,9,9

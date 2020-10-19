@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Sidekick, S.",CHI,9,383,42.6,53,0
-"Banana, S.",COL,7,334,47.7,63,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Sidekick, S.",CHI,9,383,42.6,53,0,2,25
+"Banana, S.",COL,7,334,47.7,63,1,2,25

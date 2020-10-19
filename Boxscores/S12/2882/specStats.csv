@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Broxton, J.",OCO,3,69,47,38,19,0,0,4
-"Felix, L.",PHI,0,0,31,0,15,0,0,3
-"Brown, M.",PHI,3,68,0,41,0,0,0,0
-"Bush, C.",PHI,4,74,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Broxton, J.",OCO,3,69,47,38,19,0,0,4,2,12
+"Felix, L.",PHI,0,0,31,0,15,0,0,3,2,12
+"Brown, M.",PHI,3,68,0,41,0,0,0,0,2,12
+"Bush, C.",PHI,4,74,0,42,0,0,0,0,2,12

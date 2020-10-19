@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,19,69,3.6,12,0
-"Pennington, B.",YKW,2,7,3.5,4,0
-"Gore, B.",YKW,1,-1,-1,0,0
-"Smallwood, D.",NO,18,80,4.4,11,0
-"Maximus III, B.",NO,2,19,9.5,12,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,19,69,3.6,12,0,10,10
+"Pennington, B.",YKW,2,7,3.5,4,0,10,10
+"Gore, B.",YKW,1,-1,-1,0,0,10,10
+"Smallwood, D.",NO,18,80,4.4,11,0,10,10
+"Maximus III, B.",NO,2,19,9.5,12,0,10,10

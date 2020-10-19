@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Lim, W.",COL,7,101,14.4,35,2
-"Kingston, J.",COL,5,69,13.8,28,1
-"Sauce, E.",COL,4,36,9,18,0
-"Owens, A.",COL,4,35,8.8,13,0
-"Jenkins, L.",COL,3,17,5.7,8,2
-"Gilbert, R.",COL,3,14,4.7,11,0
-"Bumper, T.",COL,1,19,19,19,0
-"Hayes, V.",CHI,4,13,3.2,5,0
-"O'Leary, S.",CHI,2,63,31.5,36,0
-"Rodriguez, B.",CHI,2,53,26.5,45,0
-"Yoda, B.",CHI,2,45,22.5,39,0
-"Oberwald, G.",CHI,2,15,7.5,8,0
-"Tirtawidjaja, J.",CHI,2,14,7,10,0
-"Gelbman, T.",CHI,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Lim, W.",COL,7,101,14.4,35,2,1,24
+"Kingston, J.",COL,5,69,13.8,28,1,1,24
+"Sauce, E.",COL,4,36,9,18,0,1,24
+"Owens, A.",COL,4,35,8.8,13,0,1,24
+"Jenkins, L.",COL,3,17,5.7,8,2,1,24
+"Gilbert, R.",COL,3,14,4.7,11,0,1,24
+"Bumper, T.",COL,1,19,19,19,0,1,24
+"Hayes, V.",CHI,4,13,3.2,5,0,1,24
+"O'Leary, S.",CHI,2,63,31.5,36,0,1,24
+"Rodriguez, B.",CHI,2,53,26.5,45,0,1,24
+"Yoda, B.",CHI,2,45,22.5,39,0,1,24
+"Oberwald, G.",CHI,2,15,7.5,8,0,1,24
+"Tirtawidjaja, J.",CHI,2,14,7,10,0,1,24
+"Gelbman, T.",CHI,1,8,8,8,0,1,24

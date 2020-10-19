@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Donut, S.",AZ,5,100,20,39,0
-"Evans, H.",AZ,5,63,12.6,23,1
-"Bur'Berry, J.",AZ,3,57,19,31,0
-"Passmann, T.",AZ,3,49,16.3,34,0
-"Petrongolo, J.",AZ,1,10,10,10,0
-"Keppler, Z.",AZ,1,7,7,7,0
-"McCormick, A.",NO,6,67,11.2,19,0
-"Barker, E.",NO,6,65,10.8,13,0
-"Snyder, S.",NO,4,44,11,13,0
-"Toriki, M.",NO,2,17,8.5,12,0
-"Bodenhamer, B.",NO,1,16,16,16,0
-"Gump, F.",NO,1,5,5,5,0
-"Wolfcastle, R.",NO,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Donut, S.",AZ,5,100,20,39,0,14,24
+"Evans, H.",AZ,5,63,12.6,23,1,14,24
+"Bur'Berry, J.",AZ,3,57,19,31,0,14,24
+"Passmann, T.",AZ,3,49,16.3,34,0,14,24
+"Petrongolo, J.",AZ,1,10,10,10,0,14,24
+"Keppler, Z.",AZ,1,7,7,7,0,14,24
+"McCormick, A.",NO,6,67,11.2,19,0,14,24
+"Barker, E.",NO,6,65,10.8,13,0,14,24
+"Snyder, S.",NO,4,44,11,13,0,14,24
+"Toriki, M.",NO,2,17,8.5,12,0,14,24
+"Bodenhamer, B.",NO,1,16,16,16,0,14,24
+"Gump, F.",NO,1,5,5,5,0,14,24
+"Wolfcastle, R.",NO,1,5,5,5,0,14,24

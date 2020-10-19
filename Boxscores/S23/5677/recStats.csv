@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"George, D.",OCO,5,42,8.4,13,0
-"Mongo, H.",OCO,3,53,17.7,23,0
-"Trunks, F.",OCO,2,36,18,31,0
-"Z, D.",OCO,2,12,6,7,0
-"Phillips, J.",OCO,1,14,14,14,1
-"Z, D.",OCO,1,8,8,8,0
-"Nakamura, T.",OCO,1,7,7,7,0
-"Gaines, N.",AUS,3,39,13,24,0
-"Tidwell, R.",AUS,2,26,13,17,0
-"Jeeta, E.",AUS,1,24,24,24,0
-"Mendonca, M.",AUS,1,10,10,10,0
-"Larson, P.",AUS,1,5,5,5,0
-"Jones, K.",AUS,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"George, D.",OCO,5,42,8.4,13,0,14,23
+"Mongo, H.",OCO,3,53,17.7,23,0,14,23
+"Trunks, F.",OCO,2,36,18,31,0,14,23
+"Z, D.",OCO,2,12,6,7,0,14,23
+"Phillips, J.",OCO,1,14,14,14,1,14,23
+"Z, D.",OCO,1,8,8,8,0,14,23
+"Nakamura, T.",OCO,1,7,7,7,0,14,23
+"Gaines, N.",AUS,3,39,13,24,0,14,23
+"Tidwell, R.",AUS,2,26,13,17,0,14,23
+"Jeeta, E.",AUS,1,24,24,24,0,14,23
+"Mendonca, M.",AUS,1,10,10,10,0,14,23
+"Larson, P.",AUS,1,5,5,5,0,14,23
+"Jones, K.",AUS,1,4,4,4,0,14,23

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",PHI,19,104,5.5,23,2
-"Strike, L.",PHI,8,40,5,14,1
-"Falconi, A.",PHI,4,6,1.5,6,0
-"Bush, C.",PHI,1,2,2,2,0
-"Shady, S.",AZ,31,123,4,11,1
-"Fitzpatrick, K.",AZ,3,6,2,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",PHI,19,104,5.5,23,2,12,13
+"Strike, L.",PHI,8,40,5,14,1,12,13
+"Falconi, A.",PHI,4,6,1.5,6,0,12,13
+"Bush, C.",PHI,1,2,2,2,0,12,13
+"Shady, S.",AZ,31,123,4,11,1,12,13
+"Fitzpatrick, K.",AZ,3,6,2,3,0,12,13

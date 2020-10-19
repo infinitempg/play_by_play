@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,25,95,3.8,13,1
-"Dotson, F.",PHI,15,70,4.7,17,0
-"Phoenix, B.",PHI,1,0,0,0,0
-"Cardrissian, R.",SJS,18,76,4.2,15,1
-"Lackson, J.",SJS,16,55,3.4,7,1
-"Jack, M.",SJS,1,8,8,8,0
-"McDavid, L.",SJS,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,25,95,3.8,13,1,6,24
+"Dotson, F.",PHI,15,70,4.7,17,0,6,24
+"Phoenix, B.",PHI,1,0,0,0,0,6,24
+"Cardrissian, R.",SJS,18,76,4.2,15,1,6,24
+"Lackson, J.",SJS,16,55,3.4,7,1,6,24
+"Jack, M.",SJS,1,8,8,8,0,6,24
+"McDavid, L.",SJS,1,0,0,0,0,6,24

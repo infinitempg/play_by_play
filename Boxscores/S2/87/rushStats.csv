@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,20,65,3.2,9,0
-"Cobb, K.",LV,10,22,2.2,6,0
-"Bercovici, J.",LV,2,-4,-2,0,0
-"Mackworthy, R.",ARI,29,89,3.1,10,0
-"Tobin, T.",ARI,2,1,0.5,1,0
-"Bessel, F.",ARI,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,20,65,3.2,9,0,3,2
+"Cobb, K.",LV,10,22,2.2,6,0,3,2
+"Bercovici, J.",LV,2,-4,-2,0,0,3,2
+"Mackworthy, R.",ARI,29,89,3.1,10,0,3,2
+"Tobin, T.",ARI,2,1,0.5,1,0,3,2
+"Bessel, F.",ARI,1,1,1,1,0,3,2

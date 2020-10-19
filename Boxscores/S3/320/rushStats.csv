@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",ARI,23,76,3.3,10,2
-"Tuck, J.",ARI,1,1,1,1,0
-"Farlane, D.",BAL,30,96,3.2,15,0
-"Robinson, M.",BAL,3,12,4,5,0
-"Kyubee, S.",BAL,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",ARI,23,76,3.3,10,2,12,3
+"Tuck, J.",ARI,1,1,1,1,0,12,3
+"Farlane, D.",BAL,30,96,3.2,15,0,12,3
+"Robinson, M.",BAL,3,12,4,5,0,12,3
+"Kyubee, S.",BAL,1,0,0,0,0,12,3

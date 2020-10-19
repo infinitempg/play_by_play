@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mughes, H.",AZ,3,55,0,34,0,0,0,0
-"Morris, R.",AZ,1,0,0,0,0,0,0,0
-"Barnes, B.",AZ,0,0,34,0,12,0,0,3
-"Valentine, V.",AZ,3,84,0,43,0,0,0,0
-"Maddox, E.",BAL,5,132,7,42,7,0,0,1
-"Troyski, X.",BAL,2,47,0,40,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mughes, H.",AZ,3,55,0,34,0,0,0,0,1,17
+"Morris, R.",AZ,1,0,0,0,0,0,0,0,1,17
+"Barnes, B.",AZ,0,0,34,0,12,0,0,3,1,17
+"Valentine, V.",AZ,3,84,0,43,0,0,0,0,1,17
+"Maddox, E.",BAL,5,132,7,42,7,0,0,1,1,17
+"Troyski, X.",BAL,2,47,0,40,0,0,0,0,1,17

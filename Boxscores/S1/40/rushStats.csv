@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bowers Jr, V.",SJS,20,63,3.2,11,1
-"Wiley, D.",SJS,8,34,4.2,7,0
-"Hunt, E.",SJS,1,0,0,0,0
-"Newman, M.",ARI,12,17,1.4,4,0
-"Durden, J.",ARI,9,50,5.6,11,0
-"Mackworthy, R.",ARI,6,19,3.2,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bowers Jr, V.",SJS,20,63,3.2,11,1,10,1
+"Wiley, D.",SJS,8,34,4.2,7,0,10,1
+"Hunt, E.",SJS,1,0,0,0,0,10,1
+"Newman, M.",ARI,12,17,1.4,4,0,10,1
+"Durden, J.",ARI,9,50,5.6,11,0,10,1
+"Mackworthy, R.",ARI,6,19,3.2,7,0,10,1

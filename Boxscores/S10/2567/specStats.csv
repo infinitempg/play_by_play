@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,0,0,28,0,18,0,0,2
-"Kennedy, E.",YKW,1,31,0,31,0,0,0,0
-"Westfield, B.",OCO,2,24,0,14,0,0,0,0
-"Broxton, J.",OCO,4,51,23,27,9,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,0,0,28,0,18,0,0,2,12,10
+"Kennedy, E.",YKW,1,31,0,31,0,0,0,0,12,10
+"Westfield, B.",OCO,2,24,0,14,0,0,0,0,12,10
+"Broxton, J.",OCO,4,51,23,27,9,0,0,3,12,10

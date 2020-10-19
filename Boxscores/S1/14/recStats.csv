@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, R.",YKW,7,44,6.3,14,0
-"LeClair, A.",YKW,6,122,20.3,47,0
-"Garden, J.",YKW,6,103,17.2,40,1
-"Nuck, B.",YKW,4,13,3.2,5,0
-"Sanderson, J.",YKW,2,9,4.5,5,0
-"North, F.",YKW,1,2,2,2,0
-"West, D.",BAL,6,51,8.5,17,1
-"Tenzini, G.",BAL,5,21,4.2,9,0
-"Christmas, C.",BAL,1,17,17,17,0
-"Lecavalier, R.",BAL,1,7,7,7,0
-"Piper, W.",BAL,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, R.",YKW,7,44,6.3,14,0,11,1
+"LeClair, A.",YKW,6,122,20.3,47,0,11,1
+"Garden, J.",YKW,6,103,17.2,40,1,11,1
+"Nuck, B.",YKW,4,13,3.2,5,0,11,1
+"Sanderson, J.",YKW,2,9,4.5,5,0,11,1
+"North, F.",YKW,1,2,2,2,0,11,1
+"West, D.",BAL,6,51,8.5,17,1,11,1
+"Tenzini, G.",BAL,5,21,4.2,9,0,11,1
+"Christmas, C.",BAL,1,17,17,17,0,11,1
+"Lecavalier, R.",BAL,1,7,7,7,0,11,1
+"Piper, W.",BAL,1,3,3,3,0,11,1

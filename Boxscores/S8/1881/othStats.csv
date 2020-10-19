@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Star, L.",BAL,1,5,4,0
-"Diggler, D.",BAL,1,15,3,0
-"L'Alto, V.",BAL,1,15,1,0
-"Asipi Jr., A.",BAL,1,5,0,0
-"Broadway, E.",BAL,1,5,0,0
-"Jeremy, R.",BAL,0,0,6,0
-"Steele, R.",BAL,0,0,3,0
-"Grey, S.",BAL,0,0,1,1
-"Taylor, O.",BAL,0,0,1,0
-"Chambers III, C.",SJS,1,5,0,0
-"Okonkwo, C.",SJS,1,10,0,0
-"Tuck Jr., T.",SJS,1,5,0,0
-"Tacktheritrix, J.",SJS,0,0,9,0
-"McKoutchie, M.",SJS,0,0,6,1
-"Rucker, F.",SJS,0,0,5,2
-"Probincrux III, D.",SJS,0,0,4,0
-"Petrakis, A.",SJS,0,0,2,0
-"Riddick, D.",SJS,0,0,1,0
-"Diaz, D.",SJS,0,0,1,0
-"Jahelpme, H.",SJS,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Star, L.",BAL,1,5,4,0,1,8
+"Diggler, D.",BAL,1,15,3,0,1,8
+"L'Alto, V.",BAL,1,15,1,0,1,8
+"Asipi Jr., A.",BAL,1,5,0,0,1,8
+"Broadway, E.",BAL,1,5,0,0,1,8
+"Jeremy, R.",BAL,0,0,6,0,1,8
+"Steele, R.",BAL,0,0,3,0,1,8
+"Grey, S.",BAL,0,0,1,1,1,8
+"Taylor, O.",BAL,0,0,1,0,1,8
+"Chambers III, C.",SJS,1,5,0,0,1,8
+"Okonkwo, C.",SJS,1,10,0,0,1,8
+"Tuck Jr., T.",SJS,1,5,0,0,1,8
+"Tacktheritrix, J.",SJS,0,0,9,0,1,8
+"McKoutchie, M.",SJS,0,0,6,1,1,8
+"Rucker, F.",SJS,0,0,5,2,1,8
+"Probincrux III, D.",SJS,0,0,4,0,1,8
+"Petrakis, A.",SJS,0,0,2,0,1,8
+"Riddick, D.",SJS,0,0,1,0,1,8
+"Diaz, D.",SJS,0,0,1,0,1,8
+"Jahelpme, H.",SJS,0,0,0,1,1,8

@@ -1,10 +1,10 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Toriki, M.",SJS,27,113,4.2,13,1
-"Orosz, C.",SJS,7,28,4,9,1
-"Wright, D.",SJS,5,29,5.8,11,1
-"Boija, F.",SJS,2,13,6.5,9,0
-"Bot, B.",SJS,1,1,1,1,0
-"Brown, M.",CHI,35,131,3.7,10,1
-"Danielsson, A.",CHI,7,22,3.1,6,1
-"Utler, J.",CHI,5,8,1.6,6,0
-"Jenkins, R.",CHI,1,9,9,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Toriki, M.",SJS,27,113,4.2,13,1,11,18
+"Orosz, C.",SJS,7,28,4,9,1,11,18
+"Wright, D.",SJS,5,29,5.8,11,1,11,18
+"Boija, F.",SJS,2,13,6.5,9,0,11,18
+"Bot, B.",SJS,1,1,1,1,0,11,18
+"Brown, M.",CHI,35,131,3.7,10,1,11,18
+"Danielsson, A.",CHI,7,22,3.1,6,1,11,18
+"Utler, J.",CHI,5,8,1.6,6,0,11,18
+"Jenkins, R.",CHI,1,9,9,9,0,11,18

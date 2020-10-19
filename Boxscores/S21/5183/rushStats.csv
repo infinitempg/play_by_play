@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,13,60,4.6,11,0
-"Toriki, M.",NO,10,49,4.9,9,0
-"Francisco, S.",NO,1,5,5,5,0
-"Tyerucker, Q.",SJS,23,118,5.1,11,0
-"Cardrissian, R.",SJS,9,49,5.4,14,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,13,60,4.6,11,0,6,21
+"Toriki, M.",NO,10,49,4.9,9,0,6,21
+"Francisco, S.",NO,1,5,5,5,0,6,21
+"Tyerucker, Q.",SJS,23,118,5.1,11,0,6,21
+"Cardrissian, R.",SJS,9,49,5.4,14,0,6,21

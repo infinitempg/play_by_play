@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Torenson, S.",PHI,1,31,0,31,0,0,0,0
-"Panda, F.",PHI,4,75,3,40,7,0,0,3
-"Owens, A.",COL,4,93,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Torenson, S.",PHI,1,31,0,31,0,0,0,0,5,24
+"Panda, F.",PHI,4,75,3,40,7,0,0,3,5,24
+"Owens, A.",COL,4,93,0,31,0,0,0,0,5,24

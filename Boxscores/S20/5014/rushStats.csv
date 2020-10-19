@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,25,107,4.3,13,0
-"Toriki, M.",NO,7,28,4,8,0
-"Mendonca, M.",AUS,22,82,3.7,11,1
-"Cole, E.",AUS,6,55,9.2,36,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,25,107,4.3,13,0,9,20
+"Toriki, M.",NO,7,28,4,8,0,9,20
+"Mendonca, M.",AUS,22,82,3.7,11,1,9,20
+"Cole, E.",AUS,6,55,9.2,36,1,9,20

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Donut, S.",AZ,3,104,0,40,0,0,0,0
-"Knight, L.",AZ,1,34,46,34,14,0,0,4
-"Lavelle Jr., D.",AUS,3,57,38,35,20,0,0,4
-"Moreno, V.",AUS,3,60,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Donut, S.",AZ,3,104,0,40,0,0,0,0,2,21
+"Knight, L.",AZ,1,34,46,34,14,0,0,4,2,21
+"Lavelle Jr., D.",AUS,3,57,38,35,20,0,0,4,2,21
+"Moreno, V.",AUS,3,60,0,31,0,0,0,0,2,21

@@ -1,8 +1,8 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McDavid, L.",SJS,7,76,10.9,17,0
-"Jackson, A.",SJS,5,64,12.8,23,0
-"Thomas-Fox, D.",SJS,5,53,10.6,27,0
-"Mongo, H.",OCO,6,54,9,16,0
-"Kurisuto, R.",OCO,3,56,18.7,40,0
-"Banks II, D.",OCO,3,48,16,24,1
-"Blaze, J.",OCO,2,38,19,30,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McDavid, L.",SJS,7,76,10.9,17,0,9,21
+"Jackson, A.",SJS,5,64,12.8,23,0,9,21
+"Thomas-Fox, D.",SJS,5,53,10.6,27,0,9,21
+"Mongo, H.",OCO,6,54,9,16,0,9,21
+"Kurisuto, R.",OCO,3,56,18.7,40,0,9,21
+"Banks II, D.",OCO,3,48,16,24,1,9,21
+"Blaze, J.",OCO,2,38,19,30,1,9,21

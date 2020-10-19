@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Petrakis, A.",OCO,1,0,0,0,0,0,0,0
-"Westfield, B.",OCO,0,0,50,0,20,0,0,7
-"Yates, J.",OCO,2,73,0,42,0,0,0,0
-"Mackworthy, R.",AZ,6,120,0,33,0,0,0,0
-"Hayden, A.",AZ,1,30,4,30,4,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Petrakis, A.",OCO,1,0,0,0,0,0,0,0,13,5
+"Westfield, B.",OCO,0,0,50,0,20,0,0,7,13,5
+"Yates, J.",OCO,2,73,0,42,0,0,0,0,13,5
+"Mackworthy, R.",AZ,6,120,0,33,0,0,0,0,13,5
+"Hayden, A.",AZ,1,30,4,30,4,0,0,1,13,5

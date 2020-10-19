@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,18,103,5.7,18,1
-"Blocksdale, A.",BAL,1,2,2,2,0
-"Nuck, B.",COL,8,43,5.4,8,0
-"Applehort, R.",COL,6,-1,-0.2,2,0
-"Joyce, S.",COL,5,26,5.2,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,18,103,5.7,18,1,14,7
+"Blocksdale, A.",BAL,1,2,2,2,0,14,7
+"Nuck, B.",COL,8,43,5.4,8,0,14,7
+"Applehort, R.",COL,6,-1,-0.2,2,0,14,7
+"Joyce, S.",COL,5,26,5.2,9,0,14,7

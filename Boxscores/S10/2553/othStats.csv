@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Hayes, R.",PHI,1,5,5,0
-"O'Sullivan, S.",PHI,1,5,5,0
-"Hayden, A.",PHI,1,15,0,0
-"Verns, D.",PHI,1,5,0,0
-"Tyler, J.",PHI,0,0,3,1
-"Van Buren, M.",PHI,0,0,2,0
-"Fillmore, M.",PHI,0,0,1,0
-"Arthur, C.",PHI,0,0,0,2
-"King, G.",NO,1,10,0,0
-"O'Sullivan, J.",NO,1,5,0,0
-"Ruffins, K.",NO,0,0,8,0
-"Ory, K.",NO,0,0,6,1
-"Roll, J.",NO,0,0,6,1
-"Bolden, B.",NO,0,0,5,0
-"Armstrong, L.",NO,0,0,4,0
-"Savea, A.",NO,0,0,4,0
-"DiMirio, P.",NO,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Hayes, R.",PHI,1,5,5,0,8,10
+"O'Sullivan, S.",PHI,1,5,5,0,8,10
+"Hayden, A.",PHI,1,15,0,0,8,10
+"Verns, D.",PHI,1,5,0,0,8,10
+"Tyler, J.",PHI,0,0,3,1,8,10
+"Van Buren, M.",PHI,0,0,2,0,8,10
+"Fillmore, M.",PHI,0,0,1,0,8,10
+"Arthur, C.",PHI,0,0,0,2,8,10
+"King, G.",NO,1,10,0,0,8,10
+"O'Sullivan, J.",NO,1,5,0,0,8,10
+"Ruffins, K.",NO,0,0,8,0,8,10
+"Ory, K.",NO,0,0,6,1,8,10
+"Roll, J.",NO,0,0,6,1,8,10
+"Bolden, B.",NO,0,0,5,0,8,10
+"Armstrong, L.",NO,0,0,4,0,8,10
+"Savea, A.",NO,0,0,4,0,8,10
+"DiMirio, P.",NO,0,0,2,0,8,10

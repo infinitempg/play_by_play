@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Louis, L.",PHI,7,340,48.6,58,3
-"Banana, S.",COL,7,284,40.6,51,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Louis, L.",PHI,7,340,48.6,58,3,12,23
+"Banana, S.",COL,7,284,40.6,51,0,12,23

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, E.",BAL,4,65,16.2,23,1
-"Quinn, A.",BAL,3,52,17.3,25,1
-"Kross, C.",BAL,3,24,8,11,0
-"Lewandowski, J.",BAL,3,17,5.7,8,0
-"Skuff, R.",BAL,2,14,7,8,0
-"Williams, D.",BAL,2,7,3.5,5,0
-"Reed, A.",BAL,1,19,19,19,0
-"O'Leary, S.",CHI,7,66,9.4,13,0
-"Hayes, V.",CHI,3,32,10.7,19,0
-"Hank, F.",CHI,2,14,7,12,0
-"Davis, J.",CHI,1,7,7,7,0
-"Tirtawidjaja, J.",CHI,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, E.",BAL,4,65,16.2,23,1,10,22
+"Quinn, A.",BAL,3,52,17.3,25,1,10,22
+"Kross, C.",BAL,3,24,8,11,0,10,22
+"Lewandowski, J.",BAL,3,17,5.7,8,0,10,22
+"Skuff, R.",BAL,2,14,7,8,0,10,22
+"Williams, D.",BAL,2,7,3.5,5,0,10,22
+"Reed, A.",BAL,1,19,19,19,0,10,22
+"O'Leary, S.",CHI,7,66,9.4,13,0,10,22
+"Hayes, V.",CHI,3,32,10.7,19,0,10,22
+"Hank, F.",CHI,2,14,7,12,0,10,22
+"Davis, J.",CHI,1,7,7,7,0,10,22
+"Tirtawidjaja, J.",CHI,1,6,6,6,0,10,22

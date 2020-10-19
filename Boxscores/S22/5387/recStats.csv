@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Banks II, D.",SAR,6,64,10.7,18,0
-"Blaze, J.",SAR,5,45,9,17,1
-"Frost, D.",SAR,5,20,4,6,0
-"Gordon, R.",SAR,4,59,14.8,29,0
-"Witheblock, M.",SAR,3,34,11.3,17,0
-"McTaco, P.",SAR,1,5,5,5,0
-"Hank, F.",CHI,6,81,13.5,23,0
-"O'Leary, S.",CHI,4,56,14,29,0
-"Hayes, V.",CHI,3,21,7,11,0
-"Tirtawidjaja, J.",CHI,1,16,16,16,0
-"Davis, J.",CHI,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Banks II, D.",SAR,6,64,10.7,18,0,5,22
+"Blaze, J.",SAR,5,45,9,17,1,5,22
+"Frost, D.",SAR,5,20,4,6,0,5,22
+"Gordon, R.",SAR,4,59,14.8,29,0,5,22
+"Witheblock, M.",SAR,3,34,11.3,17,0,5,22
+"McTaco, P.",SAR,1,5,5,5,0,5,22
+"Hank, F.",CHI,6,81,13.5,23,0,5,22
+"O'Leary, S.",CHI,4,56,14,29,0,5,22
+"Hayes, V.",CHI,3,21,7,11,0,5,22
+"Tirtawidjaja, J.",CHI,1,16,16,16,0,5,22
+"Davis, J.",CHI,1,7,7,7,0,5,22

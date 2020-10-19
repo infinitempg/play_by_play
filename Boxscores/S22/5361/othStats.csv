@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Gimmy, I.",PHI,1,4,0,0
-"Vuxta, R.",PHI,1,5,0,0
-"Fillmore, M.",PHI,0,0,5,0
-"Tyler, J.",PHI,0,0,5,0
-"Arthur, C.",PHI,0,0,4,0
-"Dotson, F.",PHI,0,0,4,0
-"Hayes, R.",PHI,0,0,4,0
-"Van Buren, M.",PHI,0,0,3,0
-"Blocksdale Jr., A.",PHI,0,0,1,1
-"Tirtawidjaja, J.",CHI,2,12,1,0
-"Ahstreet, C.",CHI,1,5,5,0
-"Lesnar, B.",CHI,1,4,3,0
-"Davis, J.",CHI,1,5,0,0
-"Firestorm-Fjord, O.",CHI,1,5,0,0
-"Skarsgard, T.",CHI,1,15,0,0
-"Blockley, C.",CHI,0,0,5,2
-"Foxtrot, B.",CHI,0,0,3,0
-"Hayes, V.",CHI,0,0,1,1
-"Bacon, C.",CHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Gimmy, I.",PHI,1,4,0,0,1,22
+"Vuxta, R.",PHI,1,5,0,0,1,22
+"Fillmore, M.",PHI,0,0,5,0,1,22
+"Tyler, J.",PHI,0,0,5,0,1,22
+"Arthur, C.",PHI,0,0,4,0,1,22
+"Dotson, F.",PHI,0,0,4,0,1,22
+"Hayes, R.",PHI,0,0,4,0,1,22
+"Van Buren, M.",PHI,0,0,3,0,1,22
+"Blocksdale Jr., A.",PHI,0,0,1,1,1,22
+"Tirtawidjaja, J.",CHI,2,12,1,0,1,22
+"Ahstreet, C.",CHI,1,5,5,0,1,22
+"Lesnar, B.",CHI,1,4,3,0,1,22
+"Davis, J.",CHI,1,5,0,0,1,22
+"Firestorm-Fjord, O.",CHI,1,5,0,0,1,22
+"Skarsgard, T.",CHI,1,15,0,0,1,22
+"Blockley, C.",CHI,0,0,5,2,1,22
+"Foxtrot, B.",CHI,0,0,3,0,1,22
+"Hayes, V.",CHI,0,0,1,1,1,22
+"Bacon, C.",CHI,0,0,1,0,1,22

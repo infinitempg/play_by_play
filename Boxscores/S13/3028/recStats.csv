@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Miller, H.",COL,8,128,16,28,1
-"Bishop, J.",COL,7,131,18.7,37,0
-"L'Alto, V.",COL,5,91,18.2,27,2
-"LaMelllana, S.",COL,4,40,10,19,0
-"Cansino, D.",COL,3,24,8,10,0
-"Grau, M.",COL,1,13,13,13,0
-"Chipmunk, A.",COL,1,4,4,4,0
-"Bush, C.",PHI,5,70,14,27,0
-"Batoff, R.",PHI,4,20,5,7,0
-"von Matt, J.",PHI,2,53,26.5,37,0
-"Strike, L.",PHI,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Miller, H.",COL,8,128,16,28,1,5,13
+"Bishop, J.",COL,7,131,18.7,37,0,5,13
+"L'Alto, V.",COL,5,91,18.2,27,2,5,13
+"LaMelllana, S.",COL,4,40,10,19,0,5,13
+"Cansino, D.",COL,3,24,8,10,0,5,13
+"Grau, M.",COL,1,13,13,13,0,5,13
+"Chipmunk, A.",COL,1,4,4,4,0,5,13
+"Bush, C.",PHI,5,70,14,27,0,5,13
+"Batoff, R.",PHI,4,20,5,7,0,5,13
+"von Matt, J.",PHI,2,53,26.5,37,0,5,13
+"Strike, L.",PHI,1,6,6,6,0,5,13

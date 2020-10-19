@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",OCO,13,67,5.2,13,1
-"Burnsman, E.",OCO,4,23,5.8,11,1
-"Bush, C.",PHI,10,45,4.5,10,0
-"Farlane, D.",PHI,8,48,6,14,1
-"O'Connell, K.",PHI,1,9,9,9,0
-"Oles, T.",PHI,1,10,10,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",OCO,13,67,5.2,13,1,9,8
+"Burnsman, E.",OCO,4,23,5.8,11,1,9,8
+"Bush, C.",PHI,10,45,4.5,10,0,9,8
+"Farlane, D.",PHI,8,48,6,14,1,9,8
+"O'Connell, K.",PHI,1,9,9,9,0,9,8
+"Oles, T.",PHI,1,10,10,10,0,9,8

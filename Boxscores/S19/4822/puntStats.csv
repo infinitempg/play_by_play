@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Harris Jr, S.",COL,5,210,42,48,2
-"Donaldson, N.",YKW,7,317,45.3,55,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Harris Jr, S.",COL,5,210,42,48,2,4,19
+"Donaldson, N.",YKW,7,317,45.3,55,0,4,19

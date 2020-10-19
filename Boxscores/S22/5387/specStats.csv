@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gordon, R.",SAR,3,45,0,24,0,0,0,0
-"Knight, L.",SAR,0,0,8,0,8,0,0,1
-"O'Leary, S.",CHI,3,37,0,20,0,0,0,0
-"Firestorm-Fjord, O.",CHI,1,26,0,26,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gordon, R.",SAR,3,45,0,24,0,0,0,0,5,22
+"Knight, L.",SAR,0,0,8,0,8,0,0,1,5,22
+"O'Leary, S.",CHI,3,37,0,20,0,0,0,0,5,22
+"Firestorm-Fjord, O.",CHI,1,26,0,26,0,0,0,0,5,22

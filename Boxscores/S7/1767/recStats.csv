@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Westfield, B.",OCO,8,101,12.6,40,2
-"Phelps, R.",OCO,6,116,19.3,43,0
-"O'Sullivan, S.",OCO,5,19,3.8,9,0
-"Yates, J.",OCO,4,35,8.8,11,0
-"Burnsman, E.",OCO,2,7,3.5,6,0
-"Cook, B.",YKW,7,84,12,25,0
-"McPoyal, G.",YKW,7,61,8.7,16,0
-"Kennedy, E.",YKW,6,62,10.3,15,0
-"Rainey, R.",YKW,3,31,10.3,12,0
-"Harris Jr., F.",YKW,3,10,3.3,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Westfield, B.",OCO,8,101,12.6,40,2,10,7
+"Phelps, R.",OCO,6,116,19.3,43,0,10,7
+"O'Sullivan, S.",OCO,5,19,3.8,9,0,10,7
+"Yates, J.",OCO,4,35,8.8,11,0,10,7
+"Burnsman, E.",OCO,2,7,3.5,6,0,10,7
+"Cook, B.",YKW,7,84,12,25,0,10,7
+"McPoyal, G.",YKW,7,61,8.7,16,0,10,7
+"Kennedy, E.",YKW,6,62,10.3,15,0,10,7
+"Rainey, R.",YKW,3,31,10.3,12,0,10,7
+"Harris Jr., F.",YKW,3,10,3.3,5,0,10,7

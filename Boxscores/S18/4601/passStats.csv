@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Wright, D.",SJS,"[14, 27]",172,12.3,1,2,53.3
-"Armstrong, F.",OCO,"[17, 27]",215,12.6,2,2,81.6
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Wright, D.",SJS,172,12.3,1,2,53.3,14,17,9,18
+"Armstrong, F.",OCO,215,12.6,2,2,81.6,14,17,9,18

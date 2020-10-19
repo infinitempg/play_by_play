@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"McDummy, W.",COL,10,34,3.4,12,0
-"Owens, A.",COL,9,24,2.7,9,0
-"Vincent, M.",COL,7,46,6.6,21,1
-"Williams, D.",BAL,17,59,3.5,9,0
-"Reed, A.",BAL,15,72,4.8,13,0
-"Havran, C.",BAL,2,4,2,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"McDummy, W.",COL,10,34,3.4,12,0,7,21
+"Owens, A.",COL,9,24,2.7,9,0,7,21
+"Vincent, M.",COL,7,46,6.6,21,1,7,21
+"Williams, D.",BAL,17,59,3.5,9,0,7,21
+"Reed, A.",BAL,15,72,4.8,13,0,7,21
+"Havran, C.",BAL,2,4,2,3,0,7,21

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",SJS,18,91,5.1,41,0
-"Orosz, C.",SJS,11,48,4.4,11,0
-"Grau, M.",COL,10,41,4.1,10,0
-"Cansino, D.",COL,8,27,3.4,6,0
-"McCormick, M.",COL,7,25,3.6,17,1
-"Strike, L.",COL,7,30,4.3,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",SJS,18,91,5.1,41,0,12,12
+"Orosz, C.",SJS,11,48,4.4,11,0,12,12
+"Grau, M.",COL,10,41,4.1,10,0,12,12
+"Cansino, D.",COL,8,27,3.4,6,0,12,12
+"McCormick, M.",COL,7,25,3.6,17,1,12,12
+"Strike, L.",COL,7,30,4.3,8,0,12,12

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gump, F.",NO,8,78,9.8,26,0
-"McCormick, A.",NO,6,73,12.2,28,0
-"Rodriguez, B.",NO,6,62,10.3,17,1
-"Jones, B.",NO,5,68,13.6,23,2
-"Podolak, J.",NO,3,77,25.7,59,2
-"Toriki, M.",NO,1,-1,-1,0,0
-"O'Leary, S.",CHI,8,111,13.9,37,1
-"Espeeyeeseetee, A.",CHI,8,104,13,29,2
-"James-Jones, S.",CHI,7,64,9.1,31,0
-"Parker, J.",CHI,3,25,8.3,9,0
-"Utler, J.",CHI,3,16,5.3,7,0
-"Danielsson, A.",CHI,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gump, F.",NO,8,78,9.8,26,0,10,20
+"McCormick, A.",NO,6,73,12.2,28,0,10,20
+"Rodriguez, B.",NO,6,62,10.3,17,1,10,20
+"Jones, B.",NO,5,68,13.6,23,2,10,20
+"Podolak, J.",NO,3,77,25.7,59,2,10,20
+"Toriki, M.",NO,1,-1,-1,0,0,10,20
+"O'Leary, S.",CHI,8,111,13.9,37,1,10,20
+"Espeeyeeseetee, A.",CHI,8,104,13,29,2,10,20
+"James-Jones, S.",CHI,7,64,9.1,31,0,10,20
+"Parker, J.",CHI,3,25,8.3,9,0,10,20
+"Utler, J.",CHI,3,16,5.3,7,0,10,20
+"Danielsson, A.",CHI,1,1,1,1,0,10,20

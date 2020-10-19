@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Owens, A.",COL,20,82,4.1,13,0
-"Bumper, T.",COL,13,48,3.7,10,1
-"McDummy, W.",COL,6,51,8.5,17,0
-"Gilbert, R.",COL,5,22,4.4,10,0
-"Nakamura, T.",OCO,19,60,3.2,8,0
-"McZeal, K.",OCO,4,27,6.8,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Owens, A.",COL,20,82,4.1,13,0,6,24
+"Bumper, T.",COL,13,48,3.7,10,1,6,24
+"McDummy, W.",COL,6,51,8.5,17,0,6,24
+"Gilbert, R.",COL,5,22,4.4,10,0,6,24
+"Nakamura, T.",OCO,19,60,3.2,8,0,6,24
+"McZeal, K.",OCO,4,27,6.8,11,0,6,24

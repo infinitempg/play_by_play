@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Kroetch, D.",PHI,1,7,1,0
-"Browning, B.",PHI,1,7,0,0
-"Arthur, C.",PHI,0,0,4,1
-"Hayes, R.",PHI,0,0,4,0
-"Van Buren, M.",PHI,0,0,3,1
-"Tyler, J.",PHI,0,0,3,0
-"DiMirio, P.",PHI,0,0,2,0
-"Filmore, M.",PHI,0,0,2,0
-"Ones, B.",YKW,1,10,7,1
-"Jarden, G.",YKW,1,5,0,0
-"Law, D.",YKW,1,5,0,0
-"Amper, T.",YKW,0,0,5,0
-"Mushing, M.",YKW,0,0,5,0
-"Pooky, S.",YKW,0,0,4,0
-"Rchon, A.",YKW,0,0,4,0
-"Kennedy, E.",YKW,0,0,3,0
-"Askins, J.",YKW,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Kroetch, D.",PHI,1,7,1,0,13,4
+"Browning, B.",PHI,1,7,0,0,13,4
+"Arthur, C.",PHI,0,0,4,1,13,4
+"Hayes, R.",PHI,0,0,4,0,13,4
+"Van Buren, M.",PHI,0,0,3,1,13,4
+"Tyler, J.",PHI,0,0,3,0,13,4
+"DiMirio, P.",PHI,0,0,2,0,13,4
+"Filmore, M.",PHI,0,0,2,0,13,4
+"Ones, B.",YKW,1,10,7,1,13,4
+"Jarden, G.",YKW,1,5,0,0,13,4
+"Law, D.",YKW,1,5,0,0,13,4
+"Amper, T.",YKW,0,0,5,0,13,4
+"Mushing, M.",YKW,0,0,5,0,13,4
+"Pooky, S.",YKW,0,0,4,0,13,4
+"Rchon, A.",YKW,0,0,4,0,13,4
+"Kennedy, E.",YKW,0,0,3,0,13,4
+"Askins, J.",YKW,0,0,2,0,13,4

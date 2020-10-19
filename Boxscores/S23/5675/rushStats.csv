@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"McDummy, W.",COL,8,36,4.5,20,0
-"Gilbert, R.",COL,7,51,7.3,16,2
-"Owens, A.",COL,7,13,1.9,5,0
-"Banks II, D.",SAR,11,44,4,13,1
-"Frost, D.",SAR,11,51,4.6,12,0
-"Back, R.",SAR,9,28,3.1,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"McDummy, W.",COL,8,36,4.5,20,0,14,23
+"Gilbert, R.",COL,7,51,7.3,16,2,14,23
+"Owens, A.",COL,7,13,1.9,5,0,14,23
+"Banks II, D.",SAR,11,44,4,13,1,14,23
+"Frost, D.",SAR,11,51,4.6,12,0,14,23
+"Back, R.",SAR,9,28,3.1,6,0,14,23

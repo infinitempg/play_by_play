@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Jeremy, R.",BAL,1,5,5,0
-"Diggler, D.",BAL,1,5,2,0
-"Grey, S.",BAL,0,0,7,0
-"Steele, R.",BAL,0,0,6,0
-"L'Alto, V.",BAL,0,0,4,0
-"Star, L.",BAL,0,0,3,0
-"Tyler, J.",PHI,1,5,2,0
-"Garnett, L.",PHI,1,5,0,0
-"Verden, J.",PHI,1,5,0,0
-"Van Buren, M.",PHI,0,0,9,0
-"Fillmore, M.",PHI,0,0,6,0
-"Arthur, C.",PHI,0,0,5,0
-"Brannigan, Z.",PHI,0,0,2,0
-"Hayes, R.",PHI,0,0,2,0
-"Hank, F.",PHI,0,0,0,1
-"Jones, V.",PHI,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Jeremy, R.",BAL,1,5,5,0,3,16
+"Diggler, D.",BAL,1,5,2,0,3,16
+"Grey, S.",BAL,0,0,7,0,3,16
+"Steele, R.",BAL,0,0,6,0,3,16
+"L'Alto, V.",BAL,0,0,4,0,3,16
+"Star, L.",BAL,0,0,3,0,3,16
+"Tyler, J.",PHI,1,5,2,0,3,16
+"Garnett, L.",PHI,1,5,0,0,3,16
+"Verden, J.",PHI,1,5,0,0,3,16
+"Van Buren, M.",PHI,0,0,9,0,3,16
+"Fillmore, M.",PHI,0,0,6,0,3,16
+"Arthur, C.",PHI,0,0,5,0,3,16
+"Brannigan, Z.",PHI,0,0,2,0,3,16
+"Hayes, R.",PHI,0,0,2,0,3,16
+"Hank, F.",PHI,0,0,0,1,3,16
+"Jones, V.",PHI,0,0,0,1,3,16

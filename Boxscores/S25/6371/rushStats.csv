@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Watts, Z.",AUS,16,56,3.5,11,3
-"Cole, E.",AUS,4,7,1.8,4,0
-"Jones, K.",AUS,4,14,3.5,6,0
-"Kane-Maika'i, K.",HON,9,30,3.3,8,1
-"Ayers, N.",HON,7,40,5.7,13,0
-"Skywalker, L.",HON,2,23,11.5,17,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Watts, Z.",AUS,16,56,3.5,11,3,1,25
+"Cole, E.",AUS,4,7,1.8,4,0,1,25
+"Jones, K.",AUS,4,14,3.5,6,0,1,25
+"Kane-Maika'i, K.",HON,9,30,3.3,8,1,1,25
+"Ayers, N.",HON,7,40,5.7,13,0,1,25
+"Skywalker, L.",HON,2,23,11.5,17,0,1,25

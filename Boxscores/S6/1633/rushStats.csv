@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Diaz, D.",SJS,14,35,2.5,5,0
-"Smallwood, D.",SJS,9,54,6,14,1
-"Orosz, C.",SJS,1,6,6,6,0
-"Mackworthy, R.",AZ,20,73,3.6,10,2
-"Bronko, K.",AZ,2,50,25,28,0
-"Asipi Jr., A.",AZ,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Diaz, D.",SJS,14,35,2.5,5,0,14,6
+"Smallwood, D.",SJS,9,54,6,14,1,14,6
+"Orosz, C.",SJS,1,6,6,6,0,14,6
+"Mackworthy, R.",AZ,20,73,3.6,10,2,14,6
+"Bronko, K.",AZ,2,50,25,28,0,14,6
+"Asipi Jr., A.",AZ,1,2,2,2,0,14,6

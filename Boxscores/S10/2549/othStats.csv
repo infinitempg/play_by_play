@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Amper, T.",YKW,1,5,4,0
-"Rchon, A.",YKW,0,0,4,0
-"Mushing, M.",YKW,0,0,2,1
-"McPoyal, G.",YKW,0,0,2,0
-"Ones, B.",YKW,0,0,2,0
-"Gore, B.",YKW,0,0,1,0
-"Harris Jr., F.",YKW,0,0,1,0
-"Pooky, S.",YKW,0,0,1,0
-"Rainey, R.",YKW,0,0,1,0
-"Marchand, J.",PHI,1,15,0,0
-"David, M.",PHI,1,5,0,0
-"Garden, J.",PHI,1,5,0,0
-"Lee, J.",PHI,1,5,0,0
-"Fillmore, M.",PHI,0,0,6,0
-"Hayes, R.",PHI,0,0,4,0
-"Arthur, C.",PHI,0,0,2,2
-"Brown, M.",PHI,0,0,2,1
-"Tyler, J.",PHI,0,0,2,1
-"Van Buren, M.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Amper, T.",YKW,1,5,4,0,7,10
+"Rchon, A.",YKW,0,0,4,0,7,10
+"Mushing, M.",YKW,0,0,2,1,7,10
+"McPoyal, G.",YKW,0,0,2,0,7,10
+"Ones, B.",YKW,0,0,2,0,7,10
+"Gore, B.",YKW,0,0,1,0,7,10
+"Harris Jr., F.",YKW,0,0,1,0,7,10
+"Pooky, S.",YKW,0,0,1,0,7,10
+"Rainey, R.",YKW,0,0,1,0,7,10
+"Marchand, J.",PHI,1,15,0,0,7,10
+"David, M.",PHI,1,5,0,0,7,10
+"Garden, J.",PHI,1,5,0,0,7,10
+"Lee, J.",PHI,1,5,0,0,7,10
+"Fillmore, M.",PHI,0,0,6,0,7,10
+"Hayes, R.",PHI,0,0,4,0,7,10
+"Arthur, C.",PHI,0,0,2,2,7,10
+"Brown, M.",PHI,0,0,2,1,7,10
+"Tyler, J.",PHI,0,0,2,1,7,10
+"Van Buren, M.",PHI,0,0,1,0,7,10

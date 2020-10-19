@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,22,95,4.3,18,0
-"Carrasco, T.",COL,6,30,5,18,0
-"Grau, M.",COL,1,3,3,3,0
-"Reed, A.",OCO,13,60,4.6,11,1
-"Pitcher, A.",OCO,2,14,7,10,0
-"Showbiz, G.",OCO,2,13,6.5,12,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,22,95,4.3,18,0,10,16
+"Carrasco, T.",COL,6,30,5,18,0,10,16
+"Grau, M.",COL,1,3,3,3,0,10,16
+"Reed, A.",OCO,13,60,4.6,11,1,10,16
+"Pitcher, A.",OCO,2,14,7,10,0,10,16
+"Showbiz, G.",OCO,2,13,6.5,12,1,10,16

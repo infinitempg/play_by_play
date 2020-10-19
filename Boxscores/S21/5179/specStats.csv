@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Swift, N.",YKW,3,49,0,27,0,0,0,0
-"Snuggles, J.",YKW,1,15,17,15,17,0,0,1
-"Green, W.",BAL,4,129,105,41,74,0,1,3
-"Acho, M.",BAL,2,40,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Swift, N.",YKW,3,49,0,27,0,0,0,0,6,21
+"Snuggles, J.",YKW,1,15,17,15,17,0,0,1,6,21
+"Green, W.",BAL,4,129,105,41,74,0,1,3,6,21
+"Acho, M.",BAL,2,40,0,24,0,0,0,0,6,21

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Smallwood, D.",SJS,9,140,15.6,41,1
-"Jackson, M.",SJS,9,103,11.4,22,1
-"Weston, S.",SJS,5,76,15.2,45,0
-"Bottles, B.",SJS,1,2,2,2,0
-"Catchem8, Z.",SJS,1,2,2,2,0
-"Cook, B.",YKW,6,104,17.3,29,2
-"McPoyal, G.",YKW,5,66,13.2,24,0
-"Law, D.",YKW,3,50,16.7,24,0
-"Kennedy, E.",YKW,2,21,10.5,17,0
-"Jarden, G.",YKW,2,18,9,14,0
-"Nuck, B.",YKW,2,15,7.5,8,0
-"Harris Jr., F.",YKW,2,12,6,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Smallwood, D.",SJS,9,140,15.6,41,1,6,6
+"Jackson, M.",SJS,9,103,11.4,22,1,6,6
+"Weston, S.",SJS,5,76,15.2,45,0,6,6
+"Bottles, B.",SJS,1,2,2,2,0,6,6
+"Catchem8, Z.",SJS,1,2,2,2,0,6,6
+"Cook, B.",YKW,6,104,17.3,29,2,6,6
+"McPoyal, G.",YKW,5,66,13.2,24,0,6,6
+"Law, D.",YKW,3,50,16.7,24,0,6,6
+"Kennedy, E.",YKW,2,21,10.5,17,0,6,6
+"Jarden, G.",YKW,2,18,9,14,0,6,6
+"Nuck, B.",YKW,2,15,7.5,8,0,6,6
+"Harris Jr., F.",YKW,2,12,6,8,0,6,6

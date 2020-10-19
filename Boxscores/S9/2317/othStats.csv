@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Broadway, E.",BAL,2,10,0,0
-"Gambino, C.",BAL,2,11,0,0
-"Diggler, D.",BAL,1,2,3,0
-"Grey, S.",BAL,1,5,1,0
-"Roenick, A.",BAL,1,15,0,0
-"Star, L.",BAL,0,0,6,0
-"L'Alto, V.",BAL,0,0,5,0
-"Steele, R.",BAL,0,0,5,0
-"Jeremy, R.",BAL,0,0,2,0
-"Taylor, O.",BAL,0,0,2,0
-"Ones, B.",YKW,1,15,5,0
-"Rainey, R.",YKW,1,5,3,0
-"Lavelle, D.",YKW,1,15,0,0
-"Mushing, M.",YKW,0,0,10,0
-"Pooky, S.",YKW,0,0,5,0
-"Rchon, A.",YKW,0,0,5,0
-"Harris Jr., F.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Broadway, E.",BAL,2,10,0,0,1,9
+"Gambino, C.",BAL,2,11,0,0,1,9
+"Diggler, D.",BAL,1,2,3,0,1,9
+"Grey, S.",BAL,1,5,1,0,1,9
+"Roenick, A.",BAL,1,15,0,0,1,9
+"Star, L.",BAL,0,0,6,0,1,9
+"L'Alto, V.",BAL,0,0,5,0,1,9
+"Steele, R.",BAL,0,0,5,0,1,9
+"Jeremy, R.",BAL,0,0,2,0,1,9
+"Taylor, O.",BAL,0,0,2,0,1,9
+"Ones, B.",YKW,1,15,5,0,1,9
+"Rainey, R.",YKW,1,5,3,0,1,9
+"Lavelle, D.",YKW,1,15,0,0,1,9
+"Mushing, M.",YKW,0,0,10,0,1,9
+"Pooky, S.",YKW,0,0,5,0,1,9
+"Rchon, A.",YKW,0,0,5,0,1,9
+"Harris Jr., F.",YKW,0,0,1,0,1,9

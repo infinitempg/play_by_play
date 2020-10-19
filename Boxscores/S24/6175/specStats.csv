@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hanyadi, M.",YKW,3,75,25,40,18,0,0,2
-"Leonard, M.",YKW,3,132,0,47,0,0,0,0
-"Owens, A.",COL,4,116,0,43,0,0,0,0
-"Purchase, L.",COL,2,72,0,47,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hanyadi, M.",YKW,3,75,25,40,18,0,0,2,2,24
+"Leonard, M.",YKW,3,132,0,47,0,0,0,0,2,24
+"Owens, A.",COL,4,116,0,43,0,0,0,0,2,24
+"Purchase, L.",COL,2,72,0,47,0,0,0,0,2,24

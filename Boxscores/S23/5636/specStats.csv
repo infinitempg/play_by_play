@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,2,52,-4,30,0,0,0,1
-"Blaylock, M.",NO,2,60,0,36,0,0,0,0
-"Owens, A.",COL,4,135,15,39,8,0,0,2
-"Purchase, L.",COL,3,173,0,83,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,2,52,-4,30,0,0,0,1,7,23
+"Blaylock, M.",NO,2,60,0,36,0,0,0,0,7,23
+"Owens, A.",COL,4,135,15,39,8,0,0,2,7,23
+"Purchase, L.",COL,3,173,0,83,0,0,0,0,7,23

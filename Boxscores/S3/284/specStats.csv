@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",COL,3,81,0,34,0,0,0,0
-"Tweed, B.",COL,1,33,17,33,18,0,0,2
-"Delacour, A.",BAL,1,22,16,22,8,0,0,2
-"Willie, T.",BAL,2,120,0,91,0,1,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",COL,3,81,0,34,0,0,0,0,3,3
+"Tweed, B.",COL,1,33,17,33,18,0,0,2,3,3
+"Delacour, A.",BAL,1,22,16,22,8,0,0,2,3,3
+"Willie, T.",BAL,2,120,0,91,0,1,0,0,3,3

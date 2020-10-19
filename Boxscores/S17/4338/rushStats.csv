@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Marshall, M.",YKW,14,79,5.6,12,1
-"Canton, J.",YKW,5,23,4.6,11,0
-"Bigsby, C.",YKW,2,14,7,8,0
-"Hank, F.",PHI,22,98,4.5,12,0
-"Brown, M.",PHI,17,77,4.5,10,0
-"Falconi, A.",PHI,2,10,5,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Marshall, M.",YKW,14,79,5.6,12,1,11,17
+"Canton, J.",YKW,5,23,4.6,11,0,11,17
+"Bigsby, C.",YKW,2,14,7,8,0,11,17
+"Hank, F.",PHI,22,98,4.5,12,0,11,17
+"Brown, M.",PHI,17,77,4.5,10,0,11,17
+"Falconi, A.",PHI,2,10,5,10,0,11,17

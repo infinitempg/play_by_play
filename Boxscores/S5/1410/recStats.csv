@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Tanner, C.",SJS,10,87,8.7,19,1
-"Jackson, M.",SJS,4,104,26,51,1
-"Weston, S.",SJS,4,32,8,12,0
-"Bottles, B.",SJS,4,27,6.8,11,1
-"Smallwood, D.",SJS,3,5,1.7,5,0
-"Diaz, D.",SJS,1,12,12,12,0
-"Crush, C.",COL,5,31,6.2,11,0
-"Hendrix, K.",COL,3,50,16.7,25,0
-"Farlane, D.",COL,1,13,13,13,0
-"Reigns, J.",COL,1,7,7,7,0
-"Tweed, B.",COL,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Tanner, C.",SJS,10,87,8.7,19,1,10,5
+"Jackson, M.",SJS,4,104,26,51,1,10,5
+"Weston, S.",SJS,4,32,8,12,0,10,5
+"Bottles, B.",SJS,4,27,6.8,11,1,10,5
+"Smallwood, D.",SJS,3,5,1.7,5,0,10,5
+"Diaz, D.",SJS,1,12,12,12,0,10,5
+"Crush, C.",COL,5,31,6.2,11,0,10,5
+"Hendrix, K.",COL,3,50,16.7,25,0,10,5
+"Farlane, D.",COL,1,13,13,13,0,10,5
+"Reigns, J.",COL,1,7,7,7,0,10,5
+"Tweed, B.",COL,1,0,0,0,0,10,5

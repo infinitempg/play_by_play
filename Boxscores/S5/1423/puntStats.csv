@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Madlad, B.",OCO,7,341,48.7,61,1
-"Jackson, D.",AZ,12,583,48.6,69,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Madlad, B.",OCO,7,341,48.7,61,1,13,5
+"Jackson, D.",AZ,12,583,48.6,69,1,13,5

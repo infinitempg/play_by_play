@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,18,87,4.8,15,1
-"Maximus III, B.",NO,3,12,4,6,0
-"Grau, M.",COL,12,37,3.1,9,0
-"Cansino, D.",COL,11,41,3.7,8,1
-"McCormick, M.",COL,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,18,87,4.8,15,1,4,11
+"Maximus III, B.",NO,3,12,4,6,0,4,11
+"Grau, M.",COL,12,37,3.1,9,0,4,11
+"Cansino, D.",COL,11,41,3.7,8,1,4,11
+"McCormick, M.",COL,1,-1,-1,0,0,4,11

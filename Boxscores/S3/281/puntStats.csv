@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Walsh, B.",LV,6,229,38.2,56,0
-"Turkleton, T.",BAL,8,358,44.8,67,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Walsh, B.",LV,6,229,38.2,56,0,2,3
+"Turkleton, T.",BAL,8,358,44.8,67,1,2,3

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,24,86,3.6,17,1
-"Drake, O.",YKW,10,58,5.8,13,1
-"Ruff, R.",AZ,23,107,4.7,13,2
-"Allan, C.",AZ,1,1,1,1,1
-"Kwemen, K.",AZ,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,24,86,3.6,17,1,13,19
+"Drake, O.",YKW,10,58,5.8,13,1,13,19
+"Ruff, R.",AZ,23,107,4.7,13,2,13,19
+"Allan, C.",AZ,1,1,1,1,1,13,19
+"Kwemen, K.",AZ,1,1,1,1,0,13,19

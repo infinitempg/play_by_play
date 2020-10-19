@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Snyder, S.",NO,4,91,22.8,33,0
-"Barker, E.",NO,4,81,20.2,48,0
-"Wolfcastle, R.",NO,4,29,7.2,9,1
-"Gump, F.",NO,3,6,2,6,0
-"McCormick, A.",NO,2,16,8,9,1
-"Bodenhamer, B.",NO,1,36,36,36,0
-"Evans, H.",AZ,8,85,10.6,19,0
-"Donut, S.",AZ,3,22,7.3,10,0
-"Passmann, T.",AZ,2,56,28,50,0
-"Bur'Berry, J.",AZ,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Snyder, S.",NO,4,91,22.8,33,0,3,24
+"Barker, E.",NO,4,81,20.2,48,0,3,24
+"Wolfcastle, R.",NO,4,29,7.2,9,1,3,24
+"Gump, F.",NO,3,6,2,6,0,3,24
+"McCormick, A.",NO,2,16,8,9,1,3,24
+"Bodenhamer, B.",NO,1,36,36,36,0,3,24
+"Evans, H.",AZ,8,85,10.6,19,0,3,24
+"Donut, S.",AZ,3,22,7.3,10,0,3,24
+"Passmann, T.",AZ,2,56,28,50,0,3,24
+"Bur'Berry, J.",AZ,1,7,7,7,0,3,24

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,15,57,3.8,7,0
-"Jones, K.",AUS,11,30,2.7,7,0
-"Cole, E.",AUS,1,-1,-1,0,0
-"Banks II, D.",SAR,12,62,5.2,21,0
-"Back, R.",SAR,11,62,5.6,12,1
-"Chan, R.",SAR,11,47,4.3,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,15,57,3.8,7,0,6,24
+"Jones, K.",AUS,11,30,2.7,7,0,6,24
+"Cole, E.",AUS,1,-1,-1,0,0,6,24
+"Banks II, D.",SAR,12,62,5.2,21,0,6,24
+"Back, R.",SAR,11,62,5.6,12,1,6,24
+"Chan, R.",SAR,11,47,4.3,11,0,6,24

@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Crisco, A.",AUS,8,426,53.2,65,1
-"Brand, F.",BAL,10,443,44.3,60,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Crisco, A.",AUS,8,426,53.2,65,1,12,20
+"Brand, F.",BAL,10,443,44.3,60,1,12,20

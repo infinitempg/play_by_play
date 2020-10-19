@@ -1,15 +1,15 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Fassingit, H.",AUS,2,15,2,0
-"Beaver-Dantes, E.",AUS,0,0,5,0
-"Leaf Jr., R.",AUS,0,0,2,1
-"Saurus, B.",AUS,0,0,2,0
-"Saurus, B.",AUS,0,0,2,0
-"Golladay, C.",AZ,2,15,1,0
-"Miller, P.",AZ,2,20,0,0
-"Buckley, B.",AZ,1,5,3,0
-"Yoda, B.",AZ,1,5,3,0
-"Quin, A.",AZ,1,5,0,0
-"Arbage, G.",AZ,0,0,8,0
-"Unk, J.",AZ,0,0,7,0
-"Block, T.",AZ,0,0,2,0
-"Evans, H.",AZ,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Fassingit, H.",AUS,2,15,2,0,9,22
+"Beaver-Dantes, E.",AUS,0,0,5,0,9,22
+"Leaf Jr., R.",AUS,0,0,2,1,9,22
+"Saurus, B.",AUS,0,0,2,0,9,22
+"Saurus, B.",AUS,0,0,2,0,9,22
+"Golladay, C.",AZ,2,15,1,0,9,22
+"Miller, P.",AZ,2,20,0,0,9,22
+"Buckley, B.",AZ,1,5,3,0,9,22
+"Yoda, B.",AZ,1,5,3,0,9,22
+"Quin, A.",AZ,1,5,0,0,9,22
+"Arbage, G.",AZ,0,0,8,0,9,22
+"Unk, J.",AZ,0,0,7,0,9,22
+"Block, T.",AZ,0,0,2,0,9,22
+"Evans, H.",AZ,0,0,2,0,9,22

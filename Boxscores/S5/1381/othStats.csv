@@ -1,22 +1,22 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Lee, J.",PHI,2,14,0,0
-"Arthur, C.",PHI,1,5,6,1
-"Garden, J.",PHI,1,5,0,0
-"Filmore, M.",PHI,0,0,5,0
-"Tyler, J.",PHI,0,0,4,2
-"Van Buren, M.",PHI,0,0,4,0
-"DiMirio, P.",PHI,0,0,3,0
-"Kroetch, D.",PHI,0,0,1,0
-"Milan, C.",PHI,0,0,1,0
-"O'Connell, K.",PHI,0,0,1,0
-"Nuck, B.",YKW,1,5,2,0
-"Cook, B.",YKW,1,5,0,0
-"Law, D.",YKW,1,5,0,0
-"Taylor, C.",YKW,1,5,0,0
-"Mushing, M.",YKW,0,0,7,0
-"Amper, T.",YKW,0,0,4,1
-"Ones, B.",YKW,0,0,4,0
-"Pooky, S.",YKW,0,0,3,1
-"Harris Jr., F.",YKW,0,0,3,0
-"Rchon, A.",YKW,0,0,3,0
-"Kennedy, E.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Lee, J.",PHI,2,14,0,0,2,5
+"Arthur, C.",PHI,1,5,6,1,2,5
+"Garden, J.",PHI,1,5,0,0,2,5
+"Filmore, M.",PHI,0,0,5,0,2,5
+"Tyler, J.",PHI,0,0,4,2,2,5
+"Van Buren, M.",PHI,0,0,4,0,2,5
+"DiMirio, P.",PHI,0,0,3,0,2,5
+"Kroetch, D.",PHI,0,0,1,0,2,5
+"Milan, C.",PHI,0,0,1,0,2,5
+"O'Connell, K.",PHI,0,0,1,0,2,5
+"Nuck, B.",YKW,1,5,2,0,2,5
+"Cook, B.",YKW,1,5,0,0,2,5
+"Law, D.",YKW,1,5,0,0,2,5
+"Taylor, C.",YKW,1,5,0,0,2,5
+"Mushing, M.",YKW,0,0,7,0,2,5
+"Amper, T.",YKW,0,0,4,1,2,5
+"Ones, B.",YKW,0,0,4,0,2,5
+"Pooky, S.",YKW,0,0,3,1,2,5
+"Harris Jr., F.",YKW,0,0,3,0,2,5
+"Rchon, A.",YKW,0,0,3,0,2,5
+"Kennedy, E.",YKW,0,0,1,0,2,5

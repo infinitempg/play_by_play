@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Phillips, J.",OCO,5,123,24.6,38,2
-"Trunks, F.",OCO,4,72,18,38,0
-"Despacito Jr., G.",OCO,3,22,7.3,15,0
-"Nakamura, T.",OCO,2,21,10.5,11,0
-"McZeal, K.",OCO,2,15,7.5,10,0
-"Holloway, O.",OCO,1,25,25,25,0
-"Barker, E.",NO,8,76,9.5,18,1
-"McCormick, A.",NO,4,44,11,29,0
-"Wolfcastle, R.",NO,4,38,9.5,16,0
-"Gump, F.",NO,3,20,6.7,9,0
-"Bodenhamer, B.",NO,2,11,5.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Phillips, J.",OCO,5,123,24.6,38,2,5,25
+"Trunks, F.",OCO,4,72,18,38,0,5,25
+"Despacito Jr., G.",OCO,3,22,7.3,15,0,5,25
+"Nakamura, T.",OCO,2,21,10.5,11,0,5,25
+"McZeal, K.",OCO,2,15,7.5,10,0,5,25
+"Holloway, O.",OCO,1,25,25,25,0,5,25
+"Barker, E.",NO,8,76,9.5,18,1,5,25
+"McCormick, A.",NO,4,44,11,29,0,5,25
+"Wolfcastle, R.",NO,4,38,9.5,16,0,5,25
+"Gump, F.",NO,3,20,6.7,9,0,5,25
+"Bodenhamer, B.",NO,2,11,5.5,6,0,5,25

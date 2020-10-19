@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Falconi, A.",PHI,"[24, 43]",245,10.2,1,0,80.1
-"Armstrong, F.",OCO,"[16, 25]",192,12,4,0,127
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Falconi, A.",PHI,245,10.2,1,0,80.1,24,16,2,18
+"Armstrong, F.",OCO,192,12,4,0,127,24,16,2,18

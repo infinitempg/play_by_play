@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,31,90,2.9,13,0
-"Carrasco, T.",COL,4,4,1,4,0
-"McDummy, W.",COL,1,3,3,3,0
-"Hank, F.",PHI,11,37,3.4,7,0
-"Jones, V.",PHI,9,34,3.8,8,0
-"Boija, F.",PHI,6,32,5.3,13,0
-"Falconi, A.",PHI,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,31,90,2.9,13,0,8,16
+"Carrasco, T.",COL,4,4,1,4,0,8,16
+"McDummy, W.",COL,1,3,3,3,0,8,16
+"Hank, F.",PHI,11,37,3.4,7,0,8,16
+"Jones, V.",PHI,9,34,3.8,8,0,8,16
+"Boija, F.",PHI,6,32,5.3,13,0,8,16
+"Falconi, A.",PHI,1,5,5,5,0,8,16

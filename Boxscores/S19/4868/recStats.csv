@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Tidwell, R.",AUS,5,97,19.4,29,2
-"Larson, P.",AUS,4,48,12,21,0
-"Blockerman, F.",AUS,4,19,4.8,6,0
-"Anoa'i, D.",AUS,3,64,21.3,34,0
-"Blockit, I.",AUS,2,5,2.5,4,0
-"Mendonca, M.",AUS,1,26,26,26,0
-"Torenson, S.",PHI,7,51,7.3,20,0
-"Varga, N.",PHI,6,120,20,38,1
-"Dropson, J.",PHI,3,28,9.3,13,0
-"Dotson, F.",PHI,3,14,4.7,8,0
-"Hank, F.",PHI,2,4,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Tidwell, R.",AUS,5,97,19.4,29,2,13,19
+"Larson, P.",AUS,4,48,12,21,0,13,19
+"Blockerman, F.",AUS,4,19,4.8,6,0,13,19
+"Anoa'i, D.",AUS,3,64,21.3,34,0,13,19
+"Blockit, I.",AUS,2,5,2.5,4,0,13,19
+"Mendonca, M.",AUS,1,26,26,26,0,13,19
+"Torenson, S.",PHI,7,51,7.3,20,0,13,19
+"Varga, N.",PHI,6,120,20,38,1,13,19
+"Dropson, J.",PHI,3,28,9.3,13,0,13,19
+"Dotson, F.",PHI,3,14,4.7,8,0,13,19
+"Hank, F.",PHI,2,4,2,2,0,13,19

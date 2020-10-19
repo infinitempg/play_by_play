@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Oles, K.",SJS,4,138,34.5,68,0
-"Justice, T.",SJS,3,57,19,39,0
-"Flash, X.",SJS,3,24,8,9,0
-"Orosz, C.",SJS,1,9,9,9,1
-"Brannigan, Z.",SJS,1,7,7,7,0
-"Canton, J.",SJS,1,6,6,6,0
-"DiMirio, P.",NO,8,60,7.5,12,0
-"Fyodorovich, V.",NO,5,115,23,37,0
-"Hasselhoff, F.",NO,5,72,14.4,26,0
-"Swift, T.",NO,5,36,7.2,20,0
-"Halvorsen, T.",NO,3,19,6.3,8,0
-"Danielsson, A.",NO,1,15,15,15,0
-"Danger, H.",NO,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Oles, K.",SJS,4,138,34.5,68,0,2,13
+"Justice, T.",SJS,3,57,19,39,0,2,13
+"Flash, X.",SJS,3,24,8,9,0,2,13
+"Orosz, C.",SJS,1,9,9,9,1,2,13
+"Brannigan, Z.",SJS,1,7,7,7,0,2,13
+"Canton, J.",SJS,1,6,6,6,0,2,13
+"DiMirio, P.",NO,8,60,7.5,12,0,2,13
+"Fyodorovich, V.",NO,5,115,23,37,0,2,13
+"Hasselhoff, F.",NO,5,72,14.4,26,0,2,13
+"Swift, T.",NO,5,36,7.2,20,0,2,13
+"Halvorsen, T.",NO,3,19,6.3,8,0,2,13
+"Danielsson, A.",NO,1,15,15,15,0,2,13
+"Danger, H.",NO,1,3,3,3,0,2,13

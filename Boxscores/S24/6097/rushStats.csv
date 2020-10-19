@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jack, C.",YKW,16,69,4.3,16,0
-"Skyline, A.",YKW,12,39,3.2,8,0
-"Hanyadi, M.",YKW,9,37,4.1,11,0
-"Back, R.",SAR,9,21,2.3,7,0
-"Chan, R.",SAR,8,33,4.1,10,0
-"Banks II, D.",SAR,7,22,3.1,9,0
-"Boyd, C.",SAR,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jack, C.",YKW,16,69,4.3,16,0,15,24
+"Skyline, A.",YKW,12,39,3.2,8,0,15,24
+"Hanyadi, M.",YKW,9,37,4.1,11,0,15,24
+"Back, R.",SAR,9,21,2.3,7,0,15,24
+"Chan, R.",SAR,8,33,4.1,10,0,15,24
+"Banks II, D.",SAR,7,22,3.1,9,0,15,24
+"Boyd, C.",SAR,1,1,1,1,0,15,24

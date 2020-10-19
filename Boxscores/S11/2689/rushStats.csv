@@ -1,9 +1,9 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Grau, M.",COL,15,88,5.9,15,0
-"Cansino, D.",COL,4,14,3.5,7,0
-"McCormick, M.",COL,1,-2,-2,0,0
-"Nyquist, W.",COL,1,6,6,6,0
-"Brown, M.",PHI,33,147,4.5,18,2
-"O'Sullivan, C.",PHI,8,35,4.4,12,1
-"Falconi, A.",PHI,1,3,3,3,0
-"Hondo, A.",PHI,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Grau, M.",COL,15,88,5.9,15,0,5,11
+"Cansino, D.",COL,4,14,3.5,7,0,5,11
+"McCormick, M.",COL,1,-2,-2,0,0,5,11
+"Nyquist, W.",COL,1,6,6,6,0,5,11
+"Brown, M.",PHI,33,147,4.5,18,2,5,11
+"O'Sullivan, C.",PHI,8,35,4.4,12,1,5,11
+"Falconi, A.",PHI,1,3,3,3,0,5,11
+"Hondo, A.",PHI,1,5,5,5,0,5,11

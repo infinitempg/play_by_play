@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Fyodorovich, V.",NO,5,110,22,45,1
-"Jones, B.",NO,4,77,19.2,39,0
-"Gump, F.",NO,4,30,7.5,12,0
-"Jackson, A.",NO,4,23,5.8,9,0
-"Swift, T.",NO,1,17,17,17,0
-"Owens, A.",AUS,8,72,9,28,1
-"Anoa'i, D.",AUS,6,103,17.2,37,1
-"Mendonca, M.",AUS,6,52,8.7,22,0
-"Tidwell, R.",AUS,5,90,18,32,0
-"Larson, P.",AUS,5,32,6.4,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Fyodorovich, V.",NO,5,110,22,45,1,8,17
+"Jones, B.",NO,4,77,19.2,39,0,8,17
+"Gump, F.",NO,4,30,7.5,12,0,8,17
+"Jackson, A.",NO,4,23,5.8,9,0,8,17
+"Swift, T.",NO,1,17,17,17,0,8,17
+"Owens, A.",AUS,8,72,9,28,1,8,17
+"Anoa'i, D.",AUS,6,103,17.2,37,1,8,17
+"Mendonca, M.",AUS,6,52,8.7,22,0,8,17
+"Tidwell, R.",AUS,5,90,18,32,0,8,17
+"Larson, P.",AUS,5,32,6.4,9,0,8,17

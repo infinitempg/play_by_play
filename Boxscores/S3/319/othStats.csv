@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Jefferspin, S.",LV,1,5,2,0
-"Tanner, C.",LV,1,5,2,0
-"Stone, W.",LV,0,0,3,1
-"Bullard, T.",LV,0,0,3,0
-"Coalrange, C.",LV,0,0,2,2
-"Tebow, T.",LV,0,0,2,0
-"Kamaka, E.",PHI,1,14,6,2
-"Walters, S.",PHI,1,5,3,1
-"O'Connell, K.",PHI,1,5,0,0
-"O'Sullivan, K.",PHI,1,5,0,0
-"Von Gerhardt, O.",PHI,1,5,0,0
-"Bennett, A.",PHI,0,0,5,1
-"Milan, C.",PHI,0,0,3,0
-"DiMirio, P.",PHI,0,0,2,1
-"Bessel, F.",PHI,0,0,2,0
-"Hendrix, M.",PHI,0,0,2,0
-"Wright, O.",PHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Jefferspin, S.",LV,1,5,2,0,11,3
+"Tanner, C.",LV,1,5,2,0,11,3
+"Stone, W.",LV,0,0,3,1,11,3
+"Bullard, T.",LV,0,0,3,0,11,3
+"Coalrange, C.",LV,0,0,2,2,11,3
+"Tebow, T.",LV,0,0,2,0,11,3
+"Kamaka, E.",PHI,1,14,6,2,11,3
+"Walters, S.",PHI,1,5,3,1,11,3
+"O'Connell, K.",PHI,1,5,0,0,11,3
+"O'Sullivan, K.",PHI,1,5,0,0,11,3
+"Von Gerhardt, O.",PHI,1,5,0,0,11,3
+"Bennett, A.",PHI,0,0,5,1,11,3
+"Milan, C.",PHI,0,0,3,0,11,3
+"DiMirio, P.",PHI,0,0,2,1,11,3
+"Bessel, F.",PHI,0,0,2,0,11,3
+"Hendrix, M.",PHI,0,0,2,0,11,3
+"Wright, O.",PHI,0,0,2,0,11,3

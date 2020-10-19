@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Willie, T.",BAL,3,81,0,43,0,0,0,0
-"Bly Jr., A.",COL,0,0,0,0,0,0,0,1
-"Miller, H.",COL,4,89,0,33,0,0,0,0
-"Kroetch, D.",COL,2,39,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Willie, T.",BAL,3,81,0,43,0,0,0,0,14,8
+"Bly Jr., A.",COL,0,0,0,0,0,0,0,1,14,8
+"Miller, H.",COL,4,89,0,33,0,0,0,0,14,8
+"Kroetch, D.",COL,2,39,0,34,0,0,0,0,14,8

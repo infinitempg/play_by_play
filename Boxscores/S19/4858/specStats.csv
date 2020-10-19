@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gaines, N.",AUS,3,92,0,38,0,0,0,0
-"Lavelle Jr., D.",AUS,2,62,80,38,80,0,1,1
-"Swift, N.",YKW,2,23,0,15,0,0,0,0
-"Snuggles, J.",YKW,2,62,0,45,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gaines, N.",AUS,3,92,0,38,0,0,0,0,11,19
+"Lavelle Jr., D.",AUS,2,62,80,38,80,0,1,1,11,19
+"Swift, N.",YKW,2,23,0,15,0,0,0,0,11,19
+"Snuggles, J.",YKW,2,62,0,45,0,0,0,0,11,19

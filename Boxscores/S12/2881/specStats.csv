@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,3,72,0,37,0,0,0,0
-"Rainey, R.",YKW,1,2,0,2,0,0,0,0
-"Bly Jr., A.",YKW,0,0,18,0,18,0,0,1
-"Morris, D.",AZ,1,8,2,8,2,0,0,1
-"Willie, T.",AZ,5,107,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,3,72,0,37,0,0,0,0,1,12
+"Rainey, R.",YKW,1,2,0,2,0,0,0,0,1,12
+"Bly Jr., A.",YKW,0,0,18,0,18,0,0,1,1,12
+"Morris, D.",AZ,1,8,2,8,2,0,0,1,1,12
+"Willie, T.",AZ,5,107,0,31,0,0,0,0,1,12

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bishop, J.",COL,4,120,28,39,16,0,0,2
-"Montgomery, B.",COL,6,82,0,28,0,0,0,0
-"Brown, M.",OCO,3,63,32,31,17,0,0,2
-"Broxton, J.",OCO,3,39,0,23,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bishop, J.",COL,4,120,28,39,16,0,0,2,14,14
+"Montgomery, B.",COL,6,82,0,28,0,0,0,0,14,14
+"Brown, M.",OCO,3,63,32,31,17,0,0,2,14,14
+"Broxton, J.",OCO,3,39,0,23,0,0,0,0,14,14

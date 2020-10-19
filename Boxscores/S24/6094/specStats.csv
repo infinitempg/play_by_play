@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,3,133,16,105,17,1,0,2
-"PickSix, H.",SJS,2,51,0,36,0,0,0,0
-"Rector, D.",NO,2,57,10,44,6,0,0,3
-"Blaylock, M.",NO,2,72,0,44,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,3,133,16,105,17,1,0,2,16,24
+"PickSix, H.",SJS,2,51,0,36,0,0,0,0,16,24
+"Rector, D.",NO,2,57,10,44,6,0,0,3,16,24
+"Blaylock, M.",NO,2,72,0,44,0,0,0,0,16,24

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Carrasco, T.",YKW,22,115,5.2,15,1
-"Summer, A.",YKW,9,31,3.4,8,0
-"Gore, B.",YKW,1,0,0,0,0
-"Mackworthy, R.",AZ,22,106,4.8,19,0
-"Fitzpatrick, K.",AZ,3,28,9.3,23,0
-"Strike, L.",AZ,2,7,3.5,6,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Carrasco, T.",YKW,22,115,5.2,15,1,2,11
+"Summer, A.",YKW,9,31,3.4,8,0,2,11
+"Gore, B.",YKW,1,0,0,0,0,2,11
+"Mackworthy, R.",AZ,22,106,4.8,19,0,2,11
+"Fitzpatrick, K.",AZ,3,28,9.3,23,0,2,11
+"Strike, L.",AZ,2,7,3.5,6,1,2,11

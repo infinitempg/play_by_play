@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hendrix, K.",COL,6,72,12,19,0
-"Law, D.",COL,6,38,6.3,10,0
-"Hargrove, M.",COL,5,21,4.2,7,0
-"O'Connell, K.",COL,3,34,11.3,18,0
-"Shaloiko, J.",COL,3,22,7.3,9,0
-"Tweed, B.",COL,1,10,10,10,0
-"Gucci, R.",COL,1,5,5,5,0
-"Tiernan, L.",COL,1,5,5,5,0
-"Stormblessed, N.",ARI,4,54,13.5,37,0
-"Jefferson, L.",ARI,3,30,10,13,0
-"Tkachuk, J.",ARI,2,15,7.5,8,0
-"Bronko, K.",ARI,2,9,4.5,8,1
-"Newman, M.",ARI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hendrix, K.",COL,6,72,12,19,0,11,1
+"Law, D.",COL,6,38,6.3,10,0,11,1
+"Hargrove, M.",COL,5,21,4.2,7,0,11,1
+"O'Connell, K.",COL,3,34,11.3,18,0,11,1
+"Shaloiko, J.",COL,3,22,7.3,9,0,11,1
+"Tweed, B.",COL,1,10,10,10,0,11,1
+"Gucci, R.",COL,1,5,5,5,0,11,1
+"Tiernan, L.",COL,1,5,5,5,0,11,1
+"Stormblessed, N.",ARI,4,54,13.5,37,0,11,1
+"Jefferson, L.",ARI,3,30,10,13,0,11,1
+"Tkachuk, J.",ARI,2,15,7.5,8,0,11,1
+"Bronko, K.",ARI,2,9,4.5,8,1,11,1
+"Newman, M.",ARI,1,4,4,4,0,11,1

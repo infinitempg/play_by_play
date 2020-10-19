@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,22,70,3.2,11,2
-"Maximus III, B.",NO,7,72,10.3,23,1
-"Zephyrous, S.",OCO,17,62,3.6,25,1
-"Adams, R.",OCO,10,35,3.5,8,1
-"Showbiz, G.",OCO,3,3,1,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,22,70,3.2,11,2,2,11
+"Maximus III, B.",NO,7,72,10.3,23,1,2,11
+"Zephyrous, S.",OCO,17,62,3.6,25,1,2,11
+"Adams, R.",OCO,10,35,3.5,8,1,2,11
+"Showbiz, G.",OCO,3,3,1,3,0,2,11

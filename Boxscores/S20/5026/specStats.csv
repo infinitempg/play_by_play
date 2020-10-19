@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,1,16,0,16,0,0,0,0
-"McMahon, J.",COL,5,57,28,27,17,0,0,2
-"Donut, S.",AZ,3,57,0,20,0,0,0,0
-"Knight, L.",AZ,1,35,5,35,8,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,1,16,0,16,0,0,0,0,12,20
+"McMahon, J.",COL,5,57,28,27,17,0,0,2,12,20
+"Donut, S.",AZ,3,57,0,20,0,0,0,0,12,20
+"Knight, L.",AZ,1,35,5,35,8,0,0,3,12,20

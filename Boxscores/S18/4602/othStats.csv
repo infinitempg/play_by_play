@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Zephyrous, S.",PHI,1,15,3,0
-"Hall, Z.",PHI,1,5,0,0
-"Hardshaft, R.",PHI,1,2,0,0
-"Kassel, T.",PHI,1,13,0,0
-"McGwire, A.",PHI,1,5,0,0
-"Moore, S.",PHI,1,5,0,0
-"Fillmore, M.",PHI,0,0,5,0
-"Tyler, J.",PHI,0,0,4,0
-"Hank, F.",PHI,0,0,2,0
-"Hayes, R.",PHI,0,0,2,0
-"Van Buren, M.",PHI,0,0,2,0
-"Torenson, S.",PHI,0,0,1,0
-"Jackson, A.",CHI,2,10,0,0
-"Bright, C.",CHI,1,5,6,0
-"Brown, M.",CHI,1,10,0,0
-"Nikko, G.",CHI,1,5,0,0
-"Gordon, B.",CHI,0,0,8,0
-"Sandburg, C.",CHI,0,0,4,1
-"177013, G.",CHI,0,0,2,0
-"Utler, J.",CHI,0,0,1,1
-"Ford Lalatina, D.",CHI,0,0,1,0
-"Harp, D.",CHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Zephyrous, S.",PHI,1,15,3,0,10,18
+"Hall, Z.",PHI,1,5,0,0,10,18
+"Hardshaft, R.",PHI,1,2,0,0,10,18
+"Kassel, T.",PHI,1,13,0,0,10,18
+"McGwire, A.",PHI,1,5,0,0,10,18
+"Moore, S.",PHI,1,5,0,0,10,18
+"Fillmore, M.",PHI,0,0,5,0,10,18
+"Tyler, J.",PHI,0,0,4,0,10,18
+"Hank, F.",PHI,0,0,2,0,10,18
+"Hayes, R.",PHI,0,0,2,0,10,18
+"Van Buren, M.",PHI,0,0,2,0,10,18
+"Torenson, S.",PHI,0,0,1,0,10,18
+"Jackson, A.",CHI,2,10,0,0,10,18
+"Bright, C.",CHI,1,5,6,0,10,18
+"Brown, M.",CHI,1,10,0,0,10,18
+"Nikko, G.",CHI,1,5,0,0,10,18
+"Gordon, B.",CHI,0,0,8,0,10,18
+"Sandburg, C.",CHI,0,0,4,1,10,18
+"177013, G.",CHI,0,0,2,0,10,18
+"Utler, J.",CHI,0,0,1,1,10,18
+"Ford Lalatina, D.",CHI,0,0,1,0,10,18
+"Harp, D.",CHI,0,0,1,0,10,18

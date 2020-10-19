@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Kyubee, S.",BAL,"[27, 43]",261,9.7,1,3,58.4
-"Hunt, E.",SJS,"[11, 26]",183,16.6,1,2,47.4
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Kyubee, S.",BAL,261,9.7,1,3,58.4,27,11,11,3
+"Hunt, E.",SJS,183,16.6,1,2,47.4,27,11,11,3

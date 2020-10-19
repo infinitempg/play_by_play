@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bercovici, J.",LV,"[15, 37]",146,9.7,0,1,41
-"Bronko, K.",ARI,"[19, 34]",342,18,4,0,129.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bercovici, J.",LV,146,9.7,0,1,41,15,19,14,3
+"Bronko, K.",ARI,342,18,4,0,129.8,15,19,14,3

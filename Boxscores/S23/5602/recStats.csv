@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Quinn, A.",BAL,5,78,15.6,38,0
-"Kaepercolin, N.",BAL,4,59,14.8,28,1
-"Lewandowski, J.",BAL,3,45,15,28,0
-"Kross, C.",BAL,3,37,12.3,24,1
-"Lim, W.",COL,6,62,10.3,32,1
-"Sauce, E.",COL,5,27,5.4,12,0
-"Arrow, R.",COL,4,47,11.8,19,0
-"Owens, A.",COL,4,45,11.2,13,0
-"Vincent, M.",COL,3,11,3.7,6,0
-"Kingston, J.",COL,1,22,22,22,0
-"Bishop, J.",COL,1,10,10,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Quinn, A.",BAL,5,78,15.6,38,0,2,23
+"Kaepercolin, N.",BAL,4,59,14.8,28,1,2,23
+"Lewandowski, J.",BAL,3,45,15,28,0,2,23
+"Kross, C.",BAL,3,37,12.3,24,1,2,23
+"Lim, W.",COL,6,62,10.3,32,1,2,23
+"Sauce, E.",COL,5,27,5.4,12,0,2,23
+"Arrow, R.",COL,4,47,11.8,19,0,2,23
+"Owens, A.",COL,4,45,11.2,13,0,2,23
+"Vincent, M.",COL,3,11,3.7,6,0,2,23
+"Kingston, J.",COL,1,22,22,22,0,2,23
+"Bishop, J.",COL,1,10,10,10,0,2,23

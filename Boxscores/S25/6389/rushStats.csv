@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"King, D.",BER,18,71,3.9,11,0
-"Petrongolo, J.",BER,16,75,4.7,9,0
-"Kaepercolin, N.",BER,3,1,0.3,1,0
-"Yoda, B.",CHI,15,46,3.1,9,2
-"Tirtawidjaja, J.",CHI,14,49,3.5,13,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"King, D.",BER,18,71,3.9,11,0,3,25
+"Petrongolo, J.",BER,16,75,4.7,9,0,3,25
+"Kaepercolin, N.",BER,3,1,0.3,1,0,3,25
+"Yoda, B.",CHI,15,46,3.1,9,2,3,25
+"Tirtawidjaja, J.",CHI,14,49,3.5,13,0,3,25

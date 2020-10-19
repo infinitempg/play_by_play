@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,16,65,4.1,11,0
-"Murphy, J.",AZ,12,65,5.4,18,2
-"Zephyrous, S.",AZ,6,27,4.5,11,0
-"Reese, A.",AZ,1,1,1,1,0
-"Wizardry, D.",AUS,21,57,2.7,7,0
-"Mendonca, M.",AUS,10,30,3,6,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,16,65,4.1,11,0,10,16
+"Murphy, J.",AZ,12,65,5.4,18,2,10,16
+"Zephyrous, S.",AZ,6,27,4.5,11,0,10,16
+"Reese, A.",AZ,1,1,1,1,0,10,16
+"Wizardry, D.",AUS,21,57,2.7,7,0,10,16
+"Mendonca, M.",AUS,10,30,3,6,1,10,16

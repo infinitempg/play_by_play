@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Angler, J.",SAR,7,93,13.3,30,1
-"Witheblock, M.",SAR,6,123,20.5,32,0
-"Boyd, C.",SAR,5,30,6,9,0
-"Gordon, R.",SAR,3,101,33.7,37,0
-"Chan, R.",SAR,2,13,6.5,10,0
-"Back, R.",SAR,1,11,11,11,1
-"Lim, W.",COL,6,93,15.5,46,2
-"Kingston, J.",COL,6,61,10.2,19,1
-"Owens, A.",COL,3,31,10.3,14,0
-"Sauce, E.",COL,3,15,5,8,0
-"Jenkins, L.",COL,2,61,30.5,51,1
-"Gilbert, R.",COL,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Angler, J.",SAR,7,93,13.3,30,1,14,24
+"Witheblock, M.",SAR,6,123,20.5,32,0,14,24
+"Boyd, C.",SAR,5,30,6,9,0,14,24
+"Gordon, R.",SAR,3,101,33.7,37,0,14,24
+"Chan, R.",SAR,2,13,6.5,10,0,14,24
+"Back, R.",SAR,1,11,11,11,1,14,24
+"Lim, W.",COL,6,93,15.5,46,2,14,24
+"Kingston, J.",COL,6,61,10.2,19,1,14,24
+"Owens, A.",COL,3,31,10.3,14,0,14,24
+"Sauce, E.",COL,3,15,5,8,0,14,24
+"Jenkins, L.",COL,2,61,30.5,51,1,14,24
+"Gilbert, R.",COL,1,3,3,3,0,14,24

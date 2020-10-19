@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Moore, S.",AZ,7,72,10.3,17,0
-"Hardwick, S.",AZ,5,83,16.6,31,1
-"Rudd, E.",AZ,5,27,5.4,8,0
-"Hasselhoff, F.",AZ,4,75,18.8,38,0
-"Willie, T.",AZ,4,41,10.2,16,1
-"Turner, J.",AZ,1,9,9,9,0
-"Shady, S.",AZ,1,8,8,8,0
-"Kindle, H.",AZ,1,4,4,4,0
-"Swift, T.",NO,4,63,15.8,36,0
-"Fyodorovich, V.",NO,4,52,13,18,0
-"Halvorsen, T.",NO,3,26,8.7,13,0
-"Francisco, S.",NO,3,19,6.3,8,0
-"Danielsson, A.",NO,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Moore, S.",AZ,7,72,10.3,17,0,14,14
+"Hardwick, S.",AZ,5,83,16.6,31,1,14,14
+"Rudd, E.",AZ,5,27,5.4,8,0,14,14
+"Hasselhoff, F.",AZ,4,75,18.8,38,0,14,14
+"Willie, T.",AZ,4,41,10.2,16,1,14,14
+"Turner, J.",AZ,1,9,9,9,0,14,14
+"Shady, S.",AZ,1,8,8,8,0,14,14
+"Kindle, H.",AZ,1,4,4,4,0,14,14
+"Swift, T.",NO,4,63,15.8,36,0,14,14
+"Fyodorovich, V.",NO,4,52,13,18,0,14,14
+"Halvorsen, T.",NO,3,26,8.7,13,0,14,14
+"Francisco, S.",NO,3,19,6.3,8,0,14,14
+"Danielsson, A.",NO,1,7,7,7,0,14,14

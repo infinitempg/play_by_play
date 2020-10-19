@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,2,68,0,35,0,0,0,0
-"Kennedy, E.",YKW,2,29,0,22,0,0,0,0
-"Cook, B.",YKW,0,0,10,0,10,0,0,1
-"Bly Jr., A.",COL,0,0,0,0,4,0,0,2
-"Miller, H.",COL,5,165,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,2,68,0,35,0,0,0,0,13,8
+"Kennedy, E.",YKW,2,29,0,22,0,0,0,0,13,8
+"Cook, B.",YKW,0,0,10,0,10,0,0,1,13,8
+"Bly Jr., A.",COL,0,0,0,0,4,0,0,2,13,8
+"Miller, H.",COL,5,165,0,41,0,0,0,0,13,8

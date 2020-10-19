@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bigsby, C.",YKW,"[9, 24]",168,18.7,0,0,62.5
-"McDummy, W.",COL,"[21, 41]",233,11.1,1,0,76.6
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bigsby, C.",YKW,168,18.7,0,0,62.5,9,21,9,21
+"McDummy, W.",COL,233,11.1,1,0,76.6,9,21,9,21

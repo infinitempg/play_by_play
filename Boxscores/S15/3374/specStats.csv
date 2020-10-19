@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Grithead, D.",OCO,1,27,56,27,16,0,0,4
-"Sunnycursed, N.",OCO,3,84,0,37,0,0,0,0
-"Parker, J.",YKW,1,17,0,17,0,0,0,0
-"Applehort, R.",YKW,6,184,0,42,0,0,0,0
-"Marshall, M.",YKW,0,0,28,0,16,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Grithead, D.",OCO,1,27,56,27,16,0,0,4,5,15
+"Sunnycursed, N.",OCO,3,84,0,37,0,0,0,0,5,15
+"Parker, J.",YKW,1,17,0,17,0,0,0,0,5,15
+"Applehort, R.",YKW,6,184,0,42,0,0,0,0,5,15
+"Marshall, M.",YKW,0,0,28,0,16,0,0,3,5,15

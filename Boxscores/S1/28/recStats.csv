@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Weston, S.",SJS,4,50,12.5,25,0
-"Bottles, B.",SJS,4,27,6.8,9,0
-"Cook, B.",SJS,3,42,14,25,1
-"Bowers Jr, V.",SJS,1,6,6,6,0
-"Wiley, D.",SJS,1,5,5,5,0
-"Savea, A.",SJS,1,0,0,0,0
-"Maddox, R.",YKW,6,37,6.2,9,0
-"LeClair, A.",YKW,5,93,18.6,27,0
-"Garden, J.",YKW,5,57,11.4,21,2
-"North, F.",YKW,2,28,14,24,0
-"Nuck, B.",YKW,2,5,2.5,4,0
-"Sanderson, J.",YKW,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Weston, S.",SJS,4,50,12.5,25,0,13,1
+"Bottles, B.",SJS,4,27,6.8,9,0,13,1
+"Cook, B.",SJS,3,42,14,25,1,13,1
+"Bowers Jr, V.",SJS,1,6,6,6,0,13,1
+"Wiley, D.",SJS,1,5,5,5,0,13,1
+"Savea, A.",SJS,1,0,0,0,0,13,1
+"Maddox, R.",YKW,6,37,6.2,9,0,13,1
+"LeClair, A.",YKW,5,93,18.6,27,0,13,1
+"Garden, J.",YKW,5,57,11.4,21,2,13,1
+"North, F.",YKW,2,28,14,24,0,13,1
+"Nuck, B.",YKW,2,5,2.5,4,0,13,1
+"Sanderson, J.",YKW,1,2,2,2,0,13,1

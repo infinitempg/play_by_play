@@ -1,4 +1,4 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Rove, C.",PHI,"[20, 30]",278,13.9,2,1,104.6
-"Christ, J.",PHI,"[1, 3]",6,6,1,0,81.9
-"Orosz, C.",YKW,"[25, 39]",292,11.7,1,1,84.6
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Rove, C.",PHI,278,13.9,2,1,104.6,20,1,5,3
+"Christ, J.",PHI,6,6,1,0,81.9,20,1,5,3
+"Orosz, C.",YKW,292,11.7,1,1,84.6,20,1,5,3

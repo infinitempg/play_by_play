@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Toriki, M.",NO,21,110,5.2,13,0
-"Gump, F.",NO,14,54,3.9,8,0
-"Owens, A.",COL,15,61,4.1,11,0
-"Vincent, M.",COL,4,14,3.5,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Toriki, M.",NO,21,110,5.2,13,0,4,21
+"Gump, F.",NO,14,54,3.9,8,0,4,21
+"Owens, A.",COL,15,61,4.1,11,0,4,21
+"Vincent, M.",COL,4,14,3.5,6,0,4,21

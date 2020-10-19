@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Bayley Jr., B.",CHI,1,5,2,0
-"MacAndrew, H.",CHI,1,20,0,0
-"LaFleur, F.",CHI,0,0,7,0
-"Ahstreet, C.",CHI,0,0,6,0
-"Lesnar, B.",CHI,0,0,4,0
-"Hayes, V.",CHI,0,0,3,0
-"Tucker Jr., P.",CHI,0,0,3,0
-"Gelbman, T.",CHI,0,0,1,0
-"Room, W.",NO,1,15,4,1
-"Jimbo Jr., D.",NO,1,5,3,0
-"Adams, X.",NO,1,5,0,0
-"Dissector, U.",NO,1,5,0,0
-"Rubbe, G.",NO,0,0,5,0
-"Brew, S.",NO,0,0,3,0
-"Gump, F.",NO,0,0,2,0
-"Wolfcastle, R.",NO,0,0,1,1
-"Ofyourlove, S.",NO,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Bayley Jr., B.",CHI,1,5,2,0,11,23
+"MacAndrew, H.",CHI,1,20,0,0,11,23
+"LaFleur, F.",CHI,0,0,7,0,11,23
+"Ahstreet, C.",CHI,0,0,6,0,11,23
+"Lesnar, B.",CHI,0,0,4,0,11,23
+"Hayes, V.",CHI,0,0,3,0,11,23
+"Tucker Jr., P.",CHI,0,0,3,0,11,23
+"Gelbman, T.",CHI,0,0,1,0,11,23
+"Room, W.",NO,1,15,4,1,11,23
+"Jimbo Jr., D.",NO,1,5,3,0,11,23
+"Adams, X.",NO,1,5,0,0,11,23
+"Dissector, U.",NO,1,5,0,0,11,23
+"Rubbe, G.",NO,0,0,5,0,11,23
+"Brew, S.",NO,0,0,3,0,11,23
+"Gump, F.",NO,0,0,2,0,11,23
+"Wolfcastle, R.",NO,0,0,1,1,11,23
+"Ofyourlove, S.",NO,0,0,0,1,11,23

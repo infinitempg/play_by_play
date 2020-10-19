@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gore, B.",NO,22,90,4.1,10,3
-"Maximus III, B.",NO,8,45,5.6,18,0
-"Wizardry, D.",YKW,15,65,4.3,10,1
-"Carrasco, T.",YKW,6,32,5.3,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gore, B.",NO,22,90,4.1,10,3,2,12
+"Maximus III, B.",NO,8,45,5.6,18,0,2,12
+"Wizardry, D.",YKW,15,65,4.3,10,1,2,12
+"Carrasco, T.",YKW,6,32,5.3,7,0,2,12

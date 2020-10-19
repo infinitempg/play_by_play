@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Alexander, W.",HON,4,49,12.2,22,0
-"Kane-Maika'i, K.",HON,4,35,8.8,15,0
-"Podolak, J.",HON,3,83,27.7,49,1
-"Ayers, N.",HON,3,49,16.3,37,0
-"Clay, J.",HON,3,36,12,27,0
-"McDavid, L.",SJS,6,32,5.3,18,0
-"Thomas-Fox, D.",SJS,4,94,23.5,32,0
-"Swift, N.",SJS,3,42,14,29,1
-"Hood, T.",SJS,3,24,8,10,1
-"Lackson, J.",SJS,2,14,7,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Alexander, W.",HON,4,49,12.2,22,0,14,24
+"Kane-Maika'i, K.",HON,4,35,8.8,15,0,14,24
+"Podolak, J.",HON,3,83,27.7,49,1,14,24
+"Ayers, N.",HON,3,49,16.3,37,0,14,24
+"Clay, J.",HON,3,36,12,27,0,14,24
+"McDavid, L.",SJS,6,32,5.3,18,0,14,24
+"Thomas-Fox, D.",SJS,4,94,23.5,32,0,14,24
+"Swift, N.",SJS,3,42,14,29,1,14,24
+"Hood, T.",SJS,3,24,8,10,1,14,24
+"Lackson, J.",SJS,2,14,7,8,0,14,24

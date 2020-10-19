@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",BAL,26,160,6.2,18,1
-"Jimbo, D.",BAL,4,11,2.8,9,0
-"Havran, C.",BAL,3,67,22.3,61,0
-"Bigby, L.",BAL,1,4,4,4,0
-"Torenson, S.",CHI,17,64,3.8,9,1
-"Danielsson, A.",CHI,6,19,3.2,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",BAL,26,160,6.2,18,1,4,16
+"Jimbo, D.",BAL,4,11,2.8,9,0,4,16
+"Havran, C.",BAL,3,67,22.3,61,0,4,16
+"Bigby, L.",BAL,1,4,4,4,0,4,16
+"Torenson, S.",CHI,17,64,3.8,9,1,4,16
+"Danielsson, A.",CHI,6,19,3.2,11,0,4,16

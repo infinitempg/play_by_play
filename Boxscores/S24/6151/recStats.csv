@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Mendonca, M.",AUS,7,84,12,29,0
-"Gaines, N.",AUS,6,104,17.3,29,0
-"Videl-San, N.",AUS,4,36,9,11,1
-"Jones, K.",AUS,2,17,8.5,9,0
-"Tidwell, R.",AUS,1,24,24,24,0
-"Jeeta, E.",AUS,1,5,5,5,0
-"Gordon, R.",SAR,6,112,18.7,40,0
-"Angler, J.",SAR,4,72,18,29,0
-"Boyd, C.",SAR,2,16,8,8,0
-"Witheblock, M.",SAR,1,38,38,38,0
-"Chan, R.",SAR,1,8,8,8,0
-"Back, R.",SAR,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Mendonca, M.",AUS,7,84,12,29,0,6,24
+"Gaines, N.",AUS,6,104,17.3,29,0,6,24
+"Videl-San, N.",AUS,4,36,9,11,1,6,24
+"Jones, K.",AUS,2,17,8.5,9,0,6,24
+"Tidwell, R.",AUS,1,24,24,24,0,6,24
+"Jeeta, E.",AUS,1,5,5,5,0,6,24
+"Gordon, R.",SAR,6,112,18.7,40,0,6,24
+"Angler, J.",SAR,4,72,18,29,0,6,24
+"Boyd, C.",SAR,2,16,8,8,0,6,24
+"Witheblock, M.",SAR,1,38,38,38,0,6,24
+"Chan, R.",SAR,1,8,8,8,0,6,24
+"Back, R.",SAR,1,7,7,7,0,6,24

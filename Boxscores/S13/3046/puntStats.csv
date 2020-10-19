@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Anderson, A.",OCO,4,160,40,44,0
-"Jackson, D.",AZ,9,440,48.9,66,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Anderson, A.",OCO,4,160,40,44,0,9,13
+"Jackson, D.",AZ,9,440,48.9,66,1,9,13

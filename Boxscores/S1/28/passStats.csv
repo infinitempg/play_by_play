@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Hunt, E.",SJS,"[14, 33]",130,9.3,1,1,51.3
-"Orosz, C.",YKW,"[21, 30]",222,10.6,2,0,113.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Hunt, E.",SJS,130,9.3,1,1,51.3,14,21,13,1
+"Orosz, C.",YKW,222,10.6,2,0,113.5,14,21,13,1

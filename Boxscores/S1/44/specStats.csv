@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",COL,2,40,0,28,0,0,0,0
-"Law, D.",COL,1,25,63,25,21,0,0,7
-"Cutter, D.",YKW,3,54,0,25,0,0,0,0
-"LeClair, A.",YKW,2,20,0,11,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",COL,2,40,0,28,0,0,0,0,14,1
+"Law, D.",COL,1,25,63,25,21,0,0,7,14,1
+"Cutter, D.",YKW,3,54,0,25,0,0,0,0,14,1
+"LeClair, A.",YKW,2,20,0,11,0,0,0,0,14,1

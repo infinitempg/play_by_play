@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bishop, J.",COL,6,42,7,10,0
-"Miller, H.",COL,4,102,25.5,52,1
-"Grau, M.",COL,3,45,15,39,0
-"Wachter, J.",COL,2,41,20.5,34,0
-"Chipmunk, A.",COL,2,29,14.5,19,1
-"Cansino, D.",COL,1,1,1,1,1
-"Strike, L.",COL,1,1,1,1,0
-"Bush, C.",PHI,6,107,17.8,38,2
-"Brown, M.",PHI,6,36,6,12,0
-"von Matt, J.",PHI,4,57,14.2,23,0
-"Hasselhoff, F.",PHI,3,55,18.3,38,1
-"Hardwick, S.",PHI,2,49,24.5,34,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bishop, J.",COL,6,42,7,10,0,13,12
+"Miller, H.",COL,4,102,25.5,52,1,13,12
+"Grau, M.",COL,3,45,15,39,0,13,12
+"Wachter, J.",COL,2,41,20.5,34,0,13,12
+"Chipmunk, A.",COL,2,29,14.5,19,1,13,12
+"Cansino, D.",COL,1,1,1,1,1,13,12
+"Strike, L.",COL,1,1,1,1,0,13,12
+"Bush, C.",PHI,6,107,17.8,38,2,13,12
+"Brown, M.",PHI,6,36,6,12,0,13,12
+"von Matt, J.",PHI,4,57,14.2,23,0,13,12
+"Hasselhoff, F.",PHI,3,55,18.3,38,1,13,12
+"Hardwick, S.",PHI,2,49,24.5,34,0,13,12

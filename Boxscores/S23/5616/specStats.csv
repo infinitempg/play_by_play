@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gordon, R.",SAR,1,40,28,40,14,0,0,2
-"Frost, D.",SAR,4,63,0,25,0,0,0,0
-"D'Attoria V, R.",PHI,3,101,0,41,0,0,0,0
-"Panda, F.",PHI,3,98,7,41,6,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gordon, R.",SAR,1,40,28,40,14,0,0,2,4,23
+"Frost, D.",SAR,4,63,0,25,0,0,0,0,4,23
+"D'Attoria V, R.",PHI,3,101,0,41,0,0,0,0,4,23
+"Panda, F.",PHI,3,98,7,41,6,0,0,2,4,23

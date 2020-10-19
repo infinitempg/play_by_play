@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Harris, S.",PHI,4,214,53.5,65,1
-"Walsh, B.",LV,8,331,41.4,53,2
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Harris, S.",PHI,4,214,53.5,65,1,7,3
+"Walsh, B.",LV,8,331,41.4,53,2,7,3

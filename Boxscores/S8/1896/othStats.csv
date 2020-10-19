@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Grau, M.",COL,1,5,0,0
-"Ramero, R.",COL,1,5,0,0
-"Tillman, M.",COL,1,5,0,0
-"Wheat, B.",COL,1,5,0,0
-"Down, D.",COL,0,0,8,2
-"Windchesthair, A.",COL,0,0,5,0
-"Knuckler, B.",COL,0,0,4,1
-"Bastard, F.",COL,0,0,3,0
-"Vibrations, F.",COL,0,0,2,1
-"Rucker, F.",SJS,2,15,2,1
-"Tuck Jr., T.",SJS,1,3,1,1
-"Riddick, D.",SJS,1,5,1,0
-"Washington, L.",SJS,1,5,0,0
-"Tacktheritrix, J.",SJS,0,0,7,0
-"Probincrux III, D.",SJS,0,0,4,0
-"Jahelpme, H.",SJS,0,0,3,1
-"McKoutchie, M.",SJS,0,0,2,0
-"Diaz, D.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Grau, M.",COL,1,5,0,0,5,8
+"Ramero, R.",COL,1,5,0,0,5,8
+"Tillman, M.",COL,1,5,0,0,5,8
+"Wheat, B.",COL,1,5,0,0,5,8
+"Down, D.",COL,0,0,8,2,5,8
+"Windchesthair, A.",COL,0,0,5,0,5,8
+"Knuckler, B.",COL,0,0,4,1,5,8
+"Bastard, F.",COL,0,0,3,0,5,8
+"Vibrations, F.",COL,0,0,2,1,5,8
+"Rucker, F.",SJS,2,15,2,1,5,8
+"Tuck Jr., T.",SJS,1,3,1,1,5,8
+"Riddick, D.",SJS,1,5,1,0,5,8
+"Washington, L.",SJS,1,5,0,0,5,8
+"Tacktheritrix, J.",SJS,0,0,7,0,5,8
+"Probincrux III, D.",SJS,0,0,4,0,5,8
+"Jahelpme, H.",SJS,0,0,3,1,5,8
+"McKoutchie, M.",SJS,0,0,2,0,5,8
+"Diaz, D.",SJS,0,0,1,0,5,8

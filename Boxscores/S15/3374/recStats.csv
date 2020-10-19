@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blaze, J.",OCO,10,91,9.1,21,0
-"Sunnycursed, N.",OCO,6,109,18.2,28,1
-"Zephyrous, S.",OCO,5,32,6.4,9,0
-"Crush, C.",OCO,3,42,14,22,1
-"Anoa'i, D.",OCO,3,24,8,14,1
-"Reed, A.",OCO,1,4,4,4,0
-"McPoyal, G.",OCO,1,2,2,2,0
-"Swift, N.",YKW,5,77,15.4,24,0
-"Canton, J.",YKW,5,34,6.8,11,1
-"Wizardry, D.",YKW,3,13,4.3,6,1
-"Parker, J.",YKW,2,39,19.5,22,0
-"Helanen, T.",YKW,1,9,9,9,0
-"Pitcher, A.",YKW,1,6,6,6,0
-"Marshall, M.",YKW,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blaze, J.",OCO,10,91,9.1,21,0,5,15
+"Sunnycursed, N.",OCO,6,109,18.2,28,1,5,15
+"Zephyrous, S.",OCO,5,32,6.4,9,0,5,15
+"Crush, C.",OCO,3,42,14,22,1,5,15
+"Anoa'i, D.",OCO,3,24,8,14,1,5,15
+"Reed, A.",OCO,1,4,4,4,0,5,15
+"McPoyal, G.",OCO,1,2,2,2,0,5,15
+"Swift, N.",YKW,5,77,15.4,24,0,5,15
+"Canton, J.",YKW,5,34,6.8,11,1,5,15
+"Wizardry, D.",YKW,3,13,4.3,6,1,5,15
+"Parker, J.",YKW,2,39,19.5,22,0,5,15
+"Helanen, T.",YKW,1,9,9,9,0,5,15
+"Pitcher, A.",YKW,1,6,6,6,0,5,15
+"Marshall, M.",YKW,1,4,4,4,0,5,15

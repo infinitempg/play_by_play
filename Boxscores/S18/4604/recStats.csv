@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Olsen, C.",SJS,6,58,9.7,12,0
-"Justice, T.",SJS,5,81,16.2,26,0
-"Flash, X.",SJS,4,62,15.5,27,2
-"Bot, B.",SJS,4,20,5,11,0
-"Orosz, C.",SJS,1,21,21,21,0
-"Espeeyeeseetee, A.",BAL,5,98,19.6,31,1
-"L'Alto, V.",BAL,5,51,10.2,16,0
-"Maddox, E.",BAL,4,64,16,33,0
-"Bigby, L.",BAL,4,54,13.5,24,0
-"Sunnycursed, N.",BAL,2,25,12.5,13,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Olsen, C.",SJS,6,58,9.7,12,0,10,18
+"Justice, T.",SJS,5,81,16.2,26,0,10,18
+"Flash, X.",SJS,4,62,15.5,27,2,10,18
+"Bot, B.",SJS,4,20,5,11,0,10,18
+"Orosz, C.",SJS,1,21,21,21,0,10,18
+"Espeeyeeseetee, A.",BAL,5,98,19.6,31,1,10,18
+"L'Alto, V.",BAL,5,51,10.2,16,0,10,18
+"Maddox, E.",BAL,4,64,16,33,0,10,18
+"Bigby, L.",BAL,4,54,13.5,24,0,10,18
+"Sunnycursed, N.",BAL,2,25,12.5,13,0,10,18

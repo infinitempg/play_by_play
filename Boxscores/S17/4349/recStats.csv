@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Fyodorovich, V.",NO,6,109,18.2,29,0
-"Jackson, A.",NO,4,45,11.2,20,0
-"Jones, B.",NO,3,24,8,10,0
-"Swift, T.",NO,2,27,13.5,20,0
-"Gump, F.",NO,2,11,5.5,9,2
-"Sackless, S.",NO,1,28,28,28,0
-"L'Alto, V.",BAL,9,95,10.6,43,1
-"Sunnycursed, N.",BAL,4,82,20.5,40,1
-"Espeeyeeseetee, A.",BAL,4,60,15,23,0
-"Jones, V.",BAL,2,5,2.5,4,0
-"Maddox, E.",BAL,1,31,31,31,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Fyodorovich, V.",NO,6,109,18.2,29,0,13,17
+"Jackson, A.",NO,4,45,11.2,20,0,13,17
+"Jones, B.",NO,3,24,8,10,0,13,17
+"Swift, T.",NO,2,27,13.5,20,0,13,17
+"Gump, F.",NO,2,11,5.5,9,2,13,17
+"Sackless, S.",NO,1,28,28,28,0,13,17
+"L'Alto, V.",BAL,9,95,10.6,43,1,13,17
+"Sunnycursed, N.",BAL,4,82,20.5,40,1,13,17
+"Espeeyeeseetee, A.",BAL,4,60,15,23,0,13,17
+"Jones, V.",BAL,2,5,2.5,4,0,13,17
+"Maddox, E.",BAL,1,31,31,31,1,13,17

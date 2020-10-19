@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, E.",BAL,4,97,24.2,40,0
-"Espeeyeeseetee, A.",BAL,4,66,16.5,37,1
-"L'Alto, V.",BAL,4,37,9.2,16,1
-"Sunnycursed, N.",BAL,3,117,39,54,0
-"Bigby, L.",BAL,3,8,2.7,6,0
-"Hank, F.",PHI,8,129,16.1,50,0
-"Zephyrous, S.",PHI,7,55,7.9,14,0
-"Varga, N.",PHI,5,118,23.6,31,1
-"Hardwick, S.",PHI,2,33,16.5,25,0
-"BotTight, Z.",PHI,2,19,9.5,10,0
-"Torenson, S.",PHI,2,9,4.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, E.",BAL,4,97,24.2,40,0,9,18
+"Espeeyeeseetee, A.",BAL,4,66,16.5,37,1,9,18
+"L'Alto, V.",BAL,4,37,9.2,16,1,9,18
+"Sunnycursed, N.",BAL,3,117,39,54,0,9,18
+"Bigby, L.",BAL,3,8,2.7,6,0,9,18
+"Hank, F.",PHI,8,129,16.1,50,0,9,18
+"Zephyrous, S.",PHI,7,55,7.9,14,0,9,18
+"Varga, N.",PHI,5,118,23.6,31,1,9,18
+"Hardwick, S.",PHI,2,33,16.5,25,0,9,18
+"BotTight, Z.",PHI,2,19,9.5,10,0,9,18
+"Torenson, S.",PHI,2,9,4.5,6,0,9,18

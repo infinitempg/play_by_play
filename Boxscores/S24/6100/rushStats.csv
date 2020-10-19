@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Lackson, J.",SJS,22,76,3.5,8,1
-"Cardrissian, R.",SJS,21,85,4,11,1
-"Jack, M.",SJS,1,-2,-2,0,0
-"Petrongolo, J.",AZ,9,23,2.6,9,0
-"Cue, J.",AZ,7,16,2.3,8,1
-"Keppler, Z.",AZ,5,17,3.4,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Lackson, J.",SJS,22,76,3.5,8,1,15,24
+"Cardrissian, R.",SJS,21,85,4,11,1,15,24
+"Jack, M.",SJS,1,-2,-2,0,0,15,24
+"Petrongolo, J.",AZ,9,23,2.6,9,0,15,24
+"Cue, J.",AZ,7,16,2.3,8,1,15,24
+"Keppler, Z.",AZ,5,17,3.4,6,0,15,24

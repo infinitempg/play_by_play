@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"LeClair, A.",NO,6,112,18.7,30,2
-"DiMirio, P.",NO,6,70,11.7,22,0
-"Law, C.",NO,5,114,22.8,43,0
-"Smallwood, D.",NO,4,37,9.2,19,1
-"Jackson, M.",NO,1,2,2,2,0
-"Bush, C.",PHI,5,88,17.6,22,0
-"O'Sullivan, S.",PHI,4,34,8.5,9,0
-"Garden, J.",PHI,2,31,15.5,29,0
-"Stormblessed, N.",PHI,2,24,12,15,0
-"O'Sullivan, C.",PHI,2,9,4.5,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"LeClair, A.",NO,6,112,18.7,30,2,1,10
+"DiMirio, P.",NO,6,70,11.7,22,0,1,10
+"Law, C.",NO,5,114,22.8,43,0,1,10
+"Smallwood, D.",NO,4,37,9.2,19,1,1,10
+"Jackson, M.",NO,1,2,2,2,0,1,10
+"Bush, C.",PHI,5,88,17.6,22,0,1,10
+"O'Sullivan, S.",PHI,4,34,8.5,9,0,1,10
+"Garden, J.",PHI,2,31,15.5,29,0,1,10
+"Stormblessed, N.",PHI,2,24,12,15,0,1,10
+"O'Sullivan, C.",PHI,2,9,4.5,8,0,1,10

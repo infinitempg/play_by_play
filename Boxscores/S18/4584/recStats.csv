@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Parker, J.",CHI,5,117,23.4,50,1
-"Harp, D.",CHI,5,40,8,18,0
-"Hasselhoff, F.",CHI,3,11,3.7,7,0
-"Smith, W.",CHI,1,10,10,10,0
-"Danielsson, A.",CHI,1,9,9,9,0
-"Utler, J.",CHI,1,7,7,7,0
-"Brown, M.",CHI,1,5,5,5,0
-"Forty-Two, L.",COL,7,87,12.4,25,0
-"Bishop, J.",COL,6,120,20,53,2
-"Taffy, T.",COL,6,40,6.7,14,0
-"King, A.",COL,5,26,5.2,7,0
-"Pennington, B.",COL,3,22,7.3,10,0
-"Vincent, M.",COL,2,17,8.5,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Parker, J.",CHI,5,117,23.4,50,1,6,18
+"Harp, D.",CHI,5,40,8,18,0,6,18
+"Hasselhoff, F.",CHI,3,11,3.7,7,0,6,18
+"Smith, W.",CHI,1,10,10,10,0,6,18
+"Danielsson, A.",CHI,1,9,9,9,0,6,18
+"Utler, J.",CHI,1,7,7,7,0,6,18
+"Brown, M.",CHI,1,5,5,5,0,6,18
+"Forty-Two, L.",COL,7,87,12.4,25,0,6,18
+"Bishop, J.",COL,6,120,20,53,2,6,18
+"Taffy, T.",COL,6,40,6.7,14,0,6,18
+"King, A.",COL,5,26,5.2,7,0,6,18
+"Pennington, B.",COL,3,22,7.3,10,0,6,18
+"Vincent, M.",COL,2,17,8.5,10,0,6,18

@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Rchonsucks, A.",YKW,1,5,3,1
-"Lee, M.",YKW,1,5,0,0
-"Forty-Two, L.",YKW,0,0,13,0
-"Ones, B.",YKW,0,0,8,0
-"Rechs, Z.",YKW,0,0,5,0
-"Hanyadi, M.",YKW,0,0,3,0
-"Skyline, A.",YKW,0,0,3,0
-"Amper, T.",YKW,0,0,2,0
-"Pooky, S.",YKW,0,0,2,0
-"Saurus, B.",AUS,1,5,4,0
-"Lavelle Jr., D.",AUS,1,15,0,0
-"McTackle, R.",AUS,1,15,0,0
-"Porter, G.",AUS,1,5,0,0
-"Fassingit, H.",AUS,0,0,3,0
-"Saurus, A.",AUS,0,0,3,0
-"Beaver-Dantes, E.",AUS,0,0,2,1
-"Jones, K.",AUS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Rchonsucks, A.",YKW,1,5,3,1,8,24
+"Lee, M.",YKW,1,5,0,0,8,24
+"Forty-Two, L.",YKW,0,0,13,0,8,24
+"Ones, B.",YKW,0,0,8,0,8,24
+"Rechs, Z.",YKW,0,0,5,0,8,24
+"Hanyadi, M.",YKW,0,0,3,0,8,24
+"Skyline, A.",YKW,0,0,3,0,8,24
+"Amper, T.",YKW,0,0,2,0,8,24
+"Pooky, S.",YKW,0,0,2,0,8,24
+"Saurus, B.",AUS,1,5,4,0,8,24
+"Lavelle Jr., D.",AUS,1,15,0,0,8,24
+"McTackle, R.",AUS,1,15,0,0,8,24
+"Porter, G.",AUS,1,5,0,0,8,24
+"Fassingit, H.",AUS,0,0,3,0,8,24
+"Saurus, A.",AUS,0,0,3,0,8,24
+"Beaver-Dantes, E.",AUS,0,0,2,1,8,24
+"Jones, K.",AUS,0,0,1,0,8,24

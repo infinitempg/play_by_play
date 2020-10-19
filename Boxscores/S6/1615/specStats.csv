@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kroetch, D.",PHI,2,70,0,41,0,0,0,0
-"Garden, J.",PHI,2,34,47,19,19,0,0,3
-"Weston, S.",SJS,3,96,14,42,14,0,0,1
-"Jackson, M.",SJS,6,165,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kroetch, D.",PHI,2,70,0,41,0,0,0,0,10,6
+"Garden, J.",PHI,2,34,47,19,19,0,0,3,10,6
+"Weston, S.",SJS,3,96,14,42,14,0,0,1,10,6
+"Jackson, M.",SJS,6,165,0,38,0,0,0,0,10,6

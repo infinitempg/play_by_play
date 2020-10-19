@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,3,26,12,13,9,0,0,3
-"Rocket, J.",LV,3,69,0,33,0,0,0,0
-"Stormblessed, N.",LV,3,29,0,13,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,3,26,12,13,9,0,0,3,5,2
+"Rocket, J.",LV,3,69,0,33,0,0,0,0,5,2
+"Stormblessed, N.",LV,3,29,0,13,0,0,0,0,5,2

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,27,137,5.1,13,2
-"Pennington, B.",YKW,2,10,5,11,0
-"Gore, B.",YKW,1,4,4,4,0
-"Brown, M.",PHI,32,120,3.8,12,0
-"O'Sullivan, C.",PHI,7,47,6.7,13,0
-"O'Sullivan, S.",PHI,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,27,137,5.1,13,2,7,10
+"Pennington, B.",YKW,2,10,5,11,0,7,10
+"Gore, B.",YKW,1,4,4,4,0,7,10
+"Brown, M.",PHI,32,120,3.8,12,0,7,10
+"O'Sullivan, C.",PHI,7,47,6.7,13,0,7,10
+"O'Sullivan, S.",PHI,1,1,1,1,0,7,10

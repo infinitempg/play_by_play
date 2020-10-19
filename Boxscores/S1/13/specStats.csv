@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",OCO,2,12,34,7,17,0,0,4
-"Weston, S.",SJS,2,52,0,26,0,0,0,1
-"Wiley, D.",SJS,4,58,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",OCO,2,12,34,7,17,0,0,4,8,1
+"Weston, S.",SJS,2,52,0,26,0,0,0,1,8,1
+"Wiley, D.",SJS,4,58,0,31,0,0,0,0,8,1

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",PHI,2,60,11,34,14,0,0,2
-"Jefferson, L.",PHI,1,21,0,21,0,0,0,0
-"Garden, J.",YKW,1,19,10,19,9,0,0,2
-"Novel, L.",YKW,3,71,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",PHI,2,60,11,34,14,0,0,2,8,2
+"Jefferson, L.",PHI,1,21,0,21,0,0,0,0,8,2
+"Garden, J.",YKW,1,19,10,19,9,0,0,2,8,2
+"Novel, L.",YKW,3,71,0,33,0,0,0,0,8,2

@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gordon, R.",SAR,4,93,53,29,16,0,0,5
-"Kane-Maika'i, K.",HON,2,49,-4,26,0,0,0,2
-"Dawkins, S.",HON,2,50,0,30,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gordon, R.",SAR,4,93,53,29,16,0,0,5,6,23
+"Kane-Maika'i, K.",HON,2,49,-4,26,0,0,0,2,6,23
+"Dawkins, S.",HON,2,50,0,30,0,0,0,0,6,23

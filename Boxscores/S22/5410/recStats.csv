@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Leary, S.",CHI,5,60,12,22,0
-"Davis, J.",CHI,3,33,11,19,0
-"Hank, F.",CHI,2,9,4.5,5,0
-"Z, D.",CHI,1,10,10,10,0
-"Tirtawidjaja, J.",CHI,1,5,5,5,0
-"Hayes, V.",CHI,1,2,2,2,0
-"Vuxta, R.",PHI,4,74,18.5,41,0
-"Varga, N.",PHI,4,25,6.2,11,0
-"Panda, F.",PHI,3,52,17.3,28,1
-"Blocksdale Jr., A.",PHI,2,21,10.5,13,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Leary, S.",CHI,5,60,12,22,0,9,22
+"Davis, J.",CHI,3,33,11,19,0,9,22
+"Hank, F.",CHI,2,9,4.5,5,0,9,22
+"Z, D.",CHI,1,10,10,10,0,9,22
+"Tirtawidjaja, J.",CHI,1,5,5,5,0,9,22
+"Hayes, V.",CHI,1,2,2,2,0,9,22
+"Vuxta, R.",PHI,4,74,18.5,41,0,9,22
+"Varga, N.",PHI,4,25,6.2,11,0,9,22
+"Panda, F.",PHI,3,52,17.3,28,1,9,22
+"Blocksdale Jr., A.",PHI,2,21,10.5,13,1,9,22

@@ -1,5 +1,5 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Christ, J.",PHI,"[24, 36]",272,11.3,2,0,107.6
-"Brady, S.",PHI,"[5, 8]",30,6,0,0,69.8
-"Hunt, E.",SJS,"[14, 20]",165,11.8,0,0,94.8
-"Adams, C.",SJS,"[5, 10]",70,14,0,0,72.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Christ, J.",PHI,272,11.3,2,0,107.6,24,5,14,2
+"Brady, S.",PHI,30,6,0,0,69.8,24,5,14,2
+"Hunt, E.",SJS,165,11.8,0,0,94.8,24,5,14,2
+"Adams, C.",SJS,70,14,0,0,72.9,24,5,14,2

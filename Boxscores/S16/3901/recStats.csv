@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Valentine, V.",OCO,7,117,16.7,29,0
-"Blaze, J.",OCO,7,83,11.9,19,0
-"Sunnycursed, N.",OCO,6,135,22.5,57,1
-"Pitcher, A.",OCO,4,35,8.8,16,0
-"CantCatchBot, Z.",OCO,2,10,5,6,0
-"Reed, A.",OCO,2,7,3.5,5,0
-"Irving, J.",AZ,6,45,7.5,17,0
-"Landers, B.",AZ,4,60,15,20,0
-"Murphy, J.",AZ,3,42,14,20,0
-"Shady, S.",AZ,3,17,5.7,10,0
-"Kindle, H.",AZ,1,9,9,9,0
-"Zephyrous, S.",AZ,1,9,9,9,0
-"Moore, S.",AZ,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Valentine, V.",OCO,7,117,16.7,29,0,7,16
+"Blaze, J.",OCO,7,83,11.9,19,0,7,16
+"Sunnycursed, N.",OCO,6,135,22.5,57,1,7,16
+"Pitcher, A.",OCO,4,35,8.8,16,0,7,16
+"CantCatchBot, Z.",OCO,2,10,5,6,0,7,16
+"Reed, A.",OCO,2,7,3.5,5,0,7,16
+"Irving, J.",AZ,6,45,7.5,17,0,7,16
+"Landers, B.",AZ,4,60,15,20,0,7,16
+"Murphy, J.",AZ,3,42,14,20,0,7,16
+"Shady, S.",AZ,3,17,5.7,10,0,7,16
+"Kindle, H.",AZ,1,9,9,9,0,7,16
+"Zephyrous, S.",AZ,1,9,9,9,0,7,16
+"Moore, S.",AZ,1,6,6,6,0,7,16

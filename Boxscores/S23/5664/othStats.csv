@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Gordon, R.",SAR,1,5,0,0
-"Witheblock, M.",SAR,1,5,0,0
-"McCabe, J.",SAR,0,0,6,1
-"Doe, B.",SAR,0,0,6,0
-"Woakneoa, S.",SAR,0,0,5,0
-"Bakhtiari, S.",SAR,0,0,4,0
-"Smith, J.",SAR,0,0,4,0
-"Boyd, C.",SAR,0,0,1,0
-"Richards, E.",CHI,1,5,0,0
-"LaFleur, F.",CHI,0,0,6,0
-"Ahstreet, C.",CHI,0,0,4,0
-"Bayley Jr., B.",CHI,0,0,3,0
-"Hayes, V.",CHI,0,0,3,0
-"Lesnar, B.",CHI,0,0,2,0
-"Gelbman, T.",CHI,0,0,1,0
-"Hank, F.",CHI,0,0,1,0
-"Tucker Jr., P.",CHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Gordon, R.",SAR,1,5,0,0,12,23
+"Witheblock, M.",SAR,1,5,0,0,12,23
+"McCabe, J.",SAR,0,0,6,1,12,23
+"Doe, B.",SAR,0,0,6,0,12,23
+"Woakneoa, S.",SAR,0,0,5,0,12,23
+"Bakhtiari, S.",SAR,0,0,4,0,12,23
+"Smith, J.",SAR,0,0,4,0,12,23
+"Boyd, C.",SAR,0,0,1,0,12,23
+"Richards, E.",CHI,1,5,0,0,12,23
+"LaFleur, F.",CHI,0,0,6,0,12,23
+"Ahstreet, C.",CHI,0,0,4,0,12,23
+"Bayley Jr., B.",CHI,0,0,3,0,12,23
+"Hayes, V.",CHI,0,0,3,0,12,23
+"Lesnar, B.",CHI,0,0,2,0,12,23
+"Gelbman, T.",CHI,0,0,1,0,12,23
+"Hank, F.",CHI,0,0,1,0,12,23
+"Tucker Jr., P.",CHI,0,0,1,0,12,23

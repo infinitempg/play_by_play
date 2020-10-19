@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bigby, L.",OCO,14,70,5,11,1
-"Nakamura, T.",OCO,10,45,4.5,11,0
-"Armstrong, F.",OCO,7,102,14.6,66,1
-"Owens, A.",COL,17,49,2.9,7,0
-"Vincent, M.",COL,5,27,5.4,7,0
-"McDummy, W.",COL,3,22,7.3,24,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bigby, L.",OCO,14,70,5,11,1,7,22
+"Nakamura, T.",OCO,10,45,4.5,11,0,7,22
+"Armstrong, F.",OCO,7,102,14.6,66,1,7,22
+"Owens, A.",COL,17,49,2.9,7,0,7,22
+"Vincent, M.",COL,5,27,5.4,7,0,7,22
+"McDummy, W.",COL,3,22,7.3,24,0,7,22

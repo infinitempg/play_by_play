@@ -1,24 +1,24 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Booker, B.",PHI,2,10,0,0
-"Fillmore, M.",PHI,1,14,3,1
-"Panda, F.",PHI,1,10,0,0
-"Arthur, C.",PHI,0,0,5,1
-"Blocksdale Jr., A.",PHI,0,0,2,1
-"Torenson, S.",PHI,0,0,2,1
-"Hayes, R.",PHI,0,0,2,0
-"Tyler, J.",PHI,0,0,2,0
-"Van Buren, M.",PHI,0,0,2,0
-"Dotson, F.",PHI,0,0,0,1
-"Dodggy, B.",SJS,2,15,1,0
-"Cardrissian, R.",SJS,1,5,4,0
-"Pest, T.",SJS,1,5,3,0
-"Ennis, B.",SJS,1,5,0,0
-"Harris, C.",SJS,1,5,0,0
-"Otle, C.",SJS,1,5,0,0
-"Staley, T.",SJS,1,5,0,0
-"Tyerucker, Q.",SJS,1,9,0,0
-"Bot, B.",SJS,0,0,3,0
-"McDavid, L.",SJS,0,0,2,0
-"Johnson, R.",SJS,0,0,1,0
-"Lee, B.",SJS,0,0,1,0
-"Pancake, P.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Booker, B.",PHI,2,10,0,0,8,22
+"Fillmore, M.",PHI,1,14,3,1,8,22
+"Panda, F.",PHI,1,10,0,0,8,22
+"Arthur, C.",PHI,0,0,5,1,8,22
+"Blocksdale Jr., A.",PHI,0,0,2,1,8,22
+"Torenson, S.",PHI,0,0,2,1,8,22
+"Hayes, R.",PHI,0,0,2,0,8,22
+"Tyler, J.",PHI,0,0,2,0,8,22
+"Van Buren, M.",PHI,0,0,2,0,8,22
+"Dotson, F.",PHI,0,0,0,1,8,22
+"Dodggy, B.",SJS,2,15,1,0,8,22
+"Cardrissian, R.",SJS,1,5,4,0,8,22
+"Pest, T.",SJS,1,5,3,0,8,22
+"Ennis, B.",SJS,1,5,0,0,8,22
+"Harris, C.",SJS,1,5,0,0,8,22
+"Otle, C.",SJS,1,5,0,0,8,22
+"Staley, T.",SJS,1,5,0,0,8,22
+"Tyerucker, Q.",SJS,1,9,0,0,8,22
+"Bot, B.",SJS,0,0,3,0,8,22
+"McDavid, L.",SJS,0,0,2,0,8,22
+"Johnson, R.",SJS,0,0,1,0,8,22
+"Lee, B.",SJS,0,0,1,0,8,22
+"Pancake, P.",SJS,0,0,1,0,8,22

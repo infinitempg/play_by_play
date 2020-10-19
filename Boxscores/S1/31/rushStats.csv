@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",ARI,14,66,4.7,11,0
-"Durden, J.",ARI,13,53,4.1,9,1
-"Newman, M.",ARI,13,44,3.4,9,0
-"Draxel, V.",ARI,1,-4,-4,0,0
-"Jenkins, L.",OCO,17,83,4.9,17,0
-"Wright, O.",OCO,8,12,1.5,5,0
-"Davidson, J.",OCO,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",ARI,14,66,4.7,11,0,9,1
+"Durden, J.",ARI,13,53,4.1,9,1,9,1
+"Newman, M.",ARI,13,44,3.4,9,0,9,1
+"Draxel, V.",ARI,1,-4,-4,0,0,9,1
+"Jenkins, L.",OCO,17,83,4.9,17,0,9,1
+"Wright, O.",OCO,8,12,1.5,5,0,9,1
+"Davidson, J.",OCO,1,1,1,1,0,9,1

@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,2,55,50,31,17,0,0,4
-"Jones, B.",NO,1,30,0,30,0,0,0,0
-"Valentine, V.",NO,1,26,0,26,0,0,0,0
-"Alexander, N.",YKW,1,0,0,0,0,0,0,0
-"Swift, N.",YKW,1,1,0,1,0,0,0,0
-"Snuggles, J.",YKW,1,31,2,31,3,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,2,55,50,31,17,0,0,4,5,19
+"Jones, B.",NO,1,30,0,30,0,0,0,0,5,19
+"Valentine, V.",NO,1,26,0,26,0,0,0,0,5,19
+"Alexander, N.",YKW,1,0,0,0,0,0,0,0,5,19
+"Swift, N.",YKW,1,1,0,1,0,0,0,0,5,19
+"Snuggles, J.",YKW,1,31,2,31,3,0,0,3,5,19

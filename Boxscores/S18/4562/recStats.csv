@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, E.",BAL,6,111,18.5,40,2
-"Sunnycursed, N.",BAL,5,146,29.2,38,0
-"Espeeyeeseetee, A.",BAL,5,75,15,32,1
-"Bigby, L.",BAL,5,46,9.2,17,0
-"L'Alto, V.",BAL,4,22,5.5,9,1
-"Catchem9, Z.",BAL,1,6,6,6,0
-"Forty-Two, L.",COL,4,92,23,51,0
-"Bishop, J.",COL,3,62,20.7,33,2
-"Pennington, B.",COL,3,28,9.3,11,0
-"Taffy, T.",COL,3,20,6.7,8,0
-"King, A.",COL,2,15,7.5,9,0
-"Vincent, M.",COL,2,8,4,4,0
-"Damian-Luna, B.",COL,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, E.",BAL,6,111,18.5,40,2,2,18
+"Sunnycursed, N.",BAL,5,146,29.2,38,0,2,18
+"Espeeyeeseetee, A.",BAL,5,75,15,32,1,2,18
+"Bigby, L.",BAL,5,46,9.2,17,0,2,18
+"L'Alto, V.",BAL,4,22,5.5,9,1,2,18
+"Catchem9, Z.",BAL,1,6,6,6,0,2,18
+"Forty-Two, L.",COL,4,92,23,51,0,2,18
+"Bishop, J.",COL,3,62,20.7,33,2,2,18
+"Pennington, B.",COL,3,28,9.3,11,0,2,18
+"Taffy, T.",COL,3,20,6.7,8,0,2,18
+"King, A.",COL,2,15,7.5,9,0,2,18
+"Vincent, M.",COL,2,8,4,4,0,2,18
+"Damian-Luna, B.",COL,1,0,0,0,0,2,18

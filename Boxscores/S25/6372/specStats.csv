@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",NY,2,141,8,107,15,1,0,5
-"Kingston, J.",NY,4,42,0,29,0,0,0,0
-"Quinn, A.",BER,0,0,0,0,0,0,0,1
-"Petrongolo, J.",BER,4,100,0,35,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",NY,2,141,8,107,15,1,0,5,1,25
+"Kingston, J.",NY,4,42,0,29,0,0,0,0,1,25
+"Quinn, A.",BER,0,0,0,0,0,0,0,1,1,25
+"Petrongolo, J.",BER,4,100,0,35,0,0,0,0,1,25

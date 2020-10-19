@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Angler, J.",SAR,4,89,22.2,31,0
-"Gordon, R.",SAR,4,62,15.5,40,1
-"Witheblock, M.",SAR,4,31,7.8,10,0
-"Boyd, C.",SAR,4,22,5.5,10,1
-"Frost, D.",SAR,1,5,5,5,0
-"Rodriguez, B.",YKW,6,110,18.3,37,1
-"Jackson, A.",YKW,5,99,19.8,26,2
-"Swift, N.",YKW,5,58,11.6,28,0
-"Hanyadi, M.",YKW,4,27,6.8,17,0
-"Skyline, A.",YKW,2,9,4.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Angler, J.",SAR,4,89,22.2,31,0,13,23
+"Gordon, R.",SAR,4,62,15.5,40,1,13,23
+"Witheblock, M.",SAR,4,31,7.8,10,0,13,23
+"Boyd, C.",SAR,4,22,5.5,10,1,13,23
+"Frost, D.",SAR,1,5,5,5,0,13,23
+"Rodriguez, B.",YKW,6,110,18.3,37,1,13,23
+"Jackson, A.",YKW,5,99,19.8,26,2,13,23
+"Swift, N.",YKW,5,58,11.6,28,0,13,23
+"Hanyadi, M.",YKW,4,27,6.8,17,0,13,23
+"Skyline, A.",YKW,2,9,4.5,6,0,13,23

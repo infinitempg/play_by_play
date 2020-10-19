@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Cole, E.",AUS,"[23, 35]",309,13.4,0,1,81.7
-"Wright, D.",SJS,"[14, 33]",190,13.6,1,0,71.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Cole, E.",AUS,309,13.4,0,1,81.7,23,14,7,18
+"Wright, D.",SJS,190,13.6,1,0,71.5,23,14,7,18

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garden, J.",YKW,4,112,0,35,0,0,0,0
-"Lavelle, D.",YKW,1,28,35,28,15,0,0,5
-"Weston, S.",SJS,3,89,31,45,15,0,0,4
-"Jackson, M.",SJS,3,60,0,32,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garden, J.",YKW,4,112,0,35,0,0,0,0,12,3
+"Lavelle, D.",YKW,1,28,35,28,15,0,0,5,12,3
+"Weston, S.",SJS,3,89,31,45,15,0,0,4,12,3
+"Jackson, M.",SJS,3,60,0,32,0,0,0,0,12,3

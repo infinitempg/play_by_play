@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",NO,6,76,12.7,30,0
-"Law, C.",NO,5,76,15.2,25,1
-"Savea, A.",NO,5,42,8.4,14,0
-"Evans, D.",NO,3,43,14.3,20,0
-"Nuck, B.",NO,2,12,6,7,0
-"Smallwood, D.",NO,1,7,7,7,0
-"Tuck Jr., T.",SJS,6,29,4.8,9,0
-"Weston, S.",SJS,5,73,14.6,19,0
-"Jackson, M.",SJS,4,59,14.8,25,0
-"West, D.",SJS,2,20,10,14,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",NO,6,76,12.7,30,0,14,8
+"Law, C.",NO,5,76,15.2,25,1,14,8
+"Savea, A.",NO,5,42,8.4,14,0,14,8
+"Evans, D.",NO,3,43,14.3,20,0,14,8
+"Nuck, B.",NO,2,12,6,7,0,14,8
+"Smallwood, D.",NO,1,7,7,7,0,14,8
+"Tuck Jr., T.",SJS,6,29,4.8,9,0,14,8
+"Weston, S.",SJS,5,73,14.6,19,0,14,8
+"Jackson, M.",SJS,4,59,14.8,25,0,14,8
+"West, D.",SJS,2,20,10,14,0,14,8

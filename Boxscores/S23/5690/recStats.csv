@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McCormick, A.",NO,6,62,10.3,22,1
-"Wolfcastle, R.",NO,5,44,8.8,21,0
-"Gump, F.",NO,4,46,11.5,16,0
-"Alexander, B.",NO,3,36,12,17,1
-"Barker, E.",NO,3,25,8.3,10,0
-"Toriki, M.",NO,2,20,10,13,0
-"Phillips, J.",OCO,5,73,14.6,33,0
-"Trunks, F.",OCO,4,52,13,27,1
-"George, D.",OCO,1,13,13,13,0
-"Mongo, H.",OCO,1,8,8,8,0
-"Nakamura, T.",OCO,1,7,7,7,0
-"Bigby, L.",OCO,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McCormick, A.",NO,6,62,10.3,22,1,16,23
+"Wolfcastle, R.",NO,5,44,8.8,21,0,16,23
+"Gump, F.",NO,4,46,11.5,16,0,16,23
+"Alexander, B.",NO,3,36,12,17,1,16,23
+"Barker, E.",NO,3,25,8.3,10,0,16,23
+"Toriki, M.",NO,2,20,10,13,0,16,23
+"Phillips, J.",OCO,5,73,14.6,33,0,16,23
+"Trunks, F.",OCO,4,52,13,27,1,16,23
+"George, D.",OCO,1,13,13,13,0,16,23
+"Mongo, H.",OCO,1,8,8,8,0,16,23
+"Nakamura, T.",OCO,1,7,7,7,0,16,23
+"Bigby, L.",OCO,1,6,6,6,0,16,23

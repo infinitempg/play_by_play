@@ -1,16 +1,16 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Landers, B.",AZ,6,96,16,34,1
-"Hardwick, S.",AZ,4,66,16.5,28,0
-"Adams, R.",AZ,3,28,9.3,10,0
-"Irving, J.",AZ,3,20,6.7,9,0
-"Moore, S.",AZ,2,23,11.5,13,0
-"Shady, S.",AZ,2,12,6,7,1
-"Hasselhoff, F.",AZ,1,13,13,13,0
-"Rudd, E.",AZ,1,8,8,8,0
-"Parker, J.",YKW,6,56,9.3,28,0
-"Canton, J.",YKW,5,62,12.4,25,0
-"Helanen, T.",YKW,4,37,9.2,21,0
-"Swift, N.",YKW,4,36,9,12,0
-"Marshall, M.",YKW,3,16,5.3,14,0
-"Wizardry, D.",YKW,2,24,12,17,0
-"Pennington, B.",YKW,2,19,9.5,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Landers, B.",AZ,6,96,16,34,1,9,15
+"Hardwick, S.",AZ,4,66,16.5,28,0,9,15
+"Adams, R.",AZ,3,28,9.3,10,0,9,15
+"Irving, J.",AZ,3,20,6.7,9,0,9,15
+"Moore, S.",AZ,2,23,11.5,13,0,9,15
+"Shady, S.",AZ,2,12,6,7,1,9,15
+"Hasselhoff, F.",AZ,1,13,13,13,0,9,15
+"Rudd, E.",AZ,1,8,8,8,0,9,15
+"Parker, J.",YKW,6,56,9.3,28,0,9,15
+"Canton, J.",YKW,5,62,12.4,25,0,9,15
+"Helanen, T.",YKW,4,37,9.2,21,0,9,15
+"Swift, N.",YKW,4,36,9,12,0,9,15
+"Marshall, M.",YKW,3,16,5.3,14,0,9,15
+"Wizardry, D.",YKW,2,24,12,17,0,9,15
+"Pennington, B.",YKW,2,19,9.5,11,0,9,15

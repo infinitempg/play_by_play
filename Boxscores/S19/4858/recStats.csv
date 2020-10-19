@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Anoa'i, D.",AUS,7,102,14.6,21,0
-"Tidwell, R.",AUS,6,111,18.5,31,0
-"Mendonca, M.",AUS,5,54,10.8,28,0
-"Larson, P.",AUS,5,36,7.2,16,0
-"Blockerman, F.",AUS,4,30,7.5,12,1
-"Hanyadi, M.",YKW,6,18,3,15,0
-"Helanen, T.",YKW,5,96,19.2,34,0
-"Sunnycursed, N.",YKW,4,101,25.2,50,2
-"Swift, N.",YKW,4,75,18.8,28,1
-"Drake, O.",YKW,4,21,5.2,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Anoa'i, D.",AUS,7,102,14.6,21,0,11,19
+"Tidwell, R.",AUS,6,111,18.5,31,0,11,19
+"Mendonca, M.",AUS,5,54,10.8,28,0,11,19
+"Larson, P.",AUS,5,36,7.2,16,0,11,19
+"Blockerman, F.",AUS,4,30,7.5,12,1,11,19
+"Hanyadi, M.",YKW,6,18,3,15,0,11,19
+"Helanen, T.",YKW,5,96,19.2,34,0,11,19
+"Sunnycursed, N.",YKW,4,101,25.2,50,2,11,19
+"Swift, N.",YKW,4,75,18.8,28,1,11,19
+"Drake, O.",YKW,4,21,5.2,8,0,11,19

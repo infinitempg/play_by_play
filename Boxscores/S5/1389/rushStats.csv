@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",OCO,8,31,3.9,8,0
-"Burnsman, E.",OCO,5,23,4.6,8,0
-"Durden, J.",OCO,2,3,1.5,3,0
-"Petrakis, A.",OCO,1,2,2,2,0
-"Nuck, B.",YKW,10,24,2.4,6,0
-"Akselsen, M.",YKW,3,7,2.3,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",OCO,8,31,3.9,8,0,4,5
+"Burnsman, E.",OCO,5,23,4.6,8,0,4,5
+"Durden, J.",OCO,2,3,1.5,3,0,4,5
+"Petrakis, A.",OCO,1,2,2,2,0,4,5
+"Nuck, B.",YKW,10,24,2.4,6,0,4,5
+"Akselsen, M.",YKW,3,7,2.3,8,0,4,5

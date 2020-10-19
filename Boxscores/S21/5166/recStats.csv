@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Varga, N.",PHI,4,79,19.8,39,0
-"Vuxta, R.",PHI,4,78,19.5,26,1
-"Dotson, F.",PHI,4,18,4.5,6,0
-"Blocksdale Jr., A.",PHI,3,34,11.3,20,0
-"Dropson, J.",PHI,2,13,6.5,7,1
-"Torenson, S.",PHI,2,6,3,4,0
-"Hank, F.",PHI,1,8,8,8,0
-"Reed, A.",BAL,7,76,10.9,21,1
-"Maddox, E.",BAL,3,89,29.7,46,2
-"Williams, D.",BAL,3,28,9.3,15,0
-"Quinn, A.",BAL,2,43,21.5,35,0
-"Kross, C.",BAL,1,35,35,35,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Varga, N.",PHI,4,79,19.8,39,0,3,21
+"Vuxta, R.",PHI,4,78,19.5,26,1,3,21
+"Dotson, F.",PHI,4,18,4.5,6,0,3,21
+"Blocksdale Jr., A.",PHI,3,34,11.3,20,0,3,21
+"Dropson, J.",PHI,2,13,6.5,7,1,3,21
+"Torenson, S.",PHI,2,6,3,4,0,3,21
+"Hank, F.",PHI,1,8,8,8,0,3,21
+"Reed, A.",BAL,7,76,10.9,21,1,3,21
+"Maddox, E.",BAL,3,89,29.7,46,2,3,21
+"Williams, D.",BAL,3,28,9.3,15,0,3,21
+"Quinn, A.",BAL,2,43,21.5,35,0,3,21
+"Kross, C.",BAL,1,35,35,35,1,3,21

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jones, K.",AUS,11,45,4.1,12,0
-"Mendonca, M.",AUS,10,32,3.2,7,1
-"Cole, E.",AUS,3,17,5.7,15,1
-"Kane-Maika'i, K.",HON,20,103,5.2,11,0
-"Ruff, R.",HON,18,79,4.4,13,1
-"Havran, C.",HON,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jones, K.",AUS,11,45,4.1,12,0,1,23
+"Mendonca, M.",AUS,10,32,3.2,7,1,1,23
+"Cole, E.",AUS,3,17,5.7,15,1,1,23
+"Kane-Maika'i, K.",HON,20,103,5.2,11,0,1,23
+"Ruff, R.",HON,18,79,4.4,13,1,1,23
+"Havran, C.",HON,1,1,1,1,0,1,23

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Cue, J.",AZ,"[22, 51]",184,8.4,0,3,28.6
-"Skywalker, L.",HON,"[12, 24]",154,12.8,1,1,67
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Cue, J.",AZ,184,8.4,0,3,28.6,22,12,1,24
+"Skywalker, L.",HON,154,12.8,1,1,67,22,12,1,24

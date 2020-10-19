@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,18,89,4.9,13,1
-"Drake, O.",YKW,10,35,3.5,7,2
-"Danielsson, A.",CHI,42,148,3.5,11,3
-"Utler, J.",CHI,3,15,5,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,18,89,4.9,13,1,2,19
+"Drake, O.",YKW,10,35,3.5,7,2,2,19
+"Danielsson, A.",CHI,42,148,3.5,11,3,2,19
+"Utler, J.",CHI,3,15,5,9,0,2,19

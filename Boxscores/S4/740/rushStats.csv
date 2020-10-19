@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,34,109,3.2,13,1
-"Farlane, D.",BAL,2,11,5.5,6,1
-"Koch, D.",BAL,2,7,3.5,4,0
-"Mackworthy, R.",ARI,13,51,3.9,10,0
-"Tuck, J.",ARI,4,26,6.5,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,34,109,3.2,13,1,5,4
+"Farlane, D.",BAL,2,11,5.5,6,1,5,4
+"Koch, D.",BAL,2,7,3.5,4,0,5,4
+"Mackworthy, R.",ARI,13,51,3.9,10,0,5,4
+"Tuck, J.",ARI,4,26,6.5,11,0,5,4

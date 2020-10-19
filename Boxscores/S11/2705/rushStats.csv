@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Zephyrous, S.",OCO,8,48,6,13,0
-"Adams, R.",OCO,7,39,5.6,16,0
-"Showbiz, G.",OCO,1,0,0,0,0
-"Smallwood, D.",NO,27,125,4.6,12,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Zephyrous, S.",OCO,8,48,6,13,0,9,11
+"Adams, R.",OCO,7,39,5.6,16,0,9,11
+"Showbiz, G.",OCO,1,0,0,0,0,9,11
+"Smallwood, D.",NO,27,125,4.6,12,1,9,11

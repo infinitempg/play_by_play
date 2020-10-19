@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,2,56,0,30,0,0,0,0
-"Wizardry, D.",YKW,3,63,21,31,13,0,0,3
-"Barnes, B.",AZ,2,37,9,26,9,0,0,1
-"Asipi III, A.",AZ,4,121,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,2,56,0,30,0,0,0,0,10,13
+"Wizardry, D.",YKW,3,63,21,31,13,0,0,3,10,13
+"Barnes, B.",AZ,2,37,9,26,9,0,0,1,10,13
+"Asipi III, A.",AZ,4,121,0,42,0,0,0,0,10,13

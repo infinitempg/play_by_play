@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,3,112,16,47,16,0,0,1
-"Cook, B.",YKW,1,27,0,27,0,0,0,0
-"Oakes, B.",NO,2,24,0,21,0,0,0,0
-"Evans, D.",NO,3,89,15,41,9,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,3,112,16,47,16,0,0,1,11,6
+"Cook, B.",YKW,1,27,0,27,0,0,0,0,11,6
+"Oakes, B.",NO,2,24,0,21,0,0,0,0,11,6
+"Evans, D.",NO,3,89,15,41,9,0,0,2,11,6

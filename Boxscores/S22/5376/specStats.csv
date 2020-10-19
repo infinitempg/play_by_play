@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mendonca, M.",AUS,4,133,0,39,0,0,0,0
-"Lavelle Jr., D.",AUS,3,52,29,25,13,0,0,3
-"Biggums, T.",OCO,1,1,0,1,0,0,0,0
-"Abernathy, K.",OCO,1,22,0,22,0,0,0,0
-"Dream, K.",OCO,2,42,12,30,13,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mendonca, M.",AUS,4,133,0,39,0,0,0,0,3,22
+"Lavelle Jr., D.",AUS,3,52,29,25,13,0,0,3,3,22
+"Biggums, T.",OCO,1,1,0,1,0,0,0,0,3,22
+"Abernathy, K.",OCO,1,22,0,22,0,0,0,0,3,22
+"Dream, K.",OCO,2,42,12,30,13,0,0,2,3,22

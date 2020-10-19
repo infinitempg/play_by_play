@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hendrix, K.",COL,4,85,21.2,32,1
-"Gucci, R.",COL,4,28,7,16,0
-"Ross, J.",COL,2,32,16,22,0
-"O'Connell, K.",COL,2,9,4.5,7,0
-"Wright Jr, G.",OCO,12,54,4.5,11,0
-"Phelps, R.",OCO,6,105,17.5,41,0
-"Westfield, B.",OCO,6,77,12.8,18,0
-"Willie, T.",OCO,2,17,8.5,9,1
-"Jenkins, L.",OCO,2,13,6.5,10,0
-"Bowers Jr, V.",OCO,1,7,7,7,0
-"Davidson, J.",OCO,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hendrix, K.",COL,4,85,21.2,32,1,10,2
+"Gucci, R.",COL,4,28,7,16,0,10,2
+"Ross, J.",COL,2,32,16,22,0,10,2
+"O'Connell, K.",COL,2,9,4.5,7,0,10,2
+"Wright Jr, G.",OCO,12,54,4.5,11,0,10,2
+"Phelps, R.",OCO,6,105,17.5,41,0,10,2
+"Westfield, B.",OCO,6,77,12.8,18,0,10,2
+"Willie, T.",OCO,2,17,8.5,9,1,10,2
+"Jenkins, L.",OCO,2,13,6.5,10,0,10,2
+"Bowers Jr, V.",OCO,1,7,7,7,0,10,2
+"Davidson, J.",OCO,1,6,6,6,0,10,2

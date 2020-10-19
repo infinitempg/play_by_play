@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",PHI,1,21,50,21,16,0,0,6
-"Jefferson, L.",PHI,2,31,0,22,0,0,0,0
-"Delacour, A.",BAL,0,0,-3,0,2,0,0,4
-"Willie, T.",BAL,1,34,0,34,0,0,0,0
-"Stormblessed, N.",BAL,4,95,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",PHI,1,21,50,21,16,0,0,6,14,3
+"Jefferson, L.",PHI,2,31,0,22,0,0,0,0,14,3
+"Delacour, A.",BAL,0,0,-3,0,2,0,0,4,14,3
+"Willie, T.",BAL,1,34,0,34,0,0,0,0,14,3
+"Stormblessed, N.",BAL,4,95,0,33,0,0,0,0,14,3

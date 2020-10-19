@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Guard, L.",COL,0,0,4,0
-"Magic, M.",COL,0,0,3,0
-"Sauce, E.",COL,0,0,3,0
-"Thruster, D.",COL,0,0,3,0
-"Centre, S.",COL,0,0,2,0
-"Williams, D.",COL,0,0,1,1
-"Robertoswki, G.",COL,0,0,1,0
-"Gilbert, R.",COL,0,0,0,1
-"Smith, J.",SAR,1,15,4,0
-"Witheblock, M.",SAR,1,5,0,0
-"Stallworth, C.",SAR,0,0,7,0
-"Manclaw, C.",SAR,0,0,5,0
-"Pennington Jr., T.",SAR,0,0,3,0
-"Angler, J.",SAR,0,0,2,0
-"Chan, R.",SAR,0,0,2,0
-"Woakneoa, S.",SAR,0,0,2,0
-"Back, R.",SAR,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Guard, L.",COL,0,0,4,0,1,25
+"Magic, M.",COL,0,0,3,0,1,25
+"Sauce, E.",COL,0,0,3,0,1,25
+"Thruster, D.",COL,0,0,3,0,1,25
+"Centre, S.",COL,0,0,2,0,1,25
+"Williams, D.",COL,0,0,1,1,1,25
+"Robertoswki, G.",COL,0,0,1,0,1,25
+"Gilbert, R.",COL,0,0,0,1,1,25
+"Smith, J.",SAR,1,15,4,0,1,25
+"Witheblock, M.",SAR,1,5,0,0,1,25
+"Stallworth, C.",SAR,0,0,7,0,1,25
+"Manclaw, C.",SAR,0,0,5,0,1,25
+"Pennington Jr., T.",SAR,0,0,3,0,1,25
+"Angler, J.",SAR,0,0,2,0,1,25
+"Chan, R.",SAR,0,0,2,0,1,25
+"Woakneoa, S.",SAR,0,0,2,0,1,25
+"Back, R.",SAR,0,0,1,1,1,25

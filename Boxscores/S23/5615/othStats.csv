@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Tirtawidjaja, J.",CHI,2,20,1,1
-"Bayley Jr., B.",CHI,1,5,7,0
-"Hayes, V.",CHI,1,5,1,0
-"MacAndrew, H.",CHI,1,10,0,0
-"Oberwald, G.",CHI,1,10,0,0
-"Tucker Jr., P.",CHI,0,0,3,0
-"Ahstreet, C.",CHI,0,0,2,0
-"LaFleur, F.",CHI,0,0,2,0
-"Lesnar, B.",CHI,0,0,2,0
-"Gelbman, T.",CHI,0,0,1,0
-"Star, L.",BAL,1,5,5,0
-"Diggler, D.",BAL,1,15,3,0
-"Dolls, B.",BAL,1,5,3,0
-"De Ville, D.",BAL,1,15,0,0
-"Reed, A.",BAL,1,5,0,0
-"Riley, C.",BAL,1,5,0,0
-"Steele, R.",BAL,0,0,6,0
-"Jeremy, R.",BAL,0,0,4,0
-"Lewandowski, J.",BAL,0,0,1,0
-"Williams, D.",BAL,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Tirtawidjaja, J.",CHI,2,20,1,1,4,23
+"Bayley Jr., B.",CHI,1,5,7,0,4,23
+"Hayes, V.",CHI,1,5,1,0,4,23
+"MacAndrew, H.",CHI,1,10,0,0,4,23
+"Oberwald, G.",CHI,1,10,0,0,4,23
+"Tucker Jr., P.",CHI,0,0,3,0,4,23
+"Ahstreet, C.",CHI,0,0,2,0,4,23
+"LaFleur, F.",CHI,0,0,2,0,4,23
+"Lesnar, B.",CHI,0,0,2,0,4,23
+"Gelbman, T.",CHI,0,0,1,0,4,23
+"Star, L.",BAL,1,5,5,0,4,23
+"Diggler, D.",BAL,1,15,3,0,4,23
+"Dolls, B.",BAL,1,5,3,0,4,23
+"De Ville, D.",BAL,1,15,0,0,4,23
+"Reed, A.",BAL,1,5,0,0,4,23
+"Riley, C.",BAL,1,5,0,0,4,23
+"Steele, R.",BAL,0,0,6,0,4,23
+"Jeremy, R.",BAL,0,0,4,0,4,23
+"Lewandowski, J.",BAL,0,0,1,0,4,23
+"Williams, D.",BAL,0,0,0,1,4,23

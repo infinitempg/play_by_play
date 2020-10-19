@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Marshall, M.",YKW,31,106,3.4,13,1
-"Canton, J.",YKW,2,0,0,0,0
-"Torenson, S.",PHI,27,95,3.5,10,0
-"Falconi, A.",PHI,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Marshall, M.",YKW,31,106,3.4,13,1,11,18
+"Canton, J.",YKW,2,0,0,0,0,11,18
+"Torenson, S.",PHI,27,95,3.5,10,0,11,18
+"Falconi, A.",PHI,1,1,1,1,0,11,18

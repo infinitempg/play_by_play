@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bush, C.",PHI,7,110,15.7,42,2
-"Batoff, R.",PHI,7,43,6.1,8,1
-"von Matt, J.",PHI,6,103,17.2,40,1
-"Boija, F.",PHI,6,76,12.7,31,0
-"Davenport, C.",PHI,1,8,8,8,0
-"Sunnycursed, N.",OCO,7,121,17.3,33,2
-"Zephyrous, S.",OCO,5,36,7.2,11,0
-"Adams, R.",OCO,5,31,6.2,9,0
-"Blaze, J.",OCO,5,29,5.8,7,0
-"Crush, C.",OCO,4,79,19.8,40,0
-"Anoa'i, D.",OCO,3,29,9.7,16,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bush, C.",PHI,7,110,15.7,42,2,11,14
+"Batoff, R.",PHI,7,43,6.1,8,1,11,14
+"von Matt, J.",PHI,6,103,17.2,40,1,11,14
+"Boija, F.",PHI,6,76,12.7,31,0,11,14
+"Davenport, C.",PHI,1,8,8,8,0,11,14
+"Sunnycursed, N.",OCO,7,121,17.3,33,2,11,14
+"Zephyrous, S.",OCO,5,36,7.2,11,0,11,14
+"Adams, R.",OCO,5,31,6.2,9,0,11,14
+"Blaze, J.",OCO,5,29,5.8,7,0,11,14
+"Crush, C.",OCO,4,79,19.8,40,0,11,14
+"Anoa'i, D.",OCO,3,29,9.7,16,0,11,14

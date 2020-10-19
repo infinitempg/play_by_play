@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",NO,10,102,10.2,27,0
-"Law, C.",NO,8,125,15.6,38,2
-"LeClair, A.",NO,5,105,21,37,1
-"Smallwood, D.",NO,4,23,5.8,7,0
-"Jackson, M.",NO,2,60,30,40,1
-"Savea, A.",NO,1,8,8,8,0
-"Willie, T.",BAL,6,87,14.5,30,1
-"Browning, B.",BAL,5,104,20.8,41,0
-"L'Alto, V.",BAL,4,44,11,23,0
-"Harp, D.",BAL,4,13,3.2,6,0
-"Taylor, O.",BAL,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",NO,10,102,10.2,27,0,7,10
+"Law, C.",NO,8,125,15.6,38,2,7,10
+"LeClair, A.",NO,5,105,21,37,1,7,10
+"Smallwood, D.",NO,4,23,5.8,7,0,7,10
+"Jackson, M.",NO,2,60,30,40,1,7,10
+"Savea, A.",NO,1,8,8,8,0,7,10
+"Willie, T.",BAL,6,87,14.5,30,1,7,10
+"Browning, B.",BAL,5,104,20.8,41,0,7,10
+"L'Alto, V.",BAL,4,44,11,23,0,7,10
+"Harp, D.",BAL,4,13,3.2,6,0,7,10
+"Taylor, O.",BAL,1,2,2,2,0,7,10

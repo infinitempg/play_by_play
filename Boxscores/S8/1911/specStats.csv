@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,2,80,82,44,71,0,0,4
-"Spector, M.",OCO,2,16,0,15,0,0,0,0
-"North, F.",PHI,0,0,0,0,0,0,0,1
-"Garden, J.",PHI,2,47,0,24,0,0,0,0
-"Bush, C.",PHI,7,187,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,2,80,82,44,71,0,0,4,9,8
+"Spector, M.",OCO,2,16,0,15,0,0,0,0,9,8
+"North, F.",PHI,0,0,0,0,0,0,0,1,9,8
+"Garden, J.",PHI,2,47,0,24,0,0,0,0,9,8
+"Bush, C.",PHI,7,187,0,39,0,0,0,0,9,8

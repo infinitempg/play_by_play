@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Willie, T.",BAL,7,111,15.9,58,1
-"LeClair, A.",BAL,6,112,18.7,35,1
-"Stormblessed, N.",BAL,5,71,14.2,41,0
-"Wachter, J.",BAL,4,55,13.8,26,0
-"Taylor, O.",BAL,3,16,5.3,10,0
-"Christmas, C.",BAL,1,37,37,37,1
-"Wheat, B.",COL,4,36,9,15,0
-"Tweed, B.",COL,4,30,7.5,13,0
-"Hendrix, K.",COL,3,43,14.3,24,0
-"Reigns, J.",COL,2,20,10,10,0
-"Crush, C.",COL,2,18,9,13,0
-"Joyce, S.",COL,1,5,5,5,0
-"Farlane, D.",COL,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Willie, T.",BAL,7,111,15.9,58,1,13,5
+"LeClair, A.",BAL,6,112,18.7,35,1,13,5
+"Stormblessed, N.",BAL,5,71,14.2,41,0,13,5
+"Wachter, J.",BAL,4,55,13.8,26,0,13,5
+"Taylor, O.",BAL,3,16,5.3,10,0,13,5
+"Christmas, C.",BAL,1,37,37,37,1,13,5
+"Wheat, B.",COL,4,36,9,15,0,13,5
+"Tweed, B.",COL,4,30,7.5,13,0,13,5
+"Hendrix, K.",COL,3,43,14.3,24,0,13,5
+"Reigns, J.",COL,2,20,10,10,0,13,5
+"Crush, C.",COL,2,18,9,13,0,13,5
+"Joyce, S.",COL,1,5,5,5,0,13,5
+"Farlane, D.",COL,1,4,4,4,0,13,5

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wright, O.",OCO,15,68,4.5,10,0
-"Jenkins, L.",OCO,9,50,5.6,11,0
-"Boss, M.",OCO,1,0,0,0,0
-"Mackworthy, R.",ARI,9,7,0.8,3,0
-"Durden, J.",ARI,7,23,3.3,8,0
-"Newman, M.",ARI,7,23,3.3,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wright, O.",OCO,15,68,4.5,10,0,1,1
+"Jenkins, L.",OCO,9,50,5.6,11,0,1,1
+"Boss, M.",OCO,1,0,0,0,0,1,1
+"Mackworthy, R.",ARI,9,7,0.8,3,0,1,1
+"Durden, J.",ARI,7,23,3.3,8,0,1,1
+"Newman, M.",ARI,7,23,3.3,8,0,1,1

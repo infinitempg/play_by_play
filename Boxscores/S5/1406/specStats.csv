@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Boggs, B.",COL,2,62,0,34,0,0,0,0
-"Bly Jr., A.",COL,3,44,1,35,1,0,0,1
-"Westfield, B.",OCO,1,13,17,13,17,0,0,1
-"Yates, J.",OCO,1,12,0,12,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Boggs, B.",COL,2,62,0,34,0,0,0,0,9,5
+"Bly Jr., A.",COL,3,44,1,35,1,0,0,1,9,5
+"Westfield, B.",OCO,1,13,17,13,17,0,0,1,9,5
+"Yates, J.",OCO,1,12,0,12,0,0,0,0,9,5

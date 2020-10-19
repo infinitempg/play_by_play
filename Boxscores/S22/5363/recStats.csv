@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McCormick, A.",NO,9,136,15.1,38,1
-"Wolfcastle, R.",NO,3,21,7,9,0
-"Jones, B.",NO,1,20,20,20,1
-"Barker, E.",NO,1,13,13,13,0
-"Gump, F.",NO,1,10,10,10,0
-"Toriki, M.",NO,1,9,9,9,0
-"Jackson, A.",SJS,6,87,14.5,30,1
-"Thomas-Fox, D.",SJS,6,84,14,36,1
-"McDavid, L.",SJS,4,30,7.5,11,0
-"Cardrissian, R.",SJS,1,20,20,20,0
-"Z, D.",SJS,1,6,6,6,0
-"Tyerucker, Q.",SJS,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McCormick, A.",NO,9,136,15.1,38,1,1,22
+"Wolfcastle, R.",NO,3,21,7,9,0,1,22
+"Jones, B.",NO,1,20,20,20,1,1,22
+"Barker, E.",NO,1,13,13,13,0,1,22
+"Gump, F.",NO,1,10,10,10,0,1,22
+"Toriki, M.",NO,1,9,9,9,0,1,22
+"Jackson, A.",SJS,6,87,14.5,30,1,1,22
+"Thomas-Fox, D.",SJS,6,84,14,36,1,1,22
+"McDavid, L.",SJS,4,30,7.5,11,0,1,22
+"Cardrissian, R.",SJS,1,20,20,20,0,1,22
+"Z, D.",SJS,1,6,6,6,0,1,22
+"Tyerucker, Q.",SJS,1,2,2,2,0,1,22

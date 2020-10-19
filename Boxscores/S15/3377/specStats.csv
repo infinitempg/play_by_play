@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Parker, J.",YKW,1,36,0,36,0,0,0,0
-"Applehort, R.",YKW,1,23,0,23,0,0,0,0
-"Marshall, M.",YKW,0,0,12,0,12,0,0,2
-"Bishop, J.",COL,7,168,7,35,7,0,0,2
-"Montgomery, B.",COL,3,96,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Parker, J.",YKW,1,36,0,36,0,0,0,0,6,15
+"Applehort, R.",YKW,1,23,0,23,0,0,0,0,6,15
+"Marshall, M.",YKW,0,0,12,0,12,0,0,2,6,15
+"Bishop, J.",COL,7,168,7,35,7,0,0,2,6,15
+"Montgomery, B.",COL,3,96,0,39,0,0,0,0,6,15

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hardwick, S.",AUS,5,48,9.6,22,0
-"Tidwell, R.",AUS,4,88,22,32,0
-"Anoa'i, D.",AUS,4,74,18.5,24,1
-"Larson, P.",AUS,4,18,4.5,11,0
-"Wizardry, D.",AUS,2,10,5,5,0
-"Mendonca, M.",AUS,2,9,4.5,6,0
-"Fyodorovich, V.",NO,6,69,11.5,14,0
-"Swift, T.",NO,4,36,9,18,0
-"Halvorsen, T.",NO,4,24,6,7,0
-"Jones, B.",NO,3,46,15.3,21,1
-"Rudd, E.",NO,2,17,8.5,10,0
-"Gump, F.",NO,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hardwick, S.",AUS,5,48,9.6,22,0,1,16
+"Tidwell, R.",AUS,4,88,22,32,0,1,16
+"Anoa'i, D.",AUS,4,74,18.5,24,1,1,16
+"Larson, P.",AUS,4,18,4.5,11,0,1,16
+"Wizardry, D.",AUS,2,10,5,5,0,1,16
+"Mendonca, M.",AUS,2,9,4.5,6,0,1,16
+"Fyodorovich, V.",NO,6,69,11.5,14,0,1,16
+"Swift, T.",NO,4,36,9,18,0,1,16
+"Halvorsen, T.",NO,4,24,6,7,0,1,16
+"Jones, B.",NO,3,46,15.3,21,1,1,16
+"Rudd, E.",NO,2,17,8.5,10,0,1,16
+"Gump, F.",NO,1,7,7,7,0,1,16

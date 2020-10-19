@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"LeClair, A.",BAL,9,98,10.9,26,1
-"Wachter, J.",BAL,4,40,10,20,1
-"Taylor, O.",BAL,4,34,8.5,18,0
-"Willie, T.",BAL,3,108,36,55,0
-"Stormblessed, N.",BAL,3,56,18.7,35,0
-"Jackson, M.",SJS,6,113,18.8,29,0
-"Smallwood, D.",SJS,6,85,14.2,27,1
-"Weston, S.",SJS,4,105,26.2,51,1
-"Bottles, B.",SJS,4,21,5.2,7,0
-"Diaz, D.",SJS,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"LeClair, A.",BAL,9,98,10.9,26,1,5,6
+"Wachter, J.",BAL,4,40,10,20,1,5,6
+"Taylor, O.",BAL,4,34,8.5,18,0,5,6
+"Willie, T.",BAL,3,108,36,55,0,5,6
+"Stormblessed, N.",BAL,3,56,18.7,35,0,5,6
+"Jackson, M.",SJS,6,113,18.8,29,0,5,6
+"Smallwood, D.",SJS,6,85,14.2,27,1,5,6
+"Weston, S.",SJS,4,105,26.2,51,1,5,6
+"Bottles, B.",SJS,4,21,5.2,7,0,5,6
+"Diaz, D.",SJS,1,5,5,5,0,5,6

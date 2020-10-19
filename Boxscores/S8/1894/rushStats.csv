@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",OCO,16,54,3.4,8,0
-"Burnsman, E.",OCO,7,38,5.4,10,1
-"Boss, M.",OCO,1,5,5,5,0
-"Diaz, D.",SJS,15,49,3.3,10,1
-"Riddick, D.",SJS,2,3,1.5,5,0
-"Pennington, B.",SJS,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",OCO,16,54,3.4,8,0,4,8
+"Burnsman, E.",OCO,7,38,5.4,10,1,4,8
+"Boss, M.",OCO,1,5,5,5,0,4,8
+"Diaz, D.",SJS,15,49,3.3,10,1,4,8
+"Riddick, D.",SJS,2,3,1.5,5,0,4,8
+"Pennington, B.",SJS,1,0,0,0,0,4,8

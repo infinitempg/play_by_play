@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"West, D.",BAL,2,40,14,25,15,0,0,2
-"Smith, M.",BAL,3,43,0,23,0,0,0,0
-"LeClair, A.",YKW,4,47,27,19,14,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"West, D.",BAL,2,40,14,25,15,0,0,2,9,1
+"Smith, M.",BAL,3,43,0,23,0,0,0,0,9,1
+"LeClair, A.",YKW,4,47,27,19,14,0,0,2,9,1

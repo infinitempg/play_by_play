@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Jenkins, R.",CHI,"[20, 27]",311,15.6,3,0,148.8
-"Phoenix, B.",PHI,"[21, 42]",306,14.6,1,1,72.1
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Jenkins, R.",CHI,311,15.6,3,0,148.8,20,21,5,21
+"Phoenix, B.",PHI,306,14.6,1,1,72.1,20,21,5,21

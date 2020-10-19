@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Garden, J.",PHI,10,99,9.9,25,1
-"DiMirio, P.",PHI,9,104,11.6,30,0
-"North, F.",PHI,7,95,13.6,31,1
-"Storm, B.",PHI,4,35,8.8,12,0
-"Kroetch, D.",PHI,1,14,14,14,0
-"Bottles, B.",SJS,8,53,6.6,11,0
-"Jackson, M.",SJS,7,64,9.1,17,1
-"Weston, S.",SJS,4,132,33,61,0
-"Smallwood, D.",SJS,4,42,10.5,21,0
-"Diaz, D.",SJS,2,14,7,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Garden, J.",PHI,10,99,9.9,25,1,10,6
+"DiMirio, P.",PHI,9,104,11.6,30,0,10,6
+"North, F.",PHI,7,95,13.6,31,1,10,6
+"Storm, B.",PHI,4,35,8.8,12,0,10,6
+"Kroetch, D.",PHI,1,14,14,14,0,10,6
+"Bottles, B.",SJS,8,53,6.6,11,0,10,6
+"Jackson, M.",SJS,7,64,9.1,17,1,10,6
+"Weston, S.",SJS,4,132,33,61,0,10,6
+"Smallwood, D.",SJS,4,42,10.5,21,0,10,6
+"Diaz, D.",SJS,2,14,7,11,0,10,6

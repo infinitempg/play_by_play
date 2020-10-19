@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,5,124,36,36,18,0,0,3
-"Cook, B.",YKW,3,46,0,30,0,0,0,0
-"Weston, S.",SJS,2,51,67,40,18,0,0,6
-"Jackson, M.",SJS,2,11,0,9,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,5,124,36,36,18,0,0,3,7,6
+"Cook, B.",YKW,3,46,0,30,0,0,0,0,7,6
+"Weston, S.",SJS,2,51,67,40,18,0,0,6,7,6
+"Jackson, M.",SJS,2,11,0,9,0,0,0,0,7,6

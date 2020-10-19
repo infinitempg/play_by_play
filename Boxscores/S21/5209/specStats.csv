@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,2,19,0,19,0,0,0,0
-"Acho, M.",BAL,2,43,0,37,0,0,0,0
-"Taylor, D.",NO,3,70,0,34,0,0,0,0
-"Gump, F.",NO,2,76,5,45,3,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,2,19,0,19,0,0,0,0,12,21
+"Acho, M.",BAL,2,43,0,37,0,0,0,0,12,21
+"Taylor, D.",NO,3,70,0,34,0,0,0,0,12,21
+"Gump, F.",NO,2,76,5,45,3,0,0,2,12,21

@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Wizardry, D.",YKW,6,35,5.8,15,0
-"Pennington, B.",YKW,4,47,11.8,18,1
-"Parker, J.",YKW,3,59,19.7,32,1
-"McPoyal, G.",YKW,2,17,8.5,10,1
-"Browning, B.",YKW,1,8,8,8,1
-"Miller, H.",COL,8,76,9.5,23,1
-"Grau, M.",COL,6,45,7.5,30,1
-"Bishop, J.",COL,3,49,16.3,27,0
-"Wachter, J.",COL,3,34,11.3,17,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Wizardry, D.",YKW,6,35,5.8,15,0,7,12
+"Pennington, B.",YKW,4,47,11.8,18,1,7,12
+"Parker, J.",YKW,3,59,19.7,32,1,7,12
+"McPoyal, G.",YKW,2,17,8.5,10,1,7,12
+"Browning, B.",YKW,1,8,8,8,1,7,12
+"Miller, H.",COL,8,76,9.5,23,1,7,12
+"Grau, M.",COL,6,45,7.5,30,1,7,12
+"Bishop, J.",COL,3,49,16.3,27,0,7,12
+"Wachter, J.",COL,3,34,11.3,17,0,7,12

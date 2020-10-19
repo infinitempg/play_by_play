@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,27,138,5.1,15,0
-"Browning, B.",BAL,1,3,3,3,0
-"Diaz, D.",SJS,22,74,3.4,9,2
-"Riddick, D.",SJS,3,17,5.7,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,27,138,5.1,15,0,1,8
+"Browning, B.",BAL,1,3,3,3,0,1,8
+"Diaz, D.",SJS,22,74,3.4,9,2,1,8
+"Riddick, D.",SJS,3,17,5.7,9,0,1,8

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,23,78,3.4,12,0
-"Newman, M.",COL,4,18,4.5,7,0
-"Pierno, N.",COL,1,-1,-1,0,0
-"Yates, J.",SJS,27,87,3.2,8,0
-"Diaz, D.",SJS,10,27,2.7,9,0
-"Orosz, C.",SJS,2,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,23,78,3.4,12,0,7,4
+"Newman, M.",COL,4,18,4.5,7,0,7,4
+"Pierno, N.",COL,1,-1,-1,0,0,7,4
+"Yates, J.",SJS,27,87,3.2,8,0,7,4
+"Diaz, D.",SJS,10,27,2.7,9,0,7,4
+"Orosz, C.",SJS,2,0,0,0,0,7,4

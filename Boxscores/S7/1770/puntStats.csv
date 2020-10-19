@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Leg, P.",NO,7,300,42.9,53,0
-"Madlad, B.",OCO,8,373,46.6,60,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Leg, P.",NO,7,300,42.9,53,0,11,7
+"Madlad, B.",OCO,8,373,46.6,60,0,11,7

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Akselsen, M.",YKW,"[23, 52]",231,10,0,0,57.5
-"Orosz, C.",SJS,"[20, 37]",282,14.1,0,0,78.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Akselsen, M.",YKW,231,10,0,0,57.5,23,20,7,6
+"Orosz, C.",SJS,282,14.1,0,0,78.9,23,20,7,6

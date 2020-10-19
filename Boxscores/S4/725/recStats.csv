@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, M.",SJS,7,112,16,30,2
-"Smallwood, D.",SJS,6,51,8.5,14,1
-"Weston, S.",SJS,4,45,11.2,19,0
-"Bottles, B.",SJS,2,12,6,9,0
-"Yates, J.",SJS,1,6,6,6,0
-"Diaz, D.",SJS,1,5,5,5,0
-"West, D.",COL,8,99,12.4,21,1
-"Tweed, B.",COL,8,67,8.4,37,0
-"Boggs, B.",COL,6,88,14.7,36,0
-"Hendrix, K.",COL,5,79,15.8,34,0
-"Young, J.",COL,2,13,6.5,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, M.",SJS,7,112,16,30,2,1,4
+"Smallwood, D.",SJS,6,51,8.5,14,1,1,4
+"Weston, S.",SJS,4,45,11.2,19,0,1,4
+"Bottles, B.",SJS,2,12,6,9,0,1,4
+"Yates, J.",SJS,1,6,6,6,0,1,4
+"Diaz, D.",SJS,1,5,5,5,0,1,4
+"West, D.",COL,8,99,12.4,21,1,1,4
+"Tweed, B.",COL,8,67,8.4,37,0,1,4
+"Boggs, B.",COL,6,88,14.7,36,0,1,4
+"Hendrix, K.",COL,5,79,15.8,34,0,1,4
+"Young, J.",COL,2,13,6.5,8,0,1,4

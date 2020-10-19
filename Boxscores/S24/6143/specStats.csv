@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,2,51,27,27,12,0,0,3
-"Kane-Maika'i, K.",HON,5,136,11,44,11,0,0,1
-"Dawkins, S.",HON,2,61,0,37,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,2,51,27,27,12,0,0,3,8,24
+"Kane-Maika'i, K.",HON,5,136,11,44,11,0,0,1,8,24
+"Dawkins, S.",HON,2,61,0,37,0,0,0,0,8,24

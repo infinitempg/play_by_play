@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,3,55,27,36,11,0,0,5
-"Garden, J.",YKW,3,95,0,33,0,0,0,0
-"Lavelle, D.",YKW,3,71,33,34,16,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,3,55,27,36,11,0,0,5,11,3
+"Garden, J.",YKW,3,95,0,33,0,0,0,0,11,3
+"Lavelle, D.",YKW,3,71,33,34,16,0,0,3,11,3

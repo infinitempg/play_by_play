@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Boss, M.",OCO,"[33, 60]",454,13.8,2,1,83.6
-"Blocksdale, A.",BAL,"[19, 33]",259,13.6,3,2,87.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Boss, M.",OCO,454,13.8,2,1,83.6,33,19,7,6
+"Blocksdale, A.",BAL,259,13.6,3,2,87.8,33,19,7,6

@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Oles, K.",SJS,5,54,10.8,17,0
-"Flash, X.",SJS,5,51,10.2,15,0
-"Weston, S.",SJS,3,57,19,21,0
-"Orosz, C.",SJS,2,9,4.5,6,0
-"Tuck Jr., T.",SJS,1,5,5,5,0
-"Canton, J.",SJS,1,0,0,0,0
-"Brannigan, Z.",SJS,1,0,0,0,0
-"O'Sullivan, C.",PHI,6,39,6.5,9,1
-"von Matt, J.",PHI,5,53,10.6,25,0
-"Bush, C.",PHI,4,51,12.8,21,0
-"Brown, M.",PHI,3,39,13,35,0
-"Hasselhoff, F.",PHI,2,22,11,13,0
-"Hondo, A.",PHI,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Oles, K.",SJS,5,54,10.8,17,0,2,11
+"Flash, X.",SJS,5,51,10.2,15,0,2,11
+"Weston, S.",SJS,3,57,19,21,0,2,11
+"Orosz, C.",SJS,2,9,4.5,6,0,2,11
+"Tuck Jr., T.",SJS,1,5,5,5,0,2,11
+"Canton, J.",SJS,1,0,0,0,0,2,11
+"Brannigan, Z.",SJS,1,0,0,0,0,2,11
+"O'Sullivan, C.",PHI,6,39,6.5,9,1,2,11
+"von Matt, J.",PHI,5,53,10.6,25,0,2,11
+"Bush, C.",PHI,4,51,12.8,21,0,2,11
+"Brown, M.",PHI,3,39,13,35,0,2,11
+"Hasselhoff, F.",PHI,2,22,11,13,0,2,11
+"Hondo, A.",PHI,1,5,5,5,0,2,11

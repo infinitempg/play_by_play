@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nakamura, T.",OCO,21,81,3.9,12,0
-"McZeal, K.",OCO,7,29,4.1,10,0
-"Armstrong, F.",OCO,2,12,6,12,0
-"Williams, D.",BAL,16,51,3.2,6,0
-"Fukushu, M.",BAL,7,16,2.3,6,0
-"Skuff, R.",BAL,2,13,6.5,8,0
-"Fujiwara, C.",BAL,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nakamura, T.",OCO,21,81,3.9,12,0,10,24
+"McZeal, K.",OCO,7,29,4.1,10,0,10,24
+"Armstrong, F.",OCO,2,12,6,12,0,10,24
+"Williams, D.",BAL,16,51,3.2,6,0,10,24
+"Fukushu, M.",BAL,7,16,2.3,6,0,10,24
+"Skuff, R.",BAL,2,13,6.5,8,0,10,24
+"Fujiwara, C.",BAL,1,0,0,0,0,10,24

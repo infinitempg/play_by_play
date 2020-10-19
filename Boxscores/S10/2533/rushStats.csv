@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Adams, R.",OCO,29,134,4.6,20,3
-"Showbiz, G.",OCO,2,4,2,3,0
-"Brown, M.",PHI,33,160,4.8,16,1
-"O'Sullivan, C.",PHI,12,50,4.2,11,0
-"Noble, L.",PHI,2,9,4.5,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Adams, R.",OCO,29,134,4.6,20,3,3,10
+"Showbiz, G.",OCO,2,4,2,3,0,3,10
+"Brown, M.",PHI,33,160,4.8,16,1,3,10
+"O'Sullivan, C.",PHI,12,50,4.2,11,0,3,10
+"Noble, L.",PHI,2,9,4.5,9,0,3,10

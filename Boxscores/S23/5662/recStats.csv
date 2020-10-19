@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Skyline, A.",YKW,6,49,8.2,11,0
-"Rodriguez, B.",YKW,5,48,9.6,14,0
-"Hanyadi, M.",YKW,2,17,8.5,12,1
-"Hardagain, W.",YKW,2,17,8.5,12,0
-"Jackson, A.",YKW,1,21,21,21,0
-"Lee, M.",YKW,1,13,13,13,0
-"Swift, N.",YKW,1,13,13,13,0
-"Lewandowski, J.",BAL,5,56,11.2,20,1
-"Kaepercolin, N.",BAL,4,71,17.8,33,0
-"Quinn, A.",BAL,3,19,6.3,8,0
-"Skuff, R.",BAL,3,15,5,7,0
-"Kross, C.",BAL,1,23,23,23,0
-"Williams, D.",BAL,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Skyline, A.",YKW,6,49,8.2,11,0,12,23
+"Rodriguez, B.",YKW,5,48,9.6,14,0,12,23
+"Hanyadi, M.",YKW,2,17,8.5,12,1,12,23
+"Hardagain, W.",YKW,2,17,8.5,12,0,12,23
+"Jackson, A.",YKW,1,21,21,21,0,12,23
+"Lee, M.",YKW,1,13,13,13,0,12,23
+"Swift, N.",YKW,1,13,13,13,0,12,23
+"Lewandowski, J.",BAL,5,56,11.2,20,1,12,23
+"Kaepercolin, N.",BAL,4,71,17.8,33,0,12,23
+"Quinn, A.",BAL,3,19,6.3,8,0,12,23
+"Skuff, R.",BAL,3,15,5,7,0,12,23
+"Kross, C.",BAL,1,23,23,23,0,12,23
+"Williams, D.",BAL,1,9,9,9,0,12,23

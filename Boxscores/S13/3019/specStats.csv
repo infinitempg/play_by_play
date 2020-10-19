@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oles, K.",SJS,6,144,17,42,17,0,0,1
-"Fyodorovich, V.",NO,5,142,3,34,6,0,0,2
-"Rax, L.",NO,1,2,0,2,0,0,0,0
-"Schneider, D.",NO,1,4,0,4,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oles, K.",SJS,6,144,17,42,17,0,0,1,2,13
+"Fyodorovich, V.",NO,5,142,3,34,6,0,0,2,2,13
+"Rax, L.",NO,1,2,0,2,0,0,0,0,2,13
+"Schneider, D.",NO,1,4,0,4,0,0,0,0,2,13

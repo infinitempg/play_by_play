@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Browning, B.",AZ,8,113,14.1,33,0
-"Mackworthy, R.",AZ,6,93,15.5,35,1
-"Booter, F.",AZ,6,91,15.2,29,0
-"Chess, C.",AZ,5,90,18,29,1
-"Christmas, C.",AZ,5,37,7.4,11,0
-"Wright, O.",AZ,2,11,5.5,7,0
-"Miller, H.",COL,5,104,20.8,32,0
-"Crush, C.",COL,5,49,9.8,24,0
-"Aaron, D.",COL,3,40,13.3,18,1
-"Joyce, S.",COL,3,13,4.3,7,0
-"Wheat, B.",COL,2,25,12.5,13,0
-"Nuck, B.",COL,2,10,5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Browning, B.",AZ,8,113,14.1,33,0,9,7
+"Mackworthy, R.",AZ,6,93,15.5,35,1,9,7
+"Booter, F.",AZ,6,91,15.2,29,0,9,7
+"Chess, C.",AZ,5,90,18,29,1,9,7
+"Christmas, C.",AZ,5,37,7.4,11,0,9,7
+"Wright, O.",AZ,2,11,5.5,7,0,9,7
+"Miller, H.",COL,5,104,20.8,32,0,9,7
+"Crush, C.",COL,5,49,9.8,24,0,9,7
+"Aaron, D.",COL,3,40,13.3,18,1,9,7
+"Joyce, S.",COL,3,13,4.3,7,0,9,7
+"Wheat, B.",COL,2,25,12.5,13,0,9,7
+"Nuck, B.",COL,2,10,5,6,0,9,7

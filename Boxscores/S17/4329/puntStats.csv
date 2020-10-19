@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Jones II, J.",COL,5,241,48.2,60,1
-"Castleberry, R.",PHI,5,229,45.8,56,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Jones II, J.",COL,5,241,48.2,60,1,9,17
+"Castleberry, R.",PHI,5,229,45.8,56,0,9,17

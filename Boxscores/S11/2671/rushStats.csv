@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,15,77,5.1,18,2
-"Applehort, R.",BAL,1,7,7,7,0
-"Carrasco, T.",YKW,15,65,4.3,8,0
-"Summer, A.",YKW,11,56,5.1,18,0
-"Gore, B.",YKW,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,15,77,5.1,18,2,1,11
+"Applehort, R.",BAL,1,7,7,7,0,1,11
+"Carrasco, T.",YKW,15,65,4.3,8,0,1,11
+"Summer, A.",YKW,11,56,5.1,18,0,1,11
+"Gore, B.",YKW,1,0,0,0,0,1,11

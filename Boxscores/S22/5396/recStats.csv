@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Tidwell, R.",AUS,6,109,18.2,50,1
-"Leaf Jr., R.",AUS,6,30,5,13,1
-"Gaines, N.",AUS,5,61,12.2,26,0
-"Larson, P.",AUS,4,23,5.8,7,0
-"Mendonca, M.",AUS,2,8,4,5,0
-"Jeeta, E.",AUS,2,6,3,4,0
-"Banks II, D.",SAR,6,88,14.7,31,0
-"Blaze, J.",SAR,5,38,7.6,15,0
-"Witheblock, M.",SAR,4,55,13.8,23,0
-"Gordon, R.",SAR,3,26,8.7,13,0
-"McTaco, P.",SAR,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Tidwell, R.",AUS,6,109,18.2,50,1,7,22
+"Leaf Jr., R.",AUS,6,30,5,13,1,7,22
+"Gaines, N.",AUS,5,61,12.2,26,0,7,22
+"Larson, P.",AUS,4,23,5.8,7,0,7,22
+"Mendonca, M.",AUS,2,8,4,5,0,7,22
+"Jeeta, E.",AUS,2,6,3,4,0,7,22
+"Banks II, D.",SAR,6,88,14.7,31,0,7,22
+"Blaze, J.",SAR,5,38,7.6,15,0,7,22
+"Witheblock, M.",SAR,4,55,13.8,23,0,7,22
+"Gordon, R.",SAR,3,26,8.7,13,0,7,22
+"McTaco, P.",SAR,1,5,5,5,0,7,22

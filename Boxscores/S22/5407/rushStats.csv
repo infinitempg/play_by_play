@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kane-Maika'i, K.",HON,12,40,3.3,9,1
-"Ruff, R.",HON,11,35,3.2,8,0
-"Alexander, W.",HON,2,3,1.5,3,0
-"Havran, C.",HON,1,0,0,0,0
-"Nakamura, T.",OCO,15,46,3.1,9,1
-"Armstrong, F.",OCO,9,71,7.9,33,1
-"Bigby, L.",OCO,9,36,4,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kane-Maika'i, K.",HON,12,40,3.3,9,1,9,22
+"Ruff, R.",HON,11,35,3.2,8,0,9,22
+"Alexander, W.",HON,2,3,1.5,3,0,9,22
+"Havran, C.",HON,1,0,0,0,0,9,22
+"Nakamura, T.",OCO,15,46,3.1,9,1,9,22
+"Armstrong, F.",OCO,9,71,7.9,33,1,9,22
+"Bigby, L.",OCO,9,36,4,10,0,9,22

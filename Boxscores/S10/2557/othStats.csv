@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Probincrux III, D.",SJS,1,10,5,0
-"Oles, K.",SJS,1,10,0,0
-"McKoutchie, M.",SJS,0,0,4,0
-"Jahelpme, H.",SJS,0,0,2,1
-"Brannigan, Z.",SJS,0,0,1,0
-"Riddick, D.",SJS,0,0,1,0
-"Rucker, F.",SJS,0,0,1,0
-"Brown, M.",PHI,1,7,0,1
-"Marchand, J.",PHI,1,15,0,0
-"Lee, J.",PHI,1,5,0,0
-"Slax, G.",PHI,1,5,0,0
-"Tucker, P.",PHI,1,5,0,0
-"Fillmore, M.",PHI,0,0,6,0
-"Tyler, J.",PHI,0,0,4,1
-"Arthur, C.",PHI,0,0,2,0
-"O'Sullivan, S.",PHI,0,0,2,0
-"Hayes, R.",PHI,0,0,1,1
-"Van Buren, M.",PHI,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Probincrux III, D.",SJS,1,10,5,0,9,10
+"Oles, K.",SJS,1,10,0,0,9,10
+"McKoutchie, M.",SJS,0,0,4,0,9,10
+"Jahelpme, H.",SJS,0,0,2,1,9,10
+"Brannigan, Z.",SJS,0,0,1,0,9,10
+"Riddick, D.",SJS,0,0,1,0,9,10
+"Rucker, F.",SJS,0,0,1,0,9,10
+"Brown, M.",PHI,1,7,0,1,9,10
+"Marchand, J.",PHI,1,15,0,0,9,10
+"Lee, J.",PHI,1,5,0,0,9,10
+"Slax, G.",PHI,1,5,0,0,9,10
+"Tucker, P.",PHI,1,5,0,0,9,10
+"Fillmore, M.",PHI,0,0,6,0,9,10
+"Tyler, J.",PHI,0,0,4,1,9,10
+"Arthur, C.",PHI,0,0,2,0,9,10
+"O'Sullivan, S.",PHI,0,0,2,0,9,10
+"Hayes, R.",PHI,0,0,1,1,9,10
+"Van Buren, M.",PHI,0,0,1,1,9,10

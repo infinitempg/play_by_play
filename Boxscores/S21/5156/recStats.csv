@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Leary, S.",CHI,9,98,10.9,24,1
-"Firestorm-Fjord, O.",CHI,7,44,6.3,12,0
-"Espeeyeeseetee, A.",CHI,6,150,25,38,0
-"Leaf Jr., R.",CHI,4,89,22.2,34,0
-"Utler, J.",CHI,1,5,5,5,0
-"Donut, S.",AZ,7,110,15.7,24,1
-"Irving, J.",AZ,5,111,22.2,38,0
-"Bur'Berry, J.",AZ,4,102,25.5,36,0
-"Hardagain, W.",AZ,4,19,4.8,7,0
-"Ruff, R.",AZ,2,12,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Leary, S.",CHI,9,98,10.9,24,1,1,21
+"Firestorm-Fjord, O.",CHI,7,44,6.3,12,0,1,21
+"Espeeyeeseetee, A.",CHI,6,150,25,38,0,1,21
+"Leaf Jr., R.",CHI,4,89,22.2,34,0,1,21
+"Utler, J.",CHI,1,5,5,5,0,1,21
+"Donut, S.",AZ,7,110,15.7,24,1,1,21
+"Irving, J.",AZ,5,111,22.2,38,0,1,21
+"Bur'Berry, J.",AZ,4,102,25.5,36,0,1,21
+"Hardagain, W.",AZ,4,19,4.8,7,0,1,21
+"Ruff, R.",AZ,2,12,6,6,0,1,21

@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Bright, C.",CHI,2,10,2,1
-"Oats, S.",CHI,1,14,0,0
-"Sandburg, C.",CHI,0,0,6,0
-"Ford Lalatina, D.",CHI,0,0,4,0
-"Harp, D.",CHI,0,0,4,0
-"Gordon, B.",CHI,0,0,3,0
-"Smith, G.",CHI,0,0,2,0
-"Utler, J.",CHI,0,0,2,0
-"Danielsson, A.",CHI,0,0,1,0
-"Ulysses, B.",NO,1,5,3,0
-"Brew, S.",NO,0,0,5,0
-"Ofyourlove, S.",NO,0,0,2,0
-"Rubbe, G.",NO,0,0,2,0
-"Toriki, M.",NO,0,0,2,0
-"Gump, F.",NO,0,0,1,0
-"Room, W.",NO,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Bright, C.",CHI,2,10,2,1,11,19
+"Oats, S.",CHI,1,14,0,0,11,19
+"Sandburg, C.",CHI,0,0,6,0,11,19
+"Ford Lalatina, D.",CHI,0,0,4,0,11,19
+"Harp, D.",CHI,0,0,4,0,11,19
+"Gordon, B.",CHI,0,0,3,0,11,19
+"Smith, G.",CHI,0,0,2,0,11,19
+"Utler, J.",CHI,0,0,2,0,11,19
+"Danielsson, A.",CHI,0,0,1,0,11,19
+"Ulysses, B.",NO,1,5,3,0,11,19
+"Brew, S.",NO,0,0,5,0,11,19
+"Ofyourlove, S.",NO,0,0,2,0,11,19
+"Rubbe, G.",NO,0,0,2,0,11,19
+"Toriki, M.",NO,0,0,2,0,11,19
+"Gump, F.",NO,0,0,1,0,11,19
+"Room, W.",NO,0,0,1,0,11,19

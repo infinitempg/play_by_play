@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Burnsman, E.",OCO,16,53,3.3,12,2
-"Jenkins, L.",OCO,14,60,4.3,11,0
-"Durden, J.",SJS,27,79,2.9,11,0
-"Hunt, E.",SJS,3,6,2,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Burnsman, E.",OCO,16,53,3.3,12,2,7,3
+"Jenkins, L.",OCO,14,60,4.3,11,0,7,3
+"Durden, J.",SJS,27,79,2.9,11,0,7,3
+"Hunt, E.",SJS,3,6,2,6,0,7,3

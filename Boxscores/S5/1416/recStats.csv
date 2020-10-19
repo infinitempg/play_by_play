@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Kennedy, E.",YKW,11,135,12.3,22,0
-"Nuck, B.",YKW,6,33,5.5,8,0
-"Harris Jr., F.",YKW,5,68,13.6,25,1
-"Cook, B.",YKW,3,69,23,35,1
-"Jarden, G.",YKW,3,29,9.7,20,2
-"Yates, J.",OCO,8,66,8.2,24,1
-"O'Sullivan, S.",OCO,7,56,8,24,0
-"Westfield, B.",OCO,4,141,35.2,62,0
-"Phelps, R.",OCO,4,76,19,29,1
-"Petrakis, A.",OCO,4,18,4.5,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Kennedy, E.",YKW,11,135,12.3,22,0,11,5
+"Nuck, B.",YKW,6,33,5.5,8,0,11,5
+"Harris Jr., F.",YKW,5,68,13.6,25,1,11,5
+"Cook, B.",YKW,3,69,23,35,1,11,5
+"Jarden, G.",YKW,3,29,9.7,20,2,11,5
+"Yates, J.",OCO,8,66,8.2,24,1,11,5
+"O'Sullivan, S.",OCO,7,56,8,24,0,11,5
+"Westfield, B.",OCO,4,141,35.2,62,0,11,5
+"Phelps, R.",OCO,4,76,19,29,1,11,5
+"Petrakis, A.",OCO,4,18,4.5,10,0,11,5

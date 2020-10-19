@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Durden, J.",SJS,16,23,1.4,5,0
-"Mackworthy, R.",ARI,11,37,3.4,13,1
-"Tuck, J.",ARI,5,17,3.4,8,0
-"Bronko, K.",ARI,1,-6,-6,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Durden, J.",SJS,16,23,1.4,5,0,13,3
+"Mackworthy, R.",ARI,11,37,3.4,13,1,13,3
+"Tuck, J.",ARI,5,17,3.4,8,0,13,3
+"Bronko, K.",ARI,1,-6,-6,0,0,13,3

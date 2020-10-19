@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Harris, S.",PHI,7,320,45.7,64,2
-"Madlad, B.",OCO,5,230,46,60,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Harris, S.",PHI,7,320,45.7,64,2,11,6
+"Madlad, B.",OCO,5,230,46,60,1,11,6

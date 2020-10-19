@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bly Jr., A.",COL,1,43,32,43,19,0,0,5
-"Miller, H.",COL,2,72,0,41,0,0,0,0
-"Weston, S.",SJS,0,0,30,0,15,0,0,2
-"Jackson, M.",SJS,3,53,0,26,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bly Jr., A.",COL,1,43,32,43,19,0,0,5,5,8
+"Miller, H.",COL,2,72,0,41,0,0,0,0,5,8
+"Weston, S.",SJS,0,0,30,0,15,0,0,2,5,8
+"Jackson, M.",SJS,3,53,0,26,0,0,0,0,5,8

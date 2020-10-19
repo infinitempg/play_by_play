@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Trunks, F.",OCO,5,51,10.2,15,1
-"Nakamura, T.",OCO,5,30,6,10,0
-"Mongo, H.",OCO,4,75,18.8,26,0
-"Phillips, J.",OCO,4,58,14.5,16,1
-"Despacito Jr., G.",OCO,2,13,6.5,7,0
-"George, D.",OCO,2,12,6,9,0
-"Z, D.",OCO,1,9,9,9,0
-"McZeal, K.",OCO,1,1,1,1,0
-"Donut, S.",AZ,6,70,11.7,29,0
-"Evans, H.",AZ,6,45,7.5,15,0
-"Passmann, T.",AZ,3,48,16,34,0
-"Keppler, Z.",AZ,2,17,8.5,9,0
-"Bur'Berry, J.",AZ,1,11,11,11,0
-"Petrongolo, J.",AZ,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Trunks, F.",OCO,5,51,10.2,15,1,5,24
+"Nakamura, T.",OCO,5,30,6,10,0,5,24
+"Mongo, H.",OCO,4,75,18.8,26,0,5,24
+"Phillips, J.",OCO,4,58,14.5,16,1,5,24
+"Despacito Jr., G.",OCO,2,13,6.5,7,0,5,24
+"George, D.",OCO,2,12,6,9,0,5,24
+"Z, D.",OCO,1,9,9,9,0,5,24
+"McZeal, K.",OCO,1,1,1,1,0,5,24
+"Donut, S.",AZ,6,70,11.7,29,0,5,24
+"Evans, H.",AZ,6,45,7.5,15,0,5,24
+"Passmann, T.",AZ,3,48,16,34,0,5,24
+"Keppler, Z.",AZ,2,17,8.5,9,0,5,24
+"Bur'Berry, J.",AZ,1,11,11,11,0,5,24
+"Petrongolo, J.",AZ,1,6,6,6,0,5,24

@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Squanch, V.",AZ,6,97,16.2,44,1
-"Willie, T.",AZ,6,66,11,19,1
-"Crindy, B.",AZ,4,25,6.2,10,0
-"Moore, S.",AZ,3,25,8.3,18,0
-"Shady, S.",AZ,2,7,3.5,5,0
-"Asipi III, A.",AZ,1,29,29,29,0
-"Miller, H.",COL,6,137,22.8,59,1
-"Bishop, J.",COL,5,119,23.8,62,0
-"Chipmunk, A.",COL,3,35,11.7,16,0
-"Wachter, J.",COL,3,30,10,18,2
-"Grau, M.",COL,3,16,5.3,7,0
-"Strike, L.",COL,2,15,7.5,9,0
-"Cansino, D.",COL,2,5,2.5,4,1
-"Wright, R.",COL,1,26,26,26,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Squanch, V.",AZ,6,97,16.2,44,1,10,12
+"Willie, T.",AZ,6,66,11,19,1,10,12
+"Crindy, B.",AZ,4,25,6.2,10,0,10,12
+"Moore, S.",AZ,3,25,8.3,18,0,10,12
+"Shady, S.",AZ,2,7,3.5,5,0,10,12
+"Asipi III, A.",AZ,1,29,29,29,0,10,12
+"Miller, H.",COL,6,137,22.8,59,1,10,12
+"Bishop, J.",COL,5,119,23.8,62,0,10,12
+"Chipmunk, A.",COL,3,35,11.7,16,0,10,12
+"Wachter, J.",COL,3,30,10,18,2,10,12
+"Grau, M.",COL,3,16,5.3,7,0,10,12
+"Strike, L.",COL,2,15,7.5,9,0,10,12
+"Cansino, D.",COL,2,5,2.5,4,1,10,12
+"Wright, R.",COL,1,26,26,26,0,10,12

@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Rubbe, G.",NO,2,10,3,0
-"Ulysses, B.",NO,1,10,5,0
-"Room, W.",NO,0,0,10,0
-"Brew, S.",NO,0,0,5,0
-"Toriki, M.",NO,0,0,2,0
-"Ofyourlove, S.",NO,0,0,1,0
-"Steele, R.",BAL,1,6,6,0
-"Jeremy, R.",BAL,1,10,4,0
-"Bigby, L.",BAL,1,5,1,0
-"Asipi III, A.",BAL,1,5,0,0
-"Espeeyeeseetee, A.",BAL,1,15,0,0
-"Vassallo, S.",BAL,1,5,0,0
-"Grey, S.",BAL,0,0,6,1
-"Diggler, D.",BAL,0,0,2,0
-"Pancakes, P.",BAL,0,0,1,0
-"Star, L.",BAL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Rubbe, G.",NO,2,10,3,0,13,19
+"Ulysses, B.",NO,1,10,5,0,13,19
+"Room, W.",NO,0,0,10,0,13,19
+"Brew, S.",NO,0,0,5,0,13,19
+"Toriki, M.",NO,0,0,2,0,13,19
+"Ofyourlove, S.",NO,0,0,1,0,13,19
+"Steele, R.",BAL,1,6,6,0,13,19
+"Jeremy, R.",BAL,1,10,4,0,13,19
+"Bigby, L.",BAL,1,5,1,0,13,19
+"Asipi III, A.",BAL,1,5,0,0,13,19
+"Espeeyeeseetee, A.",BAL,1,15,0,0,13,19
+"Vassallo, S.",BAL,1,5,0,0,13,19
+"Grey, S.",BAL,0,0,6,1,13,19
+"Diggler, D.",BAL,0,0,2,0,13,19
+"Pancakes, P.",BAL,0,0,1,0,13,19
+"Star, L.",BAL,0,0,1,0,13,19

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,0,0,26,0,16,0,0,5
-"Phelps, R.",OCO,3,74,0,27,0,0,0,0
-"Garden, J.",YKW,3,53,0,35,0,0,0,0
-"Novel, L.",YKW,1,19,13,19,13,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,0,0,26,0,16,0,0,5,12,2
+"Phelps, R.",OCO,3,74,0,27,0,0,0,0,12,2
+"Garden, J.",YKW,3,53,0,35,0,0,0,0,12,2
+"Novel, L.",YKW,1,19,13,19,13,0,0,1,12,2

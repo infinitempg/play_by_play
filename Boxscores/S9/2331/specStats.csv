@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,2,65,19,36,9,0,0,3
-"Canton, J.",SJS,4,64,0,22,0,0,0,0
-"Lavelle, D.",YKW,2,62,78,37,75,0,1,3
-"Kennedy, E.",YKW,3,93,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,2,65,19,36,9,0,0,3,4,9
+"Canton, J.",SJS,4,64,0,22,0,0,0,0,4,9
+"Lavelle, D.",YKW,2,62,78,37,75,0,1,3,4,9
+"Kennedy, E.",YKW,3,93,0,42,0,0,0,0,4,9

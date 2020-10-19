@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Yates, J.",OCO,12,162,13.5,34,1
-"Phelps, R.",OCO,8,111,13.9,40,0
-"Westfield, B.",OCO,5,117,23.4,36,1
-"Burnsman, E.",OCO,4,39,9.8,20,0
-"O'Sullivan, S.",OCO,4,25,6.2,12,0
-"LeClair, A.",BAL,5,119,23.8,36,1
-"Willie, T.",BAL,4,76,19,29,1
-"Stormblessed, N.",BAL,4,31,7.8,17,1
-"Taylor, O.",BAL,4,19,4.8,9,0
-"Wachter, J.",BAL,2,14,7,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Yates, J.",OCO,12,162,13.5,34,1,7,6
+"Phelps, R.",OCO,8,111,13.9,40,0,7,6
+"Westfield, B.",OCO,5,117,23.4,36,1,7,6
+"Burnsman, E.",OCO,4,39,9.8,20,0,7,6
+"O'Sullivan, S.",OCO,4,25,6.2,12,0,7,6
+"LeClair, A.",BAL,5,119,23.8,36,1,7,6
+"Willie, T.",BAL,4,76,19,29,1,7,6
+"Stormblessed, N.",BAL,4,31,7.8,17,1,7,6
+"Taylor, O.",BAL,4,19,4.8,9,0,7,6
+"Wachter, J.",BAL,2,14,7,8,0,7,6

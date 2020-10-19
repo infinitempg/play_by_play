@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garnett, L.",PHI,3,77,13,48,13,0,0,1
-"von Matt, J.",PHI,2,34,0,30,0,0,0,0
-"Grithead, D.",OCO,3,78,53,41,20,0,0,3
-"Sunnycursed, N.",OCO,1,7,0,7,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garnett, L.",PHI,3,77,13,48,13,0,0,1,10,15
+"von Matt, J.",PHI,2,34,0,30,0,0,0,0,10,15
+"Grithead, D.",OCO,3,78,53,41,20,0,0,3,10,15
+"Sunnycursed, N.",OCO,1,7,0,7,0,0,0,0,10,15

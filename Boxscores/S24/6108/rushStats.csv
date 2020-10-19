@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gilbert, R.",COL,17,86,5.1,11,0
-"Bumper, T.",COL,15,58,3.9,11,0
-"Owens, A.",COL,12,50,4.2,11,0
-"McDummy, W.",COL,7,20,2.9,8,2
-"Hanyadi, M.",YKW,14,56,4,13,0
-"Skyline, A.",YKW,9,23,2.6,5,0
-"Jack, C.",YKW,6,18,3,15,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gilbert, R.",COL,17,86,5.1,11,0,13,24
+"Bumper, T.",COL,15,58,3.9,11,0,13,24
+"Owens, A.",COL,12,50,4.2,11,0,13,24
+"McDummy, W.",COL,7,20,2.9,8,2,13,24
+"Hanyadi, M.",YKW,14,56,4,13,0,13,24
+"Skyline, A.",YKW,9,23,2.6,5,0,13,24
+"Jack, C.",YKW,6,18,3,15,0,13,24

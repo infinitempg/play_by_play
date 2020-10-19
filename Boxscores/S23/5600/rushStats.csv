@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Lackson, J.",SJS,32,118,3.7,11,2
-"Cardrissian, R.",SJS,11,52,4.7,12,0
-"Toriki, M.",NO,17,57,3.4,12,1
-"Gump, F.",NO,8,36,4.5,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Lackson, J.",SJS,32,118,3.7,11,2,1,23
+"Cardrissian, R.",SJS,11,52,4.7,12,0,1,23
+"Toriki, M.",NO,17,57,3.4,12,1,1,23
+"Gump, F.",NO,8,36,4.5,8,0,1,23

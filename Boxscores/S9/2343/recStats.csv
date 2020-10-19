@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Yates, J.",OCO,7,46,6.6,14,1
-"Atwell, T.",OCO,6,109,18.2,37,0
-"Crush, C.",OCO,6,107,17.8,35,3
-"Westfield, B.",OCO,4,78,19.5,35,0
-"Phelps, R.",OCO,4,25,6.2,12,0
-"Winchester, A.",OCO,1,32,32,32,0
-"Spector, M.",OCO,1,12,12,12,0
-"Miller, H.",COL,8,105,13.1,32,1
-"Aaron, D.",COL,8,64,8,20,0
-"Wheat, B.",COL,6,110,18.3,41,0
-"Grau, M.",COL,4,52,13,23,0
-"Cox, J.",COL,2,26,13,19,0
-"Kroetch, D.",COL,1,11,11,11,0
-"Chipmunk, A.",COL,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Yates, J.",OCO,7,46,6.6,14,1,7,9
+"Atwell, T.",OCO,6,109,18.2,37,0,7,9
+"Crush, C.",OCO,6,107,17.8,35,3,7,9
+"Westfield, B.",OCO,4,78,19.5,35,0,7,9
+"Phelps, R.",OCO,4,25,6.2,12,0,7,9
+"Winchester, A.",OCO,1,32,32,32,0,7,9
+"Spector, M.",OCO,1,12,12,12,0,7,9
+"Miller, H.",COL,8,105,13.1,32,1,7,9
+"Aaron, D.",COL,8,64,8,20,0,7,9
+"Wheat, B.",COL,6,110,18.3,41,0,7,9
+"Grau, M.",COL,4,52,13,23,0,7,9
+"Cox, J.",COL,2,26,13,19,0,7,9
+"Kroetch, D.",COL,1,11,11,11,0,7,9
+"Chipmunk, A.",COL,1,7,7,7,0,7,9

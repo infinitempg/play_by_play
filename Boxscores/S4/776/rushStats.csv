@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kennedy, E.",YKW,20,73,3.6,10,2
-"Nuck, B.",YKW,19,80,4.2,10,0
-"Akselsen, M.",YKW,7,0,0,4,1
-"Tweed, B.",COL,24,78,3.2,11,0
-"Pierno, N.",COL,9,10,1.1,8,0
-"Farlane, D.",COL,8,23,2.9,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kennedy, E.",YKW,20,73,3.6,10,2,14,4
+"Nuck, B.",YKW,19,80,4.2,10,0,14,4
+"Akselsen, M.",YKW,7,0,0,4,1,14,4
+"Tweed, B.",COL,24,78,3.2,11,0,14,4
+"Pierno, N.",COL,9,10,1.1,8,0,14,4
+"Farlane, D.",COL,8,23,2.9,7,0,14,4

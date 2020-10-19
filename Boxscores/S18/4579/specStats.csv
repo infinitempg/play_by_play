@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Valentine, V.",AZ,3,84,0,36,0,0,0,0
-"Oles, K.",AZ,1,29,69,29,66,0,1,2
-"Staley, T.",SJS,4,95,17,39,17,0,0,1
-"Tuck, J.",SJS,3,69,0,27,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Valentine, V.",AZ,3,84,0,36,0,0,0,0,5,18
+"Oles, K.",AZ,1,29,69,29,66,0,1,2,5,18
+"Staley, T.",SJS,4,95,17,39,17,0,0,1,5,18
+"Tuck, J.",SJS,3,69,0,27,0,0,0,0,5,18

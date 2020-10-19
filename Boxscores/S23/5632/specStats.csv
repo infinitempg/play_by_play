@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,1,25,37,25,22,0,0,4
-"Quinn, A.",BAL,2,21,0,12,0,0,0,0
-"Beerus, L.",OCO,5,100,7,42,7,0,0,1
-"Trunks, F.",OCO,3,40,0,16,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,1,25,37,25,22,0,0,4,7,23
+"Quinn, A.",BAL,2,21,0,12,0,0,0,0,7,23
+"Beerus, L.",OCO,5,100,7,42,7,0,0,1,7,23
+"Trunks, F.",OCO,3,40,0,16,0,0,0,0,7,23

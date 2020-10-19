@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",OCO,17,79,4.6,12,1
-"Boss, M.",OCO,1,-1,-1,0,0
-"Kroetch, D.",COL,12,52,4.3,13,1
-"Cox, J.",COL,9,31,3.4,10,2
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",OCO,17,79,4.6,12,1,7,9
+"Boss, M.",OCO,1,-1,-1,0,0,7,9
+"Kroetch, D.",COL,12,52,4.3,13,1,7,9
+"Cox, J.",COL,9,31,3.4,10,2,7,9

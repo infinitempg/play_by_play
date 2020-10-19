@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Phoenix, B.",PHI,"[17, 29]",161,9.5,1,0,85.6
-"Bigsby, C.",YKW,"[22, 38]",268,12.2,4,2,92.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Phoenix, B.",PHI,161,9.5,1,0,85.6,17,22,5,22
+"Bigsby, C.",YKW,268,12.2,4,2,92.9,17,22,5,22

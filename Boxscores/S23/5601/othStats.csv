@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"McTackle, R.",AUS,1,15,0,0
-"Fassingit, H.",AUS,0,0,3,0
-"Saurus, B.",AUS,0,0,3,0
-"Saurus, S.",AUS,0,0,3,0
-"Beaver-Dantes, E.",AUS,0,0,2,0
-"Mendonca, M.",AUS,0,0,2,0
-"Saurus, A.",AUS,0,0,1,0
-"Banks, J.",HON,1,15,0,0
-"Culbertson, R.",HON,1,5,0,0
-"Noble Jr., L.",HON,1,5,0,0
-"Ruff, R.",HON,1,5,0,0
-"Jones, F.",HON,0,0,9,0
-"Doo, S.",HON,0,0,4,0
-"Blake, D.",HON,0,0,3,0
-"Dinkley, V.",HON,0,0,2,1
-"Rogers, S.",HON,0,0,2,1
-"Kane-Maika'i, K.",HON,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"McTackle, R.",AUS,1,15,0,0,1,23
+"Fassingit, H.",AUS,0,0,3,0,1,23
+"Saurus, B.",AUS,0,0,3,0,1,23
+"Saurus, S.",AUS,0,0,3,0,1,23
+"Beaver-Dantes, E.",AUS,0,0,2,0,1,23
+"Mendonca, M.",AUS,0,0,2,0,1,23
+"Saurus, A.",AUS,0,0,1,0,1,23
+"Banks, J.",HON,1,15,0,0,1,23
+"Culbertson, R.",HON,1,5,0,0,1,23
+"Noble Jr., L.",HON,1,5,0,0,1,23
+"Ruff, R.",HON,1,5,0,0,1,23
+"Jones, F.",HON,0,0,9,0,1,23
+"Doo, S.",HON,0,0,4,0,1,23
+"Blake, D.",HON,0,0,3,0,1,23
+"Dinkley, V.",HON,0,0,2,1,1,23
+"Rogers, S.",HON,0,0,2,1,1,23
+"Kane-Maika'i, K.",HON,0,0,2,0,1,23

@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bly Jr., A.",COL,3,72,18,28,17,0,0,2
-"Miller, H.",COL,2,39,0,21,0,0,0,0
-"Delacour, A.",BAL,0,0,95,0,75,0,1,5
-"Willie, T.",BAL,1,43,0,43,0,0,0,0
-"LeClair, A.",BAL,3,57,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bly Jr., A.",COL,3,72,18,28,17,0,0,2,5,7
+"Miller, H.",COL,2,39,0,21,0,0,0,0,5,7
+"Delacour, A.",BAL,0,0,95,0,75,0,1,5,5,7
+"Willie, T.",BAL,1,43,0,43,0,0,0,0,5,7
+"LeClair, A.",BAL,3,57,0,34,0,0,0,0,5,7

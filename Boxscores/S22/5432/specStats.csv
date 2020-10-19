@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Donut, S.",AZ,2,44,0,41,0,0,0,0
-"Scarlett, D.",AZ,2,30,30,19,16,0,0,2
-"Dream, K.",OCO,3,122,6,45,8,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Donut, S.",AZ,2,44,0,41,0,0,0,0,13,22
+"Scarlett, D.",AZ,2,30,30,19,16,0,0,2,13,22
+"Dream, K.",OCO,3,122,6,45,8,0,0,4,13,22

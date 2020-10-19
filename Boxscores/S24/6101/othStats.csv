@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Ofyourlove, S.",NO,0,0,5,0
-"Rubbe, G.",NO,0,0,4,0
-"Jimbo Jr., D.",NO,0,0,3,0
-"McCormick, A.",NO,0,0,3,0
-"Brew, S.",NO,0,0,2,0
-"Room, W.",NO,0,0,2,0
-"Gump, F.",NO,0,0,1,0
-"Porter, G.",AUS,2,20,0,0
-"Saurus, S.",AUS,1,5,4,1
-"Fassingit, H.",AUS,1,10,2,0
-"McGullager, T.",AUS,1,5,0,0
-"Mendoza, C.",AUS,1,5,0,0
-"Montain, T.",AUS,1,5,0,0
-"Saurus, B.",AUS,0,0,8,0
-"Beaver-Dantes, E.",AUS,0,0,7,0
-"Saurus, A.",AUS,0,0,4,0
-"Mendonca, M.",AUS,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Ofyourlove, S.",NO,0,0,5,0,15,24
+"Rubbe, G.",NO,0,0,4,0,15,24
+"Jimbo Jr., D.",NO,0,0,3,0,15,24
+"McCormick, A.",NO,0,0,3,0,15,24
+"Brew, S.",NO,0,0,2,0,15,24
+"Room, W.",NO,0,0,2,0,15,24
+"Gump, F.",NO,0,0,1,0,15,24
+"Porter, G.",AUS,2,20,0,0,15,24
+"Saurus, S.",AUS,1,5,4,1,15,24
+"Fassingit, H.",AUS,1,10,2,0,15,24
+"McGullager, T.",AUS,1,5,0,0,15,24
+"Mendoza, C.",AUS,1,5,0,0,15,24
+"Montain, T.",AUS,1,5,0,0,15,24
+"Saurus, B.",AUS,0,0,8,0,15,24
+"Beaver-Dantes, E.",AUS,0,0,7,0,15,24
+"Saurus, A.",AUS,0,0,4,0,15,24
+"Mendonca, M.",AUS,0,0,3,0,15,24

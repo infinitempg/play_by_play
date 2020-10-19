@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,6,71,0,33,0,0,0,0
-"Canton, J.",SJS,2,55,0,38,0,0,0,0
-"Smallwood, D.",NO,1,10,0,10,0,0,0,0
-"Bayley, B.",NO,1,35,13,35,13,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,6,71,0,33,0,0,0,0,6,9
+"Canton, J.",SJS,2,55,0,38,0,0,0,0,6,9
+"Smallwood, D.",NO,1,10,0,10,0,0,0,0,6,9
+"Bayley, B.",NO,1,35,13,35,13,0,0,1,6,9

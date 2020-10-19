@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,3,112,11,45,11,0,0,1
-"Maddox, E.",BAL,1,26,0,26,0,0,0,0
-"Kross, C.",BAL,1,16,0,16,0,0,0,0
-"Thomas-Fox, D.",SJS,2,47,0,36,0,0,0,0
-"Jackson, A.",SJS,0,0,5,0,10,0,0,2
-"PickSix, H.",SJS,2,106,0,73,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,3,112,11,45,11,0,0,1,6,22
+"Maddox, E.",BAL,1,26,0,26,0,0,0,0,6,22
+"Kross, C.",BAL,1,16,0,16,0,0,0,0,6,22
+"Thomas-Fox, D.",SJS,2,47,0,36,0,0,0,0,6,22
+"Jackson, A.",SJS,0,0,5,0,10,0,0,2,6,22
+"PickSix, H.",SJS,2,106,0,73,0,0,0,0,6,22

@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Wizardry, D.",YKW,6,52,8.7,12,1
-"Pennington, B.",YKW,5,125,25,50,0
-"Pitcher, A.",YKW,5,49,9.8,16,1
-"Parker, J.",YKW,4,53,13.2,22,0
-"Helanen, T.",YKW,4,30,7.5,13,0
-"Peterson, T.",YKW,3,49,16.3,34,0
-"Carrasco, T.",YKW,2,14,7,11,0
-"Sunnycursed, N.",OCO,5,106,21.2,48,0
-"Adams, R.",OCO,5,90,18,28,0
-"Crush, C.",OCO,4,83,20.8,43,1
-"Zephyrous, S.",OCO,3,10,3.3,6,0
-"Atwell, T.",OCO,2,27,13.5,22,1
-"McPoyal, G.",OCO,1,12,12,12,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Wizardry, D.",YKW,6,52,8.7,12,1,2,13
+"Pennington, B.",YKW,5,125,25,50,0,2,13
+"Pitcher, A.",YKW,5,49,9.8,16,1,2,13
+"Parker, J.",YKW,4,53,13.2,22,0,2,13
+"Helanen, T.",YKW,4,30,7.5,13,0,2,13
+"Peterson, T.",YKW,3,49,16.3,34,0,2,13
+"Carrasco, T.",YKW,2,14,7,11,0,2,13
+"Sunnycursed, N.",OCO,5,106,21.2,48,0,2,13
+"Adams, R.",OCO,5,90,18,28,0,2,13
+"Crush, C.",OCO,4,83,20.8,43,1,2,13
+"Zephyrous, S.",OCO,3,10,3.3,6,0,2,13
+"Atwell, T.",OCO,2,27,13.5,22,1,2,13
+"McPoyal, G.",OCO,1,12,12,12,0,2,13

@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Harris, S.",PHI,8,415,51.9,69,0
-"Ronaldo, C.",ARI,8,318,39.8,67,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Harris, S.",PHI,8,415,51.9,69,0,2,4
+"Ronaldo, C.",ARI,8,318,39.8,67,0,2,4

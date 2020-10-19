@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,20,58,2.9,8,2
-"Drake, O.",YKW,8,42,5.2,8,0
-"Bigby, L.",BAL,19,108,5.7,11,0
-"Trevor, C.",BAL,2,5,2.5,3,0
-"Havran, C.",BAL,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,20,58,2.9,8,2,9,19
+"Drake, O.",YKW,8,42,5.2,8,0,9,19
+"Bigby, L.",BAL,19,108,5.7,11,0,9,19
+"Trevor, C.",BAL,2,5,2.5,3,0,9,19
+"Havran, C.",BAL,1,-1,-1,0,0,9,19

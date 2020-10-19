@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jones, V.",PHI,7,71,10.1,15,1
-"von Matt, J.",PHI,6,73,12.2,35,0
-"Hank, F.",PHI,6,37,6.2,14,0
-"Brown, M.",PHI,5,23,4.6,7,1
-"Varga, N.",PHI,4,72,18,26,0
-"Hardwick, S.",PHI,2,40,20,21,0
-"Swift, N.",YKW,8,97,12.1,27,1
-"Parker, J.",YKW,8,82,10.2,29,0
-"Canton, J.",YKW,7,122,17.4,45,2
-"Marshall, M.",YKW,6,22,3.7,10,0
-"Helanen, T.",YKW,5,78,15.6,44,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jones, V.",PHI,7,71,10.1,15,1,4,17
+"von Matt, J.",PHI,6,73,12.2,35,0,4,17
+"Hank, F.",PHI,6,37,6.2,14,0,4,17
+"Brown, M.",PHI,5,23,4.6,7,1,4,17
+"Varga, N.",PHI,4,72,18,26,0,4,17
+"Hardwick, S.",PHI,2,40,20,21,0,4,17
+"Swift, N.",YKW,8,97,12.1,27,1,4,17
+"Parker, J.",YKW,8,82,10.2,29,0,4,17
+"Canton, J.",YKW,7,122,17.4,45,2,4,17
+"Marshall, M.",YKW,6,22,3.7,10,0,4,17
+"Helanen, T.",YKW,5,78,15.6,44,1,4,17

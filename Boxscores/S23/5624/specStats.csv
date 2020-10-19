@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,1,7,0,7,0,0,0,0
-"PickSix, H.",SJS,4,93,14,35,14,0,0,1
-"Mendonca, M.",AUS,2,58,0,33,0,0,0,0
-"Lavelle Jr., D.",AUS,3,84,11,34,11,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,1,7,0,7,0,0,0,0,5,23
+"PickSix, H.",SJS,4,93,14,35,14,0,0,1,5,23
+"Mendonca, M.",AUS,2,58,0,33,0,0,0,0,5,23
+"Lavelle Jr., D.",AUS,3,84,11,34,11,0,0,1,5,23

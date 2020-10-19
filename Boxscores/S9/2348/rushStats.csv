@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,40,160,4,12,4
-"Maximus III, B.",NO,5,25,5,13,0
-"Savea, A.",NO,2,1,0.5,1,0
-"Farlane, D.",PHI,27,120,4.4,12,0
-"O'Sullivan, C.",PHI,6,9,1.5,3,0
-"Noble, L.",PHI,2,-2,-1,0,0
-"Nyquist, W.",PHI,1,6,6,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,40,160,4,12,4,8,9
+"Maximus III, B.",NO,5,25,5,13,0,8,9
+"Savea, A.",NO,2,1,0.5,1,0,8,9
+"Farlane, D.",PHI,27,120,4.4,12,0,8,9
+"O'Sullivan, C.",PHI,6,9,1.5,3,0,8,9
+"Noble, L.",PHI,2,-2,-1,0,0,8,9
+"Nyquist, W.",PHI,1,6,6,6,0,8,9

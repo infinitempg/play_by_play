@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Owens, A.",COL,19,67,3.5,7,1
-"Vincent, M.",COL,15,50,3.3,11,1
-"McDummy, W.",COL,10,73,7.3,28,0
-"Danielsson, A.",CHI,9,53,5.9,12,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Owens, A.",COL,19,67,3.5,7,1,6,19
+"Vincent, M.",COL,15,50,3.3,11,1,6,19
+"McDummy, W.",COL,10,73,7.3,28,0,6,19
+"Danielsson, A.",CHI,9,53,5.9,12,0,6,19

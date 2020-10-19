@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Donut, S.",AZ,4,124,0,42,0,0,0,0
-"Knight, L.",AZ,2,64,-2,36,0,0,0,2
-"Banks II, D.",OCO,0,0,16,0,16,0,0,1
-"Lattimer, A.",OCO,1,42,0,42,0,0,0,0
-"Dream, K.",OCO,3,114,0,40,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Donut, S.",AZ,4,124,0,42,0,0,0,0,7,21
+"Knight, L.",AZ,2,64,-2,36,0,0,0,2,7,21
+"Banks II, D.",OCO,0,0,16,0,16,0,0,1,7,21
+"Lattimer, A.",OCO,1,42,0,42,0,0,0,0,7,21
+"Dream, K.",OCO,3,114,0,40,0,0,0,0,7,21

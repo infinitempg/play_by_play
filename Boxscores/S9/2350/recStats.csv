@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Chess, C.",AZ,5,59,11.8,15,0
-"Squanch, V.",AZ,2,31,15.5,19,0
-"Wachter, J.",AZ,2,17,8.5,11,0
-"Mackworthy, R.",AZ,2,13,6.5,8,0
-"Crindy, B.",AZ,1,5,5,5,0
-"Booter, F.",AZ,1,1,1,1,0
-"Lavelle, D.",YKW,3,91,30.3,38,0
-"Kennedy, E.",YKW,3,68,22.7,29,1
-"Harris Jr., F.",YKW,3,19,6.3,8,0
-"Cook, B.",YKW,2,25,12.5,16,1
-"McPoyal, G.",YKW,2,8,4,6,0
-"Rainey, R.",YKW,1,12,12,12,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Chess, C.",AZ,5,59,11.8,15,0,9,9
+"Squanch, V.",AZ,2,31,15.5,19,0,9,9
+"Wachter, J.",AZ,2,17,8.5,11,0,9,9
+"Mackworthy, R.",AZ,2,13,6.5,8,0,9,9
+"Crindy, B.",AZ,1,5,5,5,0,9,9
+"Booter, F.",AZ,1,1,1,1,0,9,9
+"Lavelle, D.",YKW,3,91,30.3,38,0,9,9
+"Kennedy, E.",YKW,3,68,22.7,29,1,9,9
+"Harris Jr., F.",YKW,3,19,6.3,8,0,9,9
+"Cook, B.",YKW,2,25,12.5,16,1,9,9
+"McPoyal, G.",YKW,2,8,4,6,0,9,9
+"Rainey, R.",YKW,1,12,12,12,0,9,9

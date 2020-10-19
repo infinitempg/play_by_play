@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Pooky, S.",YKW,2,10,2,1
-"Ones, B.",YKW,0,0,4,1
-"Mushing, M.",YKW,0,0,3,0
-"Hanyadi, M.",YKW,0,0,2,1
-"Amper, T.",YKW,0,0,1,0
-"Drake, O.",YKW,0,0,1,0
-"Rchonsucks, A.",YKW,0,0,1,0
-"Cricket, R.",CHI,1,5,6,1
-"Bailey, Z.",CHI,1,5,0,0
-"Beat, N.",CHI,1,15,0,0
-"Espeeyeeseetee, A.",CHI,1,10,0,0
-"Hockhertz, M.",CHI,1,5,0,0
-"Rice, J.",CHI,1,5,0,0
-"Schneider, D.",CHI,1,5,0,0
-"MacDennis, C.",CHI,0,0,8,1
-"Ford Lalatina, D.",CHI,0,0,4,0
-"Leaf III, R.",CHI,0,0,3,0
-"Marlin, J.",CHI,0,0,2,0
-"Danielsson, A.",CHI,0,0,1,0
-"Utler, J.",CHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Pooky, S.",YKW,2,10,2,1,3,20
+"Ones, B.",YKW,0,0,4,1,3,20
+"Mushing, M.",YKW,0,0,3,0,3,20
+"Hanyadi, M.",YKW,0,0,2,1,3,20
+"Amper, T.",YKW,0,0,1,0,3,20
+"Drake, O.",YKW,0,0,1,0,3,20
+"Rchonsucks, A.",YKW,0,0,1,0,3,20
+"Cricket, R.",CHI,1,5,6,1,3,20
+"Bailey, Z.",CHI,1,5,0,0,3,20
+"Beat, N.",CHI,1,15,0,0,3,20
+"Espeeyeeseetee, A.",CHI,1,10,0,0,3,20
+"Hockhertz, M.",CHI,1,5,0,0,3,20
+"Rice, J.",CHI,1,5,0,0,3,20
+"Schneider, D.",CHI,1,5,0,0,3,20
+"MacDennis, C.",CHI,0,0,8,1,3,20
+"Ford Lalatina, D.",CHI,0,0,4,0,3,20
+"Leaf III, R.",CHI,0,0,3,0,3,20
+"Marlin, J.",CHI,0,0,2,0,3,20
+"Danielsson, A.",CHI,0,0,1,0,3,20
+"Utler, J.",CHI,0,0,1,0,3,20

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kroetch, D.",PHI,14,27,1.9,6,1
-"Wright, O.",PHI,4,8,2,4,0
-"Milan, C.",PHI,1,4,4,4,0
-"Rove, C.",PHI,1,2,2,2,0
-"Mackworthy, R.",ARI,20,53,2.6,9,0
-"Tuck, J.",ARI,4,5,1.2,4,0
-"Bronko, K.",ARI,2,2,1,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kroetch, D.",PHI,14,27,1.9,6,1,2,4
+"Wright, O.",PHI,4,8,2,4,0,2,4
+"Milan, C.",PHI,1,4,4,4,0,2,4
+"Rove, C.",PHI,1,2,2,2,0,2,4
+"Mackworthy, R.",ARI,20,53,2.6,9,0,2,4
+"Tuck, J.",ARI,4,5,1.2,4,0,2,4
+"Bronko, K.",ARI,2,2,1,2,0,2,4

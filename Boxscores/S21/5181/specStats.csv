@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Leaf Jr., R.",CHI,2,18,11,17,11,0,0,4
-"Espeeyeeseetee, A.",CHI,5,184,0,95,0,1,0,0
-"Owens, A.",COL,3,64,31,38,19,0,0,2
-"Purchase, L.",COL,2,15,0,8,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Leaf Jr., R.",CHI,2,18,11,17,11,0,0,4,6,21
+"Espeeyeeseetee, A.",CHI,5,184,0,95,0,1,0,0,6,21
+"Owens, A.",COL,3,64,31,38,19,0,0,2,6,21
+"Purchase, L.",COL,2,15,0,8,0,0,0,0,6,21

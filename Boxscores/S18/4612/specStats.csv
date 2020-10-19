@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bigby, L.",BAL,1,0,0,0,0,0,0,0
-"Maddox, E.",BAL,0,0,33,0,21,0,0,4
-"Sunnycursed, N.",BAL,2,35,0,24,0,0,0,0
-"Gump, F.",NO,5,95,0,36,0,0,0,0
-"Jones, B.",NO,2,45,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bigby, L.",BAL,1,0,0,0,0,0,0,0,12,18
+"Maddox, E.",BAL,0,0,33,0,21,0,0,4,12,18
+"Sunnycursed, N.",BAL,2,35,0,24,0,0,0,0,12,18
+"Gump, F.",NO,5,95,0,36,0,0,0,0,12,18
+"Jones, B.",NO,2,45,0,34,0,0,0,0,12,18

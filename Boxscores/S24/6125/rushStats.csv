@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kane-Maika'i, K.",HON,18,49,2.7,9,0
-"Ayers, N.",HON,13,76,5.8,16,2
-"Chan, R.",SAR,11,72,6.5,40,1
-"Banks II, D.",SAR,10,25,2.5,11,0
-"Back, R.",SAR,8,35,4.4,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kane-Maika'i, K.",HON,18,49,2.7,9,0,11,24
+"Ayers, N.",HON,13,76,5.8,16,2,11,24
+"Chan, R.",SAR,11,72,6.5,40,1,11,24
+"Banks II, D.",SAR,10,25,2.5,11,0,11,24
+"Back, R.",SAR,8,35,4.4,9,0,11,24

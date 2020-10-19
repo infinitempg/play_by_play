@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Dinkley, V.",HON,1,5,1,0
-"Clay, J.",HON,1,9,0,0
-"Noble Jr., L.",HON,1,15,0,0
-"Rogers, S.",HON,0,0,6,1
-"Blake, D.",HON,0,0,6,0
-"Kane-Maika'i, K.",HON,0,0,3,1
-"Jones, F.",HON,0,0,3,0
-"Doo, S.",HON,0,0,1,1
-"Ruff, R.",HON,0,0,1,0
-"Rubbe, G.",NO,1,15,4,0
-"Wolfcastle, R.",NO,1,5,2,0
-"Ulysses, B.",NO,1,5,0,0
-"Room, W.",NO,0,0,7,0
-"Jimbo Jr., D.",NO,0,0,3,0
-"Ofyourlove, S.",NO,0,0,3,0
-"Brew, S.",NO,0,0,2,0
-"Gump, F.",NO,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Dinkley, V.",HON,1,5,1,0,15,23
+"Clay, J.",HON,1,9,0,0,15,23
+"Noble Jr., L.",HON,1,15,0,0,15,23
+"Rogers, S.",HON,0,0,6,1,15,23
+"Blake, D.",HON,0,0,6,0,15,23
+"Kane-Maika'i, K.",HON,0,0,3,1,15,23
+"Jones, F.",HON,0,0,3,0,15,23
+"Doo, S.",HON,0,0,1,1,15,23
+"Ruff, R.",HON,0,0,1,0,15,23
+"Rubbe, G.",NO,1,15,4,0,15,23
+"Wolfcastle, R.",NO,1,5,2,0,15,23
+"Ulysses, B.",NO,1,5,0,0,15,23
+"Room, W.",NO,0,0,7,0,15,23
+"Jimbo Jr., D.",NO,0,0,3,0,15,23
+"Ofyourlove, S.",NO,0,0,3,0,15,23
+"Brew, S.",NO,0,0,2,0,15,23
+"Gump, F.",NO,0,0,0,1,15,23

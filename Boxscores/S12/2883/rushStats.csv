@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cansino, D.",COL,26,94,3.6,9,0
-"McCormick, M.",COL,2,-1,-0.5,5,0
-"Grau, M.",COL,1,6,6,6,0
-"Taylor, O.",BAL,15,70,4.7,13,0
-"Summer, A.",BAL,9,55,6.1,19,1
-"Gambino, C.",BAL,3,19,6.3,23,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cansino, D.",COL,26,94,3.6,9,0,2,12
+"McCormick, M.",COL,2,-1,-0.5,5,0,2,12
+"Grau, M.",COL,1,6,6,6,0,2,12
+"Taylor, O.",BAL,15,70,4.7,13,0,2,12
+"Summer, A.",BAL,9,55,6.1,19,1,2,12
+"Gambino, C.",BAL,3,19,6.3,23,0,2,12

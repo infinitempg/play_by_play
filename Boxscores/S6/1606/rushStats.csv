@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",NO,19,72,3.8,10,0
-"Maximus III, B.",NO,1,2,2,2,0
-"Kroetch, D.",PHI,18,87,4.8,12,3
-"O'Connell, K.",PHI,6,30,5,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",NO,19,72,3.8,10,0,8,6
+"Maximus III, B.",NO,1,2,2,2,0,8,6
+"Kroetch, D.",PHI,18,87,4.8,12,3,8,6
+"O'Connell, K.",PHI,6,30,5,7,0,8,6

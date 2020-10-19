@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,14,59,4.2,9,0
-"Skyline, A.",YKW,7,22,3.1,7,0
-"Jack, C.",YKW,1,-1,-1,0,0
-"Mendonca, M.",AUS,16,37,2.3,8,1
-"Jones, K.",AUS,14,64,4.6,9,0
-"Cole, E.",AUS,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,14,59,4.2,9,0,8,24
+"Skyline, A.",YKW,7,22,3.1,7,0,8,24
+"Jack, C.",YKW,1,-1,-1,0,0,8,24
+"Mendonca, M.",AUS,16,37,2.3,8,1,8,24
+"Jones, K.",AUS,14,64,4.6,9,0,8,24
+"Cole, E.",AUS,1,2,2,2,0,8,24

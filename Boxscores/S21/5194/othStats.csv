@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Diggler, D.",BAL,1,5,4,0
-"Grey, S.",BAL,1,5,2,0
-"Beaner, S.",BAL,1,15,0,0
-"Star, L.",BAL,0,0,6,0
-"Steele, R.",BAL,0,0,2,0
-"Jeremy, R.",BAL,0,0,1,0
-"Howyanow, W.",PHI,2,20,0,0
-"Van Buren, M.",PHI,1,5,6,0
-"Morris, R.",PHI,1,5,0,0
-"Phoenix, B.",PHI,1,5,0,0
-"Dotson, F.",PHI,0,0,5,0
-"Hayes, R.",PHI,0,0,5,0
-"Arthur, C.",PHI,0,0,3,2
-"Fillmore, M.",PHI,0,0,3,0
-"Blocksdale Jr., A.",PHI,0,0,2,0
-"Torenson, S.",PHI,0,0,2,0
-"Tyler, J.",PHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Diggler, D.",BAL,1,5,4,0,9,21
+"Grey, S.",BAL,1,5,2,0,9,21
+"Beaner, S.",BAL,1,15,0,0,9,21
+"Star, L.",BAL,0,0,6,0,9,21
+"Steele, R.",BAL,0,0,2,0,9,21
+"Jeremy, R.",BAL,0,0,1,0,9,21
+"Howyanow, W.",PHI,2,20,0,0,9,21
+"Van Buren, M.",PHI,1,5,6,0,9,21
+"Morris, R.",PHI,1,5,0,0,9,21
+"Phoenix, B.",PHI,1,5,0,0,9,21
+"Dotson, F.",PHI,0,0,5,0,9,21
+"Hayes, R.",PHI,0,0,5,0,9,21
+"Arthur, C.",PHI,0,0,3,2,9,21
+"Fillmore, M.",PHI,0,0,3,0,9,21
+"Blocksdale Jr., A.",PHI,0,0,2,0,9,21
+"Torenson, S.",PHI,0,0,2,0,9,21
+"Tyler, J.",PHI,0,0,2,0,9,21

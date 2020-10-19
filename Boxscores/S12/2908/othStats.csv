@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Gore, B.",NO,1,15,3,0
-"DiMirio, P.",NO,1,15,1,0
-"Gomez, S.",NO,0,0,8,0
-"Grande, R.",NO,0,0,5,0
-"Carey, M.",NO,0,0,3,2
-"Perry, K.",NO,0,0,3,0
-"Yobanna-Kanayochukwu, C.",NO,0,0,2,0
-"Aguillera, C.",NO,0,0,1,0
-"Brannigan, Z.",SJS,1,5,4,0
-"Rucker, F.",SJS,1,5,4,0
-"Canton, J.",SJS,1,5,1,0
-"Probincrux III, D.",SJS,0,0,9,0
-"Jahelpme, H.",SJS,0,0,7,1
-"McKoutchie, M.",SJS,0,0,4,1
-"Orosz, C.",SJS,0,0,2,0
-"Tacktheritrix, J.",SJS,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Gore, B.",NO,1,15,3,0,8,12
+"DiMirio, P.",NO,1,15,1,0,8,12
+"Gomez, S.",NO,0,0,8,0,8,12
+"Grande, R.",NO,0,0,5,0,8,12
+"Carey, M.",NO,0,0,3,2,8,12
+"Perry, K.",NO,0,0,3,0,8,12
+"Yobanna-Kanayochukwu, C.",NO,0,0,2,0,8,12
+"Aguillera, C.",NO,0,0,1,0,8,12
+"Brannigan, Z.",SJS,1,5,4,0,8,12
+"Rucker, F.",SJS,1,5,4,0,8,12
+"Canton, J.",SJS,1,5,1,0,8,12
+"Probincrux III, D.",SJS,0,0,9,0,8,12
+"Jahelpme, H.",SJS,0,0,7,1,8,12
+"McKoutchie, M.",SJS,0,0,4,1,8,12
+"Orosz, C.",SJS,0,0,2,0,8,12
+"Tacktheritrix, J.",SJS,0,0,2,0,8,12

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",SJS,20,94,4.7,12,1
-"Orosz, C.",SJS,8,54,6.8,20,0
-"Christ, J.",SJS,1,-1,-1,0,0
-"Swift, T.",NO,9,25,2.8,7,1
-"Danielsson, A.",NO,8,24,3,6,0
-"Maximus III, B.",NO,7,55,7.9,24,0
-"Gore, B.",NO,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",SJS,20,94,4.7,12,1,2,13
+"Orosz, C.",SJS,8,54,6.8,20,0,2,13
+"Christ, J.",SJS,1,-1,-1,0,0,2,13
+"Swift, T.",NO,9,25,2.8,7,1,2,13
+"Danielsson, A.",NO,8,24,3,6,0,2,13
+"Maximus III, B.",NO,7,55,7.9,24,0,2,13
+"Gore, B.",NO,1,4,4,4,0,2,13

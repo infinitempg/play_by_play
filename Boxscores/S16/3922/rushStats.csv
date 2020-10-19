@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",CHI,23,101,4.4,13,0
-"Danielsson, A.",CHI,6,23,3.8,8,0
-"Jenkins, R.",CHI,2,4,2,3,0
-"Bigby, L.",SJS,12,41,3.4,7,0
-"Orosz, C.",SJS,9,43,4.8,9,0
-"Christ, J.",SJS,7,17,2.4,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",CHI,23,101,4.4,13,0,11,16
+"Danielsson, A.",CHI,6,23,3.8,8,0,11,16
+"Jenkins, R.",CHI,2,4,2,3,0,11,16
+"Bigby, L.",SJS,12,41,3.4,7,0,11,16
+"Orosz, C.",SJS,9,43,4.8,9,0,11,16
+"Christ, J.",SJS,7,17,2.4,9,0,11,16

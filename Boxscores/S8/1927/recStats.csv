@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bush, C.",PHI,9,113,12.6,34,2
-"North, F.",PHI,8,106,13.2,26,1
-"Garden, J.",PHI,6,68,11.3,29,0
-"Storm, B.",PHI,3,41,13.7,18,0
-"Stormblessed, N.",PHI,2,34,17,18,1
-"Chess, C.",AZ,7,91,13,23,0
-"Crindy, B.",AZ,7,40,5.7,14,0
-"Squanch, V.",AZ,5,57,11.4,19,1
-"Wachter, J.",AZ,5,47,9.4,13,0
-"Booter, F.",AZ,4,41,10.2,15,0
-"Mackworthy, R.",AZ,3,17,5.7,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bush, C.",PHI,9,113,12.6,34,2,13,8
+"North, F.",PHI,8,106,13.2,26,1,13,8
+"Garden, J.",PHI,6,68,11.3,29,0,13,8
+"Storm, B.",PHI,3,41,13.7,18,0,13,8
+"Stormblessed, N.",PHI,2,34,17,18,1,13,8
+"Chess, C.",AZ,7,91,13,23,0,13,8
+"Crindy, B.",AZ,7,40,5.7,14,0,13,8
+"Squanch, V.",AZ,5,57,11.4,19,1,13,8
+"Wachter, J.",AZ,5,47,9.4,13,0,13,8
+"Booter, F.",AZ,4,41,10.2,15,0,13,8
+"Mackworthy, R.",AZ,3,17,5.7,10,0,13,8

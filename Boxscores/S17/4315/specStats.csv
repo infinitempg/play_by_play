@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bishop, J.",COL,3,87,0,34,0,0,0,0
-"Lejune, L.",COL,2,68,20,42,19,0,0,2
-"Maddox, E.",BAL,2,60,3,37,3,0,0,1
-"Troyski, X.",BAL,1,6,0,6,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bishop, J.",COL,3,87,0,34,0,0,0,0,6,17
+"Lejune, L.",COL,2,68,20,42,19,0,0,2,6,17
+"Maddox, E.",BAL,2,60,3,37,3,0,0,1,6,17
+"Troyski, X.",BAL,1,6,0,6,0,0,0,0,6,17

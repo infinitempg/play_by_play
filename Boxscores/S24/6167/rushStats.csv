@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kane-Maika'i, K.",HON,16,59,3.7,13,0
-"Ayers, N.",HON,13,54,4.2,9,1
-"Skywalker, L.",HON,4,12,3,6,0
-"Nakamura, T.",OCO,12,36,3,9,0
-"Armstrong, F.",OCO,8,54,6.8,27,1
-"McZeal, K.",OCO,6,24,4,7,2
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kane-Maika'i, K.",HON,16,59,3.7,13,0,4,24
+"Ayers, N.",HON,13,54,4.2,9,1,4,24
+"Skywalker, L.",HON,4,12,3,6,0,4,24
+"Nakamura, T.",OCO,12,36,3,9,0,4,24
+"Armstrong, F.",OCO,8,54,6.8,27,1,4,24
+"McZeal, K.",OCO,6,24,4,7,2,4,24

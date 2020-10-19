@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,24,119,5,16,0
-"Pierno, N.",COL,19,98,5.2,49,0
-"Joyce, S.",COL,1,2,2,2,1
-"Savea, A.",NO,31,116,3.7,14,0
-"O'Sullivan, C.",NO,2,9,4.5,5,0
-"Maximus III, B.",NO,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,24,119,5,16,0,10,6
+"Pierno, N.",COL,19,98,5.2,49,0,10,6
+"Joyce, S.",COL,1,2,2,2,1,10,6
+"Savea, A.",NO,31,116,3.7,14,0,10,6
+"O'Sullivan, C.",NO,2,9,4.5,5,0,10,6
+"Maximus III, B.",NO,1,-1,-1,0,0,10,6

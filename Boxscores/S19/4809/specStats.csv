@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oles, K.",AZ,1,26,101,26,19,0,0,8
-"Thomas-Fox, D.",SJS,6,86,0,34,0,0,0,0
-"Staley, T.",SJS,5,45,0,18,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oles, K.",AZ,1,26,101,26,19,0,0,8,1,19
+"Thomas-Fox, D.",SJS,6,86,0,34,0,0,0,0,1,19
+"Staley, T.",SJS,5,45,0,18,0,0,0,0,1,19

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, E.",BAL,5,72,14.4,20,0
-"Lewandowski, J.",BAL,3,43,14.3,19,0
-"Quinn, A.",BAL,2,27,13.5,15,0
-"Kross, C.",BAL,1,28,28,28,0
-"Williams, D.",BAL,1,2,2,2,0
-"Jackson, A.",SJS,6,106,17.7,29,1
-"Thomas-Fox, D.",SJS,4,53,13.2,15,0
-"McDavid, L.",SJS,3,29,9.7,15,0
-"Z, D.",SJS,1,6,6,6,0
-"Bot, B.",SJS,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, E.",BAL,5,72,14.4,20,0,6,22
+"Lewandowski, J.",BAL,3,43,14.3,19,0,6,22
+"Quinn, A.",BAL,2,27,13.5,15,0,6,22
+"Kross, C.",BAL,1,28,28,28,0,6,22
+"Williams, D.",BAL,1,2,2,2,0,6,22
+"Jackson, A.",SJS,6,106,17.7,29,1,6,22
+"Thomas-Fox, D.",SJS,4,53,13.2,15,0,6,22
+"McDavid, L.",SJS,3,29,9.7,15,0,6,22
+"Z, D.",SJS,1,6,6,6,0,6,22
+"Bot, B.",SJS,1,3,3,3,0,6,22

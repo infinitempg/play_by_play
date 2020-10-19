@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yoda, B.",AZ,21,97,4.6,10,1
-"Cue, J.",AZ,7,63,9,22,0
-"Mendonca, M.",AUS,17,77,4.5,9,1
-"Jones, K.",AUS,9,31,3.4,6,0
-"Cole, E.",AUS,3,3,1,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yoda, B.",AZ,21,97,4.6,10,1,15,23
+"Cue, J.",AZ,7,63,9,22,0,15,23
+"Mendonca, M.",AUS,17,77,4.5,9,1,15,23
+"Jones, K.",AUS,9,31,3.4,6,0,15,23
+"Cole, E.",AUS,3,3,1,4,0,15,23

@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,17,46,2.7,6,1
-"Jenkins, L.",OCO,14,41,2.9,10,0
-"Burnsman, E.",OCO,7,32,4.6,13,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,17,46,2.7,6,1,12,4
+"Jenkins, L.",OCO,14,41,2.9,10,0,12,4
+"Burnsman, E.",OCO,7,32,4.6,13,0,12,4

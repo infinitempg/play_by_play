@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yoda, B.",CHI,15,63,4.2,16,1
-"Tirtawidjaja, J.",CHI,14,60,4.3,9,1
-"Bumper, T.",COL,9,15,1.7,6,1
-"Owens, A.",COL,9,41,4.6,8,0
-"Gilbert, R.",COL,4,11,2.8,6,0
-"McDummy, W.",COL,3,5,1.7,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yoda, B.",CHI,15,63,4.2,16,1,12,24
+"Tirtawidjaja, J.",CHI,14,60,4.3,9,1,12,24
+"Bumper, T.",COL,9,15,1.7,6,1,12,24
+"Owens, A.",COL,9,41,4.6,8,0,12,24
+"Gilbert, R.",COL,4,11,2.8,6,0,12,24
+"McDummy, W.",COL,3,5,1.7,3,0,12,24

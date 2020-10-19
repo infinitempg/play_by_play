@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Tweed, B.",COL,4,88,0,36,0,0,0,0
-"Bly Jr., A.",COL,3,110,19,42,18,0,0,2
-"Weston, S.",SJS,2,78,24,41,13,0,0,5
-"Jackson, M.",SJS,2,50,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Tweed, B.",COL,4,88,0,36,0,0,0,0,8,6
+"Bly Jr., A.",COL,3,110,19,42,18,0,0,2,8,6
+"Weston, S.",SJS,2,78,24,41,13,0,0,5,8,6
+"Jackson, M.",SJS,2,50,0,38,0,0,0,0,8,6

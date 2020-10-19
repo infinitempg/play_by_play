@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,26,76,2.9,9,2
-"Cole, E.",AUS,4,25,6.2,18,0
-"Blockit, I.",AUS,1,4,4,4,0
-"Reed, A.",BAL,17,70,4.1,16,1
-"Williams, D.",BAL,10,27,2.7,10,0
-"Havran, C.",BAL,5,12,2.4,15,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,26,76,2.9,9,2,12,20
+"Cole, E.",AUS,4,25,6.2,18,0,12,20
+"Blockit, I.",AUS,1,4,4,4,0,12,20
+"Reed, A.",BAL,17,70,4.1,16,1,12,20
+"Williams, D.",BAL,10,27,2.7,10,0,12,20
+"Havran, C.",BAL,5,12,2.4,15,0,12,20

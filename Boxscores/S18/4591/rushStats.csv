@@ -1,9 +1,9 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,15,62,4.1,14,1
-"Owens, A.",AUS,9,35,3.9,14,3
-"Cole, E.",AUS,2,0,0,0,0
-"Toriki, M.",SJS,20,87,4.4,12,1
-"Orosz, C.",SJS,7,53,7.6,16,0
-"Wright, D.",SJS,3,18,6,16,0
-"Boija, F.",SJS,1,6,6,6,0
-"Bot, B.",SJS,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,15,62,4.1,14,1,7,18
+"Owens, A.",AUS,9,35,3.9,14,3,7,18
+"Cole, E.",AUS,2,0,0,0,0,7,18
+"Toriki, M.",SJS,20,87,4.4,12,1,7,18
+"Orosz, C.",SJS,7,53,7.6,16,0,7,18
+"Wright, D.",SJS,3,18,6,16,0,7,18
+"Boija, F.",SJS,1,6,6,6,0,7,18
+"Bot, B.",SJS,1,0,0,0,0,7,18

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",BAL,18,98,5.4,15,0
-"Williams, D.",BAL,16,46,2.9,7,1
-"Havran, C.",BAL,1,1,1,1,0
-"Kross, C.",BAL,1,1,1,1,0
-"Bigby, L.",OCO,19,87,4.6,11,0
-"Sarvepally, S.",OCO,13,40,3.1,9,1
-"Armstrong, F.",OCO,6,2,0.3,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",BAL,18,98,5.4,15,0,13,21
+"Williams, D.",BAL,16,46,2.9,7,1,13,21
+"Havran, C.",BAL,1,1,1,1,0,13,21
+"Kross, C.",BAL,1,1,1,1,0,13,21
+"Bigby, L.",OCO,19,87,4.6,11,0,13,21
+"Sarvepally, S.",OCO,13,40,3.1,9,1,13,21
+"Armstrong, F.",OCO,6,2,0.3,4,0,13,21

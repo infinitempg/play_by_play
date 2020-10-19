@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Canton, J.",YKW,7,55,7.9,16,0
-"Marshall, M.",YKW,5,11,2.2,5,0
-"Swift, N.",YKW,4,75,18.8,28,1
-"Flash, X.",YKW,4,37,9.2,16,0
-"Helanen, T.",YKW,2,22,11,12,0
-"Varga, N.",PHI,6,86,14.3,24,0
-"Hardwick, S.",PHI,4,49,12.2,25,0
-"Hank, F.",PHI,4,40,10,17,0
-"Torenson, S.",PHI,4,23,5.8,11,0
-"Zephyrous, S.",PHI,2,10,5,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Canton, J.",YKW,7,55,7.9,16,0,11,18
+"Marshall, M.",YKW,5,11,2.2,5,0,11,18
+"Swift, N.",YKW,4,75,18.8,28,1,11,18
+"Flash, X.",YKW,4,37,9.2,16,0,11,18
+"Helanen, T.",YKW,2,22,11,12,0,11,18
+"Varga, N.",PHI,6,86,14.3,24,0,11,18
+"Hardwick, S.",PHI,4,49,12.2,25,0,11,18
+"Hank, F.",PHI,4,40,10,17,0,11,18
+"Torenson, S.",PHI,4,23,5.8,11,0,11,18
+"Zephyrous, S.",PHI,2,10,5,7,0,11,18

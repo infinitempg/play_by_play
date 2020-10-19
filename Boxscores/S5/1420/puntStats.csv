@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Leg, P.",COL,5,227,45.4,55,0
-"Kicksit, B.",LV,11,517,47,64,2
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Leg, P.",COL,5,227,45.4,55,0,12,5
+"Kicksit, B.",LV,11,517,47,64,2,12,5

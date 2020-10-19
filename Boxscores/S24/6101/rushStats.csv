@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,21,74,3.5,9,0
-"Toriki, M.",NO,18,68,3.8,10,0
-"Slothlisberger, B.",NO,2,22,11,22,0
-"Wolfcastle, R.",NO,2,4,2,4,0
-"Mendonca, M.",AUS,11,41,3.7,10,0
-"Jones, K.",AUS,9,35,3.9,11,0
-"Cole, E.",AUS,2,11,5.5,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,21,74,3.5,9,0,15,24
+"Toriki, M.",NO,18,68,3.8,10,0,15,24
+"Slothlisberger, B.",NO,2,22,11,22,0,15,24
+"Wolfcastle, R.",NO,2,4,2,4,0,15,24
+"Mendonca, M.",AUS,11,41,3.7,10,0,15,24
+"Jones, K.",AUS,9,35,3.9,11,0,15,24
+"Cole, E.",AUS,2,11,5.5,7,0,15,24

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Leary, S.",CHI,5,61,12.2,23,0
-"Hayes, V.",CHI,5,23,4.6,9,0
-"Tirtawidjaja, J.",CHI,4,24,6,7,0
-"Okusi, R.",CHI,3,55,18.3,35,0
-"Gelbman, T.",CHI,3,37,12.3,18,0
-"Oberwald, G.",CHI,2,15,7.5,11,0
-"Gordon, R.",SAR,5,84,16.8,35,1
-"Angler, J.",SAR,4,77,19.2,38,0
-"Witheblock, M.",SAR,4,37,9.2,19,0
-"Frost, D.",SAR,4,19,4.8,9,1
-"Boyd, C.",SAR,1,8,8,8,0
-"Back, R.",SAR,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Leary, S.",CHI,5,61,12.2,23,0,1,23
+"Hayes, V.",CHI,5,23,4.6,9,0,1,23
+"Tirtawidjaja, J.",CHI,4,24,6,7,0,1,23
+"Okusi, R.",CHI,3,55,18.3,35,0,1,23
+"Gelbman, T.",CHI,3,37,12.3,18,0,1,23
+"Oberwald, G.",CHI,2,15,7.5,11,0,1,23
+"Gordon, R.",SAR,5,84,16.8,35,1,1,23
+"Angler, J.",SAR,4,77,19.2,38,0,1,23
+"Witheblock, M.",SAR,4,37,9.2,19,0,1,23
+"Frost, D.",SAR,4,19,4.8,9,1,1,23
+"Boyd, C.",SAR,1,8,8,8,0,1,23
+"Back, R.",SAR,1,6,6,6,0,1,23

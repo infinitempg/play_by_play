@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Beerus, L.",OCO,2,52,50,28,22,0,0,4
-"Trunks, F.",OCO,2,24,0,18,0,0,0,0
-"Hanyadi, M.",YKW,1,36,19,36,19,0,0,1
-"Leonard, M.",YKW,5,153,0,45,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Beerus, L.",OCO,2,52,50,28,22,0,0,4,11,24
+"Trunks, F.",OCO,2,24,0,18,0,0,0,0,11,24
+"Hanyadi, M.",YKW,1,36,19,36,19,0,0,1,11,24
+"Leonard, M.",YKW,5,153,0,45,0,0,0,0,11,24

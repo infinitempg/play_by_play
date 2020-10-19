@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Toriki, M.",NO,19,98,5.2,11,0
-"Gump, F.",NO,10,46,4.6,7,1
-"Wolfcastle, R.",NO,5,35,7,12,0
-"Slothlisberger, B.",NO,2,14,7,12,0
-"Tirtawidjaja, J.",CHI,20,79,4,9,1
-"Yoda, B.",CHI,8,28,3.5,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Toriki, M.",NO,19,98,5.2,11,0,6,24
+"Gump, F.",NO,10,46,4.6,7,1,6,24
+"Wolfcastle, R.",NO,5,35,7,12,0,6,24
+"Slothlisberger, B.",NO,2,14,7,12,0,6,24
+"Tirtawidjaja, J.",CHI,20,79,4,9,1,6,24
+"Yoda, B.",CHI,8,28,3.5,8,0,6,24

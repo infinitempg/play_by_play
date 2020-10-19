@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Aaron, D.",COL,8,109,13.6,26,1
-"Miller, H.",COL,6,127,21.2,47,1
-"Wheat, B.",COL,4,54,13.5,16,1
-"O'Sullivan, S.",COL,4,30,7.5,10,1
-"Grau, M.",COL,3,12,4,6,1
-"Joyce, S.",COL,2,10,5,8,0
-"Kroetch, D.",COL,1,10,10,10,0
-"Bush, C.",PHI,9,95,10.6,23,0
-"North, F.",PHI,7,114,16.3,38,0
-"Stormblessed, N.",PHI,6,99,16.5,42,0
-"Garden, J.",PHI,5,37,7.4,9,1
-"Farlane, D.",PHI,4,23,5.8,6,0
-"Storm, B.",PHI,3,14,4.7,7,0
-"O'Connell, K.",PHI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Aaron, D.",COL,8,109,13.6,26,1,12,8
+"Miller, H.",COL,6,127,21.2,47,1,12,8
+"Wheat, B.",COL,4,54,13.5,16,1,12,8
+"O'Sullivan, S.",COL,4,30,7.5,10,1,12,8
+"Grau, M.",COL,3,12,4,6,1,12,8
+"Joyce, S.",COL,2,10,5,8,0,12,8
+"Kroetch, D.",COL,1,10,10,10,0,12,8
+"Bush, C.",PHI,9,95,10.6,23,0,12,8
+"North, F.",PHI,7,114,16.3,38,0,12,8
+"Stormblessed, N.",PHI,6,99,16.5,42,0,12,8
+"Garden, J.",PHI,5,37,7.4,9,1,12,8
+"Farlane, D.",PHI,4,23,5.8,6,0,12,8
+"Storm, B.",PHI,3,14,4.7,7,0,12,8
+"O'Connell, K.",PHI,1,4,4,4,0,12,8

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oles, T.",PHI,2,43,0,31,0,0,0,0
-"Kroetch, D.",PHI,5,105,0,33,0,0,0,0
-"Oakes, B.",LV,5,123,0,53,0,0,0,0
-"Evans, D.",LV,3,112,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oles, T.",PHI,2,43,0,31,0,0,0,0,8,5
+"Kroetch, D.",PHI,5,105,0,33,0,0,0,0,8,5
+"Oakes, B.",LV,5,123,0,53,0,0,0,0,8,5
+"Evans, D.",LV,3,112,0,41,0,0,0,0,8,5

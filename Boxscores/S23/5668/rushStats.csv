@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gilbert, R.",COL,14,68,4.9,12,1
-"Owens, A.",COL,12,45,3.8,7,0
-"McDummy, W.",COL,10,47,4.7,12,0
-"Williams, D.",BAL,7,35,5,8,0
-"Reed, A.",BAL,6,23,3.8,10,0
-"Fujiwara, C.",BAL,5,30,6,20,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gilbert, R.",COL,14,68,4.9,12,1,13,23
+"Owens, A.",COL,12,45,3.8,7,0,13,23
+"McDummy, W.",COL,10,47,4.7,12,0,13,23
+"Williams, D.",BAL,7,35,5,8,0,13,23
+"Reed, A.",BAL,6,23,3.8,10,0,13,23
+"Fujiwara, C.",BAL,5,30,6,20,0,13,23

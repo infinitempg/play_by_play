@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Ory, K.",NO,1,5,4,1
-"Armstrong, L.",NO,1,5,1,0
-"Bolden, B.",NO,0,0,2,0
-"Savea, A.",NO,0,0,2,0
-"Roll, J.",NO,0,0,1,1
-"O'Sullivan, C.",NO,0,0,1,0
-"Ruffins, K.",NO,0,0,1,0
-"Bush, C.",PHI,1,5,0,0
-"Oles, T.",PHI,1,15,0,0
-"Tyler, J.",PHI,0,0,5,1
-"Van Buren, M.",PHI,0,0,5,1
-"Hayes, R.",PHI,0,0,4,0
-"Arthur, C.",PHI,0,0,3,1
-"Filmore, M.",PHI,0,0,3,0
-"Kroetch, D.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Ory, K.",NO,1,5,4,1,6,8
+"Armstrong, L.",NO,1,5,1,0,6,8
+"Bolden, B.",NO,0,0,2,0,6,8
+"Savea, A.",NO,0,0,2,0,6,8
+"Roll, J.",NO,0,0,1,1,6,8
+"O'Sullivan, C.",NO,0,0,1,0,6,8
+"Ruffins, K.",NO,0,0,1,0,6,8
+"Bush, C.",PHI,1,5,0,0,6,8
+"Oles, T.",PHI,1,15,0,0,6,8
+"Tyler, J.",PHI,0,0,5,1,6,8
+"Van Buren, M.",PHI,0,0,5,1,6,8
+"Hayes, R.",PHI,0,0,4,0,6,8
+"Arthur, C.",PHI,0,0,3,1,6,8
+"Filmore, M.",PHI,0,0,3,0,6,8
+"Kroetch, D.",PHI,0,0,1,0,6,8

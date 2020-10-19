@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"McCormick, M.",COL,"[23, 38]",332,14.4,1,1,86.7
-"Maximus III, B.",NO,"[20, 36]",234,11.7,2,1,82.4
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"McCormick, M.",COL,332,14.4,1,1,86.7,23,20,5,14
+"Maximus III, B.",NO,234,11.7,2,1,82.4,23,20,5,14

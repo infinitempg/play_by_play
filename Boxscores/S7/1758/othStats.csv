@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Bush, C.",PHI,1,8,0,0
-"Arthur, C.",PHI,0,0,6,0
-"Hayes, R.",PHI,0,0,5,0
-"Tyler, J.",PHI,0,0,5,0
-"Filmore, M.",PHI,0,0,4,1
-"Van Buren, M.",PHI,0,0,3,0
-"DiMirio, P.",PHI,0,0,2,0
-"Bottles, B.",SJS,2,10,3,1
-"Diaz, D.",SJS,2,10,1,1
-"Joshua, C.",SJS,1,15,0,0
-"Lewith, T.",SJS,1,5,0,0
-"West, D.",SJS,1,15,0,0
-"McKoutchie, M.",SJS,0,0,6,0
-"Probincrux III, D.",SJS,0,0,5,1
-"Rucker, F.",SJS,0,0,4,1
-"Willey, M.",SJS,0,0,2,2
-"Tacktheritrix, J.",SJS,0,0,2,0
-"Smallwood, D.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Bush, C.",PHI,1,8,0,0,8,7
+"Arthur, C.",PHI,0,0,6,0,8,7
+"Hayes, R.",PHI,0,0,5,0,8,7
+"Tyler, J.",PHI,0,0,5,0,8,7
+"Filmore, M.",PHI,0,0,4,1,8,7
+"Van Buren, M.",PHI,0,0,3,0,8,7
+"DiMirio, P.",PHI,0,0,2,0,8,7
+"Bottles, B.",SJS,2,10,3,1,8,7
+"Diaz, D.",SJS,2,10,1,1,8,7
+"Joshua, C.",SJS,1,15,0,0,8,7
+"Lewith, T.",SJS,1,5,0,0,8,7
+"West, D.",SJS,1,15,0,0,8,7
+"McKoutchie, M.",SJS,0,0,6,0,8,7
+"Probincrux III, D.",SJS,0,0,5,1,8,7
+"Rucker, F.",SJS,0,0,4,1,8,7
+"Willey, M.",SJS,0,0,2,2,8,7
+"Tacktheritrix, J.",SJS,0,0,2,0,8,7
+"Smallwood, D.",SJS,0,0,1,0,8,7

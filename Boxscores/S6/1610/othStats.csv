@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Rchon, A.",YKW,1,10,2,0
-"Harris Jr., F.",YKW,1,5,1,0
-"Jarden, G.",YKW,1,5,0,0
-"Mushing, M.",YKW,0,0,7,0
-"Ones, B.",YKW,0,0,3,0
-"Kennedy, E.",YKW,0,0,2,0
-"Pooky, S.",YKW,0,0,2,0
-"Amper, T.",YKW,0,0,1,0
-"McPoyal, G.",YKW,0,0,1,0
-"Asipi Jr., A.",AZ,1,10,0,0
-"Wright, O.",AZ,1,5,0,0
-"Zhang, S.",AZ,1,15,0,0
-"Law, C.",AZ,0,0,6,0
-"Took, B.",AZ,0,0,5,0
-"Dunedain, H.",AZ,0,0,4,1
-"Bombadil, T.",AZ,0,0,3,0
-"Beard, T.",AZ,0,0,2,0
-"Halfelven, E.",AZ,0,0,1,2
-"Mackworthy, R.",AZ,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Rchon, A.",YKW,1,10,2,0,9,6
+"Harris Jr., F.",YKW,1,5,1,0,9,6
+"Jarden, G.",YKW,1,5,0,0,9,6
+"Mushing, M.",YKW,0,0,7,0,9,6
+"Ones, B.",YKW,0,0,3,0,9,6
+"Kennedy, E.",YKW,0,0,2,0,9,6
+"Pooky, S.",YKW,0,0,2,0,9,6
+"Amper, T.",YKW,0,0,1,0,9,6
+"McPoyal, G.",YKW,0,0,1,0,9,6
+"Asipi Jr., A.",AZ,1,10,0,0,9,6
+"Wright, O.",AZ,1,5,0,0,9,6
+"Zhang, S.",AZ,1,15,0,0,9,6
+"Law, C.",AZ,0,0,6,0,9,6
+"Took, B.",AZ,0,0,5,0,9,6
+"Dunedain, H.",AZ,0,0,4,1,9,6
+"Bombadil, T.",AZ,0,0,3,0,9,6
+"Beard, T.",AZ,0,0,2,0,9,6
+"Halfelven, E.",AZ,0,0,1,2,9,6
+"Mackworthy, R.",AZ,0,0,0,1,9,6

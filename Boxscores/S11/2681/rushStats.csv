@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,28,138,4.9,12,0
-"Fitzpatrick, K.",AZ,1,0,0,0,0
-"Taylor, O.",BAL,31,153,4.9,16,0
-"Applehort, R.",BAL,1,20,20,20,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,28,138,4.9,12,0,3,11
+"Fitzpatrick, K.",AZ,1,0,0,0,0,3,11
+"Taylor, O.",BAL,31,153,4.9,16,0,3,11
+"Applehort, R.",BAL,1,20,20,20,0,3,11

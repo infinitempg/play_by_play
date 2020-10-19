@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wizardry, D.",YKW,26,109,4.2,12,1
-"Carrasco, T.",YKW,3,12,4,6,0
-"Applehort, R.",YKW,1,2,2,2,0
-"Pitcher, A.",YKW,1,0,0,0,0
-"Summer, A.",BAL,21,95,4.5,15,0
-"Taylor, O.",BAL,9,28,3.1,7,2
-"Gambino, C.",BAL,2,7,3.5,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wizardry, D.",YKW,26,109,4.2,12,1,11,12
+"Carrasco, T.",YKW,3,12,4,6,0,11,12
+"Applehort, R.",YKW,1,2,2,2,0,11,12
+"Pitcher, A.",YKW,1,0,0,0,0,11,12
+"Summer, A.",BAL,21,95,4.5,15,0,11,12
+"Taylor, O.",BAL,9,28,3.1,7,2,11,12
+"Gambino, C.",BAL,2,7,3.5,6,0,11,12

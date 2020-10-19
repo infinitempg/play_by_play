@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Brand, F.",BAL,5,229,45.8,61,0
-"Donaldson, N.",SJS,8,400,50,59,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Brand, F.",BAL,5,229,45.8,61,0,10,16
+"Donaldson, N.",SJS,8,400,50,59,1,10,16

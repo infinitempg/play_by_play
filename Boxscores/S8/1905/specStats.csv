@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Savea, A.",NO,1,2,0,2,0,0,0,0
-"Evans, D.",NO,3,56,21,26,21,0,0,1
-"Smallwood, D.",NO,2,44,0,41,0,0,0,0
-"Bly Jr., A.",COL,3,77,0,38,0,0,0,0
-"Miller, H.",COL,4,80,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Savea, A.",NO,1,2,0,2,0,0,0,0,7,8
+"Evans, D.",NO,3,56,21,26,21,0,0,1,7,8
+"Smallwood, D.",NO,2,44,0,41,0,0,0,0,7,8
+"Bly Jr., A.",COL,3,77,0,38,0,0,0,0,7,8
+"Miller, H.",COL,4,80,0,41,0,0,0,0,7,8

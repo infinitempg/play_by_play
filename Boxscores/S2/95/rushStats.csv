@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Burnsman, E.",YKW,11,34,3.1,7,1
-"Nuck, B.",YKW,9,34,3.8,9,0
-"Kennedy, E.",YKW,1,1,1,1,0
-"Orosz, C.",YKW,1,0,0,0,0
-"Jenkins, L.",OCO,7,28,4,8,1
-"Bowers Jr, V.",OCO,5,21,4.2,11,1
-"Boss, M.",OCO,2,4,2,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Burnsman, E.",YKW,11,34,3.1,7,1,14,2
+"Nuck, B.",YKW,9,34,3.8,9,0,14,2
+"Kennedy, E.",YKW,1,1,1,1,0,14,2
+"Orosz, C.",YKW,1,0,0,0,0,14,2
+"Jenkins, L.",OCO,7,28,4,8,1,14,2
+"Bowers Jr, V.",OCO,5,21,4.2,11,1,14,2
+"Boss, M.",OCO,2,4,2,4,0,14,2

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Akselsen, M.",YKW,"[21, 44]",235,11.2,2,2,60.3
-"Oles, T.",PHI,"[26, 44]",338,13,2,2,79.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Akselsen, M.",YKW,235,11.2,2,2,60.3,21,26,1,6
+"Oles, T.",PHI,338,13,2,2,79.5,21,26,1,6

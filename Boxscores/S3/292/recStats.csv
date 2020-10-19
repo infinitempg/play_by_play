@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"North, F.",PHI,6,127,21.2,43,0
-"Kroetch, D.",PHI,6,91,15.2,25,3
-"DiMirio, P.",PHI,3,17,5.7,8,0
-"Browning, B.",PHI,2,13,6.5,10,0
-"Wright, O.",PHI,2,6,3,6,0
-"Rocket, J.",PHI,1,16,16,16,0
-"O'Connell, K.",PHI,1,14,14,14,0
-"Garden, J.",YKW,8,92,11.5,33,1
-"Cook, B.",YKW,6,122,20.3,37,0
-"Askins, J.",YKW,4,26,6.5,10,0
-"West, D.",YKW,3,32,10.7,14,0
-"Nuck, B.",YKW,3,15,5,6,0
-"Piper, W.",YKW,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"North, F.",PHI,6,127,21.2,43,0,5,3
+"Kroetch, D.",PHI,6,91,15.2,25,3,5,3
+"DiMirio, P.",PHI,3,17,5.7,8,0,5,3
+"Browning, B.",PHI,2,13,6.5,10,0,5,3
+"Wright, O.",PHI,2,6,3,6,0,5,3
+"Rocket, J.",PHI,1,16,16,16,0,5,3
+"O'Connell, K.",PHI,1,14,14,14,0,5,3
+"Garden, J.",YKW,8,92,11.5,33,1,5,3
+"Cook, B.",YKW,6,122,20.3,37,0,5,3
+"Askins, J.",YKW,4,26,6.5,10,0,5,3
+"West, D.",YKW,3,32,10.7,14,0,5,3
+"Nuck, B.",YKW,3,15,5,6,0,5,3
+"Piper, W.",YKW,1,5,5,5,0,5,3

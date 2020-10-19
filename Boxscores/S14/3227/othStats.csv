@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Justice, T.",SJS,2,12,0,0
-"McKoutchie, M.",SJS,1,5,1,1
-"Tuck, J.",SJS,1,5,0,0
-"Brannigan, Z.",SJS,0,0,8,0
-"Rucker, F.",SJS,0,0,6,0
-"Jahelpme, H.",SJS,0,0,5,0
-"Bot, B.",SJS,0,0,2,0
-"Orosz, C.",SJS,0,0,1,0
-"Probincrux III, D.",SJS,0,0,1,0
-"Tacktheritrix, J.",SJS,0,0,0,1
-"Van Buren, M.",PHI,1,7,3,0
-"Fillmore, M.",PHI,1,5,2,0
-"Beard, M.",PHI,1,5,0,0
-"Boija, F.",PHI,1,10,0,0
-"Becker, K.",PHI,1,4,0,0
-"Tyler, J.",PHI,0,0,5,0
-"McCargue, B.",PHI,0,0,3,0
-"Arthur, C.",PHI,0,0,2,1
-"Hayes, R.",PHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Justice, T.",SJS,2,12,0,0,6,14
+"McKoutchie, M.",SJS,1,5,1,1,6,14
+"Tuck, J.",SJS,1,5,0,0,6,14
+"Brannigan, Z.",SJS,0,0,8,0,6,14
+"Rucker, F.",SJS,0,0,6,0,6,14
+"Jahelpme, H.",SJS,0,0,5,0,6,14
+"Bot, B.",SJS,0,0,2,0,6,14
+"Orosz, C.",SJS,0,0,1,0,6,14
+"Probincrux III, D.",SJS,0,0,1,0,6,14
+"Tacktheritrix, J.",SJS,0,0,0,1,6,14
+"Van Buren, M.",PHI,1,7,3,0,6,14
+"Fillmore, M.",PHI,1,5,2,0,6,14
+"Beard, M.",PHI,1,5,0,0,6,14
+"Boija, F.",PHI,1,10,0,0,6,14
+"Becker, K.",PHI,1,4,0,0,6,14
+"Tyler, J.",PHI,0,0,5,0,6,14
+"McCargue, B.",PHI,0,0,3,0,6,14
+"Arthur, C.",PHI,0,0,2,1,6,14
+"Hayes, R.",PHI,0,0,2,0,6,14

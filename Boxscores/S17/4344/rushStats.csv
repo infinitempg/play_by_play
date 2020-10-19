@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,15,45,3,10,0
-"Zephyrous, S.",AZ,2,14,7,9,0
-"Murphy, J.",AZ,1,0,0,0,0
-"Taffy, T.",COL,25,100,4,8,3
-"Carrasco, T.",COL,5,16,3.2,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,15,45,3,10,0,12,17
+"Zephyrous, S.",AZ,2,14,7,9,0,12,17
+"Murphy, J.",AZ,1,0,0,0,0,12,17
+"Taffy, T.",COL,25,100,4,8,3,12,17
+"Carrasco, T.",COL,5,16,3.2,5,0,12,17

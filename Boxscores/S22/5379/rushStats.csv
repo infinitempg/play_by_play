@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Frost, D.",SAR,26,100,3.8,12,0
-"McTaco, P.",SAR,8,31,3.9,8,1
-"Vega, Z.",SAR,1,5,5,5,0
-"Torenson, S.",PHI,17,69,4.1,12,0
-"Dotson, F.",PHI,9,48,5.3,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Frost, D.",SAR,26,100,3.8,12,0,4,22
+"McTaco, P.",SAR,8,31,3.9,8,1,4,22
+"Vega, Z.",SAR,1,5,5,5,0,4,22
+"Torenson, S.",PHI,17,69,4.1,12,0,4,22
+"Dotson, F.",PHI,9,48,5.3,10,0,4,22

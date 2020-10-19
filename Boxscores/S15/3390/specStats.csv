@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bishop, J.",COL,3,57,-4,33,0,0,0,1
-"Montgomery, B.",COL,3,65,0,38,0,0,0,0
-"Valentine, V.",BAL,5,78,12,33,7,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bishop, J.",COL,3,57,-4,33,0,0,0,1,9,15
+"Montgomery, B.",COL,3,65,0,38,0,0,0,0,9,15
+"Valentine, V.",BAL,5,78,12,33,7,0,0,2,9,15

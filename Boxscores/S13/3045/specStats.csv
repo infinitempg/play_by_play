@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Miller, H.",COL,3,105,0,42,0,0,0,0
-"Bishop, J.",COL,7,249,0,101,0,1,0,0
-"Oakes, B.",COL,0,0,70,0,70,0,1,1
-"Flash, X.",SJS,3,46,0,36,0,0,0,0
-"Oles, K.",SJS,2,78,19,39,19,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Miller, H.",COL,3,105,0,42,0,0,0,0,9,13
+"Bishop, J.",COL,7,249,0,101,0,1,0,0,9,13
+"Oakes, B.",COL,0,0,70,0,70,0,1,1,9,13
+"Flash, X.",SJS,3,46,0,36,0,0,0,0,9,13
+"Oles, K.",SJS,2,78,19,39,19,0,0,1,9,13

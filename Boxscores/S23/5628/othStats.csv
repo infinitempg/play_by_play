@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Suzuki, S.",PHI,1,5,0,0
-"Tremblay, S.",PHI,0,0,5,0
-"Arthur, C.",PHI,0,0,4,0
-"Arrabiata, D.",PHI,0,0,2,0
-"Fillmore, M.",PHI,0,0,2,0
-"Hayes, R.",PHI,0,0,2,0
-"Torenson, S.",PHI,0,0,2,0
-"Van Buren, M.",PHI,0,0,2,0
-"Blocksdale Jr., A.",PHI,0,0,1,0
-"Dotson, F.",PHI,0,0,1,0
-"Jimbo Jr., D.",NO,0,0,7,0
-"Rubbe, G.",NO,0,0,7,0
-"Room, W.",NO,0,0,3,1
-"Brew, S.",NO,0,0,2,0
-"Ofyourlove, S.",NO,0,0,2,0
-"Gump, F.",NO,0,0,1,0
-"McCormick, A.",NO,0,0,1,0
-"Wolfcastle, R.",NO,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Suzuki, S.",PHI,1,5,0,0,6,23
+"Tremblay, S.",PHI,0,0,5,0,6,23
+"Arthur, C.",PHI,0,0,4,0,6,23
+"Arrabiata, D.",PHI,0,0,2,0,6,23
+"Fillmore, M.",PHI,0,0,2,0,6,23
+"Hayes, R.",PHI,0,0,2,0,6,23
+"Torenson, S.",PHI,0,0,2,0,6,23
+"Van Buren, M.",PHI,0,0,2,0,6,23
+"Blocksdale Jr., A.",PHI,0,0,1,0,6,23
+"Dotson, F.",PHI,0,0,1,0,6,23
+"Jimbo Jr., D.",NO,0,0,7,0,6,23
+"Rubbe, G.",NO,0,0,7,0,6,23
+"Room, W.",NO,0,0,3,1,6,23
+"Brew, S.",NO,0,0,2,0,6,23
+"Ofyourlove, S.",NO,0,0,2,0,6,23
+"Gump, F.",NO,0,0,1,0,6,23
+"McCormick, A.",NO,0,0,1,0,6,23
+"Wolfcastle, R.",NO,0,0,0,1,6,23

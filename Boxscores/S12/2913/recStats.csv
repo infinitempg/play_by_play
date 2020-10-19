@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Pennington, B.",YKW,5,77,15.4,30,2
-"Parker, J.",YKW,4,57,14.2,22,0
-"McPoyal, G.",YKW,3,20,6.7,11,0
-"Pitcher, A.",YKW,3,18,6,10,0
-"Wizardry, D.",YKW,2,16,8,13,0
-"Browning, B.",YKW,1,8,8,8,0
-"Carrasco, T.",YKW,1,6,6,6,0
-"Halvorsen, T.",NO,6,88,14.7,30,1
-"Storm, B.",NO,6,69,11.5,17,2
-"DiMirio, P.",NO,6,41,6.8,12,1
-"Fyodorovich, V.",NO,5,113,22.6,31,0
-"Gore, B.",NO,4,22,5.5,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Pennington, B.",YKW,5,77,15.4,30,2,9,12
+"Parker, J.",YKW,4,57,14.2,22,0,9,12
+"McPoyal, G.",YKW,3,20,6.7,11,0,9,12
+"Pitcher, A.",YKW,3,18,6,10,0,9,12
+"Wizardry, D.",YKW,2,16,8,13,0,9,12
+"Browning, B.",YKW,1,8,8,8,0,9,12
+"Carrasco, T.",YKW,1,6,6,6,0,9,12
+"Halvorsen, T.",NO,6,88,14.7,30,1,9,12
+"Storm, B.",NO,6,69,11.5,17,2,9,12
+"DiMirio, P.",NO,6,41,6.8,12,1,9,12
+"Fyodorovich, V.",NO,5,113,22.6,31,0,9,12
+"Gore, B.",NO,4,22,5.5,8,0,9,12

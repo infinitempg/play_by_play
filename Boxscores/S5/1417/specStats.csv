@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,1,9,18,9,13,0,0,2
-"Brill, J.",SJS,1,-2,0,0,0,0,0,0
-"Jackson, M.",SJS,2,68,0,38,0,0,0,0
-"Delacour, A.",BAL,0,0,40,0,20,0,0,4
-"Willie, T.",BAL,2,47,0,37,0,0,0,0
-"LeClair, A.",BAL,5,120,0,35,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,1,9,18,9,13,0,0,2,11,5
+"Brill, J.",SJS,1,-2,0,0,0,0,0,0,11,5
+"Jackson, M.",SJS,2,68,0,38,0,0,0,0,11,5
+"Delacour, A.",BAL,0,0,40,0,20,0,0,4,11,5
+"Willie, T.",BAL,2,47,0,37,0,0,0,0,11,5
+"LeClair, A.",BAL,5,120,0,35,0,0,0,0,11,5

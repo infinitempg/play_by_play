@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Oles, T.",PHI,"[29, 47]",301,10.4,3,1,92.6
-"Boss, M.",OCO,"[22, 41]",386,17.5,2,2,82
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Oles, T.",PHI,301,10.4,3,1,92.6,29,22,11,8
+"Boss, M.",OCO,386,17.5,2,2,82,29,22,11,8

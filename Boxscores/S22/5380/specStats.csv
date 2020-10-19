@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Abernathy, K.",OCO,3,61,0,34,0,0,0,0
-"Dream, K.",OCO,2,65,0,37,0,0,0,0
-"Thomas-Fox, D.",SJS,2,50,0,41,0,0,0,0
-"Jackson, A.",SJS,0,0,17,0,17,0,0,1
-"PickSix, H.",SJS,2,28,0,20,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Abernathy, K.",OCO,3,61,0,34,0,0,0,0,4,22
+"Dream, K.",OCO,2,65,0,37,0,0,0,0,4,22
+"Thomas-Fox, D.",SJS,2,50,0,41,0,0,0,0,4,22
+"Jackson, A.",SJS,0,0,17,0,17,0,0,1,4,22
+"PickSix, H.",SJS,2,28,0,20,0,0,0,0,4,22

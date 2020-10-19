@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cansino, D.",COL,18,88,4.9,11,1
-"Taffy, T.",COL,14,61,4.4,9,1
-"Grau, M.",COL,1,5,5,5,0
-"McCormick, M.",COL,1,6,6,6,0
-"Christ, J.",SJS,15,94,6.3,27,2
-"Orosz, C.",SJS,15,74,4.9,15,0
-"Davenport, C.",SJS,10,65,6.5,14,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cansino, D.",COL,18,88,4.9,11,1,10,15
+"Taffy, T.",COL,14,61,4.4,9,1,10,15
+"Grau, M.",COL,1,5,5,5,0,10,15
+"McCormick, M.",COL,1,6,6,6,0,10,15
+"Christ, J.",SJS,15,94,6.3,27,2,10,15
+"Orosz, C.",SJS,15,74,4.9,15,0,10,15
+"Davenport, C.",SJS,10,65,6.5,14,1,10,15

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Willie, T.",AZ,6,68,11.3,20,0
-"Hardwick, S.",AZ,6,57,9.5,18,2
-"Moore, S.",AZ,5,29,5.8,8,0
-"Shady, S.",AZ,1,21,21,21,0
-"Squanch, V.",COL,7,120,17.1,41,0
-"Bishop, J.",COL,5,120,24,58,2
-"Miller, H.",COL,5,91,18.2,37,1
-"Crindy, B.",COL,3,26,8.7,11,1
-"LaMelllana, S.",COL,3,18,6,6,0
-"Chipmunk, A.",COL,2,22,11,11,0
-"Grau, M.",COL,1,8,8,8,0
-"Cansino, D.",COL,1,2,2,2,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Willie, T.",AZ,6,68,11.3,20,0,3,14
+"Hardwick, S.",AZ,6,57,9.5,18,2,3,14
+"Moore, S.",AZ,5,29,5.8,8,0,3,14
+"Shady, S.",AZ,1,21,21,21,0,3,14
+"Squanch, V.",COL,7,120,17.1,41,0,3,14
+"Bishop, J.",COL,5,120,24,58,2,3,14
+"Miller, H.",COL,5,91,18.2,37,1,3,14
+"Crindy, B.",COL,3,26,8.7,11,1,3,14
+"LaMelllana, S.",COL,3,18,6,6,0,3,14
+"Chipmunk, A.",COL,2,22,11,11,0,3,14
+"Grau, M.",COL,1,8,8,8,0,3,14
+"Cansino, D.",COL,1,2,2,2,1,3,14

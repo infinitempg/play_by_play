@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Cue, J.",AZ,"[16, 32]",177,11.1,0,1,53.8
-"Armstrong, F.",OCO,"[13, 28]",178,13.7,1,0,79.2
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Cue, J.",AZ,177,11.1,0,1,53.8,16,13,13,22
+"Armstrong, F.",OCO,178,13.7,1,0,79.2,16,13,13,22

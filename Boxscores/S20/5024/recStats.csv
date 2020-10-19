@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blaze, J.",OCO,7,117,16.7,35,0
-"Banks II, D.",OCO,5,71,14.2,20,1
-"Mongo, H.",OCO,3,25,8.3,11,0
-"Oles, K.",OCO,3,25,8.3,11,0
-"Reed, A.",OCO,2,12,6,7,0
-"Shady, S.",OCO,1,2,2,2,0
-"Larson, P.",AUS,6,72,12,22,1
-"Tidwell, R.",AUS,4,64,16,32,1
-"Gaines, N.",AUS,4,29,7.2,8,0
-"Clay, J.",AUS,3,31,10.3,18,2
-"Mendonca, M.",AUS,2,15,7.5,10,1
-"Blockit, I.",AUS,2,6,3,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blaze, J.",OCO,7,117,16.7,35,0,11,20
+"Banks II, D.",OCO,5,71,14.2,20,1,11,20
+"Mongo, H.",OCO,3,25,8.3,11,0,11,20
+"Oles, K.",OCO,3,25,8.3,11,0,11,20
+"Reed, A.",OCO,2,12,6,7,0,11,20
+"Shady, S.",OCO,1,2,2,2,0,11,20
+"Larson, P.",AUS,6,72,12,22,1,11,20
+"Tidwell, R.",AUS,4,64,16,32,1,11,20
+"Gaines, N.",AUS,4,29,7.2,8,0,11,20
+"Clay, J.",AUS,3,31,10.3,18,2,11,20
+"Mendonca, M.",AUS,2,15,7.5,10,1,11,20
+"Blockit, I.",AUS,2,6,3,5,0,11,20

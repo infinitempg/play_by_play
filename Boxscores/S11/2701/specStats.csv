@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oles, K.",SJS,6,105,13,30,11,0,0,2
-"Broxton, J.",OCO,3,140,22,95,20,1,0,3
-"Atwell, T.",OCO,3,80,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oles, K.",SJS,6,105,13,30,11,0,0,2,8,11
+"Broxton, J.",OCO,3,140,22,95,20,1,0,3,8,11
+"Atwell, T.",OCO,3,80,0,33,0,0,0,0,8,11

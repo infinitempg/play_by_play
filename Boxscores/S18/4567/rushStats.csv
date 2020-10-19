@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Marshall, M.",YKW,21,109,5.2,14,0
-"Canton, J.",YKW,4,6,1.5,4,0
-"Bigsby, C.",YKW,1,3,3,3,0
-"Toriki, M.",SJS,14,58,4.1,11,0
-"Boija, F.",SJS,7,17,2.4,5,0
-"Wright, D.",SJS,7,36,5.1,12,0
-"Orosz, C.",SJS,5,22,4.4,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Marshall, M.",YKW,21,109,5.2,14,0,3,18
+"Canton, J.",YKW,4,6,1.5,4,0,3,18
+"Bigsby, C.",YKW,1,3,3,3,0,3,18
+"Toriki, M.",SJS,14,58,4.1,11,0,3,18
+"Boija, F.",SJS,7,17,2.4,5,0,3,18
+"Wright, D.",SJS,7,36,5.1,12,0,3,18
+"Orosz, C.",SJS,5,22,4.4,9,0,3,18

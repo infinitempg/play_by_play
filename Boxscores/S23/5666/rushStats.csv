@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,17,73,4.3,12,1
-"Toriki, M.",NO,11,43,3.9,11,1
-"Francisco, S.",NO,2,8,4,7,0
-"Wolfcastle, R.",NO,1,1,1,1,0
-"Lackson, J.",SJS,17,64,3.8,11,1
-"Cardrissian, R.",SJS,14,66,4.7,14,0
-"Jack, "".",SJS,2,4,2,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,17,73,4.3,12,1,12,23
+"Toriki, M.",NO,11,43,3.9,11,1,12,23
+"Francisco, S.",NO,2,8,4,7,0,12,23
+"Wolfcastle, R.",NO,1,1,1,1,0,12,23
+"Lackson, J.",SJS,17,64,3.8,11,1,12,23
+"Cardrissian, R.",SJS,14,66,4.7,14,0,12,23
+"Jack, "".",SJS,2,4,2,4,0,12,23

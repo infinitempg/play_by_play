@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,23,69,3,8,0
-"Blocksdale, A.",BAL,1,5,5,5,0
-"Diaz, D.",SJS,15,33,2.2,7,2
-"Smallwood, D.",SJS,11,34,3.1,12,0
-"Orosz, C.",SJS,2,16,8,16,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,23,69,3,8,0,5,6
+"Blocksdale, A.",BAL,1,5,5,5,0,5,6
+"Diaz, D.",SJS,15,33,2.2,7,2,5,6
+"Smallwood, D.",SJS,11,34,3.1,12,0,5,6
+"Orosz, C.",SJS,2,16,8,16,0,5,6

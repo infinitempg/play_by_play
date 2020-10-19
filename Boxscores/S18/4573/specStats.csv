@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Dugnutt, B.",CHI,1,-1,0,0,0,0,0,0
-"Brown, M.",CHI,2,42,0,21,0,0,0,0
-"Oles, K.",CHI,1,18,21,18,12,0,0,4
-"Maddox, E.",BAL,4,114,16,35,16,0,0,1
-"Sunnycursed, N.",BAL,2,59,0,30,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Dugnutt, B.",CHI,1,-1,0,0,0,0,0,0,4,18
+"Brown, M.",CHI,2,42,0,21,0,0,0,0,4,18
+"Oles, K.",CHI,1,18,21,18,12,0,0,4,4,18
+"Maddox, E.",BAL,4,114,16,35,16,0,0,1,4,18
+"Sunnycursed, N.",BAL,2,59,0,30,0,0,0,0,4,18

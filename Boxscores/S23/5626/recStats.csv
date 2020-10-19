@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, A.",YKW,5,71,14.2,22,1
-"Rodriguez, B.",YKW,5,55,11,23,1
-"Hardagain, W.",YKW,4,41,10.2,22,1
-"Swift, N.",YKW,4,29,7.2,9,0
-"Hanyadi, M.",YKW,3,41,13.7,25,0
-"Skyline, A.",YKW,2,26,13,19,0
-"Lee, M.",YKW,1,24,24,24,0
-"Phillips, J.",OCO,8,123,15.4,30,2
-"Mongo, H.",OCO,6,85,14.2,28,0
-"George, D.",OCO,5,50,10,26,0
-"Trunks, F.",OCO,3,99,33,54,1
-"Nakamura, T.",OCO,1,9,9,9,0
-"Bigby, L.",OCO,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, A.",YKW,5,71,14.2,22,1,6,23
+"Rodriguez, B.",YKW,5,55,11,23,1,6,23
+"Hardagain, W.",YKW,4,41,10.2,22,1,6,23
+"Swift, N.",YKW,4,29,7.2,9,0,6,23
+"Hanyadi, M.",YKW,3,41,13.7,25,0,6,23
+"Skyline, A.",YKW,2,26,13,19,0,6,23
+"Lee, M.",YKW,1,24,24,24,0,6,23
+"Phillips, J.",OCO,8,123,15.4,30,2,6,23
+"Mongo, H.",OCO,6,85,14.2,28,0,6,23
+"George, D.",OCO,5,50,10,26,0,6,23
+"Trunks, F.",OCO,3,99,33,54,1,6,23
+"Nakamura, T.",OCO,1,9,9,9,0,6,23
+"Bigby, L.",OCO,1,8,8,8,0,6,23

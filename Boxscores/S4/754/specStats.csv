@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Delacour, A.",BAL,0,0,5,0,4,0,0,2
-"Willie, T.",BAL,2,10,0,8,0,0,0,0
-"Stormblessed, N.",BAL,3,47,0,31,0,0,0,0
-"Westfield, B.",OCO,4,110,0,42,0,0,0,1
-"Phelps, R.",OCO,1,40,0,40,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Delacour, A.",BAL,0,0,5,0,4,0,0,2,8,4
+"Willie, T.",BAL,2,10,0,8,0,0,0,0,8,4
+"Stormblessed, N.",BAL,3,47,0,31,0,0,0,0,8,4
+"Westfield, B.",OCO,4,110,0,42,0,0,0,1,8,4
+"Phelps, R.",OCO,1,40,0,40,0,0,0,0,8,4

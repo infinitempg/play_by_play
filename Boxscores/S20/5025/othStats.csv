@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Ford Lalatina, D.",CHI,1,10,7,0
-"Leaf III, R.",CHI,1,5,6,0
-"Cricket, R.",CHI,1,10,1,0
-"Marlin, J.",CHI,0,0,5,0
-"MacDennis, C.",CHI,0,0,3,0
-"Wokkenfuss, G.",OCO,1,15,5,1
-"Pak, Y.",OCO,1,10,3,0
-"Banks II, D.",OCO,1,5,0,0
-"Mbanefo, K.",OCO,1,4,0,0
-"Iridian, G.",OCO,0,0,5,0
-"Johns, A.",OCO,0,0,5,0
-"Harrison, H.",OCO,0,0,4,0
-"Blaze, J.",OCO,0,0,3,0
-"Bigby, L.",OCO,0,0,0,1
-"Shady, S.",OCO,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Ford Lalatina, D.",CHI,1,10,7,0,11,20
+"Leaf III, R.",CHI,1,5,6,0,11,20
+"Cricket, R.",CHI,1,10,1,0,11,20
+"Marlin, J.",CHI,0,0,5,0,11,20
+"MacDennis, C.",CHI,0,0,3,0,11,20
+"Wokkenfuss, G.",OCO,1,15,5,1,11,20
+"Pak, Y.",OCO,1,10,3,0,11,20
+"Banks II, D.",OCO,1,5,0,0,11,20
+"Mbanefo, K.",OCO,1,4,0,0,11,20
+"Iridian, G.",OCO,0,0,5,0,11,20
+"Johns, A.",OCO,0,0,5,0,11,20
+"Harrison, H.",OCO,0,0,4,0,11,20
+"Blaze, J.",OCO,0,0,3,0,11,20
+"Bigby, L.",OCO,0,0,0,1,11,20
+"Shady, S.",OCO,0,0,0,1,11,20

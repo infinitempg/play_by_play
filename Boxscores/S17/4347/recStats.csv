@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"von Matt, J.",PHI,7,94,13.4,42,0
-"Varga, N.",PHI,6,82,13.7,44,1
-"Hardwick, S.",PHI,2,30,15,21,0
-"Brown, M.",PHI,2,14,7,11,1
-"Hank, F.",PHI,2,7,3.5,4,0
-"Owens, A.",AUS,7,69,9.9,26,0
-"Anoa'i, D.",AUS,4,77,19.2,29,0
-"Mendonca, M.",AUS,4,53,13.2,35,0
-"Larson, P.",AUS,4,24,6,8,0
-"Tidwell, R.",AUS,3,36,12,14,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"von Matt, J.",PHI,7,94,13.4,42,0,12,17
+"Varga, N.",PHI,6,82,13.7,44,1,12,17
+"Hardwick, S.",PHI,2,30,15,21,0,12,17
+"Brown, M.",PHI,2,14,7,11,1,12,17
+"Hank, F.",PHI,2,7,3.5,4,0,12,17
+"Owens, A.",AUS,7,69,9.9,26,0,12,17
+"Anoa'i, D.",AUS,4,77,19.2,29,0,12,17
+"Mendonca, M.",AUS,4,53,13.2,35,0,12,17
+"Larson, P.",AUS,4,24,6,8,0,12,17
+"Tidwell, R.",AUS,3,36,12,14,0,12,17

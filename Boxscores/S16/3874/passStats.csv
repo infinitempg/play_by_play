@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"McDummy, W.",COL,"[20, 33]",217,10.8,0,0,80
-"Havran, C.",BAL,"[26, 43]",336,12.9,1,0,92.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"McDummy, W.",COL,217,10.8,0,0,80,20,26,2,16
+"Havran, C.",BAL,336,12.9,1,0,92.8,20,26,2,16

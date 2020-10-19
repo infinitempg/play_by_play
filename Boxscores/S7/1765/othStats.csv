@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Chambers III, C.",SJS,2,10,0,0
-"Willey, M.",SJS,1,5,1,2
-"Diaz, D.",SJS,1,5,0,0
-"West, D.",SJS,1,5,0,0
-"Probincrux III, D.",SJS,0,0,6,1
-"Tacktheritrix, J.",SJS,0,0,3,0
-"Rucker, F.",SJS,0,0,2,0
-"Smallwood, D.",SJS,0,0,2,0
-"Brownce, B.",SJS,0,0,1,0
-"McKoutchie, M.",SJS,0,0,1,0
-"Wright, O.",AZ,3,20,0,1
-"Chess, C.",AZ,2,10,0,0
-"Robotman, D.",AZ,1,5,7,2
-"Robotman, A.",AZ,1,1,4,0
-"Robotman, E.",AZ,1,15,2,1
-"Browning, B.",AZ,1,5,0,0
-"Davis, A.",AZ,1,10,0,0
-"Mackworthy, R.",AZ,1,5,0,0
-"Robotman, B.",AZ,0,0,2,0
-"Robotman, C.",AZ,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Chambers III, C.",SJS,2,10,0,0,10,7
+"Willey, M.",SJS,1,5,1,2,10,7
+"Diaz, D.",SJS,1,5,0,0,10,7
+"West, D.",SJS,1,5,0,0,10,7
+"Probincrux III, D.",SJS,0,0,6,1,10,7
+"Tacktheritrix, J.",SJS,0,0,3,0,10,7
+"Rucker, F.",SJS,0,0,2,0,10,7
+"Smallwood, D.",SJS,0,0,2,0,10,7
+"Brownce, B.",SJS,0,0,1,0,10,7
+"McKoutchie, M.",SJS,0,0,1,0,10,7
+"Wright, O.",AZ,3,20,0,1,10,7
+"Chess, C.",AZ,2,10,0,0,10,7
+"Robotman, D.",AZ,1,5,7,2,10,7
+"Robotman, A.",AZ,1,1,4,0,10,7
+"Robotman, E.",AZ,1,15,2,1,10,7
+"Browning, B.",AZ,1,5,0,0,10,7
+"Davis, A.",AZ,1,10,0,0,10,7
+"Mackworthy, R.",AZ,1,5,0,0,10,7
+"Robotman, B.",AZ,0,0,2,0,10,7
+"Robotman, C.",AZ,0,0,2,0,10,7

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,25,106,4.2,14,0
-"Booter, F.",AZ,1,-1,-1,0,0
-"Smallwood, D.",NO,28,118,4.2,19,2
-"Maximus III, B.",NO,1,24,24,24,0
-"Savea, A.",NO,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,25,106,4.2,14,0,12,9
+"Booter, F.",AZ,1,-1,-1,0,0,12,9
+"Smallwood, D.",NO,28,118,4.2,19,2,12,9
+"Maximus III, B.",NO,1,24,24,24,0,12,9
+"Savea, A.",NO,1,2,2,2,0,12,9

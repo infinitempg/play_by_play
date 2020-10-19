@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,30,120,4,11,2
-"Blocksdale, A.",BAL,1,1,1,1,0
-"Smallwood, D.",NO,13,64,4.9,13,0
-"DiMirio, P.",NO,7,32,4.6,11,1
-"Maximus III, B.",NO,3,8,2.7,4,0
-"Savea, A.",NO,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,30,120,4,11,2,14,10
+"Blocksdale, A.",BAL,1,1,1,1,0,14,10
+"Smallwood, D.",NO,13,64,4.9,13,0,14,10
+"DiMirio, P.",NO,7,32,4.6,11,1,14,10
+"Maximus III, B.",NO,3,8,2.7,4,0,14,10
+"Savea, A.",NO,1,1,1,1,0,14,10

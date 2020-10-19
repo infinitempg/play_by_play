@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Vuxta, R.",PHI,2,10,0,0
-"Franchet, M.",PHI,1,5,0,0
-"Harding, J.",PHI,1,15,0,0
-"Little IV, S.",PHI,1,5,0,0
-"Torenson, S.",PHI,1,5,0,0
-"Dotson, F.",PHI,0,0,5,1
-"Arthur, C.",PHI,0,0,3,0
-"Fillmore, M.",PHI,0,0,3,0
-"Tyler, J.",PHI,0,0,3,0
-"Hayes, R.",PHI,0,0,2,0
-"Van Buren, M.",PHI,0,0,2,0
-"Swift, N.",YKW,2,20,0,0
-"Drake, O.",YKW,1,10,2,0
-"Hanyadi, M.",YKW,1,5,1,0
-"Alexander, N.",YKW,1,5,0,0
-"Mushing, M.",YKW,0,0,7,1
-"Ones, B.",YKW,0,0,5,0
-"Pooky, S.",YKW,0,0,5,0
-"Rchonsucks, A.",YKW,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Vuxta, R.",PHI,2,10,0,0,10,20
+"Franchet, M.",PHI,1,5,0,0,10,20
+"Harding, J.",PHI,1,15,0,0,10,20
+"Little IV, S.",PHI,1,5,0,0,10,20
+"Torenson, S.",PHI,1,5,0,0,10,20
+"Dotson, F.",PHI,0,0,5,1,10,20
+"Arthur, C.",PHI,0,0,3,0,10,20
+"Fillmore, M.",PHI,0,0,3,0,10,20
+"Tyler, J.",PHI,0,0,3,0,10,20
+"Hayes, R.",PHI,0,0,2,0,10,20
+"Van Buren, M.",PHI,0,0,2,0,10,20
+"Swift, N.",YKW,2,20,0,0,10,20
+"Drake, O.",YKW,1,10,2,0,10,20
+"Hanyadi, M.",YKW,1,5,1,0,10,20
+"Alexander, N.",YKW,1,5,0,0,10,20
+"Mushing, M.",YKW,0,0,7,1,10,20
+"Ones, B.",YKW,0,0,5,0,10,20
+"Pooky, S.",YKW,0,0,5,0,10,20
+"Rchonsucks, A.",YKW,0,0,3,0,10,20

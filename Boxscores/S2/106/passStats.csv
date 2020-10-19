@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Boss, M.",OCO,"[19, 40]",214,11.3,2,2,59.8
-"Kyubee, S.",BAL,"[16, 26]",146,9.1,0,1,60.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Boss, M.",OCO,214,11.3,2,2,59.8,19,16,13,2
+"Kyubee, S.",BAL,146,9.1,0,1,60.7,19,16,13,2

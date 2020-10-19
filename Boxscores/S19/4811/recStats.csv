@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Drake, O.",YKW,9,84,9.3,25,1
-"Swift, N.",YKW,7,87,12.4,30,0
-"Sunnycursed, N.",YKW,5,103,20.6,43,0
-"Helanen, T.",YKW,5,55,11,16,0
-"Hanyadi, M.",YKW,2,14,7,13,1
-"Harp, D.",CHI,5,30,6,9,0
-"James-Jones, S.",CHI,3,23,7.7,9,0
-"Parker, J.",CHI,2,43,21.5,43,0
-"O'Leary, S.",CHI,2,20,10,12,0
-"Utler, J.",CHI,1,23,23,23,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Drake, O.",YKW,9,84,9.3,25,1,2,19
+"Swift, N.",YKW,7,87,12.4,30,0,2,19
+"Sunnycursed, N.",YKW,5,103,20.6,43,0,2,19
+"Helanen, T.",YKW,5,55,11,16,0,2,19
+"Hanyadi, M.",YKW,2,14,7,13,1,2,19
+"Harp, D.",CHI,5,30,6,9,0,2,19
+"James-Jones, S.",CHI,3,23,7.7,9,0,2,19
+"Parker, J.",CHI,2,43,21.5,43,0,2,19
+"O'Leary, S.",CHI,2,20,10,12,0,2,19
+"Utler, J.",CHI,1,23,23,23,0,2,19

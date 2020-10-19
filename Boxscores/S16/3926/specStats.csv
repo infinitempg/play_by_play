@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Flash, X.",SJS,6,183,18,43,18,0,0,1
-"Tuck, J.",SJS,1,23,0,23,0,0,0,0
-"Garnett, L.",PHI,4,161,0,47,0,0,0,1
-"von Matt, J.",PHI,3,118,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Flash, X.",SJS,6,183,18,43,18,0,0,1,12,16
+"Tuck, J.",SJS,1,23,0,23,0,0,0,0,12,16
+"Garnett, L.",PHI,4,161,0,47,0,0,0,1,12,16
+"von Matt, J.",PHI,3,118,0,41,0,0,0,0,12,16

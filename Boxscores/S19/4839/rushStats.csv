@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,16,68,4.2,12,0
-"Armstrong, F.",OCO,12,65,5.4,23,0
-"Shady, S.",OCO,7,16,2.3,5,1
-"Bigby, L.",BAL,23,76,3.3,10,1
-"Havran, C.",BAL,2,10,5,9,0
-"Trevor, C.",BAL,2,7,3.5,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,16,68,4.2,12,0,7,19
+"Armstrong, F.",OCO,12,65,5.4,23,0,7,19
+"Shady, S.",OCO,7,16,2.3,5,1,7,19
+"Bigby, L.",BAL,23,76,3.3,10,1,7,19
+"Havran, C.",BAL,2,10,5,9,0,7,19
+"Trevor, C.",BAL,2,7,3.5,6,0,7,19

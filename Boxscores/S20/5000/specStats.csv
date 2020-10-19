@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,3,95,0,36,0,0,0,0
-"McMahon, J.",COL,2,38,12,22,9,0,0,3
-"Utler, J.",CHI,2,37,0,25,0,0,0,0
-"Espeeyeeseetee, A.",CHI,5,102,33,39,18,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,3,95,0,36,0,0,0,0,6,20
+"McMahon, J.",COL,2,38,12,22,9,0,0,3,6,20
+"Utler, J.",CHI,2,37,0,25,0,0,0,0,6,20
+"Espeeyeeseetee, A.",CHI,5,102,33,39,18,0,0,3,6,20

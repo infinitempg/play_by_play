@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Dotson, F.",PHI,19,81,4.3,13,0
-"Torenson, S.",PHI,19,87,4.6,11,0
-"Phoenix, B.",PHI,2,3,1.5,3,0
-"Nakamura, T.",OCO,18,79,4.4,10,1
-"Bigby, L.",OCO,6,15,2.5,6,0
-"Armstrong, F.",OCO,3,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Dotson, F.",PHI,19,81,4.3,13,0,10,23
+"Torenson, S.",PHI,19,87,4.6,11,0,10,23
+"Phoenix, B.",PHI,2,3,1.5,3,0,10,23
+"Nakamura, T.",OCO,18,79,4.4,10,1,10,23
+"Bigby, L.",OCO,6,15,2.5,6,0,10,23
+"Armstrong, F.",OCO,3,0,0,0,0,10,23

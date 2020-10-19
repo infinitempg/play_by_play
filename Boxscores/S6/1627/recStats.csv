@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Law, C.",AZ,7,101,14.4,41,3
-"Chess, C.",AZ,6,59,9.8,23,0
-"Mackworthy, R.",AZ,5,22,4.4,13,0
-"Browning, B.",AZ,4,105,26.2,36,1
-"Christmas, C.",AZ,3,38,12.7,20,0
-"Tomatonose, P.",NO,8,73,9.1,30,0
-"Booter, F.",NO,7,73,10.4,17,0
-"Evans, D.",NO,5,111,22.2,51,1
-"Tenzini, G.",NO,4,11,2.8,3,0
-"Omega, K.",NO,2,16,8,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Law, C.",AZ,7,101,14.4,41,3,13,6
+"Chess, C.",AZ,6,59,9.8,23,0,13,6
+"Mackworthy, R.",AZ,5,22,4.4,13,0,13,6
+"Browning, B.",AZ,4,105,26.2,36,1,13,6
+"Christmas, C.",AZ,3,38,12.7,20,0,13,6
+"Tomatonose, P.",NO,8,73,9.1,30,0,13,6
+"Booter, F.",NO,7,73,10.4,17,0,13,6
+"Evans, D.",NO,5,111,22.2,51,1,13,6
+"Tenzini, G.",NO,4,11,2.8,3,0,13,6
+"Omega, K.",NO,2,16,8,10,0,13,6

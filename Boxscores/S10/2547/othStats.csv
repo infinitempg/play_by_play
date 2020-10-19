@@ -1,24 +1,24 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Tacktheritrix, J.",SJS,1,5,6,1
-"Marrett, O.",SJS,1,5,0,0
-"Oles, K.",SJS,1,5,0,0
-"Probincrux III, D.",SJS,0,0,4,0
-"Jahelpme, H.",SJS,0,0,3,0
-"Brannigan, Z.",SJS,0,0,2,0
-"McKoutchie, M.",SJS,0,0,2,0
-"Tuck Jr., T.",SJS,0,0,1,0
-"Rucker, F.",SJS,0,0,0,1
-"Robotman, C.",AZ,2,10,5,0
-"Fitzpatrick, K.",AZ,2,20,0,0
-"Robotman, E.",AZ,1,5,1,0
-"Hobbs, S.",AZ,1,5,0,0
-"Ernston, H.",AZ,1,5,0,0
-"Hackett, A.",AZ,1,15,0,0
-"Medved, E.",AZ,1,15,0,0
-"Morris, D.",AZ,1,5,0,0
-"Waiters, A.",AZ,1,14,0,0
-"Robotman, A.",AZ,0,0,5,0
-"Robotman, D.",AZ,0,0,4,0
-"Mackworthy, R.",AZ,0,0,3,0
-"Crindy, B.",AZ,0,0,2,1
-"Robotman, B.",AZ,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Tacktheritrix, J.",SJS,1,5,6,1,7,10
+"Marrett, O.",SJS,1,5,0,0,7,10
+"Oles, K.",SJS,1,5,0,0,7,10
+"Probincrux III, D.",SJS,0,0,4,0,7,10
+"Jahelpme, H.",SJS,0,0,3,0,7,10
+"Brannigan, Z.",SJS,0,0,2,0,7,10
+"McKoutchie, M.",SJS,0,0,2,0,7,10
+"Tuck Jr., T.",SJS,0,0,1,0,7,10
+"Rucker, F.",SJS,0,0,0,1,7,10
+"Robotman, C.",AZ,2,10,5,0,7,10
+"Fitzpatrick, K.",AZ,2,20,0,0,7,10
+"Robotman, E.",AZ,1,5,1,0,7,10
+"Hobbs, S.",AZ,1,5,0,0,7,10
+"Ernston, H.",AZ,1,5,0,0,7,10
+"Hackett, A.",AZ,1,15,0,0,7,10
+"Medved, E.",AZ,1,15,0,0,7,10
+"Morris, D.",AZ,1,5,0,0,7,10
+"Waiters, A.",AZ,1,14,0,0,7,10
+"Robotman, A.",AZ,0,0,5,0,7,10
+"Robotman, D.",AZ,0,0,4,0,7,10
+"Mackworthy, R.",AZ,0,0,3,0,7,10
+"Crindy, B.",AZ,0,0,2,1,7,10
+"Robotman, B.",AZ,0,0,2,0,7,10

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Rocket, J.",LV,4,95,0,28,0,0,0,0
-"Stormblessed, N.",LV,1,27,64,27,42,0,0,3
-"Weston, S.",SJS,1,3,30,3,15,0,0,3
-"Hardrool, C.",SJS,1,1,0,1,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Rocket, J.",LV,4,95,0,28,0,0,0,0,13,2
+"Stormblessed, N.",LV,1,27,64,27,42,0,0,3,13,2
+"Weston, S.",SJS,1,3,30,3,15,0,0,3,13,2
+"Hardrool, C.",SJS,1,1,0,1,0,0,0,0,13,2

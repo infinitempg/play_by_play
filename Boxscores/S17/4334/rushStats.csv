@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,29,123,4.2,8,0
-"Carrasco, T.",COL,3,3,1,2,0
-"Reed, A.",OCO,26,127,4.9,10,1
-"Trevor, C.",OCO,18,73,4.1,14,1
-"Armstrong, F.",OCO,2,3,1.5,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,29,123,4.2,8,0,10,17
+"Carrasco, T.",COL,3,3,1,2,0,10,17
+"Reed, A.",OCO,26,127,4.9,10,1,10,17
+"Trevor, C.",OCO,18,73,4.1,14,1,10,17
+"Armstrong, F.",OCO,2,3,1.5,4,0,10,17

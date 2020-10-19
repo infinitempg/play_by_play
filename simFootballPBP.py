@@ -241,7 +241,7 @@ def getGameData(S,gameID,idDict):
     
     return pbpDF
 
-def posStatDF(S,gameID,boxList,index,homeTeam,awayTeam,name):
+def posStatDF(S,gameID,boxList,index,homeTeam,awayTeam,name,idDict):
     away = boxList[index].iloc[1:]
     away.columns = ['Player'] + list(boxList[index].iloc[0][1:])
     away['Team'] = awayTeam
@@ -258,23 +258,36 @@ def posStatDF(S,gameID,boxList,index,homeTeam,awayTeam,name):
     stats = stats.set_index('Player')
     
     if index == 8:
-        stats['Cp/At'] = stats['Cp/At'].str.split('/').apply(lambda x: [int(i) for i in x]) 
-    elif index == 14:
-        stats['FG < 20'] = stats['FG < 20'].str.split('/').apply(lambda x: [int(i) for i in x]) 
-        stats['20-29'] = stats['20-29'].str.split('/').apply(lambda x: [int(i) for i in x]) 
-        stats['30-39'] = stats['30-39'].str.split('/').apply(lambda x: [int(i) for i in x]) 
-        stats['40-49'] = stats['40-49'].str.split('/').apply(lambda x: [int(i) for i in x]) 
-        stats['50+'] = stats['50+'].str.split('/').apply(lambda x: [int(i) for i in x]) 
+        cpatList = [int(x.strip('[]').split('/')[0]) for x in stats['Cp/At']]
+        stats['Cmp'] = cpatList[0]
+        stats['Att'] = cpatList[1]
+        stats = stats.drop(columns=['Cp/At'])
+    elif index == 14:        
+        kickList = ['FG < 20','20-29','30-39','40-49','50+']
+        for k in kickList:
+            stats['%sM'%k] = [int(x.strip('[]').split('/')[0]) for x in stats[k]]
+            stats['%sA'%k] = [int(x.strip('[]').split('/')[1]) for x in stats[k]]
+        stats = stats.drop(columns=kickList)
     elif index == 18:
         stats = stats.iloc[:,:9]
         stats.columns = ['Team','KR','KRYds','PRYds','KRLng','PRLng','KR_TD','PR_TD','PR']
     elif index == 20:
-        stats['Blk P/XP/FG'] = stats['Blk P/XP/FG'].str.split('/').apply(lambda x: [int(i) for i in x]) 
+        fumList = [int(x.strip('[]').split('/')[0]) for x in stats['FF/FR']]
+        stats['FF'] = fumList[0]
+        stats['FR'] = fumList[1]
+        blkList = [int(x.strip('[]').split('/')[0]) for x in stats['Blk P/XP/FG']]
+        stats['Blk P'] = blkList[0]
+        stats['Blk XP'] = blkList[1]
+        stats['Blk FG'] = blkList[2]
+        stats = stats.drop(columns=['FF/FR','Blk P/XP/FG'])
         
+    
+    stats['W'] = str(idDict[gameID])
+    stats['S'] = str(S)
     stats.to_csv('Boxscores/S%s/%s/%sStats.csv'%(S,gameID,name))
     return stats
 
-def getGameBox(S,gameID):
+def getGameBox(S,gameID,idDict):
     if not os.path.exists('Boxscores/S%s/%s'%(S,gameID)):
         os.makedirs('Boxscores/S%s/%s'%(S,gameID))
         
@@ -378,13 +391,13 @@ def getGameBox(S,gameID):
     teamStatsDF2.to_csv('Boxscores/S%s/%s/TeamStats.csv'%(S,gameID))
     
     # POSITION STATS
-    passStats = posStatDF(S,gameID,boxList,8,homeTeam,awayTeam,"pass")
-    rushStats = posStatDF(S,gameID,boxList,10,homeTeam,awayTeam,'rush')
-    recStats = posStatDF(S,gameID,boxList,12,homeTeam,awayTeam,'rec')
-    kickStats = posStatDF(S,gameID,boxList,14,homeTeam,awayTeam,'kick')
-    puntStats = posStatDF(S,gameID,boxList,16,homeTeam,awayTeam,'punt')
-    specStats = posStatDF(S,gameID,boxList,18,homeTeam,awayTeam,'spec')
-    defStats = posStatDF(S,gameID,boxList,20,homeTeam,awayTeam,'def')
-    othStats = posStatDF(S,gameID,boxList,22,homeTeam,awayTeam,'oth')
+    passStats = posStatDF(S,gameID,boxList,8,homeTeam,awayTeam,"pass",idDict)
+    rushStats = posStatDF(S,gameID,boxList,10,homeTeam,awayTeam,'rush',idDict)
+    recStats = posStatDF(S,gameID,boxList,12,homeTeam,awayTeam,'rec',idDict)
+    kickStats = posStatDF(S,gameID,boxList,14,homeTeam,awayTeam,'kick',idDict)
+    puntStats = posStatDF(S,gameID,boxList,16,homeTeam,awayTeam,'punt',idDict)
+    specStats = posStatDF(S,gameID,boxList,18,homeTeam,awayTeam,'spec',idDict)
+    defStats = posStatDF(S,gameID,boxList,20,homeTeam,awayTeam,'def',idDict)
+    othStats = posStatDF(S,gameID,boxList,22,homeTeam,awayTeam,'oth',idDict)
     
     return

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Tweed, B.",COL,4,31,7.8,11,0
-"Crush, C.",COL,3,27,9,13,0
-"Wheat, B.",COL,3,24,8,15,1
-"Aaron, D.",COL,2,29,14.5,19,0
-"Joyce, S.",COL,1,7,7,7,0
-"Jackson, M.",SJS,8,110,13.8,24,1
-"Smallwood, D.",SJS,7,133,19,59,0
-"Weston, S.",SJS,4,87,21.8,31,1
-"Catchem8, Z.",SJS,3,44,14.7,30,1
-"Bottles, B.",SJS,3,30,10,12,0
-"Diaz, D.",SJS,3,27,9,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Tweed, B.",COL,4,31,7.8,11,0,8,6
+"Crush, C.",COL,3,27,9,13,0,8,6
+"Wheat, B.",COL,3,24,8,15,1,8,6
+"Aaron, D.",COL,2,29,14.5,19,0,8,6
+"Joyce, S.",COL,1,7,7,7,0,8,6
+"Jackson, M.",SJS,8,110,13.8,24,1,8,6
+"Smallwood, D.",SJS,7,133,19,59,0,8,6
+"Weston, S.",SJS,4,87,21.8,31,1,8,6
+"Catchem8, Z.",SJS,3,44,14.7,30,1,8,6
+"Bottles, B.",SJS,3,30,10,12,0,8,6
+"Diaz, D.",SJS,3,27,9,11,0,8,6

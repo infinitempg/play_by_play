@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",SJS,19,61,3.2,8,1
-"Orosz, C.",SJS,4,16,4,13,0
-"Gore, B.",NO,25,79,3.2,9,1
-"Maximus III, B.",NO,3,17,5.7,15,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",SJS,19,61,3.2,8,1,1,12
+"Orosz, C.",SJS,4,16,4,13,0,1,12
+"Gore, B.",NO,25,79,3.2,9,1,1,12
+"Maximus III, B.",NO,3,17,5.7,15,0,1,12

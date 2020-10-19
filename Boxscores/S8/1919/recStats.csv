@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"North, F.",PHI,6,74,12.3,32,0
-"Bush, C.",PHI,6,59,9.8,27,0
-"Garden, J.",PHI,6,49,8.2,21,2
-"Stormblessed, N.",PHI,5,80,16,24,0
-"Storm, B.",PHI,3,17,5.7,9,1
-"Farlane, D.",PHI,2,15,7.5,11,0
-"O'Connell, K.",PHI,1,7,7,7,0
-"Westfield, B.",OCO,6,91,15.2,33,0
-"Crush, C.",OCO,5,123,24.6,48,0
-"Yates, J.",OCO,4,65,16.2,36,0
-"Phelps, R.",OCO,4,29,7.2,10,2
-"Atwell, T.",OCO,3,78,26,34,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"North, F.",PHI,6,74,12.3,32,0,11,8
+"Bush, C.",PHI,6,59,9.8,27,0,11,8
+"Garden, J.",PHI,6,49,8.2,21,2,11,8
+"Stormblessed, N.",PHI,5,80,16,24,0,11,8
+"Storm, B.",PHI,3,17,5.7,9,1,11,8
+"Farlane, D.",PHI,2,15,7.5,11,0,11,8
+"O'Connell, K.",PHI,1,7,7,7,0,11,8
+"Westfield, B.",OCO,6,91,15.2,33,0,11,8
+"Crush, C.",OCO,5,123,24.6,48,0,11,8
+"Yates, J.",OCO,4,65,16.2,36,0,11,8
+"Phelps, R.",OCO,4,29,7.2,10,2,11,8
+"Atwell, T.",OCO,3,78,26,34,0,11,8

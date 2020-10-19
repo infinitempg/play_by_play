@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Manclaw, C.",SAR,5,30,6,12,0
-"Chan, R.",SAR,4,61,15.2,41,0
-"Angler, J.",SAR,3,19,6.3,9,0
-"Witheblock, M.",SAR,2,26,13,21,0
-"Matthews, D.",BER,5,71,14.2,22,0
-"Cash Jr., S.",BER,4,38,9.5,12,0
-"Petrongolo, J.",BER,3,21,7,11,0
-"Boyd, C.",BER,3,12,4,9,0
-"King, D.",BER,1,4,4,4,0
-"Skiuuup, C.",BER,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Manclaw, C.",SAR,5,30,6,12,0,2,25
+"Chan, R.",SAR,4,61,15.2,41,0,2,25
+"Angler, J.",SAR,3,19,6.3,9,0,2,25
+"Witheblock, M.",SAR,2,26,13,21,0,2,25
+"Matthews, D.",BER,5,71,14.2,22,0,2,25
+"Cash Jr., S.",BER,4,38,9.5,12,0,2,25
+"Petrongolo, J.",BER,3,21,7,11,0,2,25
+"Boyd, C.",BER,3,12,4,9,0,2,25
+"King, D.",BER,1,4,4,4,0,2,25
+"Skiuuup, C.",BER,1,4,4,4,0,2,25

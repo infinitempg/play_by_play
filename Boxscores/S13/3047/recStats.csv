@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bush, C.",PHI,6,88,14.7,24,1
-"Batoff, R.",PHI,5,70,14,23,0
-"von Matt, J.",PHI,4,86,21.5,38,0
-"Hardwick, S.",PHI,4,34,8.5,13,0
-"Brown, M.",PHI,3,23,7.7,11,0
-"Strike, L.",PHI,1,3,3,3,0
-"Pennington, B.",YKW,5,102,20.4,28,0
-"Helanen, T.",YKW,5,82,16.4,35,0
-"Parker, J.",YKW,5,63,12.6,23,1
-"Wizardry, D.",YKW,5,29,5.8,11,0
-"Pitcher, A.",YKW,2,14,7,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bush, C.",PHI,6,88,14.7,24,1,9,13
+"Batoff, R.",PHI,5,70,14,23,0,9,13
+"von Matt, J.",PHI,4,86,21.5,38,0,9,13
+"Hardwick, S.",PHI,4,34,8.5,13,0,9,13
+"Brown, M.",PHI,3,23,7.7,11,0,9,13
+"Strike, L.",PHI,1,3,3,3,0,9,13
+"Pennington, B.",YKW,5,102,20.4,28,0,9,13
+"Helanen, T.",YKW,5,82,16.4,35,0,9,13
+"Parker, J.",YKW,5,63,12.6,23,1,9,13
+"Wizardry, D.",YKW,5,29,5.8,11,0,9,13
+"Pitcher, A.",YKW,2,14,7,9,0,9,13

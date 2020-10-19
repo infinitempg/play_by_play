@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wright, O.",PHI,24,86,3.6,10,0
-"Jefferson, L.",PHI,3,0,0,1,0
-"Christ, J.",PHI,1,0,0,0,0
-"Tweed, B.",COL,20,82,4.1,10,0
-"O'Connell, K.",COL,5,14,2.8,6,1
-"Noble, L.",COL,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wright, O.",PHI,24,86,3.6,10,0,5,2
+"Jefferson, L.",PHI,3,0,0,1,0,5,2
+"Christ, J.",PHI,1,0,0,0,0,5,2
+"Tweed, B.",COL,20,82,4.1,10,0,5,2
+"O'Connell, K.",COL,5,14,2.8,6,1,5,2
+"Noble, L.",COL,1,0,0,0,0,5,2

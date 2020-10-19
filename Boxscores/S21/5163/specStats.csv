@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,2,59,0,35,0,0,0,0
-"Jackson, A.",SJS,4,72,38,26,14,0,0,4
-"Taylor, D.",NO,3,48,0,23,0,0,0,0
-"Gump, F.",NO,3,79,4,45,6,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,2,59,0,35,0,0,0,0,2,21
+"Jackson, A.",SJS,4,72,38,26,14,0,0,4,2,21
+"Taylor, D.",NO,3,48,0,23,0,0,0,0,2,21
+"Gump, F.",NO,3,79,4,45,6,0,0,3,2,21

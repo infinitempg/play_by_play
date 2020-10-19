@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"von Matt, J.",PHI,4,100,25,53,0
-"Jones, V.",PHI,4,26,6.5,8,2
-"Hank, F.",PHI,3,21,7,13,0
-"Brannigan, Z.",PHI,2,11,5.5,6,0
-"Boija, F.",PHI,1,2,2,2,0
-"Canton, J.",YKW,8,111,13.9,52,1
-"Parker, J.",YKW,7,63,9,13,0
-"Swift, N.",YKW,6,91,15.2,21,1
-"Helanen, T.",YKW,6,85,14.2,34,1
-"Marshall, M.",YKW,4,38,9.5,35,0
-"Pennington, B.",YKW,4,25,6.2,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"von Matt, J.",PHI,4,100,25,53,0,11,16
+"Jones, V.",PHI,4,26,6.5,8,2,11,16
+"Hank, F.",PHI,3,21,7,13,0,11,16
+"Brannigan, Z.",PHI,2,11,5.5,6,0,11,16
+"Boija, F.",PHI,1,2,2,2,0,11,16
+"Canton, J.",YKW,8,111,13.9,52,1,11,16
+"Parker, J.",YKW,7,63,9,13,0,11,16
+"Swift, N.",YKW,6,91,15.2,21,1,11,16
+"Helanen, T.",YKW,6,85,14.2,34,1,11,16
+"Marshall, M.",YKW,4,38,9.5,35,0,11,16
+"Pennington, B.",YKW,4,25,6.2,11,0,11,16

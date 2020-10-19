@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Snuggles, J.",YKW,0,0,2,0,2,0,0,3
-"Hornbacher, A.",YKW,2,77,0,47,0,0,0,0
-"Staley, T.",SJS,1,38,0,38,0,0,0,0
-"Tuck, J.",SJS,4,119,0,40,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Snuggles, J.",YKW,0,0,2,0,2,0,0,3,3,18
+"Hornbacher, A.",YKW,2,77,0,47,0,0,0,0,3,18
+"Staley, T.",SJS,1,38,0,38,0,0,0,0,3,18
+"Tuck, J.",SJS,4,119,0,40,0,0,0,0,3,18

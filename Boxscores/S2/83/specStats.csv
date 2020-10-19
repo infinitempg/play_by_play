@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,4,73,14,36,14,0,0,2
-"Diaz, D.",SJS,2,38,0,29,0,0,0,0
-"Rocket, J.",LV,2,35,0,32,0,0,0,0
-"Stormblessed, N.",LV,2,56,5,32,9,0,0,3
-"BlockBot, Z.",LV,1,-1,0,0,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,4,73,14,36,14,0,0,2,8,2
+"Diaz, D.",SJS,2,38,0,29,0,0,0,0,8,2
+"Rocket, J.",LV,2,35,0,32,0,0,0,0,8,2
+"Stormblessed, N.",LV,2,56,5,32,9,0,0,3,8,2
+"BlockBot, Z.",LV,1,-1,0,0,0,0,0,0,8,2

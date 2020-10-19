@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Diaz, D.",SJS,2,15,3,0
-"Weston, S.",SJS,1,5,0,0
-"Probincrux III, D.",SJS,0,0,6,0
-"McKoutchie, M.",SJS,0,0,4,0
-"Rucker, F.",SJS,0,0,3,2
-"Petrakis, A.",SJS,0,0,2,0
-"Tacktheritrix, J.",SJS,0,0,2,0
-"Jahelpme, H.",SJS,0,0,1,1
-"Jeremy, R.",BAL,2,20,5,0
-"Star, L.",BAL,1,5,5,0
-"Grey, S.",BAL,1,10,3,0
-"Steele, R.",BAL,1,5,3,0
-"Willie, T.",BAL,1,5,0,0
-"L'Alto, V.",BAL,0,0,3,0
-"Taylor, O.",BAL,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Diaz, D.",SJS,2,15,3,0,13,8
+"Weston, S.",SJS,1,5,0,0,13,8
+"Probincrux III, D.",SJS,0,0,6,0,13,8
+"McKoutchie, M.",SJS,0,0,4,0,13,8
+"Rucker, F.",SJS,0,0,3,2,13,8
+"Petrakis, A.",SJS,0,0,2,0,13,8
+"Tacktheritrix, J.",SJS,0,0,2,0,13,8
+"Jahelpme, H.",SJS,0,0,1,1,13,8
+"Jeremy, R.",BAL,2,20,5,0,13,8
+"Star, L.",BAL,1,5,5,0,13,8
+"Grey, S.",BAL,1,10,3,0,13,8
+"Steele, R.",BAL,1,5,3,0,13,8
+"Willie, T.",BAL,1,5,0,0,13,8
+"L'Alto, V.",BAL,0,0,3,0,13,8
+"Taylor, O.",BAL,0,0,3,0,13,8

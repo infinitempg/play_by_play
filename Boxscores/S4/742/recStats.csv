@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Westfield, B.",OCO,9,137,15.2,38,2
-"Jenkins, L.",OCO,8,98,12.2,27,0
-"O'Sullivan, S.",OCO,8,28,3.5,8,1
-"Phelps, R.",OCO,5,138,27.6,53,2
-"Reigns, J.",OCO,5,72,14.4,30,0
-"Burnsman, E.",OCO,1,31,31,31,0
-"LeClair, A.",LV,3,55,18.3,32,0
-"Tanner, C.",LV,3,19,6.3,9,0
-"Savea, A.",LV,2,39,19.5,29,0
-"Cobb, K.",LV,2,14,7,10,0
-"Tenzini, G.",LV,2,2,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Westfield, B.",OCO,9,137,15.2,38,2,5,4
+"Jenkins, L.",OCO,8,98,12.2,27,0,5,4
+"O'Sullivan, S.",OCO,8,28,3.5,8,1,5,4
+"Phelps, R.",OCO,5,138,27.6,53,2,5,4
+"Reigns, J.",OCO,5,72,14.4,30,0,5,4
+"Burnsman, E.",OCO,1,31,31,31,0,5,4
+"LeClair, A.",LV,3,55,18.3,32,0,5,4
+"Tanner, C.",LV,3,19,6.3,9,0,5,4
+"Savea, A.",LV,2,39,19.5,29,0,5,4
+"Cobb, K.",LV,2,14,7,10,0,5,4
+"Tenzini, G.",LV,2,2,1,1,0,5,4

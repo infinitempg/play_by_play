@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Sunnycursed, N.",OCO,3,70,22,38,14,0,0,2
-"Valentine, V.",OCO,3,51,0,27,0,0,0,0
-"Snuggles, J.",YKW,2,34,47,26,19,0,0,4
-"Grithead, D.",YKW,4,104,0,44,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Sunnycursed, N.",OCO,3,70,22,38,14,0,0,2,8,16
+"Valentine, V.",OCO,3,51,0,27,0,0,0,0,8,16
+"Snuggles, J.",YKW,2,34,47,26,19,0,0,4,8,16
+"Grithead, D.",YKW,4,104,0,44,0,0,0,0,8,16

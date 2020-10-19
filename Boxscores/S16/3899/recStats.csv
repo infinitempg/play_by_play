@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Nagasawa, Y.",BAL,4,60,15,32,1
-"L'Alto, V.",BAL,4,49,12.2,30,0
-"Maddox, E.",BAL,3,19,6.3,9,0
-"Bigby, L.",BAL,1,8,8,8,0
-"Brown, M.",BAL,1,6,6,6,0
-"Crindy, B.",COL,5,42,8.4,16,0
-"Bishop, J.",COL,4,45,11.2,17,0
-"LaMelllana, S.",COL,3,25,8.3,10,0
-"Taffy, T.",COL,3,17,5.7,9,0
-"Palmer, J.",COL,2,18,9,15,0
-"Grau, M.",COL,1,8,8,8,1
-"Carrasco, T.",COL,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Nagasawa, Y.",BAL,4,60,15,32,1,7,16
+"L'Alto, V.",BAL,4,49,12.2,30,0,7,16
+"Maddox, E.",BAL,3,19,6.3,9,0,7,16
+"Bigby, L.",BAL,1,8,8,8,0,7,16
+"Brown, M.",BAL,1,6,6,6,0,7,16
+"Crindy, B.",COL,5,42,8.4,16,0,7,16
+"Bishop, J.",COL,4,45,11.2,17,0,7,16
+"LaMelllana, S.",COL,3,25,8.3,10,0,7,16
+"Taffy, T.",COL,3,17,5.7,9,0,7,16
+"Palmer, J.",COL,2,18,9,15,0,7,16
+"Grau, M.",COL,1,8,8,8,1,7,16
+"Carrasco, T.",COL,1,7,7,7,0,7,16

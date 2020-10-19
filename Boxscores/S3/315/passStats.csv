@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Kyubee, S.",BAL,"[20, 32]",227,11.4,2,0,104.6
-"Pierno, N.",COL,"[11, 22]",97,8.8,0,3,22.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Kyubee, S.",BAL,227,11.4,2,0,104.6,20,11,10,3
+"Pierno, N.",COL,97,8.8,0,3,22.5,20,11,10,3

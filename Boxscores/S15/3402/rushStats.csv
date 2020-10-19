@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Marshall, M.",YKW,15,47,3.1,10,0
-"Wizardry, D.",YKW,6,15,2.5,6,0
-"Canton, J.",YKW,5,20,4,8,0
-"Bigsby, C.",YKW,1,0,0,0,0
-"Reed, A.",OCO,36,110,3.1,10,1
-"Zephyrous, S.",OCO,4,28,7,11,0
-"Showbiz, G.",OCO,3,29,9.7,14,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Marshall, M.",YKW,15,47,3.1,10,0,12,15
+"Wizardry, D.",YKW,6,15,2.5,6,0,12,15
+"Canton, J.",YKW,5,20,4,8,0,12,15
+"Bigsby, C.",YKW,1,0,0,0,0,12,15
+"Reed, A.",OCO,36,110,3.1,10,1,12,15
+"Zephyrous, S.",OCO,4,28,7,11,0,12,15
+"Showbiz, G.",OCO,3,29,9.7,14,0,12,15

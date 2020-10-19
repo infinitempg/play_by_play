@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Law, C.",AZ,8,64,8,23,2
-"Browning, B.",AZ,7,104,14.9,27,1
-"Chess, C.",AZ,4,98,24.5,31,0
-"Christmas, C.",AZ,3,49,16.3,33,0
-"Mackworthy, R.",AZ,3,22,7.3,9,0
-"Asipi Jr., A.",AZ,2,11,5.5,7,1
-"Cook, B.",YKW,8,125,15.6,36,1
-"Kennedy, E.",YKW,4,54,13.5,29,0
-"Harris Jr., F.",YKW,2,30,15,24,0
-"McPoyal, G.",YKW,2,20,10,11,0
-"Jarden, G.",YKW,1,11,11,11,0
-"Nuck, B.",YKW,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Law, C.",AZ,8,64,8,23,2,10,6
+"Browning, B.",AZ,7,104,14.9,27,1,10,6
+"Chess, C.",AZ,4,98,24.5,31,0,10,6
+"Christmas, C.",AZ,3,49,16.3,33,0,10,6
+"Mackworthy, R.",AZ,3,22,7.3,9,0,10,6
+"Asipi Jr., A.",AZ,2,11,5.5,7,1,10,6
+"Cook, B.",YKW,8,125,15.6,36,1,10,6
+"Kennedy, E.",YKW,4,54,13.5,29,0,10,6
+"Harris Jr., F.",YKW,2,30,15,24,0,10,6
+"McPoyal, G.",YKW,2,20,10,11,0,10,6
+"Jarden, G.",YKW,1,11,11,11,0,10,6
+"Nuck, B.",YKW,1,9,9,9,0,10,6

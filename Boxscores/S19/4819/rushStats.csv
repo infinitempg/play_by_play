@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,12,29,2.4,8,0
-"Armstrong, F.",OCO,10,44,4.4,16,1
-"Shady, S.",OCO,10,28,2.8,9,0
-"Mendonca, M.",AUS,26,103,4,8,0
-"Blockit, I.",AUS,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,12,29,2.4,8,0,3,19
+"Armstrong, F.",OCO,10,44,4.4,16,1,3,19
+"Shady, S.",OCO,10,28,2.8,9,0,3,19
+"Mendonca, M.",AUS,26,103,4,8,0,3,19
+"Blockit, I.",AUS,1,1,1,1,0,3,19

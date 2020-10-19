@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tirtawidjaja, J.",CHI,28,103,3.7,19,1
-"Yoda, B.",AZ,24,90,3.8,11,1
-"Cue, J.",AZ,12,52,4.3,16,0
-"Evans, H.",AZ,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tirtawidjaja, J.",CHI,28,103,3.7,19,1,8,22
+"Yoda, B.",AZ,24,90,3.8,11,1,8,22
+"Cue, J.",AZ,12,52,4.3,16,0,8,22
+"Evans, H.",AZ,1,0,0,0,0,8,22

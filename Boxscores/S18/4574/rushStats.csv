@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,13,58,4.5,13,0
-"Allan, C.",OCO,11,55,5,8,0
-"Armstrong, F.",OCO,11,32,2.9,17,0
-"Shady, S.",AZ,14,41,2.9,6,1
-"Reese, A.",AZ,3,26,8.7,25,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,13,58,4.5,13,0,4,18
+"Allan, C.",OCO,11,55,5,8,0,4,18
+"Armstrong, F.",OCO,11,32,2.9,17,0,4,18
+"Shady, S.",AZ,14,41,2.9,6,1,4,18
+"Reese, A.",AZ,3,26,8.7,25,0,4,18

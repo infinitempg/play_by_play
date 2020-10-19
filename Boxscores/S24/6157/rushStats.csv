@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,21,71,3.4,10,0
-"Dotson, F.",PHI,12,53,4.4,11,1
-"Phoenix, B.",PHI,1,8,8,8,0
-"Gilbert, R.",COL,13,55,4.2,11,0
-"Owens, A.",COL,13,62,4.8,11,1
-"Bumper, T.",COL,12,58,4.8,12,0
-"McDummy, W.",COL,3,-5,-1.7,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,21,71,3.4,10,0,5,24
+"Dotson, F.",PHI,12,53,4.4,11,1,5,24
+"Phoenix, B.",PHI,1,8,8,8,0,5,24
+"Gilbert, R.",COL,13,55,4.2,11,0,5,24
+"Owens, A.",COL,13,62,4.8,11,1,5,24
+"Bumper, T.",COL,12,58,4.8,12,0,5,24
+"McDummy, W.",COL,3,-5,-1.7,0,0,5,24

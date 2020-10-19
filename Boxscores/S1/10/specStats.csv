@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",OCO,1,8,32,8,16,0,0,6
-"LeClair, A.",YKW,4,91,20,32,8,0,0,4
-"Hansen, A.",YKW,1,14,0,14,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",OCO,1,8,32,8,16,0,0,6,7,1
+"LeClair, A.",YKW,4,91,20,32,8,0,0,4,7,1
+"Hansen, A.",YKW,1,14,0,14,0,0,0,0,7,1

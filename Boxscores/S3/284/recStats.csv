@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hendrix, K.",COL,3,48,16,35,0
-"Law, D.",COL,2,50,25,28,0
-"Tweed, B.",COL,2,14,7,13,0
-"Newman, M.",COL,2,12,6,7,0
-"Joyce, S.",COL,1,11,11,11,0
-"Willie, T.",BAL,6,107,17.8,29,0
-"Vincent, M.",BAL,6,63,10.5,21,0
-"Christmas, C.",BAL,4,69,17.2,36,2
-"Wheat, B.",BAL,3,20,6.7,9,1
-"Sanderson, J.",BAL,2,9,4.5,6,0
-"Robinson, M.",BAL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hendrix, K.",COL,3,48,16,35,0,3,3
+"Law, D.",COL,2,50,25,28,0,3,3
+"Tweed, B.",COL,2,14,7,13,0,3,3
+"Newman, M.",COL,2,12,6,7,0,3,3
+"Joyce, S.",COL,1,11,11,11,0,3,3
+"Willie, T.",BAL,6,107,17.8,29,0,3,3
+"Vincent, M.",BAL,6,63,10.5,21,0,3,3
+"Christmas, C.",BAL,4,69,17.2,36,2,3,3
+"Wheat, B.",BAL,3,20,6.7,9,1,3,3
+"Sanderson, J.",BAL,2,9,4.5,6,0,3,3
+"Robinson, M.",BAL,1,5,5,5,0,3,3

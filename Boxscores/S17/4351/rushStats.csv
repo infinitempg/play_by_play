@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,19,88,4.6,16,0
-"Carrasco, T.",COL,3,16,5.3,10,1
-"McDummy, W.",COL,2,2,1,2,0
-"Christ, J.",SJS,14,63,4.5,14,0
-"Orosz, C.",SJS,12,65,5.4,11,0
-"Bigby, L.",SJS,8,47,5.9,13,1
-"Boija, F.",SJS,4,25,6.2,13,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,19,88,4.6,16,0,13,17
+"Carrasco, T.",COL,3,16,5.3,10,1,13,17
+"McDummy, W.",COL,2,2,1,2,0,13,17
+"Christ, J.",SJS,14,63,4.5,14,0,13,17
+"Orosz, C.",SJS,12,65,5.4,11,0,13,17
+"Bigby, L.",SJS,8,47,5.9,13,1,13,17
+"Boija, F.",SJS,4,25,6.2,13,1,13,17

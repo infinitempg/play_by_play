@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"McCormick, M.",COL,9,470,52.2,64,2
-"Jackson, D.",AZ,12,576,48,73,3
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"McCormick, M.",COL,9,470,52.2,64,2,8,10
+"Jackson, D.",AZ,12,576,48,73,3,8,10

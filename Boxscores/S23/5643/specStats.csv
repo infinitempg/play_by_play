@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kane-Maika'i, K.",HON,1,17,41,17,18,0,0,5
-"Arianlacher, M.",HON,1,2,0,2,0,0,0,0
-"Dawkins, S.",HON,2,123,0,108,0,1,0,0
-"D'Attoria V, R.",PHI,3,82,0,45,0,0,0,0
-"Panda, F.",PHI,1,30,20,30,15,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kane-Maika'i, K.",HON,1,17,41,17,18,0,0,5,8,23
+"Arianlacher, M.",HON,1,2,0,2,0,0,0,0,8,23
+"Dawkins, S.",HON,2,123,0,108,0,1,0,0,8,23
+"D'Attoria V, R.",PHI,3,82,0,45,0,0,0,0,8,23
+"Panda, F.",PHI,1,30,20,30,15,0,0,2,8,23

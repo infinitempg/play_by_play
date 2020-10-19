@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cansino, D.",COL,26,98,3.8,12,1
-"Grau, M.",COL,2,7,3.5,6,0
-"McCormick, M.",COL,1,6,6,6,0
-"Zephyrous, S.",OCO,9,37,4.1,12,0
-"Adams, R.",OCO,7,48,6.9,14,0
-"Broxton, J.",OCO,1,0,0,0,0
-"Showbiz, G.",OCO,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cansino, D.",COL,26,98,3.8,12,1,14,11
+"Grau, M.",COL,2,7,3.5,6,0,14,11
+"McCormick, M.",COL,1,6,6,6,0,14,11
+"Zephyrous, S.",OCO,9,37,4.1,12,0,14,11
+"Adams, R.",OCO,7,48,6.9,14,0,14,11
+"Broxton, J.",OCO,1,0,0,0,0,14,11
+"Showbiz, G.",OCO,1,0,0,0,0,14,11

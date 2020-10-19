@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Maximus III, B.",NO,"[23, 37]",291,12.7,4,0,122.7
-"Applehort, R.",COL,"[30, 41]",355,11.8,1,0,107.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Maximus III, B.",NO,291,12.7,4,0,122.7,23,30,7,8
+"Applehort, R.",COL,355,11.8,1,0,107.3,23,30,7,8

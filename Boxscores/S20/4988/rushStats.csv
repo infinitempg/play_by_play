@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Toriki, M.",NO,8,30,3.8,8,0
-"Gump, F.",NO,7,27,3.9,8,2
-"Francisco, S.",NO,1,4,4,4,0
-"Tyerucker, Q.",SJS,25,98,3.9,14,0
-"Wright, D.",SJS,9,28,3.1,10,1
-"Boija, F.",SJS,1,0,0,0,0
-"Bot, B.",SJS,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Toriki, M.",NO,8,30,3.8,8,0,4,20
+"Gump, F.",NO,7,27,3.9,8,2,4,20
+"Francisco, S.",NO,1,4,4,4,0,4,20
+"Tyerucker, Q.",SJS,25,98,3.9,14,0,4,20
+"Wright, D.",SJS,9,28,3.1,10,1,4,20
+"Boija, F.",SJS,1,0,0,0,0,4,20
+"Bot, B.",SJS,1,1,1,1,0,4,20

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,2,49,0,32,0,0,0,0
-"Oles, K.",SJS,4,61,0,29,0,0,0,0
-"Fyodorovich, V.",NO,2,14,12,8,11,0,0,5
-"Bayley, B.",NO,2,29,0,25,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,2,49,0,32,0,0,0,0,6,11
+"Oles, K.",SJS,4,61,0,29,0,0,0,0,6,11
+"Fyodorovich, V.",NO,2,14,12,8,11,0,0,5,6,11
+"Bayley, B.",NO,2,29,0,25,0,0,0,0,6,11

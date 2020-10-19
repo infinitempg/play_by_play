@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Armstrong, F.",OCO,12,67,5.6,19,1
-"Reed, A.",OCO,11,52,4.7,13,0
-"Allan, C.",OCO,7,30,4.3,11,1
-"Mendonca, M.",AUS,11,33,3,9,0
-"Owens, A.",AUS,9,39,4.3,12,0
-"Cole, E.",AUS,2,13,6.5,12,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Armstrong, F.",OCO,12,67,5.6,19,1,6,18
+"Reed, A.",OCO,11,52,4.7,13,0,6,18
+"Allan, C.",OCO,7,30,4.3,11,1,6,18
+"Mendonca, M.",AUS,11,33,3,9,0,6,18
+"Owens, A.",AUS,9,39,4.3,12,0,6,18
+"Cole, E.",AUS,2,13,6.5,12,0,6,18

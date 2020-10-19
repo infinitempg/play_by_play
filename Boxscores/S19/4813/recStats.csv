@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bigby, L.",BAL,6,53,8.8,16,2
-"Maddox, E.",BAL,5,111,22.2,41,0
-"Espeeyeeseetee, A.",BAL,5,43,8.6,15,1
-"Sauce, E.",BAL,3,22,7.3,13,0
-"Quinn, A.",BAL,2,40,20,22,0
-"Trevor, C.",BAL,1,8,8,8,0
-"L'Alto, V.",BAL,1,5,5,5,0
-"Irving, J.",AZ,6,55,9.2,33,0
-"Oles, K.",AZ,4,130,32.5,54,1
-"Donut, S.",AZ,4,48,12,24,0
-"Landers, B.",AZ,3,19,6.3,10,1
-"Ruff, R.",AZ,3,16,5.3,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bigby, L.",BAL,6,53,8.8,16,2,2,19
+"Maddox, E.",BAL,5,111,22.2,41,0,2,19
+"Espeeyeeseetee, A.",BAL,5,43,8.6,15,1,2,19
+"Sauce, E.",BAL,3,22,7.3,13,0,2,19
+"Quinn, A.",BAL,2,40,20,22,0,2,19
+"Trevor, C.",BAL,1,8,8,8,0,2,19
+"L'Alto, V.",BAL,1,5,5,5,0,2,19
+"Irving, J.",AZ,6,55,9.2,33,0,2,19
+"Oles, K.",AZ,4,130,32.5,54,1,2,19
+"Donut, S.",AZ,4,48,12,24,0,2,19
+"Landers, B.",AZ,3,19,6.3,10,1,2,19
+"Ruff, R.",AZ,3,16,5.3,6,0,2,19

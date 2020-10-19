@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",BAL,27,109,4,10,2
-"Gambino, C.",BAL,1,2,2,2,0
-"Wizardry, D.",YKW,27,115,4.3,11,1
-"Carrasco, T.",YKW,9,21,2.3,9,0
-"Applehort, R.",YKW,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",BAL,27,109,4,10,2,10,14
+"Gambino, C.",BAL,1,2,2,2,0,10,14
+"Wizardry, D.",YKW,27,115,4.3,11,1,10,14
+"Carrasco, T.",YKW,9,21,2.3,9,0,10,14
+"Applehort, R.",YKW,1,5,5,5,0,10,14

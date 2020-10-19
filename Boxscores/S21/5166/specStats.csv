@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Varga, N.",PHI,1,19,77,19,70,0,0,2
-"Vuxta, R.",PHI,5,93,0,26,0,0,0,0
-"Green, W.",BAL,4,124,0,47,0,0,0,0
-"Acho, M.",BAL,2,74,0,41,0,0,0,0
-"Kross, C.",BAL,1,-2,0,0,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Varga, N.",PHI,1,19,77,19,70,0,0,2,3,21
+"Vuxta, R.",PHI,5,93,0,26,0,0,0,0,3,21
+"Green, W.",BAL,4,124,0,47,0,0,0,0,3,21
+"Acho, M.",BAL,2,74,0,41,0,0,0,0,3,21
+"Kross, C.",BAL,1,-2,0,0,0,0,0,0,3,21

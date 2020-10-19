@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,22,77,3.5,11,1
-"Farlane, D.",COL,6,25,4.2,6,0
-"Pierno, N.",COL,6,26,4.3,16,0
-"Mackworthy, R.",ARI,17,73,4.3,14,1
-"Tuck, J.",ARI,7,21,3,7,0
-"Bronko, K.",ARI,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,22,77,3.5,11,1,13,4
+"Farlane, D.",COL,6,25,4.2,6,0,13,4
+"Pierno, N.",COL,6,26,4.3,16,0,13,4
+"Mackworthy, R.",ARI,17,73,4.3,14,1,13,4
+"Tuck, J.",ARI,7,21,3,7,0,13,4
+"Bronko, K.",ARI,1,0,0,0,0,13,4

@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Booter, A.",YKW,9,417,46.3,65,1
-"Kicksit, B.",COL,10,463,46.3,66,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Booter, A.",YKW,9,417,46.3,65,1,6,3
+"Kicksit, B.",COL,10,463,46.3,66,1,6,3

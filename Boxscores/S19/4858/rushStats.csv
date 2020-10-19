@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,33,143,4.3,14,1
-"Drake, O.",YKW,18,88,4.9,13,0
-"Hanyadi, M.",YKW,16,74,4.6,14,0
-"Bigsby, C.",YKW,1,9,9,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,33,143,4.3,14,1,11,19
+"Drake, O.",YKW,18,88,4.9,13,0,11,19
+"Hanyadi, M.",YKW,16,74,4.6,14,0,11,19
+"Bigsby, C.",YKW,1,9,9,9,0,11,19

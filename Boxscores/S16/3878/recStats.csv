@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Fyodorovich, V.",NO,5,117,23.4,35,0
-"Jones, B.",NO,4,145,36.2,93,0
-"Swift, T.",NO,4,16,4,5,0
-"Gump, F.",NO,3,27,9,13,1
-"Halvorsen, T.",NO,3,27,9,16,0
-"Rudd, E.",NO,2,8,4,7,0
-"Olsen, C.",SJS,8,112,14,40,1
-"Flash, X.",SJS,4,95,23.8,35,1
-"Wright, D.",SJS,3,17,5.7,7,0
-"Espeeyeeseetee, A.",SJS,1,32,32,32,0
-"Davenport, C.",SJS,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Fyodorovich, V.",NO,5,117,23.4,35,0,2,16
+"Jones, B.",NO,4,145,36.2,93,0,2,16
+"Swift, T.",NO,4,16,4,5,0,2,16
+"Gump, F.",NO,3,27,9,13,1,2,16
+"Halvorsen, T.",NO,3,27,9,16,0,2,16
+"Rudd, E.",NO,2,8,4,7,0,2,16
+"Olsen, C.",SJS,8,112,14,40,1,2,16
+"Flash, X.",SJS,4,95,23.8,35,1,2,16
+"Wright, D.",SJS,3,17,5.7,7,0,2,16
+"Espeeyeeseetee, A.",SJS,1,32,32,32,0,2,16
+"Davenport, C.",SJS,1,4,4,4,0,2,16

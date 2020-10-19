@@ -1,4 +1,4 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Orosz, C.",YKW,"[18, 30]",218,12.1,1,0,93.5
-"Holder, P.",YKW,"[3, 5]",65,21.7,0,0,104.2
-"Noble, L.",COL,"[13, 23]",177,13.6,1,0,95.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Orosz, C.",YKW,218,12.1,1,0,93.5,18,3,8,1
+"Holder, P.",YKW,65,21.7,0,0,104.2,18,3,8,1
+"Noble, L.",COL,177,13.6,1,0,95.7,18,3,8,1

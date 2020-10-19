@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Blewitt, I.",SJS,3,113,37.7,46,0
-"Walsh, B.",LV,3,118,39.3,44,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Blewitt, I.",SJS,3,113,37.7,46,0,10,3
+"Walsh, B.",LV,3,118,39.3,44,0,10,3

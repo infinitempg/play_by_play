@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Phelps, R.",OCO,6,112,18.7,29,0
-"Westfield, B.",OCO,6,101,16.8,29,0
-"Wright Jr, G.",OCO,6,24,4,9,0
-"Davidson, J.",OCO,4,24,6,11,0
-"Jenkins, L.",OCO,3,19,6.3,9,0
-"Wright, O.",OCO,3,12,4,7,0
-"Harris, J.",OCO,2,20,10,15,0
-"Jefferson, L.",ARI,2,51,25.5,35,1
-"Stormblessed, N.",ARI,2,44,22,40,1
-"Tkachuk, J.",ARI,2,12,6,6,0
-"Bronko, K.",ARI,1,20,20,20,0
-"Newman, M.",ARI,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Phelps, R.",OCO,6,112,18.7,29,0,1,1
+"Westfield, B.",OCO,6,101,16.8,29,0,1,1
+"Wright Jr, G.",OCO,6,24,4,9,0,1,1
+"Davidson, J.",OCO,4,24,6,11,0,1,1
+"Jenkins, L.",OCO,3,19,6.3,9,0,1,1
+"Wright, O.",OCO,3,12,4,7,0,1,1
+"Harris, J.",OCO,2,20,10,15,0,1,1
+"Jefferson, L.",ARI,2,51,25.5,35,1,1,1
+"Stormblessed, N.",ARI,2,44,22,40,1,1,1
+"Tkachuk, J.",ARI,2,12,6,6,0,1,1
+"Bronko, K.",ARI,1,20,20,20,0,1,1
+"Newman, M.",ARI,1,2,2,2,0,1,1

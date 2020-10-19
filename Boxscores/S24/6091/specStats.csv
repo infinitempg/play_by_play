@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,0,0,26,0,16,0,0,2
-"Purchase, L.",COL,1,11,0,11,0,0,0,0
-"Torenson, S.",PHI,1,31,0,31,0,0,0,0
-"Panda, F.",PHI,4,53,22,19,16,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,0,0,26,0,16,0,0,2,16,24
+"Purchase, L.",COL,1,11,0,11,0,0,0,0,16,24
+"Torenson, S.",PHI,1,31,0,31,0,0,0,0,16,24
+"Panda, F.",PHI,4,53,22,19,16,0,0,4,16,24

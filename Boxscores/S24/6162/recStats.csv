@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Lim, W.",COL,5,93,18.6,36,0
-"Kingston, J.",COL,4,45,11.2,25,1
-"Gilbert, R.",COL,4,15,3.8,6,0
-"Jenkins, L.",COL,2,43,21.5,30,0
-"Owens, A.",COL,2,9,4.5,5,0
-"Sauce, E.",COL,1,14,14,14,0
-"Quinn, A.",BAL,5,89,17.8,29,1
-"Kross, C.",BAL,3,37,12.3,19,0
-"Kaepercolin, N.",BAL,2,19,9.5,10,0
-"Lewandowski, J.",BAL,1,26,26,26,0
-"Skuff, R.",BAL,1,15,15,15,0
-"Williams, D.",BAL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Lim, W.",COL,5,93,18.6,36,0,4,24
+"Kingston, J.",COL,4,45,11.2,25,1,4,24
+"Gilbert, R.",COL,4,15,3.8,6,0,4,24
+"Jenkins, L.",COL,2,43,21.5,30,0,4,24
+"Owens, A.",COL,2,9,4.5,5,0,4,24
+"Sauce, E.",COL,1,14,14,14,0,4,24
+"Quinn, A.",BAL,5,89,17.8,29,1,4,24
+"Kross, C.",BAL,3,37,12.3,19,0,4,24
+"Kaepercolin, N.",BAL,2,19,9.5,10,0,4,24
+"Lewandowski, J.",BAL,1,26,26,26,0,4,24
+"Skuff, R.",BAL,1,15,15,15,0,4,24
+"Williams, D.",BAL,1,5,5,5,0,4,24

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,4,125,0,68,0,0,0,0
-"Hayden, A.",AZ,4,65,17,24,17,0,0,1
-"Oakes, B.",LV,2,62,0,34,0,0,0,0
-"Evans, D.",LV,7,200,52,99,21,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,4,125,0,68,0,0,0,0,4,5
+"Hayden, A.",AZ,4,65,17,24,17,0,0,1,4,5
+"Oakes, B.",LV,2,62,0,34,0,0,0,0,4,5
+"Evans, D.",LV,7,200,52,99,21,0,0,3,4,5

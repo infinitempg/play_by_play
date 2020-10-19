@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kroetch, D.",PHI,18,66,3.7,16,2
-"O'Connell, K.",PHI,4,8,2,5,0
-"Oles, T.",PHI,2,-5,-2.5,0,0
-"Taylor, O.",BAL,24,72,3,10,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kroetch, D.",PHI,18,66,3.7,16,2,13,6
+"O'Connell, K.",PHI,4,8,2,5,0,13,6
+"Oles, T.",PHI,2,-5,-2.5,0,0,13,6
+"Taylor, O.",BAL,24,72,3,10,1,13,6

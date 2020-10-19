@@ -1,4 +1,4 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Boss, M.",OCO,"[14, 23]",157,11.2,3,1,102.7
-"Hunt, E.",OCO,"[1, 5]",8,8,0,0,39.6
-"Christ, J.",SJS,"[15, 28]",155,10.3,0,1,54.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Boss, M.",OCO,157,11.2,3,1,102.7,14,1,8,1
+"Hunt, E.",OCO,8,8,0,0,39.6,14,1,8,1
+"Christ, J.",SJS,155,10.3,0,1,54.9,14,1,8,1

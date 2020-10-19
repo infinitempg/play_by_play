@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Noble, L.",PHI,"[14, 26]",120,8.6,0,1,50.2
-"Fitzpatrick, K.",AZ,"[27, 41]",314,11.6,1,0,97
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Noble, L.",PHI,120,8.6,0,1,50.2,14,27,4,10
+"Fitzpatrick, K.",AZ,314,11.6,1,0,97,14,27,4,10

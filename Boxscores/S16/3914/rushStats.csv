@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",CHI,28,109,3.9,13,0
-"Danielsson, A.",CHI,5,25,5,12,0
-"Jenkins, R.",CHI,2,11,5.5,9,0
-"Hank, F.",PHI,13,46,3.5,10,0
-"Jones, V.",PHI,10,32,3.2,10,0
-"Falconi, A.",PHI,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",CHI,28,109,3.9,13,0,10,16
+"Danielsson, A.",CHI,5,25,5,12,0,10,16
+"Jenkins, R.",CHI,2,11,5.5,9,0,10,16
+"Hank, F.",PHI,13,46,3.5,10,0,10,16
+"Jones, V.",PHI,10,32,3.2,10,0,10,16
+"Falconi, A.",PHI,1,4,4,4,0,10,16

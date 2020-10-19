@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Miller, H.",COL,4,111,27.8,48,0
-"Aaron, D.",COL,4,69,17.2,37,1
-"Grau, M.",COL,4,57,14.2,22,1
-"Chipmunk, A.",COL,4,53,13.2,21,0
-"Wheat, B.",COL,3,64,21.3,36,1
-"Kroetch, D.",COL,1,8,8,8,0
-"Cox, J.",COL,1,7,7,7,0
-"McPoyal, G.",YKW,7,96,13.7,29,1
-"Kennedy, E.",YKW,7,72,10.3,18,0
-"Lavelle, D.",YKW,5,68,13.6,35,0
-"Harris Jr., F.",YKW,3,21,7,11,0
-"Gore, B.",YKW,2,5,2.5,3,0
-"Rainey, R.",YKW,1,-2,-2,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Miller, H.",COL,4,111,27.8,48,0,6,9
+"Aaron, D.",COL,4,69,17.2,37,1,6,9
+"Grau, M.",COL,4,57,14.2,22,1,6,9
+"Chipmunk, A.",COL,4,53,13.2,21,0,6,9
+"Wheat, B.",COL,3,64,21.3,36,1,6,9
+"Kroetch, D.",COL,1,8,8,8,0,6,9
+"Cox, J.",COL,1,7,7,7,0,6,9
+"McPoyal, G.",YKW,7,96,13.7,29,1,6,9
+"Kennedy, E.",YKW,7,72,10.3,18,0,6,9
+"Lavelle, D.",YKW,5,68,13.6,35,0,6,9
+"Harris Jr., F.",YKW,3,21,7,11,0,6,9
+"Gore, B.",YKW,2,5,2.5,3,0,6,9
+"Rainey, R.",YKW,1,-2,-2,0,0,6,9

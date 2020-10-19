@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Booter, F.",LV,6,36,6,12,0
-"Evans, D.",LV,4,102,25.5,54,2
-"Baker, J.",LV,3,41,13.7,16,0
-"Askins, J.",LV,3,38,12.7,25,0
-"Cobb, K.",LV,2,27,13.5,17,0
-"O'Sullivan, C.",LV,2,21,10.5,15,0
-"Tenzini, G.",LV,2,6,3,4,0
-"Omega, K.",LV,1,2,2,2,1
-"Tanner, C.",SJS,9,71,7.9,19,0
-"Jackson, M.",SJS,6,104,17.3,34,1
-"Smallwood, D.",SJS,5,61,12.2,27,0
-"Weston, S.",SJS,3,126,42,69,0
-"Diaz, D.",SJS,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Booter, F.",LV,6,36,6,12,0,7,5
+"Evans, D.",LV,4,102,25.5,54,2,7,5
+"Baker, J.",LV,3,41,13.7,16,0,7,5
+"Askins, J.",LV,3,38,12.7,25,0,7,5
+"Cobb, K.",LV,2,27,13.5,17,0,7,5
+"O'Sullivan, C.",LV,2,21,10.5,15,0,7,5
+"Tenzini, G.",LV,2,6,3,4,0,7,5
+"Omega, K.",LV,1,2,2,2,1,7,5
+"Tanner, C.",SJS,9,71,7.9,19,0,7,5
+"Jackson, M.",SJS,6,104,17.3,34,1,7,5
+"Smallwood, D.",SJS,5,61,12.2,27,0,7,5
+"Weston, S.",SJS,3,126,42,69,0,7,5
+"Diaz, D.",SJS,1,0,0,0,0,7,5

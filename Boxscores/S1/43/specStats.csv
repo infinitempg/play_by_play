@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,0,0,16,0,9,0,0,2
-"Wiley, D.",SJS,4,58,0,27,0,0,0,0
-"Wright, O.",OCO,1,63,75,63,16,0,0,7
-"Jenkins, L.",OCO,2,25,0,18,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,0,0,16,0,9,0,0,2,4,1
+"Wiley, D.",SJS,4,58,0,27,0,0,0,0,4,1
+"Wright, O.",OCO,1,63,75,63,16,0,0,7,4,1
+"Jenkins, L.",OCO,2,25,0,18,0,0,0,0,4,1

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"LeClair, A.",BAL,7,95,13.6,34,2
-"Taylor, O.",BAL,6,53,8.8,18,0
-"Willie, T.",BAL,5,105,21,33,1
-"Wachter, J.",BAL,4,29,7.2,12,0
-"Stormblessed, N.",BAL,2,10,5,8,0
-"DiMirio, P.",PHI,8,71,8.9,16,1
-"Garden, J.",PHI,6,142,23.7,52,0
-"North, F.",PHI,3,34,11.3,22,0
-"Kroetch, D.",PHI,3,23,7.7,11,0
-"Storm, B.",PHI,2,9,4.5,8,0
-"O'Connell, K.",PHI,2,5,2.5,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"LeClair, A.",BAL,7,95,13.6,34,2,2,6
+"Taylor, O.",BAL,6,53,8.8,18,0,2,6
+"Willie, T.",BAL,5,105,21,33,1,2,6
+"Wachter, J.",BAL,4,29,7.2,12,0,2,6
+"Stormblessed, N.",BAL,2,10,5,8,0,2,6
+"DiMirio, P.",PHI,8,71,8.9,16,1,2,6
+"Garden, J.",PHI,6,142,23.7,52,0,2,6
+"North, F.",PHI,3,34,11.3,22,0,2,6
+"Kroetch, D.",PHI,3,23,7.7,11,0,2,6
+"Storm, B.",PHI,2,9,4.5,8,0,2,6
+"O'Connell, K.",PHI,2,5,2.5,3,0,2,6

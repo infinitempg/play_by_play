@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Podolak, J.",HON,6,58,9.7,29,0
-"Kane-Maika'i, K.",HON,6,45,7.5,20,0
-"Clay, J.",HON,5,27,5.4,8,0
-"Alexander, W.",HON,2,5,2.5,5,0
-"O'Leary, S.",CHI,6,111,18.5,40,0
-"Davis, J.",CHI,5,89,17.8,28,0
-"Hayes, V.",CHI,5,24,4.8,11,0
-"Tirtawidjaja, J.",CHI,2,12,6,7,0
-"Hank, F.",CHI,2,8,4,6,0
-"Allan, C.",CHI,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Podolak, J.",HON,6,58,9.7,29,0,7,22
+"Kane-Maika'i, K.",HON,6,45,7.5,20,0,7,22
+"Clay, J.",HON,5,27,5.4,8,0,7,22
+"Alexander, W.",HON,2,5,2.5,5,0,7,22
+"O'Leary, S.",CHI,6,111,18.5,40,0,7,22
+"Davis, J.",CHI,5,89,17.8,28,0,7,22
+"Hayes, V.",CHI,5,24,4.8,11,0,7,22
+"Tirtawidjaja, J.",CHI,2,12,6,7,0,7,22
+"Hank, F.",CHI,2,8,4,6,0,7,22
+"Allan, C.",CHI,1,5,5,5,0,7,22

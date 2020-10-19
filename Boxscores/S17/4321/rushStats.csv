@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Marshall, M.",YKW,13,57,4.4,10,0
-"Canton, J.",YKW,5,12,2.4,5,0
-"Bigsby, C.",YKW,1,7,7,7,0
-"Gump, F.",NO,13,54,4.2,12,1
-"Swift, T.",NO,7,22,3.1,7,0
-"Francisco, S.",NO,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Marshall, M.",YKW,13,57,4.4,10,0,7,17
+"Canton, J.",YKW,5,12,2.4,5,0,7,17
+"Bigsby, C.",YKW,1,7,7,7,0,7,17
+"Gump, F.",NO,13,54,4.2,12,1,7,17
+"Swift, T.",NO,7,22,3.1,7,0,7,17
+"Francisco, S.",NO,1,-1,-1,0,0,7,17

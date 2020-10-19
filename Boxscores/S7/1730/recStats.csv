@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",PHI,8,67,8.4,12,1
-"Garden, J.",PHI,6,114,19,45,1
-"Bush, C.",PHI,2,21,10.5,14,0
-"Hendrix, K.",PHI,2,15,7.5,9,0
-"North, F.",PHI,2,15,7.5,8,0
-"Kroetch, D.",PHI,2,8,4,6,0
-"Storm, B.",PHI,1,8,8,8,0
-"Yates, J.",OCO,7,101,14.4,39,0
-"Westfield, B.",OCO,6,109,18.2,37,1
-"O'Sullivan, S.",OCO,6,33,5.5,7,0
-"Phelps, R.",OCO,4,40,10,15,0
-"Burnsman, E.",OCO,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",PHI,8,67,8.4,12,1,1,7
+"Garden, J.",PHI,6,114,19,45,1,1,7
+"Bush, C.",PHI,2,21,10.5,14,0,1,7
+"Hendrix, K.",PHI,2,15,7.5,9,0,1,7
+"North, F.",PHI,2,15,7.5,8,0,1,7
+"Kroetch, D.",PHI,2,8,4,6,0,1,7
+"Storm, B.",PHI,1,8,8,8,0,1,7
+"Yates, J.",OCO,7,101,14.4,39,0,1,7
+"Westfield, B.",OCO,6,109,18.2,37,1,1,7
+"O'Sullivan, S.",OCO,6,33,5.5,7,0,1,7
+"Phelps, R.",OCO,4,40,10,15,0,1,7
+"Burnsman, E.",OCO,1,3,3,3,0,1,7

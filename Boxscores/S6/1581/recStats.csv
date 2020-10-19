@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Law, C.",AZ,9,91,10.1,23,1
-"Browning, B.",AZ,6,88,14.7,25,0
-"Chess, C.",AZ,4,43,10.8,12,0
-"Christmas, C.",AZ,4,29,7.2,12,0
-"Mackworthy, R.",AZ,2,17,8.5,9,0
-"Hayden, A.",AZ,1,11,11,11,0
-"Jackson, M.",SJS,6,125,20.8,45,0
-"Weston, S.",SJS,6,85,14.2,19,1
-"Smallwood, D.",SJS,6,83,13.8,39,0
-"Diaz, D.",SJS,2,13,6.5,10,0
-"Bottles, B.",SJS,1,12,12,12,0
-"Catchem8, Z.",SJS,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Law, C.",AZ,9,91,10.1,23,1,1,6
+"Browning, B.",AZ,6,88,14.7,25,0,1,6
+"Chess, C.",AZ,4,43,10.8,12,0,1,6
+"Christmas, C.",AZ,4,29,7.2,12,0,1,6
+"Mackworthy, R.",AZ,2,17,8.5,9,0,1,6
+"Hayden, A.",AZ,1,11,11,11,0,1,6
+"Jackson, M.",SJS,6,125,20.8,45,0,1,6
+"Weston, S.",SJS,6,85,14.2,19,1,1,6
+"Smallwood, D.",SJS,6,83,13.8,39,0,1,6
+"Diaz, D.",SJS,2,13,6.5,10,0,1,6
+"Bottles, B.",SJS,1,12,12,12,0,1,6
+"Catchem8, Z.",SJS,1,7,7,7,0,1,6

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oakes, B.",LV,3,93,0,55,0,0,0,0
-"Evans, D.",LV,4,74,29,34,18,0,0,5
-"Westfield, B.",OCO,3,65,84,37,69,0,1,3
-"Phelps, R.",OCO,2,51,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oakes, B.",LV,3,93,0,55,0,0,0,0,3,5
+"Evans, D.",LV,4,74,29,34,18,0,0,5,3,5
+"Westfield, B.",OCO,3,65,84,37,69,0,1,3,3,5
+"Phelps, R.",OCO,2,51,0,31,0,0,0,0,3,5

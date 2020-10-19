@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nuck, B.",YKW,25,96,3.8,11,0
-"Kennedy, E.",YKW,5,18,3.6,8,0
-"Akselsen, M.",YKW,4,11,2.8,7,0
-"Yates, J.",SJS,13,31,2.4,5,0
-"Diaz, D.",SJS,3,3,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nuck, B.",YKW,25,96,3.8,11,0,12,4
+"Kennedy, E.",YKW,5,18,3.6,8,0,12,4
+"Akselsen, M.",YKW,4,11,2.8,7,0,12,4
+"Yates, J.",SJS,13,31,2.4,5,0,12,4
+"Diaz, D.",SJS,3,3,1,1,0,12,4

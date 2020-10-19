@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Chan, R.",SAR,13,52,4,9,0
-"Back, R.",SAR,7,29,4.1,9,0
-"Banks II, D.",SAR,5,31,6.2,12,0
-"Hanyadi, M.",YKW,28,116,4.1,10,0
-"Skyline, A.",YKW,9,40,4.4,11,0
-"Jack, C.",YKW,4,8,2,6,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Chan, R.",SAR,13,52,4,9,0,4,24
+"Back, R.",SAR,7,29,4.1,9,0,4,24
+"Banks II, D.",SAR,5,31,6.2,12,0,4,24
+"Hanyadi, M.",YKW,28,116,4.1,10,0,4,24
+"Skyline, A.",YKW,9,40,4.4,11,0,4,24
+"Jack, C.",YKW,4,8,2,6,1,4,24

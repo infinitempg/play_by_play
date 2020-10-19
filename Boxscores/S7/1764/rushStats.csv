@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Joyce, S.",COL,15,30,2,7,0
-"Nuck, B.",COL,12,49,4.1,9,0
-"Applehort, R.",COL,2,-2,-1,0,0
-"Kroetch, D.",PHI,10,83,8.3,19,0
-"Bush, C.",PHI,9,31,3.4,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Joyce, S.",COL,15,30,2,7,0,10,7
+"Nuck, B.",COL,12,49,4.1,9,0,10,7
+"Applehort, R.",COL,2,-2,-1,0,0,10,7
+"Kroetch, D.",PHI,10,83,8.3,19,0,10,7
+"Bush, C.",PHI,9,31,3.4,9,0,10,7

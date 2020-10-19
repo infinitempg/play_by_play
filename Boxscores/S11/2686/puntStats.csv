@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Meoff, B.",NO,7,334,47.7,57,1
-"Leg, P.",COL,5,262,52.4,64,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Meoff, B.",NO,7,334,47.7,57,1,4,11
+"Leg, P.",COL,5,262,52.4,64,0,4,11

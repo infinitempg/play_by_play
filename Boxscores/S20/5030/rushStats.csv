@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Danielsson, A.",CHI,14,89,6.4,14,1
-"Jenkins, R.",CHI,2,3,1.5,2,1
-"Utler, J.",CHI,2,16,8,12,0
-"Mendonca, M.",AUS,12,48,4,13,0
-"Cole, E.",AUS,5,21,4.2,8,0
-"Blockit, I.",AUS,1,11,11,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Danielsson, A.",CHI,14,89,6.4,14,1,12,20
+"Jenkins, R.",CHI,2,3,1.5,2,1,12,20
+"Utler, J.",CHI,2,16,8,12,0,12,20
+"Mendonca, M.",AUS,12,48,4,13,0,12,20
+"Cole, E.",AUS,5,21,4.2,8,0,12,20
+"Blockit, I.",AUS,1,11,11,11,0,12,20

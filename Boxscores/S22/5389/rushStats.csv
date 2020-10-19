@@ -1,9 +1,9 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",BAL,15,72,4.8,10,0
-"Williams, D.",BAL,14,56,4,10,1
-"Skuff, R.",BAL,2,9,4.5,6,0
-"Fujiwara, C.",BAL,1,-1,-1,0,0
-"Tyerucker, Q.",SJS,21,101,4.8,11,0
-"Cardrissian, R.",SJS,13,58,4.5,15,0
-"Bot, B.",SJS,1,0,0,0,0
-"Wright, D.",SJS,1,10,10,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",BAL,15,72,4.8,10,0,6,22
+"Williams, D.",BAL,14,56,4,10,1,6,22
+"Skuff, R.",BAL,2,9,4.5,6,0,6,22
+"Fujiwara, C.",BAL,1,-1,-1,0,0,6,22
+"Tyerucker, Q.",SJS,21,101,4.8,11,0,6,22
+"Cardrissian, R.",SJS,13,58,4.5,15,0,6,22
+"Bot, B.",SJS,1,0,0,0,0,6,22
+"Wright, D.",SJS,1,10,10,10,0,6,22

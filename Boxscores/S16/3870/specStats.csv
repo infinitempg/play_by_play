@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garnett, L.",PHI,2,72,51,43,14,0,0,5
-"von Matt, J.",PHI,1,31,0,31,0,0,0,0
-"Bishop, J.",COL,3,89,0,40,0,0,0,0
-"Montgomery, B.",COL,4,85,0,36,0,0,0,0
-"Lejune, L.",COL,0,0,-2,0,0,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garnett, L.",PHI,2,72,51,43,14,0,0,5,1,16
+"von Matt, J.",PHI,1,31,0,31,0,0,0,0,1,16
+"Bishop, J.",COL,3,89,0,40,0,0,0,0,1,16
+"Montgomery, B.",COL,4,85,0,36,0,0,0,0,1,16
+"Lejune, L.",COL,0,0,-2,0,0,0,0,1,1,16

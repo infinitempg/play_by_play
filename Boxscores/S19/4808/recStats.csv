@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Forty-Two, L.",COL,4,38,9.5,24,1
-"Owens, A.",COL,4,25,6.2,9,0
-"McMahon, J.",COL,3,46,15.3,31,1
-"Vincent, M.",COL,2,18,9,15,0
-"King, A.",COL,2,14,7,7,0
-"Bishop, J.",COL,1,42,42,42,0
-"Anoa'i, D.",AUS,6,75,12.5,27,0
-"Larson, P.",AUS,6,28,4.7,6,0
-"Tidwell, R.",AUS,4,122,30.5,64,1
-"Blockerman, F.",AUS,4,27,6.8,10,0
-"Mendonca, M.",AUS,4,27,6.8,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Forty-Two, L.",COL,4,38,9.5,24,1,1,19
+"Owens, A.",COL,4,25,6.2,9,0,1,19
+"McMahon, J.",COL,3,46,15.3,31,1,1,19
+"Vincent, M.",COL,2,18,9,15,0,1,19
+"King, A.",COL,2,14,7,7,0,1,19
+"Bishop, J.",COL,1,42,42,42,0,1,19
+"Anoa'i, D.",AUS,6,75,12.5,27,0,1,19
+"Larson, P.",AUS,6,28,4.7,6,0,1,19
+"Tidwell, R.",AUS,4,122,30.5,64,1,1,19
+"Blockerman, F.",AUS,4,27,6.8,10,0,1,19
+"Mendonca, M.",AUS,4,27,6.8,10,0,1,19

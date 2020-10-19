@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,18,93,5.2,11,0
-"Skyline, A.",YKW,17,50,2.9,9,0
-"Bigsby, C.",YKW,2,24,12,22,0
-"Tirtawidjaja, J.",CHI,19,79,4.2,10,0
-"Hank, F.",CHI,9,24,2.7,6,0
-"Allan, C.",CHI,1,3,3,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,18,93,5.2,11,0,3,22
+"Skyline, A.",YKW,17,50,2.9,9,0,3,22
+"Bigsby, C.",YKW,2,24,12,22,0,3,22
+"Tirtawidjaja, J.",CHI,19,79,4.2,10,0,3,22
+"Hank, F.",CHI,9,24,2.7,6,0,3,22
+"Allan, C.",CHI,1,3,3,3,0,3,22

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"McCormick, M.",COL,"[24, 52]",321,13.4,1,3,48.6
-"Showbiz, G.",OCO,"[21, 41]",314,15,3,1,90.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"McCormick, M.",COL,321,13.4,1,3,48.6,24,21,14,14
+"Showbiz, G.",OCO,314,15,3,1,90.9,24,21,14,14

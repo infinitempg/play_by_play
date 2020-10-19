@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,3,53,34,35,19,0,0,3
-"Yates, J.",OCO,1,34,0,34,0,0,0,0
-"Oles, T.",PHI,3,100,0,40,0,0,0,0
-"Kroetch, D.",PHI,2,15,0,10,0,0,0,0
-"Cushing, K.",PHI,0,0,34,0,17,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,3,53,34,35,19,0,0,3,7,5
+"Yates, J.",OCO,1,34,0,34,0,0,0,0,7,5
+"Oles, T.",PHI,3,100,0,40,0,0,0,0,7,5
+"Kroetch, D.",PHI,2,15,0,10,0,0,0,0,7,5
+"Cushing, K.",PHI,0,0,34,0,17,0,0,3,7,5

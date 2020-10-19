@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",BAL,27,101,3.7,10,1
-"Adams, R.",OCO,12,55,4.6,17,0
-"Zephyrous, S.",OCO,8,31,3.9,11,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",BAL,27,101,3.7,10,1,2,14
+"Adams, R.",OCO,12,55,4.6,17,0,2,14
+"Zephyrous, S.",OCO,8,31,3.9,11,1,2,14

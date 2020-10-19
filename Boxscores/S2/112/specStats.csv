@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,0,0,16,0,18,0,0,2
-"Diaz, D.",SJS,3,71,0,30,0,0,0,0
-"Hayden, A.",COL,0,0,11,0,11,0,0,1
-"Tweed, B.",COL,1,7,0,7,0,0,0,0
-"Hendrix, K.",COL,2,11,6,11,6,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,0,0,16,0,18,0,0,2,11,2
+"Diaz, D.",SJS,3,71,0,30,0,0,0,0,11,2
+"Hayden, A.",COL,0,0,11,0,11,0,0,1,11,2
+"Tweed, B.",COL,1,7,0,7,0,0,0,0,11,2
+"Hendrix, K.",COL,2,11,6,11,6,0,0,1,11,2

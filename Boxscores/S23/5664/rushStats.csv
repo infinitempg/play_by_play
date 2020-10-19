@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Back, R.",SAR,17,70,4.1,8,0
-"Frost, D.",SAR,9,33,3.7,10,1
-"Banks II, D.",SAR,7,15,2.1,7,1
-"Boyd, C.",SAR,1,1,1,1,0
-"Tirtawidjaja, J.",CHI,16,73,4.6,9,1
-"Hank, F.",CHI,10,46,4.6,8,2
-"O'Donnell, G.",CHI,6,41,6.8,21,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Back, R.",SAR,17,70,4.1,8,0,12,23
+"Frost, D.",SAR,9,33,3.7,10,1,12,23
+"Banks II, D.",SAR,7,15,2.1,7,1,12,23
+"Boyd, C.",SAR,1,1,1,1,0,12,23
+"Tirtawidjaja, J.",CHI,16,73,4.6,9,1,12,23
+"Hank, F.",CHI,10,46,4.6,8,2,12,23
+"O'Donnell, G.",CHI,6,41,6.8,21,0,12,23

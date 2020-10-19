@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blaze, J.",OCO,7,69,9.9,18,0
-"Sunnycursed, N.",OCO,6,126,21,42,0
-"Anoa'i, D.",OCO,6,97,16.2,25,1
-"Crush, C.",OCO,3,91,30.3,43,0
-"Zephyrous, S.",OCO,3,11,3.7,7,0
-"McPoyal, G.",OCO,2,9,4.5,6,0
-"Jones, V.",PHI,6,18,3,7,0
-"von Matt, J.",PHI,5,102,20.4,39,1
-"Brannigan, Z.",PHI,5,28,5.6,8,0
-"Bush, C.",PHI,4,39,9.8,13,0
-"Hank, F.",PHI,2,14,7,9,0
-"Batoff, R.",PHI,1,9,9,9,0
-"Varga, N.",PHI,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blaze, J.",OCO,7,69,9.9,18,0,3,15
+"Sunnycursed, N.",OCO,6,126,21,42,0,3,15
+"Anoa'i, D.",OCO,6,97,16.2,25,1,3,15
+"Crush, C.",OCO,3,91,30.3,43,0,3,15
+"Zephyrous, S.",OCO,3,11,3.7,7,0,3,15
+"McPoyal, G.",OCO,2,9,4.5,6,0,3,15
+"Jones, V.",PHI,6,18,3,7,0,3,15
+"von Matt, J.",PHI,5,102,20.4,39,1,3,15
+"Brannigan, Z.",PHI,5,28,5.6,8,0,3,15
+"Bush, C.",PHI,4,39,9.8,13,0,3,15
+"Hank, F.",PHI,2,14,7,9,0,3,15
+"Batoff, R.",PHI,1,9,9,9,0,3,15
+"Varga, N.",PHI,1,5,5,5,0,3,15

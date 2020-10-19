@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,24,80,3.3,13,0
-"Dotson, F.",PHI,13,51,3.9,7,1
-"Phoenix, B.",PHI,1,13,13,13,0
-"Tirtawidjaja, J.",CHI,30,123,4.1,15,0
-"Hank, F.",CHI,5,13,2.6,6,0
-"O'Donnell, G.",CHI,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,24,80,3.3,13,0,2,23
+"Dotson, F.",PHI,13,51,3.9,7,1,2,23
+"Phoenix, B.",PHI,1,13,13,13,0,2,23
+"Tirtawidjaja, J.",CHI,30,123,4.1,15,0,2,23
+"Hank, F.",CHI,5,13,2.6,6,0,2,23
+"O'Donnell, G.",CHI,1,1,1,1,0,2,23

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"King, D.",BER,10,55,5.5,15,1
-"Petrongolo, J.",BER,8,29,3.6,7,0
-"Kaepercolin, N.",BER,2,14,7,11,0
-"Fukushu, M.",BAL,23,76,3.3,10,0
-"Rogers, C.",BAL,11,58,5.3,12,1
-"Fujiwara, C.",BAL,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"King, D.",BER,10,55,5.5,15,1,5,25
+"Petrongolo, J.",BER,8,29,3.6,7,0,5,25
+"Kaepercolin, N.",BER,2,14,7,11,0,5,25
+"Fukushu, M.",BAL,23,76,3.3,10,0,5,25
+"Rogers, C.",BAL,11,58,5.3,12,1,5,25
+"Fujiwara, C.",BAL,1,4,4,4,0,5,25

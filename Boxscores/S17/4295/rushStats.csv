@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,28,107,3.8,10,0
-"Armstrong, F.",OCO,1,1,1,1,0
-"Pitcher, A.",OCO,1,11,11,11,0
-"Marshall, M.",YKW,9,47,5.2,9,2
-"Canton, J.",YKW,4,10,2.5,6,0
-"Bigsby, C.",YKW,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,28,107,3.8,10,0,2,17
+"Armstrong, F.",OCO,1,1,1,1,0,2,17
+"Pitcher, A.",OCO,1,11,11,11,0,2,17
+"Marshall, M.",YKW,9,47,5.2,9,2,2,17
+"Canton, J.",YKW,4,10,2.5,6,0,2,17
+"Bigsby, C.",YKW,1,0,0,0,0,2,17

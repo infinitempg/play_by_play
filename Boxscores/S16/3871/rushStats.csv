@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,22,106,4.8,14,1
-"Reese, A.",AZ,3,21,7,22,0
-"Zephyrous, S.",AZ,3,7,2.3,7,0
-"Murphy, J.",AZ,2,8,4,6,0
-"Torenson, S.",CHI,20,96,4.8,17,2
-"Danielsson, A.",CHI,8,32,4,9,0
-"Jenkins, R.",CHI,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,22,106,4.8,14,1,1,16
+"Reese, A.",AZ,3,21,7,22,0,1,16
+"Zephyrous, S.",AZ,3,7,2.3,7,0,1,16
+"Murphy, J.",AZ,2,8,4,6,0,1,16
+"Torenson, S.",CHI,20,96,4.8,17,2,1,16
+"Danielsson, A.",CHI,8,32,4,9,0,1,16
+"Jenkins, R.",CHI,1,0,0,0,0,1,16

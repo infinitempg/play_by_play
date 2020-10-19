@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"O'Connell, K.",COL,9,42,4.7,14,0
-"Tiernan, L.",COL,8,22,2.8,13,0
-"Tweed, B.",COL,7,22,3.1,11,0
-"Noble, L.",COL,1,1,1,1,0
-"Nuck, B.",YKW,22,82,3.7,9,0
-"Stats, J.",YKW,5,16,3.2,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"O'Connell, K.",COL,9,42,4.7,14,0,14,1
+"Tiernan, L.",COL,8,22,2.8,13,0,14,1
+"Tweed, B.",COL,7,22,3.1,11,0,14,1
+"Noble, L.",COL,1,1,1,1,0,14,1
+"Nuck, B.",YKW,22,82,3.7,9,0,14,1
+"Stats, J.",YKW,5,16,3.2,7,0,14,1

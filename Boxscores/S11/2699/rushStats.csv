@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Carrasco, T.",YKW,20,119,6,38,0
-"Summer, A.",YKW,13,79,6.1,20,0
-"Taylor, O.",BAL,29,118,4.1,12,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Carrasco, T.",YKW,20,119,6,38,0,8,11
+"Summer, A.",YKW,13,79,6.1,20,0,8,11
+"Taylor, O.",BAL,29,118,4.1,12,0,8,11

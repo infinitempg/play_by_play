@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,2,67,0,34,0,0,0,0
-"Staley, T.",SJS,5,127,38,38,17,0,0,3
-"Reed, A.",OCO,3,53,0,25,0,0,0,0
-"Banks II, D.",OCO,0,0,32,0,17,0,0,4
-"Lattimer, A.",OCO,1,42,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,2,67,0,34,0,0,0,0,8,20
+"Staley, T.",SJS,5,127,38,38,17,0,0,3,8,20
+"Reed, A.",OCO,3,53,0,25,0,0,0,0,8,20
+"Banks II, D.",OCO,0,0,32,0,17,0,0,4,8,20
+"Lattimer, A.",OCO,1,42,0,42,0,0,0,0,8,20

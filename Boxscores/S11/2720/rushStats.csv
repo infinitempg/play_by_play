@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Carrasco, T.",YKW,21,112,5.3,15,1
-"Summer, A.",YKW,15,100,6.7,15,0
-"Gore, B.",YKW,1,2,2,2,0
-"Cansino, D.",COL,28,106,3.8,9,1
-"Grau, M.",COL,4,13,3.2,6,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Carrasco, T.",YKW,21,112,5.3,15,1,13,11
+"Summer, A.",YKW,15,100,6.7,15,0,13,11
+"Gore, B.",YKW,1,2,2,2,0,13,11
+"Cansino, D.",COL,28,106,3.8,9,1,13,11
+"Grau, M.",COL,4,13,3.2,6,1,13,11

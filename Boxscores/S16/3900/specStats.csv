@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Snuggles, J.",YKW,2,33,22,18,22,0,0,1
-"Grithead, D.",YKW,4,92,0,39,0,0,0,0
-"Oles, K.",CHI,3,58,19,46,14,0,0,2
-"Torenson, S.",CHI,1,1,0,1,0,0,0,0
-"Danielsson, A.",CHI,1,18,0,18,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Snuggles, J.",YKW,2,33,22,18,22,0,0,1,7,16
+"Grithead, D.",YKW,4,92,0,39,0,0,0,0,7,16
+"Oles, K.",CHI,3,58,19,46,14,0,0,2,7,16
+"Torenson, S.",CHI,1,1,0,1,0,0,0,0,7,16
+"Danielsson, A.",CHI,1,18,0,18,0,0,0,0,7,16

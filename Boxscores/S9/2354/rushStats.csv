@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",OCO,24,109,4.5,15,1
-"Boss, M.",OCO,2,-1,-0.5,2,0
-"Farlane, D.",PHI,14,56,4,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",OCO,24,109,4.5,15,1,10,9
+"Boss, M.",OCO,2,-1,-0.5,2,0,10,9
+"Farlane, D.",PHI,14,56,4,10,0,10,9

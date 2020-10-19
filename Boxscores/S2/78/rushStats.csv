@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jenkins, L.",OCO,19,50,2.6,7,0
-"Bowers Jr, V.",OCO,14,35,2.5,7,0
-"Boss, M.",OCO,2,-2,-1,0,0
-"Mackworthy, R.",ARI,26,103,4,10,0
-"Bronko, K.",ARI,3,16,5.3,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jenkins, L.",OCO,19,50,2.6,7,0,7,2
+"Bowers Jr, V.",OCO,14,35,2.5,7,0,7,2
+"Boss, M.",OCO,2,-2,-1,0,0,7,2
+"Mackworthy, R.",ARI,26,103,4,10,0,7,2
+"Bronko, K.",ARI,3,16,5.3,8,0,7,2

@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bush, C.",PHI,22,107,4.9,12,1
-"Farlane, D.",PHI,14,42,3,10,2
-"O'Connell, K.",PHI,1,7,7,7,0
-"Taylor, O.",BAL,18,87,4.8,14,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bush, C.",PHI,22,107,4.9,12,1,10,8
+"Farlane, D.",PHI,14,42,3,10,2,10,8
+"O'Connell, K.",PHI,1,7,7,7,0,10,8
+"Taylor, O.",BAL,18,87,4.8,14,1,10,8

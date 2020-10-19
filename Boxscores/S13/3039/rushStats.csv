@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,29,142,4.9,13,2
-"Wizardry, D.",YKW,14,72,5.1,11,0
-"Carrasco, T.",YKW,10,63,6.3,15,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,29,142,4.9,13,2,7,13
+"Wizardry, D.",YKW,14,72,5.1,11,0,7,13
+"Carrasco, T.",YKW,10,63,6.3,15,1,7,13

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Christ, J.",SJS,"[16, 34]",172,10.8,0,2,37.9
-"Falconi, A.",PHI,"[17, 32]",216,12.7,0,0,74.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Christ, J.",SJS,172,10.8,0,2,37.9,16,17,6,14
+"Falconi, A.",PHI,216,12.7,0,0,74.5,16,17,6,14

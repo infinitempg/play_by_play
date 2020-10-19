@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hank, F.",CHI,21,66,3.1,11,1
-"Tirtawidjaja, J.",CHI,20,72,3.6,9,2
-"O'Donnell, G.",CHI,2,-5,-2.5,0,0
-"Toriki, M.",NO,16,60,3.8,11,0
-"Gump, F.",NO,9,27,3,7,0
-"Francisco, S.",NO,4,8,2,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hank, F.",CHI,21,66,3.1,11,1,11,23
+"Tirtawidjaja, J.",CHI,20,72,3.6,9,2,11,23
+"O'Donnell, G.",CHI,2,-5,-2.5,0,0,11,23
+"Toriki, M.",NO,16,60,3.8,11,0,11,23
+"Gump, F.",NO,9,27,3,7,0,11,23
+"Francisco, S.",NO,4,8,2,11,0,11,23

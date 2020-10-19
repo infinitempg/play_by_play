@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Crisco, A.",AUS,9,372,41.3,66,1
-"Smalls, D.",YKW,10,473,47.3,63,3
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Crisco, A.",AUS,9,372,41.3,66,1,9,23
+"Smalls, D.",YKW,10,473,47.3,63,3,9,23

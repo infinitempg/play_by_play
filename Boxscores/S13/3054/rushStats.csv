@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",SJS,21,81,3.9,12,0
-"Orosz, C.",SJS,14,60,4.3,11,0
-"Christ, J.",SJS,1,5,5,5,0
-"Shady, S.",AZ,27,81,3,9,1
-"Fitzpatrick, K.",AZ,2,7,3.5,7,0
-"Moore, S.",AZ,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",SJS,21,81,3.9,12,0,11,13
+"Orosz, C.",SJS,14,60,4.3,11,0,11,13
+"Christ, J.",SJS,1,5,5,5,0,11,13
+"Shady, S.",AZ,27,81,3,9,1,11,13
+"Fitzpatrick, K.",AZ,2,7,3.5,7,0,11,13
+"Moore, S.",AZ,1,2,2,2,0,11,13

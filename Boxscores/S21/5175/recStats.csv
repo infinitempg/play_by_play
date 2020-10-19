@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Leary, S.",CHI,7,85,12.1,29,3
-"Espeeyeeseetee, A.",CHI,5,102,20.4,46,0
-"Hank, F.",CHI,4,43,10.8,17,0
-"Davis, J.",CHI,2,52,26,31,0
-"Firestorm-Fjord, O.",CHI,1,18,18,18,0
-"Leaf Jr., R.",CHI,1,11,11,11,0
-"Dotson, F.",PHI,5,43,8.6,20,0
-"Torenson, S.",PHI,5,33,6.6,12,0
-"Varga, N.",PHI,4,118,29.5,41,0
-"Vuxta, R.",PHI,4,86,21.5,37,1
-"Blocksdale Jr., A.",PHI,3,26,8.7,17,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Leary, S.",CHI,7,85,12.1,29,3,5,21
+"Espeeyeeseetee, A.",CHI,5,102,20.4,46,0,5,21
+"Hank, F.",CHI,4,43,10.8,17,0,5,21
+"Davis, J.",CHI,2,52,26,31,0,5,21
+"Firestorm-Fjord, O.",CHI,1,18,18,18,0,5,21
+"Leaf Jr., R.",CHI,1,11,11,11,0,5,21
+"Dotson, F.",PHI,5,43,8.6,20,0,5,21
+"Torenson, S.",PHI,5,33,6.6,12,0,5,21
+"Varga, N.",PHI,4,118,29.5,41,0,5,21
+"Vuxta, R.",PHI,4,86,21.5,37,1,5,21
+"Blocksdale Jr., A.",PHI,3,26,8.7,17,0,5,21

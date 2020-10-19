@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Leaf Jr., R.",CHI,28,107,3.8,14,1
-"Hank, F.",CHI,13,34,2.6,6,1
-"Jenkins, R.",CHI,1,5,5,5,0
-"Drake, O.",YKW,8,27,3.4,12,1
-"Bigsby, C.",YKW,7,12,1.7,8,0
-"Hanyadi, M.",YKW,7,31,4.4,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Leaf Jr., R.",CHI,28,107,3.8,14,1,7,21
+"Hank, F.",CHI,13,34,2.6,6,1,7,21
+"Jenkins, R.",CHI,1,5,5,5,0,7,21
+"Drake, O.",YKW,8,27,3.4,12,1,7,21
+"Bigsby, C.",YKW,7,12,1.7,8,0,7,21
+"Hanyadi, M.",YKW,7,31,4.4,9,0,7,21

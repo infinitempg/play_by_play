@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, T.",NO,6,62,10.3,23,1
-"Fyodorovich, V.",NO,5,46,9.2,14,0
-"Jones, B.",NO,3,72,24,42,0
-"Gump, F.",NO,2,15,7.5,8,0
-"Catchem5, Z.",NO,1,7,7,7,0
-"Jackson, A.",NO,1,7,7,7,0
-"Shady, S.",AZ,8,56,7,19,0
-"Valentine, V.",AZ,5,73,14.6,39,0
-"Irving, J.",AZ,5,57,11.4,16,0
-"Landers, B.",AZ,3,61,20.3,34,0
-"Murphy, J.",AZ,2,7,3.5,7,0
-"Zephyrous, S.",AZ,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, T.",NO,6,62,10.3,23,1,9,17
+"Fyodorovich, V.",NO,5,46,9.2,14,0,9,17
+"Jones, B.",NO,3,72,24,42,0,9,17
+"Gump, F.",NO,2,15,7.5,8,0,9,17
+"Catchem5, Z.",NO,1,7,7,7,0,9,17
+"Jackson, A.",NO,1,7,7,7,0,9,17
+"Shady, S.",AZ,8,56,7,19,0,9,17
+"Valentine, V.",AZ,5,73,14.6,39,0,9,17
+"Irving, J.",AZ,5,57,11.4,16,0,9,17
+"Landers, B.",AZ,3,61,20.3,34,0,9,17
+"Murphy, J.",AZ,2,7,3.5,7,0,9,17
+"Zephyrous, S.",AZ,1,5,5,5,0,9,17

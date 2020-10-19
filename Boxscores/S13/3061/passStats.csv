@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Showbiz, G.",OCO,"[30, 50]",290,9.7,3,0,96.2
-"Christ, J.",SJS,"[19, 34]",196,10.3,1,2,58
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Showbiz, G.",OCO,290,9.7,3,0,96.2,30,19,13,13
+"Christ, J.",SJS,196,10.3,1,2,58,30,19,13,13

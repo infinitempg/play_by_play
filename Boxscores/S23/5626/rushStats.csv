@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Skyline, A.",YKW,13,66,5.1,10,0
-"Hanyadi, M.",YKW,9,39,4.3,10,1
-"Bigsby, C.",YKW,2,10,5,7,0
-"Nakamura, T.",OCO,17,80,4.7,10,0
-"Armstrong, F.",OCO,8,2,0.2,7,0
-"Bigby, L.",OCO,5,13,2.6,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Skyline, A.",YKW,13,66,5.1,10,0,6,23
+"Hanyadi, M.",YKW,9,39,4.3,10,1,6,23
+"Bigsby, C.",YKW,2,10,5,7,0,6,23
+"Nakamura, T.",OCO,17,80,4.7,10,0,6,23
+"Armstrong, F.",OCO,8,2,0.2,7,0,6,23
+"Bigby, L.",OCO,5,13,2.6,5,0,6,23

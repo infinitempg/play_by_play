@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kroetch, D.",PHI,1,30,0,30,0,0,0,0
-"Cushing, K.",PHI,1,-1,0,0,0,0,0,0
-"Garden, J.",PHI,6,187,0,42,0,0,0,0
-"Mackworthy, R.",AZ,5,127,5,36,5,0,0,1
-"Browning, B.",AZ,4,71,0,29,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kroetch, D.",PHI,1,30,0,30,0,0,0,0,5,7
+"Cushing, K.",PHI,1,-1,0,0,0,0,0,0,5,7
+"Garden, J.",PHI,6,187,0,42,0,0,0,0,5,7
+"Mackworthy, R.",AZ,5,127,5,36,5,0,0,1,5,7
+"Browning, B.",AZ,4,71,0,29,0,0,0,0,5,7

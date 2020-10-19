@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Pennington, B.",YKW,6,96,16,27,1
-"Pitcher, A.",YKW,6,60,10,19,1
-"Helanen, T.",YKW,5,74,14.8,33,0
-"Parker, J.",YKW,3,28,9.3,19,1
-"Wizardry, D.",YKW,3,17,5.7,10,0
-"Peterson, T.",YKW,1,30,30,30,0
-"Crindy, B.",AZ,7,61,8.7,16,1
-"Squanch, V.",AZ,6,91,15.2,50,0
-"Shady, S.",AZ,6,16,2.7,6,0
-"Willie, T.",AZ,1,23,23,23,0
-"Moore, S.",AZ,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Pennington, B.",YKW,6,96,16,27,1,10,13
+"Pitcher, A.",YKW,6,60,10,19,1,10,13
+"Helanen, T.",YKW,5,74,14.8,33,0,10,13
+"Parker, J.",YKW,3,28,9.3,19,1,10,13
+"Wizardry, D.",YKW,3,17,5.7,10,0,10,13
+"Peterson, T.",YKW,1,30,30,30,0,10,13
+"Crindy, B.",AZ,7,61,8.7,16,1,10,13
+"Squanch, V.",AZ,6,91,15.2,50,0,10,13
+"Shady, S.",AZ,6,16,2.7,6,0,10,13
+"Willie, T.",AZ,1,23,23,23,0,10,13
+"Moore, S.",AZ,1,5,5,5,0,10,13

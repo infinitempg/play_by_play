@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Marlin, J.",CHI,1,5,6,0
-"Hockhertz, M.",CHI,1,10,0,0
-"Cricket, R.",CHI,0,0,8,0
-"MacDennis, C.",CHI,0,0,7,0
-"Leaf III, R.",CHI,0,0,5,0
-"Ford Lalatina, D.",CHI,0,0,3,0
-"Utler, J.",CHI,0,0,2,1
-"BigCatchMachine4, Z.",CHI,0,0,2,0
-"Tackle, L.",COL,1,5,3,0
-"Vincent, M.",COL,1,5,2,0
-"Ocewilder, S.",COL,1,5,0,0
-"Sinclair, Q.",COL,1,5,0,0
-"Thumper, B.",COL,1,5,0,0
-"Guard, L.",COL,0,0,6,0
-"Guard, R.",COL,0,0,5,0
-"Centre, S.",COL,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Marlin, J.",CHI,1,5,6,0,1,20
+"Hockhertz, M.",CHI,1,10,0,0,1,20
+"Cricket, R.",CHI,0,0,8,0,1,20
+"MacDennis, C.",CHI,0,0,7,0,1,20
+"Leaf III, R.",CHI,0,0,5,0,1,20
+"Ford Lalatina, D.",CHI,0,0,3,0,1,20
+"Utler, J.",CHI,0,0,2,1,1,20
+"BigCatchMachine4, Z.",CHI,0,0,2,0,1,20
+"Tackle, L.",COL,1,5,3,0,1,20
+"Vincent, M.",COL,1,5,2,0,1,20
+"Ocewilder, S.",COL,1,5,0,0,1,20
+"Sinclair, Q.",COL,1,5,0,0,1,20
+"Thumper, B.",COL,1,5,0,0,1,20
+"Guard, L.",COL,0,0,6,0,1,20
+"Guard, R.",COL,0,0,5,0,1,20
+"Centre, S.",COL,0,0,3,0,1,20

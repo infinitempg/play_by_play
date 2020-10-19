@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Harris, B.",BAL,1,15,0,0
-"Steele, R.",BAL,1,5,0,0
-"Jeremy, R.",BAL,0,0,5,0
-"Star, L.",BAL,0,0,3,0
-"Diggler, D.",BAL,0,0,2,0
-"Grey, S.",BAL,0,0,1,0
-"L'Alto, V.",BAL,0,0,1,0
-"Danielsson, A.",CHI,2,15,1,0
-"Sandburg, C.",CHI,1,5,5,0
-"177013, G.",CHI,1,5,2,0
-"Utler, J.",CHI,1,5,0,0
-"Watkins, R.",CHI,1,5,0,0
-"Harp, D.",CHI,0,0,6,0
-"Ford Lalatina, D.",CHI,0,0,3,1
-"Bright, C.",CHI,0,0,2,0
-"Gordon, B.",CHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Harris, B.",BAL,1,15,0,0,8,18
+"Steele, R.",BAL,1,5,0,0,8,18
+"Jeremy, R.",BAL,0,0,5,0,8,18
+"Star, L.",BAL,0,0,3,0,8,18
+"Diggler, D.",BAL,0,0,2,0,8,18
+"Grey, S.",BAL,0,0,1,0,8,18
+"L'Alto, V.",BAL,0,0,1,0,8,18
+"Danielsson, A.",CHI,2,15,1,0,8,18
+"Sandburg, C.",CHI,1,5,5,0,8,18
+"177013, G.",CHI,1,5,2,0,8,18
+"Utler, J.",CHI,1,5,0,0,8,18
+"Watkins, R.",CHI,1,5,0,0,8,18
+"Harp, D.",CHI,0,0,6,0,8,18
+"Ford Lalatina, D.",CHI,0,0,3,1,8,18
+"Bright, C.",CHI,0,0,2,0,8,18
+"Gordon, B.",CHI,0,0,1,0,8,18

@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Westfield, B.",OCO,6,53,8.8,13,1
-"Jenkins, L.",OCO,5,26,5.2,8,0
-"O'Sullivan, S.",OCO,5,26,5.2,8,0
-"Phelps, R.",OCO,4,83,20.8,31,1
-"Reigns, J.",OCO,4,44,11,12,0
-"Burnsman, E.",OCO,2,11,5.5,9,0
-"Durden, J.",OCO,1,10,10,10,0
-"North, F.",PHI,7,105,15,37,0
-"DiMirio, P.",PHI,7,66,9.4,13,0
-"Browning, B.",PHI,6,54,9,20,1
-"Rocket, J.",PHI,3,17,5.7,10,0
-"Milan, C.",PHI,1,5,5,5,0
-"Kroetch, D.",PHI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Westfield, B.",OCO,6,53,8.8,13,1,3,4
+"Jenkins, L.",OCO,5,26,5.2,8,0,3,4
+"O'Sullivan, S.",OCO,5,26,5.2,8,0,3,4
+"Phelps, R.",OCO,4,83,20.8,31,1,3,4
+"Reigns, J.",OCO,4,44,11,12,0,3,4
+"Burnsman, E.",OCO,2,11,5.5,9,0,3,4
+"Durden, J.",OCO,1,10,10,10,0,3,4
+"North, F.",PHI,7,105,15,37,0,3,4
+"DiMirio, P.",PHI,7,66,9.4,13,0,3,4
+"Browning, B.",PHI,6,54,9,20,1,3,4
+"Rocket, J.",PHI,3,17,5.7,10,0,3,4
+"Milan, C.",PHI,1,5,5,5,0,3,4
+"Kroetch, D.",PHI,1,4,4,4,0,3,4

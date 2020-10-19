@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tyerucker, Q.",SJS,29,128,4.4,15,1
-"Wright, D.",SJS,7,40,5.7,24,0
-"Boija, F.",SJS,3,16,5.3,7,0
-"Bot, B.",SJS,1,0,0,0,0
-"Ruff, R.",AZ,15,66,4.4,14,2
-"Allan, C.",AZ,1,3,3,3,0
-"Cue, J.",AZ,1,7,7,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tyerucker, Q.",SJS,29,128,4.4,15,1,10,20
+"Wright, D.",SJS,7,40,5.7,24,0,10,20
+"Boija, F.",SJS,3,16,5.3,7,0,10,20
+"Bot, B.",SJS,1,0,0,0,0,10,20
+"Ruff, R.",AZ,15,66,4.4,14,2,10,20
+"Allan, C.",AZ,1,3,3,3,0,10,20
+"Cue, J.",AZ,1,7,7,7,0,10,20

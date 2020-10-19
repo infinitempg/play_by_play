@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Taylor, O.",BAL,1,37,0,37,0,0,0,0
-"Valentine, V.",BAL,3,35,36,20,18,0,0,3
-"Weston, S.",SJS,2,28,0,15,0,0,0,0
-"Oles, K.",SJS,3,58,21,30,16,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Taylor, O.",BAL,1,37,0,37,0,0,0,0,5,11
+"Valentine, V.",BAL,3,35,36,20,18,0,0,3,5,11
+"Weston, S.",SJS,2,28,0,15,0,0,0,0,5,11
+"Oles, K.",SJS,3,58,21,30,16,0,0,3,5,11

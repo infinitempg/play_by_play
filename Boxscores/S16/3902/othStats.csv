@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Emoji, E.",PHI,1,12,0,0
-"McGwire, A.",PHI,1,5,0,0
-"Van Buren, M.",PHI,0,0,4,0
-"Hank, F.",PHI,0,0,3,0
-"Brannigan, Z.",PHI,0,0,2,0
-"Hayes, R.",PHI,0,0,2,0
-"Arthur, C.",PHI,0,0,1,0
-"Fillmore, M.",PHI,0,0,1,0
-"Tyler, J.",PHI,0,0,1,0
-"Rudd, E.",NO,2,10,0,0
-"Watyumaidmedu, L.",NO,1,5,3,0
-"Gump, F.",NO,1,5,1,1
-"Harris, B.",NO,1,5,0,0
-"Jefferson IV, J.",NO,1,5,0,0
-"Jones, B.",NO,1,10,0,0
-"Williams VII, S.",NO,1,5,0,0
-"Spais, B.",NO,0,0,9,0
-"Sackless, S.",NO,0,0,4,1
-"Belongwithme, H.",NO,0,0,4,0
-"Sno, F.",NO,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Emoji, E.",PHI,1,12,0,0,7,16
+"McGwire, A.",PHI,1,5,0,0,7,16
+"Van Buren, M.",PHI,0,0,4,0,7,16
+"Hank, F.",PHI,0,0,3,0,7,16
+"Brannigan, Z.",PHI,0,0,2,0,7,16
+"Hayes, R.",PHI,0,0,2,0,7,16
+"Arthur, C.",PHI,0,0,1,0,7,16
+"Fillmore, M.",PHI,0,0,1,0,7,16
+"Tyler, J.",PHI,0,0,1,0,7,16
+"Rudd, E.",NO,2,10,0,0,7,16
+"Watyumaidmedu, L.",NO,1,5,3,0,7,16
+"Gump, F.",NO,1,5,1,1,7,16
+"Harris, B.",NO,1,5,0,0,7,16
+"Jefferson IV, J.",NO,1,5,0,0,7,16
+"Jones, B.",NO,1,10,0,0,7,16
+"Williams VII, S.",NO,1,5,0,0,7,16
+"Spais, B.",NO,0,0,9,0,7,16
+"Sackless, S.",NO,0,0,4,1,7,16
+"Belongwithme, H.",NO,0,0,4,0,7,16
+"Sno, F.",NO,0,0,3,0,7,16

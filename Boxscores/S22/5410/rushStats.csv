@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tirtawidjaja, J.",CHI,20,90,4.5,9,0
-"Hank, F.",CHI,13,69,5.3,15,1
-"Allan, C.",CHI,1,9,9,9,0
-"Torenson, S.",PHI,15,80,5.3,14,0
-"Dotson, F.",PHI,9,19,2.1,6,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tirtawidjaja, J.",CHI,20,90,4.5,9,0,9,22
+"Hank, F.",CHI,13,69,5.3,15,1,9,22
+"Allan, C.",CHI,1,9,9,9,0,9,22
+"Torenson, S.",PHI,15,80,5.3,14,0,9,22
+"Dotson, F.",PHI,9,19,2.1,6,1,9,22

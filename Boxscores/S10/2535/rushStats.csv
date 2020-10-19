@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,22,138,6.3,21,0
-"Blocksdale, A.",BAL,5,20,4,9,0
-"Adams, R.",OCO,13,43,3.3,7,0
-"Showbiz, G.",OCO,5,16,3.2,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,22,138,6.3,21,0,4,10
+"Blocksdale, A.",BAL,5,20,4,9,0,4,10
+"Adams, R.",OCO,13,43,3.3,7,0,4,10
+"Showbiz, G.",OCO,5,16,3.2,9,0,4,10

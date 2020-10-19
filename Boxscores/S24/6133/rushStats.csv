@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Toriki, M.",NO,14,69,4.9,11,0
-"Gump, F.",NO,11,29,2.6,11,0
-"Slothlisberger, B.",NO,1,2,2,2,0
-"Wolfcastle, R.",NO,1,5,5,5,0
-"Hanyadi, M.",YKW,17,80,4.7,15,1
-"Skyline, A.",YKW,17,73,4.3,11,2
-"Jack, C.",YKW,2,-4,-2,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Toriki, M.",NO,14,69,4.9,11,0,9,24
+"Gump, F.",NO,11,29,2.6,11,0,9,24
+"Slothlisberger, B.",NO,1,2,2,2,0,9,24
+"Wolfcastle, R.",NO,1,5,5,5,0,9,24
+"Hanyadi, M.",YKW,17,80,4.7,15,1,9,24
+"Skyline, A.",YKW,17,73,4.3,11,2,9,24
+"Jack, C.",YKW,2,-4,-2,3,0,9,24

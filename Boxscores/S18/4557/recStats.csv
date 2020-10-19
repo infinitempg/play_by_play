@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Sunnycursed, N.",BAL,6,115,19.2,29,0
-"Maddox, E.",BAL,5,125,25,38,0
-"Espeeyeeseetee, A.",BAL,5,50,10,18,1
-"Bigby, L.",BAL,5,26,5.2,22,1
-"L'Alto, V.",BAL,4,24,6,8,0
-"Pancakes, P.",BAL,2,3,1.5,3,0
-"Catchem9, Z.",BAL,1,16,16,16,0
-"Canton, J.",YKW,9,83,9.2,26,0
-"Swift, N.",YKW,8,118,14.8,27,1
-"Helanen, T.",YKW,6,105,17.5,25,1
-"Batoff, R.",YKW,6,77,12.8,29,1
-"Marshall, M.",YKW,3,27,9,20,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Sunnycursed, N.",BAL,6,115,19.2,29,0,1,18
+"Maddox, E.",BAL,5,125,25,38,0,1,18
+"Espeeyeeseetee, A.",BAL,5,50,10,18,1,1,18
+"Bigby, L.",BAL,5,26,5.2,22,1,1,18
+"L'Alto, V.",BAL,4,24,6,8,0,1,18
+"Pancakes, P.",BAL,2,3,1.5,3,0,1,18
+"Catchem9, Z.",BAL,1,16,16,16,0,1,18
+"Canton, J.",YKW,9,83,9.2,26,0,1,18
+"Swift, N.",YKW,8,118,14.8,27,1,1,18
+"Helanen, T.",YKW,6,105,17.5,25,1,1,18
+"Batoff, R.",YKW,6,77,12.8,29,1,1,18
+"Marshall, M.",YKW,3,27,9,20,0,1,18

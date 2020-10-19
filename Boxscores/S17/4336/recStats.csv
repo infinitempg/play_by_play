@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hardwick, S.",PHI,6,96,16,32,3
-"von Matt, J.",PHI,6,73,12.2,23,1
-"Varga, N.",PHI,6,68,11.3,34,1
-"Hank, F.",PHI,3,21,7,12,0
-"Brown, M.",PHI,3,13,4.3,8,0
-"Hand Bot, Z.",PHI,1,8,8,8,0
-"Fyodorovich, V.",NO,8,114,14.2,36,2
-"Swift, T.",NO,6,67,11.2,38,0
-"Jones, B.",NO,6,54,9,15,0
-"Gump, F.",NO,5,33,6.6,13,0
-"Jackson, A.",NO,4,43,10.8,28,0
-"Sackless, S.",NO,2,22,11,14,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hardwick, S.",PHI,6,96,16,32,3,10,17
+"von Matt, J.",PHI,6,73,12.2,23,1,10,17
+"Varga, N.",PHI,6,68,11.3,34,1,10,17
+"Hank, F.",PHI,3,21,7,12,0,10,17
+"Brown, M.",PHI,3,13,4.3,8,0,10,17
+"Hand Bot, Z.",PHI,1,8,8,8,0,10,17
+"Fyodorovich, V.",NO,8,114,14.2,36,2,10,17
+"Swift, T.",NO,6,67,11.2,38,0,10,17
+"Jones, B.",NO,6,54,9,15,0,10,17
+"Gump, F.",NO,5,33,6.6,13,0,10,17
+"Jackson, A.",NO,4,43,10.8,28,0,10,17
+"Sackless, S.",NO,2,22,11,14,0,10,17

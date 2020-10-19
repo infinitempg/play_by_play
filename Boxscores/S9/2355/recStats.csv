@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Weston, S.",SJS,8,108,13.5,40,0
-"Legion, A.",SJS,5,47,9.4,17,0
-"(R)Brannigan, Z.",SJS,3,26,8.7,12,0
-"Riddick, D.",SJS,3,20,6.7,11,0
-"Tuck Jr., T.",SJS,3,19,6.3,9,0
-"Aaron, D.",COL,7,100,14.3,27,1
-"Chipmunk, A.",COL,6,32,5.3,11,0
-"Miller, H.",COL,5,102,20.4,34,1
-"Wheat, B.",COL,4,85,21.2,33,1
-"Grau, M.",COL,2,12,6,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Weston, S.",SJS,8,108,13.5,40,0,10,9
+"Legion, A.",SJS,5,47,9.4,17,0,10,9
+"(R)Brannigan, Z.",SJS,3,26,8.7,12,0,10,9
+"Riddick, D.",SJS,3,20,6.7,11,0,10,9
+"Tuck Jr., T.",SJS,3,19,6.3,9,0,10,9
+"Aaron, D.",COL,7,100,14.3,27,1,10,9
+"Chipmunk, A.",COL,6,32,5.3,11,0,10,9
+"Miller, H.",COL,5,102,20.4,34,1,10,9
+"Wheat, B.",COL,4,85,21.2,33,1,10,9
+"Grau, M.",COL,2,12,6,9,0,10,9

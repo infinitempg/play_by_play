@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,2,36,54,33,15,0,0,6
-"Cook, B.",YKW,4,101,0,38,0,0,0,0
-"Oles, T.",PHI,1,29,0,29,0,0,0,0
-"Kroetch, D.",PHI,3,50,0,27,0,0,0,0
-"Cushing, K.",PHI,0,0,44,0,23,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,2,36,54,33,15,0,0,6,8,4
+"Cook, B.",YKW,4,101,0,38,0,0,0,0,8,4
+"Oles, T.",PHI,1,29,0,29,0,0,0,0,8,4
+"Kroetch, D.",PHI,3,50,0,27,0,0,0,0,8,4
+"Cushing, K.",PHI,0,0,44,0,23,0,0,4,8,4

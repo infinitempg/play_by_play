@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Smallwood, D.",SJS,4,70,17.5,30,0
-"Weston, S.",SJS,4,62,15.5,27,1
-"Bottles, B.",SJS,4,10,2.5,3,0
-"Durden, J.",SJS,3,24,8,12,0
-"Wheat, B.",SJS,1,18,18,18,0
-"Jackson, M.",ARI,4,106,26.5,54,0
-"Evans, D.",ARI,4,66,16.5,29,0
-"Mackworthy, R.",ARI,3,25,8.3,14,1
-"Chess, C.",ARI,2,13,6.5,7,0
-"Tkachuk, J.",ARI,2,10,5,7,1
-"Tuck, J.",ARI,1,22,22,22,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Smallwood, D.",SJS,4,70,17.5,30,0,12,2
+"Weston, S.",SJS,4,62,15.5,27,1,12,2
+"Bottles, B.",SJS,4,10,2.5,3,0,12,2
+"Durden, J.",SJS,3,24,8,12,0,12,2
+"Wheat, B.",SJS,1,18,18,18,0,12,2
+"Jackson, M.",ARI,4,106,26.5,54,0,12,2
+"Evans, D.",ARI,4,66,16.5,29,0,12,2
+"Mackworthy, R.",ARI,3,25,8.3,14,1,12,2
+"Chess, C.",ARI,2,13,6.5,7,0,12,2
+"Tkachuk, J.",ARI,2,10,5,7,1,12,2
+"Tuck, J.",ARI,1,22,22,22,0,12,2

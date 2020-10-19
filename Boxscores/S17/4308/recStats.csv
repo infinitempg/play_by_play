@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jones, V.",PHI,7,78,11.1,22,1
-"von Matt, J.",PHI,6,95,15.8,38,1
-"Brown, M.",PHI,6,27,4.5,12,0
-"Varga, N.",PHI,5,72,14.4,32,1
-"Hardwick, S.",PHI,4,50,12.5,25,0
-"Hank, F.",PHI,2,18,9,12,0
-"Bishop, J.",COL,5,71,14.2,37,2
-"Pennington, B.",COL,3,31,10.3,12,0
-"Forty-Two, L.",COL,3,29,9.7,15,0
-"Taffy, T.",COL,3,22,7.3,11,1
-"Palmer, J.",COL,3,18,6,11,0
-"Carrasco, T.",COL,2,13,6.5,8,0
-"Crindy, B.",COL,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jones, V.",PHI,7,78,11.1,22,1,5,17
+"von Matt, J.",PHI,6,95,15.8,38,1,5,17
+"Brown, M.",PHI,6,27,4.5,12,0,5,17
+"Varga, N.",PHI,5,72,14.4,32,1,5,17
+"Hardwick, S.",PHI,4,50,12.5,25,0,5,17
+"Hank, F.",PHI,2,18,9,12,0,5,17
+"Bishop, J.",COL,5,71,14.2,37,2,5,17
+"Pennington, B.",COL,3,31,10.3,12,0,5,17
+"Forty-Two, L.",COL,3,29,9.7,15,0,5,17
+"Taffy, T.",COL,3,22,7.3,11,1,5,17
+"Palmer, J.",COL,3,18,6,11,0,5,17
+"Carrasco, T.",COL,2,13,6.5,8,0,5,17
+"Crindy, B.",COL,1,1,1,1,0,5,17

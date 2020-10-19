@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Justice, T.",SJS,1,10,0,0
-"Pest, T.",SJS,0,0,6,0
-"Lee, B.",SJS,0,0,5,0
-"Olsen, C.",SJS,0,0,4,0
-"Dodggy, B.",SJS,0,0,3,0
-"Johnson, R.",SJS,0,0,2,0
-"Wright, D.",SJS,0,0,2,0
-"Orosz, C.",SJS,0,0,1,0
-"Pancake, P.",SJS,0,0,0,1
-"Amper, T.",YKW,2,15,3,1
-"Leaf Jr., R.",YKW,1,5,0,0
-"Smyles, L.",YKW,1,5,0,0
-"Rchonsucks, A.",YKW,0,0,3,0
-"Pooky, S.",YKW,0,0,2,0
-"Mushing, M.",YKW,0,0,1,1
-"Canton, J.",YKW,0,0,1,0
-"Marshall, M.",YKW,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Justice, T.",SJS,1,10,0,0,12,17
+"Pest, T.",SJS,0,0,6,0,12,17
+"Lee, B.",SJS,0,0,5,0,12,17
+"Olsen, C.",SJS,0,0,4,0,12,17
+"Dodggy, B.",SJS,0,0,3,0,12,17
+"Johnson, R.",SJS,0,0,2,0,12,17
+"Wright, D.",SJS,0,0,2,0,12,17
+"Orosz, C.",SJS,0,0,1,0,12,17
+"Pancake, P.",SJS,0,0,0,1,12,17
+"Amper, T.",YKW,2,15,3,1,12,17
+"Leaf Jr., R.",YKW,1,5,0,0,12,17
+"Smyles, L.",YKW,1,5,0,0,12,17
+"Rchonsucks, A.",YKW,0,0,3,0,12,17
+"Pooky, S.",YKW,0,0,2,0,12,17
+"Mushing, M.",YKW,0,0,1,1,12,17
+"Canton, J.",YKW,0,0,1,0,12,17
+"Marshall, M.",YKW,0,0,0,1,12,17

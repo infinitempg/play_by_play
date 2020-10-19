@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,25,84,3.4,10,0
-"Koch, D.",BAL,1,6,6,6,0
-"Tweed, B.",COL,19,58,3.1,6,0
-"Farlane, D.",COL,9,21,2.3,6,0
-"Pierno, N.",COL,4,3,0.8,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,25,84,3.4,10,0,13,5
+"Koch, D.",BAL,1,6,6,6,0,13,5
+"Tweed, B.",COL,19,58,3.1,6,0,13,5
+"Farlane, D.",COL,9,21,2.3,6,0,13,5
+"Pierno, N.",COL,4,3,0.8,3,0,13,5

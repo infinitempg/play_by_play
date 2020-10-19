@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, N.",YKW,6,103,17.2,35,1
-"Hardagain, W.",YKW,4,52,13,30,2
-"Hanyadi, M.",YKW,4,38,9.5,19,0
-"Skyline, A.",YKW,2,11,5.5,9,0
-"Kane-Maika'i, K.",HON,7,66,9.4,17,1
-"Podolak, J.",HON,5,40,8,13,0
-"Clay, J.",HON,3,30,10,18,0
-"Alexander, W.",HON,2,14,7,11,0
-"Ruff, R.",HON,1,11,11,11,0
-"Z, D.",HON,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, N.",YKW,6,103,17.2,35,1,6,22
+"Hardagain, W.",YKW,4,52,13,30,2,6,22
+"Hanyadi, M.",YKW,4,38,9.5,19,0,6,22
+"Skyline, A.",YKW,2,11,5.5,9,0,6,22
+"Kane-Maika'i, K.",HON,7,66,9.4,17,1,6,22
+"Podolak, J.",HON,5,40,8,13,0,6,22
+"Clay, J.",HON,3,30,10,18,0,6,22
+"Alexander, W.",HON,2,14,7,11,0,6,22
+"Ruff, R.",HON,1,11,11,11,0,6,22
+"Z, D.",HON,1,8,8,8,0,6,22

@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Harris, S.",PHI,2,90,45,47,1
-"Kicksit, B.",LV,1,44,44,44,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Harris, S.",PHI,2,90,45,47,1,8,5
+"Kicksit, B.",LV,1,44,44,44,0,8,5

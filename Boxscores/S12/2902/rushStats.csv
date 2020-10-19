@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Zephyrous, S.",OCO,13,82,6.3,12,0
-"Adams, R.",OCO,7,27,3.9,15,2
-"Showbiz, G.",OCO,2,4,2,3,1
-"Shady, S.",AZ,12,67,5.6,13,0
-"Asipi III, A.",AZ,11,48,4.4,7,0
-"Moore, S.",AZ,1,1,1,1,0
-"Fitzpatrick, K.",AZ,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Zephyrous, S.",OCO,13,82,6.3,12,0,7,12
+"Adams, R.",OCO,7,27,3.9,15,2,7,12
+"Showbiz, G.",OCO,2,4,2,3,1,7,12
+"Shady, S.",AZ,12,67,5.6,13,0,7,12
+"Asipi III, A.",AZ,11,48,4.4,7,0,7,12
+"Moore, S.",AZ,1,1,1,1,0,7,12
+"Fitzpatrick, K.",AZ,1,4,4,4,0,7,12

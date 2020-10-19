@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gibson, C.",BAL,6,54,9,17,0
-"Christmas, C.",BAL,3,38,12.7,20,0
-"Vincent, M.",BAL,3,37,12.3,17,0
-"Robinson, M.",BAL,2,7,3.5,6,1
-"Baker, J.",BAL,1,9,9,9,0
-"Jackson, M.",ARI,5,56,11.2,17,0
-"Evans, D.",ARI,5,55,11,20,0
-"Tkachuk, J.",ARI,5,26,5.2,7,0
-"Chess, C.",ARI,4,50,12.5,17,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gibson, C.",BAL,6,54,9,17,0,8,2
+"Christmas, C.",BAL,3,38,12.7,20,0,8,2
+"Vincent, M.",BAL,3,37,12.3,17,0,8,2
+"Robinson, M.",BAL,2,7,3.5,6,1,8,2
+"Baker, J.",BAL,1,9,9,9,0,8,2
+"Jackson, M.",ARI,5,56,11.2,17,0,8,2
+"Evans, D.",ARI,5,55,11,20,0,8,2
+"Tkachuk, J.",ARI,5,26,5.2,7,0,8,2
+"Chess, C.",ARI,4,50,12.5,17,0,8,2

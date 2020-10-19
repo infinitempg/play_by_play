@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Delacour, A.",BAL,0,0,-3,0,0,0,0,2
-"Willie, T.",BAL,2,72,0,41,0,0,0,0
-"LeClair, A.",BAL,3,72,0,32,0,0,0,0
-"Browning, B.",AZ,3,136,0,78,0,0,0,0
-"Hayden, A.",AZ,0,0,14,0,14,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Delacour, A.",BAL,0,0,-3,0,0,0,0,2,4,6
+"Willie, T.",BAL,2,72,0,41,0,0,0,0,4,6
+"LeClair, A.",BAL,3,72,0,32,0,0,0,0,4,6
+"Browning, B.",AZ,3,136,0,78,0,0,0,0,4,6
+"Hayden, A.",AZ,0,0,14,0,14,0,0,1,4,6

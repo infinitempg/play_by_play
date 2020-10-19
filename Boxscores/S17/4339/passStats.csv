@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Cole, E.",AUS,"[34, 49]",337,9.9,0,2,71.6
-"McDummy, W.",COL,"[12, 26]",141,11.8,1,0,76
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Cole, E.",AUS,337,9.9,0,2,71.6,34,12,11,17
+"McDummy, W.",COL,141,11.8,1,0,76,34,12,11,17

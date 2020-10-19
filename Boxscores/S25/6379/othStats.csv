@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Fassingit, H.",AUS,1,13,5,0
-"Saurus, B.",AUS,1,5,5,0
-"Jones, K.",AUS,1,15,2,0
-"Saurus, S.",AUS,1,15,0,0
-"Saurus, A.",AUS,0,0,8,0
-"Bakhtiari, S.",AUS,0,0,5,0
-"Watts, Z.",AUS,0,0,2,0
-"Hayes, R.",PHI,1,5,4,0
-"Arrabiata, D.",PHI,1,5,2,0
-"Gronlie, T.",PHI,1,4,0,0
-"Haywood, H.",PHI,1,15,0,0
-"Tremblay, S.",PHI,0,0,9,0
-"Elephant, M.",PHI,0,0,4,0
-"Van Buren, M.",PHI,0,0,3,0
-"Blocksdale Jr., A.",PHI,0,0,1,0
-"Torenson, S.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Fassingit, H.",AUS,1,13,5,0,2,25
+"Saurus, B.",AUS,1,5,5,0,2,25
+"Jones, K.",AUS,1,15,2,0,2,25
+"Saurus, S.",AUS,1,15,0,0,2,25
+"Saurus, A.",AUS,0,0,8,0,2,25
+"Bakhtiari, S.",AUS,0,0,5,0,2,25
+"Watts, Z.",AUS,0,0,2,0,2,25
+"Hayes, R.",PHI,1,5,4,0,2,25
+"Arrabiata, D.",PHI,1,5,2,0,2,25
+"Gronlie, T.",PHI,1,4,0,0,2,25
+"Haywood, H.",PHI,1,15,0,0,2,25
+"Tremblay, S.",PHI,0,0,9,0,2,25
+"Elephant, M.",PHI,0,0,4,0,2,25
+"Van Buren, M.",PHI,0,0,3,0,2,25
+"Blocksdale Jr., A.",PHI,0,0,1,0,2,25
+"Torenson, S.",PHI,0,0,1,0,2,25

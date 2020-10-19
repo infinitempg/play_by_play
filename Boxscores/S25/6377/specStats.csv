@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",NY,2,77,54,42,55,0,0,3
-"Kingston, J.",NY,4,83,0,39,0,0,0,0
-"Abernathy, K.",OCO,4,176,0,96,0,0,0,0
-"Beerus, L.",OCO,2,46,23,32,19,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",NY,2,77,54,42,55,0,0,3,2,25
+"Kingston, J.",NY,4,83,0,39,0,0,0,0,2,25
+"Abernathy, K.",OCO,4,176,0,96,0,0,0,0,2,25
+"Beerus, L.",OCO,2,46,23,32,19,0,0,2,2,25

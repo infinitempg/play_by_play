@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Madlad, B.",OCO,6,270,45,59,2
-"Blewitt, I.",SJS,7,346,49.4,61,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Madlad, B.",OCO,6,270,45,59,2,4,8
+"Blewitt, I.",SJS,7,346,49.4,61,0,4,8

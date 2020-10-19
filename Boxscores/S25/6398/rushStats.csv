@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nakamura, T.",OCO,18,71,3.9,10,0
-"McZeal, K.",OCO,6,27,4.5,8,0
-"Ramza, S.",OCO,5,40,8,15,1
-"Gump, F.",NO,22,102,4.6,20,0
-"Toriki, M.",NO,17,64,3.8,11,0
-"Slothlisberger, B.",NO,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nakamura, T.",OCO,18,71,3.9,10,0,5,25
+"McZeal, K.",OCO,6,27,4.5,8,0,5,25
+"Ramza, S.",OCO,5,40,8,15,1,5,25
+"Gump, F.",NO,22,102,4.6,20,0,5,25
+"Toriki, M.",NO,17,64,3.8,11,0,5,25
+"Slothlisberger, B.",NO,1,4,4,4,0,5,25

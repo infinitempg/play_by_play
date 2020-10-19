@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,18,99,5.5,16,0
-"Murphy, J.",AZ,3,15,5,7,1
-"Zephyrous, S.",AZ,2,20,10,14,0
-"Gump, F.",NO,20,52,2.6,5,1
-"Swift, T.",NO,10,42,4.2,12,0
-"Francisco, S.",NO,2,-1,-0.5,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,18,99,5.5,16,0,3,17
+"Murphy, J.",AZ,3,15,5,7,1,3,17
+"Zephyrous, S.",AZ,2,20,10,14,0,3,17
+"Gump, F.",NO,20,52,2.6,5,1,3,17
+"Swift, T.",NO,10,42,4.2,12,0,3,17
+"Francisco, S.",NO,2,-1,-0.5,0,0,3,17

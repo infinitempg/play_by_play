@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gambino, C.",BAL,1,4,4,4,0
-"Strike, L.",PHI,23,100,4.3,11,0
-"Brown, M.",PHI,19,112,5.9,12,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gambino, C.",BAL,1,4,4,4,0,1,13
+"Strike, L.",PHI,23,100,4.3,11,0,1,13
+"Brown, M.",PHI,19,112,5.9,12,1,1,13

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jones, K.",AUS,20,87,4.4,11,0
-"Mendonca, M.",AUS,11,53,4.8,13,2
-"Owens, A.",COL,17,98,5.8,15,0
-"Bumper, T.",COL,8,27,3.4,8,0
-"Gilbert, R.",COL,6,9,1.5,3,1
-"McDummy, W.",COL,4,19,4.8,16,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jones, K.",AUS,20,87,4.4,11,0,9,24
+"Mendonca, M.",AUS,11,53,4.8,13,2,9,24
+"Owens, A.",COL,17,98,5.8,15,0,9,24
+"Bumper, T.",COL,8,27,3.4,8,0,9,24
+"Gilbert, R.",COL,6,9,1.5,3,1,9,24
+"McDummy, W.",COL,4,19,4.8,16,0,9,24

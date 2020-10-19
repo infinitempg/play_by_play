@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Danielsson, A.",NO,22,96,4.4,12,1
-"Maximus III, B.",NO,10,116,11.6,25,3
-"Shady, S.",AZ,20,103,5.2,13,0
-"Goomba, M.",AZ,2,0,0,0,0
-"Gore, B.",AZ,2,8,4,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Danielsson, A.",NO,22,96,4.4,12,1,7,14
+"Maximus III, B.",NO,10,116,11.6,25,3,7,14
+"Shady, S.",AZ,20,103,5.2,13,0,7,14
+"Goomba, M.",AZ,2,0,0,0,0,7,14
+"Gore, B.",AZ,2,8,4,7,0,7,14

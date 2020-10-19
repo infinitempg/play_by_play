@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Davenport, C.",PHI,18,78,4.3,11,1
-"Boija, F.",PHI,12,75,6.2,17,0
-"Falconi, A.",PHI,1,10,10,10,0
-"Shady, S.",AZ,30,128,4.3,9,0
-"Gore, B.",AZ,3,13,4.3,11,0
-"Goomba, M.",AZ,1,0,0,0,0
-"Reese, A.",AZ,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Davenport, C.",PHI,18,78,4.3,11,1,1,14
+"Boija, F.",PHI,12,75,6.2,17,0,1,14
+"Falconi, A.",PHI,1,10,10,10,0,1,14
+"Shady, S.",AZ,30,128,4.3,9,0,1,14
+"Gore, B.",AZ,3,13,4.3,11,0,1,14
+"Goomba, M.",AZ,1,0,0,0,0,1,14
+"Reese, A.",AZ,1,1,1,1,0,1,14

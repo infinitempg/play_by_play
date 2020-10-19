@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Harris, S.",BAL,11,478,43.5,62,2
-"Nugent, A.",ARI,11,499,45.4,55,4
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Harris, S.",BAL,11,478,43.5,62,2,3,1
+"Nugent, A.",ARI,11,499,45.4,55,4,3,1

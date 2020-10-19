@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Harp, D.",CHI,5,25,5,9,0
-"Oles, K.",CHI,4,102,25.5,39,0
-"Batoff, R.",CHI,4,41,10.2,13,0
-"Adams, R.",CHI,2,41,20.5,31,1
-"Hasselhoff, F.",CHI,1,31,31,31,1
-"Torenson, S.",CHI,1,11,11,11,0
-"Jones, V.",PHI,6,55,9.2,21,0
-"von Matt, J.",PHI,5,89,17.8,31,1
-"Hank, F.",PHI,4,28,7,17,0
-"Brannigan, Z.",PHI,3,24,8,12,1
-"Varga, N.",PHI,2,85,42.5,45,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Harp, D.",CHI,5,25,5,9,0,10,16
+"Oles, K.",CHI,4,102,25.5,39,0,10,16
+"Batoff, R.",CHI,4,41,10.2,13,0,10,16
+"Adams, R.",CHI,2,41,20.5,31,1,10,16
+"Hasselhoff, F.",CHI,1,31,31,31,1,10,16
+"Torenson, S.",CHI,1,11,11,11,0,10,16
+"Jones, V.",PHI,6,55,9.2,21,0,10,16
+"von Matt, J.",PHI,5,89,17.8,31,1,10,16
+"Hank, F.",PHI,4,28,7,17,0,10,16
+"Brannigan, Z.",PHI,3,24,8,12,1,10,16
+"Varga, N.",PHI,2,85,42.5,45,0,10,16

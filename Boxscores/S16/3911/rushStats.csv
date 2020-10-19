@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wizardry, D.",AUS,30,121,4,12,1
-"Mendonca, M.",AUS,12,55,4.6,17,0
-"Cole, E.",AUS,1,0,0,0,0
-"Torenson, S.",CHI,24,108,4.5,11,0
-"Danielsson, A.",CHI,8,36,4.5,8,1
-"Jenkins, R.",CHI,1,7,7,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wizardry, D.",AUS,30,121,4,12,1,9,16
+"Mendonca, M.",AUS,12,55,4.6,17,0,9,16
+"Cole, E.",AUS,1,0,0,0,0,9,16
+"Torenson, S.",CHI,24,108,4.5,11,0,9,16
+"Danielsson, A.",CHI,8,36,4.5,8,1,9,16
+"Jenkins, R.",CHI,1,7,7,7,0,9,16

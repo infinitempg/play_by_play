@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Arbage, G.",AZ,1,4,6,0
-"Miller II, C.",AZ,1,5,0,0
-"Buckley, B.",AZ,0,0,6,0
-"Golladay, C.",AZ,0,0,3,0
-"Unk, J.",AZ,0,0,3,0
-"Block, T.",AZ,0,0,1,1
-"Evans, H.",AZ,0,0,1,0
-"Jones, K.",AUS,1,15,0,0
-"Tidwell, R.",AUS,1,15,0,0
-"Beaver-Dantes, E.",AUS,0,0,5,0
-"Saurus, S.",AUS,0,0,5,0
-"Fassingit, H.",AUS,0,0,3,0
-"Saurus, A.",AUS,0,0,2,1
-"Mendonca, M.",AUS,0,0,1,0
-"Saurus, B.",AUS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Arbage, G.",AZ,1,4,6,0,15,23
+"Miller II, C.",AZ,1,5,0,0,15,23
+"Buckley, B.",AZ,0,0,6,0,15,23
+"Golladay, C.",AZ,0,0,3,0,15,23
+"Unk, J.",AZ,0,0,3,0,15,23
+"Block, T.",AZ,0,0,1,1,15,23
+"Evans, H.",AZ,0,0,1,0,15,23
+"Jones, K.",AUS,1,15,0,0,15,23
+"Tidwell, R.",AUS,1,15,0,0,15,23
+"Beaver-Dantes, E.",AUS,0,0,5,0,15,23
+"Saurus, S.",AUS,0,0,5,0,15,23
+"Fassingit, H.",AUS,0,0,3,0,15,23
+"Saurus, A.",AUS,0,0,2,1,15,23
+"Mendonca, M.",AUS,0,0,1,0,15,23
+"Saurus, B.",AUS,0,0,1,0,15,23

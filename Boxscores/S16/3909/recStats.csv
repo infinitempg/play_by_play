@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jones, V.",PHI,6,52,8.7,17,1
-"von Matt, J.",PHI,5,106,21.2,48,0
-"Varga, N.",PHI,4,34,8.5,16,0
-"Brannigan, Z.",PHI,3,40,13.3,22,0
-"Hank, F.",PHI,3,24,8,10,1
-"Espeeyeeseetee, A.",BAL,7,61,8.7,15,0
-"Maddox, E.",BAL,5,128,25.6,38,0
-"Nagasawa, Y.",BAL,3,57,19,29,0
-"L'Alto, V.",BAL,2,15,7.5,9,0
-"Jimbo, D.",BAL,2,8,4,4,0
-"Brown, M.",BAL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jones, V.",PHI,6,52,8.7,17,1,9,16
+"von Matt, J.",PHI,5,106,21.2,48,0,9,16
+"Varga, N.",PHI,4,34,8.5,16,0,9,16
+"Brannigan, Z.",PHI,3,40,13.3,22,0,9,16
+"Hank, F.",PHI,3,24,8,10,1,9,16
+"Espeeyeeseetee, A.",BAL,7,61,8.7,15,0,9,16
+"Maddox, E.",BAL,5,128,25.6,38,0,9,16
+"Nagasawa, Y.",BAL,3,57,19,29,0,9,16
+"L'Alto, V.",BAL,2,15,7.5,9,0,9,16
+"Jimbo, D.",BAL,2,8,4,4,0,9,16
+"Brown, M.",BAL,1,5,5,5,0,9,16

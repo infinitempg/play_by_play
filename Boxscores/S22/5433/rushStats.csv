@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,20,78,3.9,11,0
-"Toriki, M.",NO,16,51,3.2,10,2
-"Ruff, R.",HON,28,121,4.3,19,1
-"Kane-Maika'i, K.",HON,14,65,4.6,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,20,78,3.9,11,0,13,22
+"Toriki, M.",NO,16,51,3.2,10,2,13,22
+"Ruff, R.",HON,28,121,4.3,19,1,13,22
+"Kane-Maika'i, K.",HON,14,65,4.6,10,0,13,22

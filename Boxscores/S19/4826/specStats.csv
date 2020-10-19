@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Parker, J.",CHI,1,38,18,38,18,0,0,1
-"Emoji, E.",PHI,2,53,18,31,18,0,0,1
-"Garnett, L.",PHI,2,43,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Parker, J.",CHI,1,38,18,38,18,0,0,1,5,19
+"Emoji, E.",PHI,2,53,18,31,18,0,0,1,5,19
+"Garnett, L.",PHI,2,43,0,24,0,0,0,0,5,19

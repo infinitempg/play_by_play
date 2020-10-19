@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",SJS,29,110,3.8,12,1
-"Riddick, D.",SJS,1,0,0,0,0
-"Carrasco, T.",YKW,14,49,3.5,10,0
-"Summer, A.",YKW,11,39,3.5,7,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",SJS,29,110,3.8,12,1,4,11
+"Riddick, D.",SJS,1,0,0,0,0,4,11
+"Carrasco, T.",YKW,14,49,3.5,10,0,4,11
+"Summer, A.",YKW,11,39,3.5,7,1,4,11

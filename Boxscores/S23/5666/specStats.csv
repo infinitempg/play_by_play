@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,1,21,11,21,11,0,0,1
-"Blaylock, M.",NO,2,77,0,44,0,0,0,0
-"Thomas-Fox, D.",SJS,5,126,0,35,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,1,21,11,21,11,0,0,1,12,23
+"Blaylock, M.",NO,2,77,0,44,0,0,0,0,12,23
+"Thomas-Fox, D.",SJS,5,126,0,35,0,0,0,0,12,23

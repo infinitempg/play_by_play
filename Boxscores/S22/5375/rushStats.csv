@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,25,117,4.7,11,0
-"Toriki, M.",NO,19,86,4.5,12,1
-"Yoda, B.",AZ,22,88,4,12,0
-"Cue, J.",AZ,5,20,4,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,25,117,4.7,11,0,3,22
+"Toriki, M.",NO,19,86,4.5,12,1,3,22
+"Yoda, B.",AZ,22,88,4,12,0,3,22
+"Cue, J.",AZ,5,20,4,7,0,3,22

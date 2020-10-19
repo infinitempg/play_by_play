@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McPoyal, G.",YKW,8,54,6.8,12,0
-"Cook, B.",YKW,4,62,15.5,25,0
-"Summer, A.",YKW,3,8,2.7,8,0
-"Lavelle, D.",YKW,2,60,30,49,0
-"Parker, J.",YKW,2,31,15.5,18,1
-"Harris Jr., F.",YKW,2,10,5,9,0
-"L'Alto, V.",BAL,8,62,7.8,22,0
-"Taylor, O.",BAL,6,65,10.8,30,1
-"Harp, D.",BAL,5,47,9.4,18,0
-"Willie, T.",BAL,4,68,17,45,2
-"Valentine, V.",BAL,4,45,11.2,17,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McPoyal, G.",YKW,8,54,6.8,12,0,8,11
+"Cook, B.",YKW,4,62,15.5,25,0,8,11
+"Summer, A.",YKW,3,8,2.7,8,0,8,11
+"Lavelle, D.",YKW,2,60,30,49,0,8,11
+"Parker, J.",YKW,2,31,15.5,18,1,8,11
+"Harris Jr., F.",YKW,2,10,5,9,0,8,11
+"L'Alto, V.",BAL,8,62,7.8,22,0,8,11
+"Taylor, O.",BAL,6,65,10.8,30,1,8,11
+"Harp, D.",BAL,5,47,9.4,18,0,8,11
+"Willie, T.",BAL,4,68,17,45,2,8,11
+"Valentine, V.",BAL,4,45,11.2,17,0,8,11

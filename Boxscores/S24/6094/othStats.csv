@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Bot, B.",SJS,1,10,2,0
-"Pest, T.",SJS,0,0,6,0
-"Lee, B.",SJS,0,0,5,1
-"Johnson, R.",SJS,0,0,4,0
-"Pancake, P.",SJS,0,0,3,1
-"McDavid, L.",SJS,0,0,3,0
-"Cardrissian, R.",SJS,0,0,1,0
-"Lackson, J.",SJS,0,0,0,1
-"Ofyourlove, S.",NO,1,5,3,1
-"Toriki, M.",NO,1,5,1,2
-"Tu'inukuafe, B.",NO,1,5,0,0
-"Wolfcastle, R.",NO,0,0,5,1
-"Brew, S.",NO,0,0,4,0
-"Room, W.",NO,0,0,4,0
-"Rubbe, G.",NO,0,0,4,0
-"Jimbo Jr., D.",NO,0,0,3,0
-"McCormick, A.",NO,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Bot, B.",SJS,1,10,2,0,16,24
+"Pest, T.",SJS,0,0,6,0,16,24
+"Lee, B.",SJS,0,0,5,1,16,24
+"Johnson, R.",SJS,0,0,4,0,16,24
+"Pancake, P.",SJS,0,0,3,1,16,24
+"McDavid, L.",SJS,0,0,3,0,16,24
+"Cardrissian, R.",SJS,0,0,1,0,16,24
+"Lackson, J.",SJS,0,0,0,1,16,24
+"Ofyourlove, S.",NO,1,5,3,1,16,24
+"Toriki, M.",NO,1,5,1,2,16,24
+"Tu'inukuafe, B.",NO,1,5,0,0,16,24
+"Wolfcastle, R.",NO,0,0,5,1,16,24
+"Brew, S.",NO,0,0,4,0,16,24
+"Room, W.",NO,0,0,4,0,16,24
+"Rubbe, G.",NO,0,0,4,0,16,24
+"Jimbo Jr., D.",NO,0,0,3,0,16,24
+"McCormick, A.",NO,0,0,3,0,16,24

@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Turkleton, T.",BAL,8,320,40,58,0
-"Blewitt, I.",NO,6,258,43,53,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Turkleton, T.",BAL,8,320,40,58,0,7,9
+"Blewitt, I.",NO,6,258,43,53,1,7,9

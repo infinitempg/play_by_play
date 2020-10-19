@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gaines, N.",AUS,5,110,22,38,0
-"Larson, P.",AUS,5,49,9.8,25,0
-"Clay, J.",AUS,4,57,14.2,22,0
-"Mendonca, M.",AUS,3,43,14.3,37,0
-"Tidwell, R.",AUS,2,55,27.5,30,0
-"Blockit, I.",AUS,1,7,7,7,0
-"Swift, N.",YKW,6,111,18.5,47,0
-"Rodriguez, B.",YKW,4,83,20.8,38,1
-"Hanyadi, M.",YKW,4,36,9,15,0
-"Gordon, R.",YKW,3,82,27.3,42,0
-"Drake, O.",YKW,3,12,4,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gaines, N.",AUS,5,110,22,38,0,12,21
+"Larson, P.",AUS,5,49,9.8,25,0,12,21
+"Clay, J.",AUS,4,57,14.2,22,0,12,21
+"Mendonca, M.",AUS,3,43,14.3,37,0,12,21
+"Tidwell, R.",AUS,2,55,27.5,30,0,12,21
+"Blockit, I.",AUS,1,7,7,7,0,12,21
+"Swift, N.",YKW,6,111,18.5,47,0,12,21
+"Rodriguez, B.",YKW,4,83,20.8,38,1,12,21
+"Hanyadi, M.",YKW,4,36,9,15,0,12,21
+"Gordon, R.",YKW,3,82,27.3,42,0,12,21
+"Drake, O.",YKW,3,12,4,6,0,12,21

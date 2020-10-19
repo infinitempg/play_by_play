@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kane-Maika'i, K.",HON,3,39,3,18,3,0,0,1
-"Dawkins, S.",HON,3,83,0,37,0,0,0,0
-"O'Leary, S.",CHI,4,138,0,45,0,0,0,0
-"Firestorm-Fjord, O.",CHI,2,25,17,15,17,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kane-Maika'i, K.",HON,3,39,3,18,3,0,0,1,10,24
+"Dawkins, S.",HON,3,83,0,37,0,0,0,0,10,24
+"O'Leary, S.",CHI,4,138,0,45,0,0,0,0,10,24
+"Firestorm-Fjord, O.",CHI,2,25,17,15,17,0,0,1,10,24

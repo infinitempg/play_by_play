@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nuck, B.",YKW,18,56,3.1,7,0
-"Akselsen, M.",YKW,2,14,7,12,0
-"Kennedy, E.",YKW,2,0,0,1,0
-"Burnsman, E.",OCO,6,5,0.8,5,0
-"Yates, J.",OCO,6,35,5.8,16,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nuck, B.",YKW,18,56,3.1,7,0,11,5
+"Akselsen, M.",YKW,2,14,7,12,0,11,5
+"Kennedy, E.",YKW,2,0,0,1,0,11,5
+"Burnsman, E.",OCO,6,5,0.8,5,0,11,5
+"Yates, J.",OCO,6,35,5.8,16,0,11,5

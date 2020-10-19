@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"West, D.",BAL,9,109,12.1,39,1
-"Christmas, C.",BAL,6,56,9.3,14,0
-"Tenzini, G.",BAL,6,46,7.7,10,0
-"Lecavalier, R.",BAL,1,12,12,12,0
-"Piper, W.",BAL,1,9,9,9,0
-"LeClair, A.",YKW,6,100,16.7,33,0
-"Garden, J.",YKW,6,87,14.5,47,0
-"Maddox, R.",YKW,3,20,6.7,9,0
-"Larsendorf, R.",YKW,2,11,5.5,6,0
-"Nuck, B.",YKW,2,8,4,8,0
-"Tobin, T.",YKW,1,17,17,17,0
-"Stephen, W.",YKW,1,11,11,11,0
-"Sanderson, J.",YKW,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"West, D.",BAL,9,109,12.1,39,1,9,1
+"Christmas, C.",BAL,6,56,9.3,14,0,9,1
+"Tenzini, G.",BAL,6,46,7.7,10,0,9,1
+"Lecavalier, R.",BAL,1,12,12,12,0,9,1
+"Piper, W.",BAL,1,9,9,9,0,9,1
+"LeClair, A.",YKW,6,100,16.7,33,0,9,1
+"Garden, J.",YKW,6,87,14.5,47,0,9,1
+"Maddox, R.",YKW,3,20,6.7,9,0,9,1
+"Larsendorf, R.",YKW,2,11,5.5,6,0,9,1
+"Nuck, B.",YKW,2,8,4,8,0,9,1
+"Tobin, T.",YKW,1,17,17,17,0,9,1
+"Stephen, W.",YKW,1,11,11,11,0,9,1
+"Sanderson, J.",YKW,1,5,5,5,0,9,1

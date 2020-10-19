@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Harp, D.",BAL,8,54,6.8,17,2
-"Valentine, V.",BAL,6,125,20.8,46,2
-"Nagasawa, Y.",BAL,6,63,10.5,14,0
-"Maddox, E.",BAL,4,36,9,11,0
-"L'Alto, V.",COL,7,56,8,14,0
-"Bishop, J.",COL,5,84,16.8,44,0
-"Miller, H.",COL,5,76,15.2,34,0
-"LaMelllana, S.",COL,4,69,17.2,27,0
-"Chipmunk, A.",COL,4,23,5.8,11,0
-"Grau, M.",COL,2,24,12,23,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Harp, D.",BAL,8,54,6.8,17,2,12,13
+"Valentine, V.",BAL,6,125,20.8,46,2,12,13
+"Nagasawa, Y.",BAL,6,63,10.5,14,0,12,13
+"Maddox, E.",BAL,4,36,9,11,0,12,13
+"L'Alto, V.",COL,7,56,8,14,0,12,13
+"Bishop, J.",COL,5,84,16.8,44,0,12,13
+"Miller, H.",COL,5,76,15.2,34,0,12,13
+"LaMelllana, S.",COL,4,69,17.2,27,0,12,13
+"Chipmunk, A.",COL,4,23,5.8,11,0,12,13
+"Grau, M.",COL,2,24,12,23,0,12,13

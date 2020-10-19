@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ruff, R.",AZ,21,106,5,18,1
-"Cue, J.",AZ,2,5,2.5,6,0
-"Irving, J.",AZ,1,9,9,9,0
-"Bigby, L.",OCO,15,84,5.6,14,0
-"Sarvepally, S.",OCO,11,31,2.8,6,1
-"Armstrong, F.",OCO,4,5,1.2,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ruff, R.",AZ,21,106,5,18,1,7,21
+"Cue, J.",AZ,2,5,2.5,6,0,7,21
+"Irving, J.",AZ,1,9,9,9,0,7,21
+"Bigby, L.",OCO,15,84,5.6,14,0,7,21
+"Sarvepally, S.",OCO,11,31,2.8,6,1,7,21
+"Armstrong, F.",OCO,4,5,1.2,3,0,7,21

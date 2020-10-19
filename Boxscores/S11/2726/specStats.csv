@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Fyodorovich, V.",NO,4,99,0,37,0,0,0,0
-"Bayley, B.",NO,4,112,0,42,0,0,0,0
-"Taylor, O.",BAL,3,86,0,37,0,0,0,0
-"Valentine, V.",BAL,4,111,38,58,16,0,0,5
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Fyodorovich, V.",NO,4,99,0,37,0,0,0,0,14,11
+"Bayley, B.",NO,4,112,0,42,0,0,0,0,14,11
+"Taylor, O.",BAL,3,86,0,37,0,0,0,0,14,11
+"Valentine, V.",BAL,4,111,38,58,16,0,0,5,14,11

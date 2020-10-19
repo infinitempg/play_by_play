@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Garden, J.",PHI,8,110,13.8,33,1
-"DiMirio, P.",PHI,6,36,6,9,0
-"North, F.",PHI,5,65,13,24,1
-"Kroetch, D.",PHI,4,38,9.5,20,1
-"Ross, J.",PHI,3,26,8.7,12,0
-"Milan, C.",PHI,1,11,11,11,0
-"Reigns, J.",COL,4,40,10,12,0
-"Tweed, B.",COL,4,31,7.8,12,0
-"Crush, C.",COL,4,29,7.2,9,0
-"Hendrix, K.",COL,2,9,4.5,5,0
-"Wheat, B.",COL,1,10,10,10,0
-"Joyce, S.",COL,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Garden, J.",PHI,8,110,13.8,33,1,11,5
+"DiMirio, P.",PHI,6,36,6,9,0,11,5
+"North, F.",PHI,5,65,13,24,1,11,5
+"Kroetch, D.",PHI,4,38,9.5,20,1,11,5
+"Ross, J.",PHI,3,26,8.7,12,0,11,5
+"Milan, C.",PHI,1,11,11,11,0,11,5
+"Reigns, J.",COL,4,40,10,12,0,11,5
+"Tweed, B.",COL,4,31,7.8,12,0,11,5
+"Crush, C.",COL,4,29,7.2,9,0,11,5
+"Hendrix, K.",COL,2,9,4.5,5,0,11,5
+"Wheat, B.",COL,1,10,10,10,0,11,5
+"Joyce, S.",COL,1,4,4,4,0,11,5

@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Williams, D.",BAL,22,73,3.3,11,2
-"Fukushu, M.",BAL,15,78,5.2,10,1
-"Dotson, F.",PHI,11,41,3.7,9,1
-"Torenson, S.",PHI,10,42,4.2,9,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Williams, D.",BAL,22,73,3.3,11,2,3,24
+"Fukushu, M.",BAL,15,78,5.2,10,1,3,24
+"Dotson, F.",PHI,11,41,3.7,9,1,3,24
+"Torenson, S.",PHI,10,42,4.2,9,1,3,24

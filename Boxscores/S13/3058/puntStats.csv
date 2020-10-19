@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Fulture, K.",PHI,3,74,24.7,37,0
-"Jackson, D.",AZ,8,401,50.1,67,3
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Fulture, K.",PHI,3,74,24.7,37,0,12,13
+"Jackson, D.",AZ,8,401,50.1,67,3,12,13

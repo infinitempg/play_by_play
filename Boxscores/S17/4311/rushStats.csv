@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,24,120,5,15,1
-"Swift, T.",NO,9,51,5.7,15,0
-"Francisco, S.",NO,1,-4,-4,0,0
-"Reed, A.",OCO,23,125,5.4,12,1
-"Pitcher, A.",OCO,2,10,5,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,24,120,5,15,1,5,17
+"Swift, T.",NO,9,51,5.7,15,0,5,17
+"Francisco, S.",NO,1,-4,-4,0,0,5,17
+"Reed, A.",OCO,23,125,5.4,12,1,5,17
+"Pitcher, A.",OCO,2,10,5,6,0,5,17

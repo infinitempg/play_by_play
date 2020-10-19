@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Adams, R.",OCO,7,92,13.1,24,1
-"Atwell, T.",OCO,6,64,10.7,16,0
-"Crush, C.",OCO,6,52,8.7,13,0
-"Zephyrous, S.",OCO,6,49,8.2,12,0
-"Helanen, T.",OCO,4,37,9.2,13,0
-"Sunnycursed, N.",OCO,2,38,19,32,0
-"Squanch, V.",AZ,8,102,12.8,28,1
-"Crindy, B.",AZ,5,35,7,12,0
-"Asipi III, A.",AZ,5,34,6.8,9,0
-"Willie, T.",AZ,4,56,14,25,0
-"Moore, S.",AZ,4,34,8.5,13,0
-"Shady, S.",AZ,2,8,4,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Adams, R.",OCO,7,92,13.1,24,1,7,12
+"Atwell, T.",OCO,6,64,10.7,16,0,7,12
+"Crush, C.",OCO,6,52,8.7,13,0,7,12
+"Zephyrous, S.",OCO,6,49,8.2,12,0,7,12
+"Helanen, T.",OCO,4,37,9.2,13,0,7,12
+"Sunnycursed, N.",OCO,2,38,19,32,0,7,12
+"Squanch, V.",AZ,8,102,12.8,28,1,7,12
+"Crindy, B.",AZ,5,35,7,12,0,7,12
+"Asipi III, A.",AZ,5,34,6.8,9,0,7,12
+"Willie, T.",AZ,4,56,14,25,0,7,12
+"Moore, S.",AZ,4,34,8.5,13,0,7,12
+"Shady, S.",AZ,2,8,4,5,0,7,12

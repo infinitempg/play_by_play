@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Squanch, V.",COL,7,108,15.4,27,0
-"Crindy, B.",COL,6,39,6.5,15,0
-"Miller, H.",COL,4,119,29.8,55,1
-"Bishop, J.",COL,2,27,13.5,15,0
-"Chipmunk, A.",COL,2,24,12,16,0
-"Grau, M.",COL,2,15,7.5,11,0
-"Fyodorovich, V.",NO,7,65,9.3,13,0
-"Swift, T.",NO,4,99,24.8,47,2
-"Halvorsen, T.",NO,4,31,7.8,11,0
-"Danielsson, A.",NO,3,28,9.3,16,0
-"Francisco, S.",NO,2,11,5.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Squanch, V.",COL,7,108,15.4,27,0,5,14
+"Crindy, B.",COL,6,39,6.5,15,0,5,14
+"Miller, H.",COL,4,119,29.8,55,1,5,14
+"Bishop, J.",COL,2,27,13.5,15,0,5,14
+"Chipmunk, A.",COL,2,24,12,16,0,5,14
+"Grau, M.",COL,2,15,7.5,11,0,5,14
+"Fyodorovich, V.",NO,7,65,9.3,13,0,5,14
+"Swift, T.",NO,4,99,24.8,47,2,5,14
+"Halvorsen, T.",NO,4,31,7.8,11,0,5,14
+"Danielsson, A.",NO,3,28,9.3,16,0,5,14
+"Francisco, S.",NO,2,11,5.5,6,0,5,14

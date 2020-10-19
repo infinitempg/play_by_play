@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, M.",SJS,6,101,16.8,42,1
-"Smallwood, D.",SJS,6,44,7.3,14,0
-"Bottles, B.",SJS,5,14,2.8,4,0
-"Weston, S.",SJS,4,80,20,35,0
-"Yates, J.",SJS,3,10,3.3,6,0
-"Diaz, D.",SJS,1,10,10,10,0
-"Stormblessed, N.",BAL,5,74,14.8,25,0
-"Willie, T.",BAL,5,70,14,38,1
-"Wheat, B.",BAL,3,53,17.7,30,0
-"Christmas, C.",BAL,2,25,12.5,17,0
-"Koch, D.",BAL,2,11,5.5,10,0
-"Taylor, O.",BAL,1,15,15,15,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, M.",SJS,6,101,16.8,42,1,4,4
+"Smallwood, D.",SJS,6,44,7.3,14,0,4,4
+"Bottles, B.",SJS,5,14,2.8,4,0,4,4
+"Weston, S.",SJS,4,80,20,35,0,4,4
+"Yates, J.",SJS,3,10,3.3,6,0,4,4
+"Diaz, D.",SJS,1,10,10,10,0,4,4
+"Stormblessed, N.",BAL,5,74,14.8,25,0,4,4
+"Willie, T.",BAL,5,70,14,38,1,4,4
+"Wheat, B.",BAL,3,53,17.7,30,0,4,4
+"Christmas, C.",BAL,2,25,12.5,17,0,4,4
+"Koch, D.",BAL,2,11,5.5,10,0,4,4
+"Taylor, O.",BAL,1,15,15,15,0,4,4

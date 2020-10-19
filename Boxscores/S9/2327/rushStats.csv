@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,23,97,4.2,16,0
-"Fitzpatrick, K.",AZ,3,-1,-0.3,2,0
-"Taylor, O.",BAL,21,83,4,12,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,23,97,4.2,16,0,3,9
+"Fitzpatrick, K.",AZ,3,-1,-0.3,2,0,3,9
+"Taylor, O.",BAL,21,83,4,12,1,3,9

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,4,50,0,24,0,0,0,1
-"Diaz, D.",SJS,3,40,0,23,0,0,0,0
-"Garden, J.",YKW,4,62,24,25,18,0,0,4
-"Novel, L.",YKW,1,32,0,32,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,4,50,0,24,0,0,0,1,6,2
+"Diaz, D.",SJS,3,40,0,23,0,0,0,0,6,2
+"Garden, J.",YKW,4,62,24,25,18,0,0,4,6,2
+"Novel, L.",YKW,1,32,0,32,0,0,0,0,6,2

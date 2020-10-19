@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,25,94,3.8,12,2
-"Joyce, S.",COL,8,41,5.1,11,0
-"Pierno, N.",COL,3,9,3,10,0
-"Diaz, D.",SJS,20,41,2,6,0
-"Smallwood, D.",SJS,8,51,6.4,18,2
-"Orosz, C.",SJS,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,25,94,3.8,12,2,8,6
+"Joyce, S.",COL,8,41,5.1,11,0,8,6
+"Pierno, N.",COL,3,9,3,10,0,8,6
+"Diaz, D.",SJS,20,41,2,6,0,8,6
+"Smallwood, D.",SJS,8,51,6.4,18,2,8,6
+"Orosz, C.",SJS,1,0,0,0,0,8,6

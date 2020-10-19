@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,18,76,4.2,14,1
-"Showbiz, G.",OCO,1,2,2,2,0
-"Orosz, C.",SJS,15,55,3.7,12,1
-"Christ, J.",SJS,11,61,5.5,16,1
-"Bigby, L.",SJS,9,45,5,18,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,18,76,4.2,14,1,9,16
+"Showbiz, G.",OCO,1,2,2,2,0,9,16
+"Orosz, C.",SJS,15,55,3.7,12,1,9,16
+"Christ, J.",SJS,11,61,5.5,16,1,9,16
+"Bigby, L.",SJS,9,45,5,18,0,9,16

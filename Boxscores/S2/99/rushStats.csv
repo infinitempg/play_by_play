@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,27,67,2.5,9,0
-"Noble, L.",COL,1,6,6,6,0
-"Bowers Jr, V.",OCO,16,42,2.6,8,0
-"Jenkins, L.",OCO,13,56,4.3,9,0
-"Boss, M.",OCO,4,-1,-0.2,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,27,67,2.5,9,0,10,2
+"Noble, L.",COL,1,6,6,6,0,10,2
+"Bowers Jr, V.",OCO,16,42,2.6,8,0,10,2
+"Jenkins, L.",OCO,13,56,4.3,9,0,10,2
+"Boss, M.",OCO,4,-1,-0.2,0,0,10,2

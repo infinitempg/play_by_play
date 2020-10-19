@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,23,117,5.1,12,2
-"Gore, B.",YKW,7,21,3,7,0
-"Harris Jr., F.",YKW,1,1,1,1,0
-"Mackworthy, R.",AZ,30,105,3.5,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,23,117,5.1,12,2,9,10
+"Gore, B.",YKW,7,21,3,7,0,9,10
+"Harris Jr., F.",YKW,1,1,1,1,0,9,10
+"Mackworthy, R.",AZ,30,105,3.5,10,0,9,10

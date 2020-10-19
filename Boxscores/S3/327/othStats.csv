@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Chambers III, C.",SJS,3,25,0,0
-"Tech, G.",SJS,1,15,2,0
-"de Ligt, A.",SJS,1,5,0,0
-"Yates, J.",SJS,0,0,6,0
-"Brownce, B.",SJS,0,0,4,3
-"Sharpei, V.",SJS,0,0,4,1
-"Sharp, B.",SJS,0,0,2,0
-"Bottles, B.",SJS,0,0,0,1
-"Thomas, A.",ARI,1,5,4,1
-"Law, C.",ARI,1,15,3,0
-"Pest, T.",ARI,1,5,2,0
-"King, G.",ARI,1,5,0,0
-"Lee, J.",ARI,1,5,0,0
-"Luechly, L.",ARI,1,0,0,0
-"Pancake, P.",ARI,0,0,4,0
-"Asipi, A.",ARI,0,0,3,2
-"Tuck, J.",ARI,0,0,3,0
-"Mackworthy, R.",ARI,0,0,1,0
-"Schmarchetype, A.",ARI,0,0,1,0
-"Timlin, S.",ARI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Chambers III, C.",SJS,3,25,0,0,13,3
+"Tech, G.",SJS,1,15,2,0,13,3
+"de Ligt, A.",SJS,1,5,0,0,13,3
+"Yates, J.",SJS,0,0,6,0,13,3
+"Brownce, B.",SJS,0,0,4,3,13,3
+"Sharpei, V.",SJS,0,0,4,1,13,3
+"Sharp, B.",SJS,0,0,2,0,13,3
+"Bottles, B.",SJS,0,0,0,1,13,3
+"Thomas, A.",ARI,1,5,4,1,13,3
+"Law, C.",ARI,1,15,3,0,13,3
+"Pest, T.",ARI,1,5,2,0,13,3
+"King, G.",ARI,1,5,0,0,13,3
+"Lee, J.",ARI,1,5,0,0,13,3
+"Luechly, L.",ARI,1,0,0,0,13,3
+"Pancake, P.",ARI,0,0,4,0,13,3
+"Asipi, A.",ARI,0,0,3,2,13,3
+"Tuck, J.",ARI,0,0,3,0,13,3
+"Mackworthy, R.",ARI,0,0,1,0,13,3
+"Schmarchetype, A.",ARI,0,0,1,0,13,3
+"Timlin, S.",ARI,0,0,1,0,13,3

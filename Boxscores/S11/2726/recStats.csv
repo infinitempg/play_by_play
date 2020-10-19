@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",NO,7,72,10.3,28,0
-"Law, C.",NO,6,108,18,41,1
-"Smallwood, D.",NO,6,23,3.8,6,1
-"Fyodorovich, V.",NO,5,54,10.8,21,0
-"Yobanna-Kanayochukwu, C.",NO,4,21,5.2,10,0
-"LeClair, A.",NO,1,37,37,37,0
-"Willie, T.",BAL,6,112,18.7,39,1
-"L'Alto, V.",BAL,5,54,10.8,25,1
-"Valentine, V.",BAL,4,75,18.8,27,1
-"Harp, D.",BAL,4,27,6.8,16,0
-"Taylor, O.",BAL,2,10,5,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",NO,7,72,10.3,28,0,14,11
+"Law, C.",NO,6,108,18,41,1,14,11
+"Smallwood, D.",NO,6,23,3.8,6,1,14,11
+"Fyodorovich, V.",NO,5,54,10.8,21,0,14,11
+"Yobanna-Kanayochukwu, C.",NO,4,21,5.2,10,0,14,11
+"LeClair, A.",NO,1,37,37,37,0,14,11
+"Willie, T.",BAL,6,112,18.7,39,1,14,11
+"L'Alto, V.",BAL,5,54,10.8,25,1,14,11
+"Valentine, V.",BAL,4,75,18.8,27,1,14,11
+"Harp, D.",BAL,4,27,6.8,16,0,14,11
+"Taylor, O.",BAL,2,10,5,7,0,14,11

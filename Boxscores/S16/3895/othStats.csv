@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Arbage, G.",AZ,1,10,2,0
-"Irving, J.",AZ,1,5,2,0
-"Mack, M.",AZ,1,15,0,0
-"Mughes, H.",AZ,1,5,0,0
-"Rash, T.",AZ,0,0,12,0
-"Aste, W.",AZ,0,0,9,0
-"Moore, S.",AZ,0,0,5,0
-"Ebris, D.",AZ,0,0,4,0
-"Unk, J.",AZ,0,0,3,0
-"Shady, S.",AZ,0,0,2,0
-"Hayes, R.",PHI,2,15,5,0
-"Thomas, S.",PHI,2,20,0,0
-"Tyler, J.",PHI,1,5,6,0
-"Arthur, C.",PHI,1,5,1,0
-"D'Attoria V, R.",PHI,1,5,0,0
-"Kalilmoku, I.",PHI,1,5,0,0
-"von Matt, J.",PHI,1,5,0,0
-"Brannigan, Z.",PHI,0,0,5,1
-"Hank, F.",PHI,0,0,3,0
-"Fillmore, M.",PHI,0,0,2,0
-"Jones, V.",PHI,0,0,2,0
-"Van Buren, M.",PHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Arbage, G.",AZ,1,10,2,0,6,16
+"Irving, J.",AZ,1,5,2,0,6,16
+"Mack, M.",AZ,1,15,0,0,6,16
+"Mughes, H.",AZ,1,5,0,0,6,16
+"Rash, T.",AZ,0,0,12,0,6,16
+"Aste, W.",AZ,0,0,9,0,6,16
+"Moore, S.",AZ,0,0,5,0,6,16
+"Ebris, D.",AZ,0,0,4,0,6,16
+"Unk, J.",AZ,0,0,3,0,6,16
+"Shady, S.",AZ,0,0,2,0,6,16
+"Hayes, R.",PHI,2,15,5,0,6,16
+"Thomas, S.",PHI,2,20,0,0,6,16
+"Tyler, J.",PHI,1,5,6,0,6,16
+"Arthur, C.",PHI,1,5,1,0,6,16
+"D'Attoria V, R.",PHI,1,5,0,0,6,16
+"Kalilmoku, I.",PHI,1,5,0,0,6,16
+"von Matt, J.",PHI,1,5,0,0,6,16
+"Brannigan, Z.",PHI,0,0,5,1,6,16
+"Hank, F.",PHI,0,0,3,0,6,16
+"Fillmore, M.",PHI,0,0,2,0,6,16
+"Jones, V.",PHI,0,0,2,0,6,16
+"Van Buren, M.",PHI,0,0,2,0,6,16

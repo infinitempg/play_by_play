@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Zephyrous, S.",OCO,15,57,3.8,8,1
-"Adams, R.",OCO,7,35,5,13,0
-"Showbiz, G.",OCO,2,32,16,24,0
-"Wizardry, D.",YKW,23,90,3.9,9,0
-"Carrasco, T.",YKW,6,33,5.5,9,0
-"Pitcher, A.",YKW,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Zephyrous, S.",OCO,15,57,3.8,8,1,1,14
+"Adams, R.",OCO,7,35,5,13,0,1,14
+"Showbiz, G.",OCO,2,32,16,24,0,1,14
+"Wizardry, D.",YKW,23,90,3.9,9,0,1,14
+"Carrasco, T.",YKW,6,33,5.5,9,0,1,14
+"Pitcher, A.",YKW,1,1,1,1,0,1,14

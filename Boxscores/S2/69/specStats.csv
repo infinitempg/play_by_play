@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garden, J.",YKW,1,32,0,32,0,0,0,0
-"Novel, L.",YKW,3,50,19,25,12,0,0,2
-"Delacour, A.",BAL,4,162,0,101,0,1,0,0
-"Farlane, D.",BAL,1,20,0,20,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garden, J.",YKW,1,32,0,32,0,0,0,0,9,2
+"Novel, L.",YKW,3,50,19,25,12,0,0,2,9,2
+"Delacour, A.",BAL,4,162,0,101,0,1,0,0,9,2
+"Farlane, D.",BAL,1,20,0,20,0,0,0,0,9,2

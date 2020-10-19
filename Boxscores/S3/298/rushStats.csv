@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Durden, J.",SJS,31,103,3.3,9,0
-"Hunt, E.",SJS,4,3,0.8,3,0
-"Diaz, D.",SJS,3,7,2.3,4,0
-"Farlane, D.",BAL,31,103,3.3,9,0
-"Robinson, M.",BAL,9,31,3.4,8,1
-"Sanderson, J.",BAL,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Durden, J.",SJS,31,103,3.3,9,0,6,3
+"Hunt, E.",SJS,4,3,0.8,3,0,6,3
+"Diaz, D.",SJS,3,7,2.3,4,0,6,3
+"Farlane, D.",BAL,31,103,3.3,9,0,6,3
+"Robinson, M.",BAL,9,31,3.4,8,1,6,3
+"Sanderson, J.",BAL,1,0,0,0,0,6,3

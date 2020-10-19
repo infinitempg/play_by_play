@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Torenson, S.",PHI,2,53,0,28,0,0,0,0
-"Panda, F.",PHI,0,0,33,0,18,0,0,2
-"Thomas-Fox, D.",SJS,4,107,19,43,19,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Torenson, S.",PHI,2,53,0,28,0,0,0,0,6,24
+"Panda, F.",PHI,0,0,33,0,18,0,0,2,6,24
+"Thomas-Fox, D.",SJS,4,107,19,43,19,0,0,1,6,24

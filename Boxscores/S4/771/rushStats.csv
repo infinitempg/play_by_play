@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,19,40,2.1,8,0
-"Farlane, D.",COL,12,38,3.2,7,1
-"Pierno, N.",COL,4,24,6,20,0
-"Newman, M.",COL,1,2,2,2,0
-"Kroetch, D.",PHI,14,41,2.9,7,1
-"O'Connell, K.",PHI,13,40,3.1,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,19,40,2.1,8,0,12,4
+"Farlane, D.",COL,12,38,3.2,7,1,12,4
+"Pierno, N.",COL,4,24,6,20,0,12,4
+"Newman, M.",COL,1,2,2,2,0,12,4
+"Kroetch, D.",PHI,14,41,2.9,7,1,12,4
+"O'Connell, K.",PHI,13,40,3.1,8,0,12,4

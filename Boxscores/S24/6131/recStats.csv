@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Vuxta, R.",PHI,7,121,17.3,24,0
-"Blocksdale Jr., A.",PHI,5,39,7.8,12,1
-"Varga, N.",PHI,4,107,26.8,36,1
-"Panda, F.",PHI,2,15,7.5,8,0
-"Arrabiata, D.",PHI,2,13,6.5,7,0
-"Torenson, S.",PHI,1,11,11,11,0
-"Dotson, F.",PHI,1,3,3,3,0
-"Gaines, N.",AUS,5,90,18,30,0
-"Mendonca, M.",AUS,4,16,4,12,0
-"Jeeta, E.",AUS,2,20,10,11,0
-"Tidwell, R.",AUS,2,12,6,7,0
-"Videl-San, N.",AUS,2,11,5.5,6,0
-"Jones, K.",AUS,1,19,19,19,0
-"Larson, P.",AUS,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Vuxta, R.",PHI,7,121,17.3,24,0,10,24
+"Blocksdale Jr., A.",PHI,5,39,7.8,12,1,10,24
+"Varga, N.",PHI,4,107,26.8,36,1,10,24
+"Panda, F.",PHI,2,15,7.5,8,0,10,24
+"Arrabiata, D.",PHI,2,13,6.5,7,0,10,24
+"Torenson, S.",PHI,1,11,11,11,0,10,24
+"Dotson, F.",PHI,1,3,3,3,0,10,24
+"Gaines, N.",AUS,5,90,18,30,0,10,24
+"Mendonca, M.",AUS,4,16,4,12,0,10,24
+"Jeeta, E.",AUS,2,20,10,11,0,10,24
+"Tidwell, R.",AUS,2,12,6,7,0,10,24
+"Videl-San, N.",AUS,2,11,5.5,6,0,10,24
+"Jones, K.",AUS,1,19,19,19,0,10,24
+"Larson, P.",AUS,1,0,0,0,0,10,24

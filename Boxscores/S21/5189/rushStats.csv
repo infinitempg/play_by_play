@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",BAL,14,37,2.6,9,0
-"Williams, D.",BAL,14,48,3.4,6,1
-"Havran, C.",BAL,1,10,10,10,0
-"Hank, F.",CHI,17,55,3.2,8,1
-"Leaf Jr., R.",CHI,15,58,3.9,13,0
-"Jenkins, R.",CHI,2,12,6,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",BAL,14,37,2.6,9,0,8,21
+"Williams, D.",BAL,14,48,3.4,6,1,8,21
+"Havran, C.",BAL,1,10,10,10,0,8,21
+"Hank, F.",CHI,17,55,3.2,8,1,8,21
+"Leaf Jr., R.",CHI,15,58,3.9,13,0,8,21
+"Jenkins, R.",CHI,2,12,6,9,0,8,21

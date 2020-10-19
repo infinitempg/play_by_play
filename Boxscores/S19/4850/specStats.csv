@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,3,71,0,34,0,0,0,0
-"Staley, T.",SJS,4,92,22,36,19,0,0,2
-"Donut, S.",AZ,2,32,0,27,0,0,0,0
-"Oles, K.",AZ,2,70,85,39,75,0,1,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,3,71,0,34,0,0,0,0,9,19
+"Staley, T.",SJS,4,92,22,36,19,0,0,2,9,19
+"Donut, S.",AZ,2,32,0,27,0,0,0,0,9,19
+"Oles, K.",AZ,2,70,85,39,75,0,1,4,9,19

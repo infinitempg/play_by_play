@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Miller, H.",COL,4,174,0,104,0,1,0,0
-"Oakes, B.",COL,0,0,33,0,20,0,0,3
-"Lavelle, D.",YKW,5,109,0,31,0,0,0,0
-"Wizardry, D.",YKW,2,37,21,35,16,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Miller, H.",COL,4,174,0,104,0,1,0,0,14,13
+"Oakes, B.",COL,0,0,33,0,20,0,0,3,14,13
+"Lavelle, D.",YKW,5,109,0,31,0,0,0,0,14,13
+"Wizardry, D.",YKW,2,37,21,35,16,0,0,2,14,13

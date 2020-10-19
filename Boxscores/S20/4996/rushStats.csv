@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Drake, O.",YKW,16,74,4.6,9,0
-"Hanyadi, M.",YKW,16,59,3.7,10,2
-"Bigsby, C.",YKW,3,27,9,15,0
-"Ruff, R.",AZ,13,44,3.4,7,0
-"Cue, J.",AZ,5,30,6,21,0
-"Allan, C.",AZ,2,3,1.5,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Drake, O.",YKW,16,74,4.6,9,0,6,20
+"Hanyadi, M.",YKW,16,59,3.7,10,2,6,20
+"Bigsby, C.",YKW,3,27,9,15,0,6,20
+"Ruff, R.",AZ,13,44,3.4,7,0,6,20
+"Cue, J.",AZ,5,30,6,21,0,6,20
+"Allan, C.",AZ,2,3,1.5,2,0,6,20

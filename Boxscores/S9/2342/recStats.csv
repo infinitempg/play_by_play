@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Chess, C.",AZ,5,64,12.8,17,0
-"Wachter, J.",AZ,5,49,9.8,20,2
-"Squanch, V.",AZ,4,36,9,13,0
-"Crindy, B.",AZ,3,19,6.3,8,0
-"Mackworthy, R.",AZ,3,10,3.3,6,1
-"Booter, F.",AZ,1,0,0,0,0
-"Weston, S.",SJS,8,82,10.2,24,0
-"Tuck Jr., T.",SJS,6,28,4.7,6,1
-"Riddick, D.",SJS,5,32,6.4,14,0
-"Legion, A.",SJS,4,47,11.8,26,1
-"(R)Brannigan, Z.",SJS,4,32,8,14,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Chess, C.",AZ,5,64,12.8,17,0,7,9
+"Wachter, J.",AZ,5,49,9.8,20,2,7,9
+"Squanch, V.",AZ,4,36,9,13,0,7,9
+"Crindy, B.",AZ,3,19,6.3,8,0,7,9
+"Mackworthy, R.",AZ,3,10,3.3,6,1,7,9
+"Booter, F.",AZ,1,0,0,0,0,7,9
+"Weston, S.",SJS,8,82,10.2,24,0,7,9
+"Tuck Jr., T.",SJS,6,28,4.7,6,1,7,9
+"Riddick, D.",SJS,5,32,6.4,14,0,7,9
+"Legion, A.",SJS,4,47,11.8,26,1,7,9
+"(R)Brannigan, Z.",SJS,4,32,8,14,0,7,9

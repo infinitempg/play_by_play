@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hasselhoff, F.",PHI,6,68,11.3,19,0
-"von Matt, J.",PHI,3,39,13,20,0
-"Bush, C.",PHI,2,17,8.5,11,0
-"Hondo, A.",PHI,2,11,5.5,6,0
-"Brown, M.",PHI,1,3,3,3,1
-"L'Alto, V.",BAL,7,67,9.6,20,0
-"Valentine, V.",BAL,6,122,20.3,44,1
-"Harp, D.",BAL,6,65,10.8,19,0
-"Summer, A.",BAL,6,26,4.3,11,0
-"Nagasawa, Y.",BAL,4,40,10,25,0
-"Maddox, E.",BAL,3,26,8.7,11,0
-"Taylor, O.",BAL,2,10,5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hasselhoff, F.",PHI,6,68,11.3,19,0,1,12
+"von Matt, J.",PHI,3,39,13,20,0,1,12
+"Bush, C.",PHI,2,17,8.5,11,0,1,12
+"Hondo, A.",PHI,2,11,5.5,6,0,1,12
+"Brown, M.",PHI,1,3,3,3,1,1,12
+"L'Alto, V.",BAL,7,67,9.6,20,0,1,12
+"Valentine, V.",BAL,6,122,20.3,44,1,1,12
+"Harp, D.",BAL,6,65,10.8,19,0,1,12
+"Summer, A.",BAL,6,26,4.3,11,0,1,12
+"Nagasawa, Y.",BAL,4,40,10,25,0,1,12
+"Maddox, E.",BAL,3,26,8.7,11,0,1,12
+"Taylor, O.",BAL,2,10,5,6,0,1,12

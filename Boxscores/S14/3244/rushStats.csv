@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Adams, R.",OCO,10,24,2.4,7,0
-"Zephyrous, S.",OCO,10,28,2.8,10,0
-"Canton, J.",SJS,13,54,4.2,9,0
-"Christ, J.",SJS,8,2,0.2,4,0
-"Orosz, C.",SJS,7,30,4.3,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Adams, R.",OCO,10,24,2.4,7,0,10,14
+"Zephyrous, S.",OCO,10,28,2.8,10,0,10,14
+"Canton, J.",SJS,13,54,4.2,9,0,10,14
+"Christ, J.",SJS,8,2,0.2,4,0,10,14
+"Orosz, C.",SJS,7,30,4.3,6,0,10,14

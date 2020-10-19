@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jones, B.",NO,5,120,24,39,0
-"McCormick, A.",NO,5,36,7.2,12,0
-"Valentine, V.",NO,4,42,10.5,17,2
-"Rodriguez, B.",NO,4,39,9.8,13,1
-"Gump, F.",NO,3,23,7.7,13,0
-"Fyodorovich, V.",NO,2,25,12.5,15,0
-"Toriki, M.",NO,1,3,3,3,0
-"Larson, P.",AUS,7,54,7.7,14,1
-"Anoa'i, D.",AUS,6,100,16.7,29,0
-"Blockerman, F.",AUS,5,42,8.4,14,0
-"Tidwell, R.",AUS,4,143,35.8,69,0
-"Mendonca, M.",AUS,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jones, B.",NO,5,120,24,39,0,10,19
+"McCormick, A.",NO,5,36,7.2,12,0,10,19
+"Valentine, V.",NO,4,42,10.5,17,2,10,19
+"Rodriguez, B.",NO,4,39,9.8,13,1,10,19
+"Gump, F.",NO,3,23,7.7,13,0,10,19
+"Fyodorovich, V.",NO,2,25,12.5,15,0,10,19
+"Toriki, M.",NO,1,3,3,3,0,10,19
+"Larson, P.",AUS,7,54,7.7,14,1,10,19
+"Anoa'i, D.",AUS,6,100,16.7,29,0,10,19
+"Blockerman, F.",AUS,5,42,8.4,14,0,10,19
+"Tidwell, R.",AUS,4,143,35.8,69,0,10,19
+"Mendonca, M.",AUS,1,0,0,0,0,10,19

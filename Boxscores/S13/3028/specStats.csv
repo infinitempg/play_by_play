@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Miller, H.",COL,1,38,20,38,20,0,0,1
-"Becker, K.",PHI,6,78,0,30,0,0,0,0
-"Bush, C.",PHI,4,54,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Miller, H.",COL,1,38,20,38,20,0,0,1,5,13
+"Becker, K.",PHI,6,78,0,30,0,0,0,0,5,13
+"Bush, C.",PHI,4,54,0,24,0,0,0,0,5,13

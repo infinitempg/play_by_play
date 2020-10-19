@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Thruster, D.",COL,2,10,5,0
-"Guard, L.",COL,0,0,10,0
-"Magic, M.",COL,0,0,7,0
-"Guard, R.",COL,0,0,6,0
-"Robertoswki, G.",COL,0,0,5,0
-"Centre, S.",COL,0,0,4,0
-"Sauce, E.",COL,0,0,4,0
-"Williams, D.",COL,0,0,3,1
-"Batista, D.",COL,0,0,2,0
-"Gronlie, T.",PHI,3,25,0,0
-"DeSoto, J.",PHI,2,10,0,0
-"Tremblay, S.",PHI,1,5,5,0
-"Van Buren, M.",PHI,1,5,3,0
-"Fillmore, M.",PHI,1,10,1,0
-"D'Attoria V, R.",PHI,1,5,0,0
-"Blocksdale Jr., A.",PHI,0,0,4,0
-"Hayes, R.",PHI,0,0,3,0
-"Arrabiata, D.",PHI,0,0,1,0
-"Elephant, M.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Thruster, D.",COL,2,10,5,0,5,25
+"Guard, L.",COL,0,0,10,0,5,25
+"Magic, M.",COL,0,0,7,0,5,25
+"Guard, R.",COL,0,0,6,0,5,25
+"Robertoswki, G.",COL,0,0,5,0,5,25
+"Centre, S.",COL,0,0,4,0,5,25
+"Sauce, E.",COL,0,0,4,0,5,25
+"Williams, D.",COL,0,0,3,1,5,25
+"Batista, D.",COL,0,0,2,0,5,25
+"Gronlie, T.",PHI,3,25,0,0,5,25
+"DeSoto, J.",PHI,2,10,0,0,5,25
+"Tremblay, S.",PHI,1,5,5,0,5,25
+"Van Buren, M.",PHI,1,5,3,0,5,25
+"Fillmore, M.",PHI,1,10,1,0,5,25
+"D'Attoria V, R.",PHI,1,5,0,0,5,25
+"Blocksdale Jr., A.",PHI,0,0,4,0,5,25
+"Hayes, R.",PHI,0,0,3,0,5,25
+"Arrabiata, D.",PHI,0,0,1,0,5,25
+"Elephant, M.",PHI,0,0,1,0,5,25

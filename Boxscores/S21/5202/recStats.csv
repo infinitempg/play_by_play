@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Toriki, M.",NO,6,58,9.7,17,1
-"Podolak, J.",NO,6,49,8.2,12,1
-"Jones, B.",NO,5,101,20.2,41,0
-"McCormick, A.",NO,4,56,14,28,0
-"Gump, F.",NO,4,33,8.2,14,0
-"Gordon, R.",YKW,5,92,18.4,38,0
-"Hanyadi, M.",YKW,5,71,14.2,34,0
-"Swift, N.",YKW,4,81,20.2,26,2
-"Drake, O.",YKW,3,15,5,8,0
-"Rodriguez, B.",YKW,2,28,14,21,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Toriki, M.",NO,6,58,9.7,17,1,10,21
+"Podolak, J.",NO,6,49,8.2,12,1,10,21
+"Jones, B.",NO,5,101,20.2,41,0,10,21
+"McCormick, A.",NO,4,56,14,28,0,10,21
+"Gump, F.",NO,4,33,8.2,14,0,10,21
+"Gordon, R.",YKW,5,92,18.4,38,0,10,21
+"Hanyadi, M.",YKW,5,71,14.2,34,0,10,21
+"Swift, N.",YKW,4,81,20.2,26,2,10,21
+"Drake, O.",YKW,3,15,5,8,0,10,21
+"Rodriguez, B.",YKW,2,28,14,21,1,10,21

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bush, C.",PHI,10,107,10.7,18,1
-"O'Sullivan, S.",PHI,6,41,6.8,12,0
-"North, F.",PHI,5,70,14,23,0
-"Garden, J.",PHI,3,42,14,26,0
-"Nyquist, W.",PHI,2,12,6,7,0
-"Squanch, V.",AZ,6,95,15.8,32,0
-"Chess, C.",AZ,5,73,14.6,29,0
-"Wachter, J.",AZ,3,52,17.3,24,0
-"Mackworthy, R.",AZ,3,36,12,25,0
-"Crindy, B.",AZ,2,9,4.5,5,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bush, C.",PHI,10,107,10.7,18,1,11,9
+"O'Sullivan, S.",PHI,6,41,6.8,12,0,11,9
+"North, F.",PHI,5,70,14,23,0,11,9
+"Garden, J.",PHI,3,42,14,26,0,11,9
+"Nyquist, W.",PHI,2,12,6,7,0,11,9
+"Squanch, V.",AZ,6,95,15.8,32,0,11,9
+"Chess, C.",AZ,5,73,14.6,29,0,11,9
+"Wachter, J.",AZ,3,52,17.3,24,0,11,9
+"Mackworthy, R.",AZ,3,36,12,25,0,11,9
+"Crindy, B.",AZ,2,9,4.5,5,1,11,9

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Applehort, R.",YKW,"[24, 39]",305,12.7,3,1,100.9
-"Fitzpatrick, K.",AZ,"[24, 38]",237,9.9,1,1,78.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Applehort, R.",YKW,305,12.7,3,1,100.9,24,24,10,13
+"Fitzpatrick, K.",AZ,237,9.9,1,1,78.5,24,24,10,13

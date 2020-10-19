@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Staley, T.",SJS,5,177,-4,44,0,0,0,1
-"Tuck, J.",SJS,2,52,0,39,0,0,0,0
-"Jones, B.",NO,1,27,0,27,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Staley, T.",SJS,5,177,-4,44,0,0,0,1,2,18
+"Tuck, J.",SJS,2,52,0,39,0,0,0,0,2,18
+"Jones, B.",NO,1,27,0,27,0,0,0,0,2,18

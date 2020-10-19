@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Marshall, M.",YKW,23,98,4.3,12,1
-"Canton, J.",YKW,10,54,5.4,13,0
-"Wizardry, D.",YKW,8,35,4.4,11,0
-"Bigsby, C.",YKW,3,24,8,18,1
-"Pitcher, A.",YKW,3,9,3,7,0
-"Brown, M.",BAL,31,142,4.6,15,0
-"Harp, D.",BAL,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Marshall, M.",YKW,23,98,4.3,12,1,2,15
+"Canton, J.",YKW,10,54,5.4,13,0,2,15
+"Wizardry, D.",YKW,8,35,4.4,11,0,2,15
+"Bigsby, C.",YKW,3,24,8,18,1,2,15
+"Pitcher, A.",YKW,3,9,3,7,0,2,15
+"Brown, M.",BAL,31,142,4.6,15,0,2,15
+"Harp, D.",BAL,1,1,1,1,0,2,15

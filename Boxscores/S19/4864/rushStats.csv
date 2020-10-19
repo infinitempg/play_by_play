@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ruff, R.",AZ,14,56,4,12,0
-"Allan, C.",AZ,1,0,0,0,0
-"Owens, A.",COL,23,123,5.3,14,1
-"Vincent, M.",COL,15,57,3.8,9,1
-"McDummy, W.",COL,2,-4,-2,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ruff, R.",AZ,14,56,4,12,0,12,19
+"Allan, C.",AZ,1,0,0,0,0,12,19
+"Owens, A.",COL,23,123,5.3,14,1,12,19
+"Vincent, M.",COL,15,57,3.8,9,1,12,19
+"McDummy, W.",COL,2,-4,-2,0,0,12,19

@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Reed, A.",BAL,7,81,11.6,31,0
-"Quinn, A.",BAL,4,64,16,39,2
-"Maddox, E.",BAL,3,51,17,29,0
-"Kross, C.",BAL,2,51,25.5,36,0
-"Williams, D.",BAL,1,19,19,19,0
-"Banks II, D.",OCO,5,81,16.2,50,0
-"Kurisuto, R.",OCO,4,48,12,24,1
-"Blaze, J.",OCO,4,36,9,20,0
-"Mongo, H.",OCO,3,28,9.3,15,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Reed, A.",BAL,7,81,11.6,31,0,13,21
+"Quinn, A.",BAL,4,64,16,39,2,13,21
+"Maddox, E.",BAL,3,51,17,29,0,13,21
+"Kross, C.",BAL,2,51,25.5,36,0,13,21
+"Williams, D.",BAL,1,19,19,19,0,13,21
+"Banks II, D.",OCO,5,81,16.2,50,0,13,21
+"Kurisuto, R.",OCO,4,48,12,24,1,13,21
+"Blaze, J.",OCO,4,36,9,20,0,13,21
+"Mongo, H.",OCO,3,28,9.3,15,0,13,21

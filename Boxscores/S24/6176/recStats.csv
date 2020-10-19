@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Vuxta, R.",PHI,4,85,21.2,35,0
-"Arrabiata, D.",PHI,3,24,8,11,0
-"Panda, F.",PHI,2,24,12,14,0
-"Dotson, F.",PHI,1,4,4,4,0
-"Angler, J.",SAR,8,116,14.5,27,0
-"Witheblock, M.",SAR,4,52,13,30,1
-"Gordon, R.",SAR,4,42,10.5,15,0
-"Boyd, C.",SAR,4,31,7.8,13,0
-"Chan, R.",SAR,2,19,9.5,12,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Vuxta, R.",PHI,4,85,21.2,35,0,2,24
+"Arrabiata, D.",PHI,3,24,8,11,0,2,24
+"Panda, F.",PHI,2,24,12,14,0,2,24
+"Dotson, F.",PHI,1,4,4,4,0,2,24
+"Angler, J.",SAR,8,116,14.5,27,0,2,24
+"Witheblock, M.",SAR,4,52,13,30,1,2,24
+"Gordon, R.",SAR,4,42,10.5,15,0,2,24
+"Boyd, C.",SAR,4,31,7.8,13,0,2,24
+"Chan, R.",SAR,2,19,9.5,12,0,2,24

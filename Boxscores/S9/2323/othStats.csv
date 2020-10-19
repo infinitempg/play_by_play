@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Joshua, C.",SJS,2,10,0,0
-"(R)Brannigan, Z.",SJS,1,10,4,0
-"Washington, L.",SJS,1,10,0,0
-"McKoutchie, M.",SJS,0,0,6,1
-"Probincrux III, D.",SJS,0,0,6,0
-"Tacktheritrix, J.",SJS,0,0,4,1
-"Rucker, F.",SJS,0,0,3,0
-"Jahelpme, H.",SJS,0,0,1,0
-"Tuck Jr., T.",SJS,0,0,1,0
-"Diaz, D.",SJS,0,0,0,1
-"Bagwell, N.",PHI,3,25,0,0
-"Davidson, D.",PHI,2,10,0,0
-"Filmore, M.",PHI,1,5,7,0
-"O'Sullivan, S.",PHI,1,5,1,0
-"North, F.",PHI,1,5,0,0
-"Weathers III, B.",PHI,1,5,0,0
-"Arthur, C.",PHI,0,0,5,0
-"Hayes, R.",PHI,0,0,3,0
-"Tyler, J.",PHI,0,0,3,0
-"Van Buren, M.",PHI,0,0,1,0
-"Farlane, D.",PHI,0,0,0,1
-"Nyquist, W.",PHI,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Joshua, C.",SJS,2,10,0,0,2,9
+"(R)Brannigan, Z.",SJS,1,10,4,0,2,9
+"Washington, L.",SJS,1,10,0,0,2,9
+"McKoutchie, M.",SJS,0,0,6,1,2,9
+"Probincrux III, D.",SJS,0,0,6,0,2,9
+"Tacktheritrix, J.",SJS,0,0,4,1,2,9
+"Rucker, F.",SJS,0,0,3,0,2,9
+"Jahelpme, H.",SJS,0,0,1,0,2,9
+"Tuck Jr., T.",SJS,0,0,1,0,2,9
+"Diaz, D.",SJS,0,0,0,1,2,9
+"Bagwell, N.",PHI,3,25,0,0,2,9
+"Davidson, D.",PHI,2,10,0,0,2,9
+"Filmore, M.",PHI,1,5,7,0,2,9
+"O'Sullivan, S.",PHI,1,5,1,0,2,9
+"North, F.",PHI,1,5,0,0,2,9
+"Weathers III, B.",PHI,1,5,0,0,2,9
+"Arthur, C.",PHI,0,0,5,0,2,9
+"Hayes, R.",PHI,0,0,3,0,2,9
+"Tyler, J.",PHI,0,0,3,0,2,9
+"Van Buren, M.",PHI,0,0,1,0,2,9
+"Farlane, D.",PHI,0,0,0,1,2,9
+"Nyquist, W.",PHI,0,0,0,1,2,9

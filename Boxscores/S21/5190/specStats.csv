@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Swift, N.",YKW,2,62,0,36,0,0,0,0
-"Snuggles, J.",YKW,1,10,9,10,12,0,0,2
-"Banks II, D.",OCO,0,0,12,0,7,0,0,4
-"Lattimer, A.",OCO,4,90,0,28,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Swift, N.",YKW,2,62,0,36,0,0,0,0,8,21
+"Snuggles, J.",YKW,1,10,9,10,12,0,0,2,8,21
+"Banks II, D.",OCO,0,0,12,0,7,0,0,4,8,21
+"Lattimer, A.",OCO,4,90,0,28,0,0,0,0,8,21

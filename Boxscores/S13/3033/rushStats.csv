@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,28,113,4,15,0
-"Fitzpatrick, K.",AZ,1,17,17,17,0
-"Adams, R.",OCO,16,62,3.9,8,0
-"Zephyrous, S.",OCO,9,48,5.3,10,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,28,113,4,15,0,6,13
+"Fitzpatrick, K.",AZ,1,17,17,17,0,6,13
+"Adams, R.",OCO,16,62,3.9,8,0,6,13
+"Zephyrous, S.",OCO,9,48,5.3,10,1,6,13

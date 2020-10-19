@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Rice, J.",CHI,0,0,113,0,62,0,1,6
-"Brown, M.",CHI,5,204,0,92,0,1,0,0
-"Parker, J.",CHI,1,32,0,32,0,0,0,0
-"Lejune, L.",COL,5,149,5,45,5,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Rice, J.",CHI,0,0,113,0,62,0,1,6,6,18
+"Brown, M.",CHI,5,204,0,92,0,1,0,0,6,18
+"Parker, J.",CHI,1,32,0,32,0,0,0,0,6,18
+"Lejune, L.",COL,5,149,5,45,5,0,0,2,6,18

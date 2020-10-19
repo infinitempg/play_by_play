@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Clay, J.",HON,6,75,12.5,16,1
-"Podolak, J.",HON,5,63,12.6,26,1
-"Alexander, W.",HON,3,31,10.3,18,1
-"Ayers, N.",HON,1,14,14,14,0
-"Z, D.",HON,1,5,5,5,0
-"Jeeta, E.",AUS,5,61,12.2,17,0
-"Gaines, N.",AUS,4,76,19,39,1
-"Tidwell, R.",AUS,3,42,14,25,0
-"Mendonca, M.",AUS,2,20,10,11,0
-"Videl-San, N.",AUS,2,9,4.5,6,0
-"Larson, P.",AUS,2,8,4,7,0
-"Jones, K.",AUS,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Clay, J.",HON,6,75,12.5,16,1,5,24
+"Podolak, J.",HON,5,63,12.6,26,1,5,24
+"Alexander, W.",HON,3,31,10.3,18,1,5,24
+"Ayers, N.",HON,1,14,14,14,0,5,24
+"Z, D.",HON,1,5,5,5,0,5,24
+"Jeeta, E.",AUS,5,61,12.2,17,0,5,24
+"Gaines, N.",AUS,4,76,19,39,1,5,24
+"Tidwell, R.",AUS,3,42,14,25,0,5,24
+"Mendonca, M.",AUS,2,20,10,11,0,5,24
+"Videl-San, N.",AUS,2,9,4.5,6,0,5,24
+"Larson, P.",AUS,2,8,4,7,0,5,24
+"Jones, K.",AUS,1,8,8,8,0,5,24

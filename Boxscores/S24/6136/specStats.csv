@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Chan, R.",SAR,4,116,37,46,21,0,0,2
-"Adams, X.",SAR,3,106,0,45,0,0,0,0
-"Beerus, L.",OCO,2,56,16,49,16,0,0,1
-"Trunks, F.",OCO,3,50,0,22,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Chan, R.",SAR,4,116,37,46,21,0,0,2,9,24
+"Adams, X.",SAR,3,106,0,45,0,0,0,0,9,24
+"Beerus, L.",OCO,2,56,16,49,16,0,0,1,9,24
+"Trunks, F.",OCO,3,50,0,22,0,0,0,0,9,24

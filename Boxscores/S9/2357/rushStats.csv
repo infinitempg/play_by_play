@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,19,75,3.9,11,0
-"Blocksdale, A.",BAL,1,0,0,0,0
-"L'Alto, V.",BAL,1,2,2,2,1
-"Nuck, B.",BAL,1,4,4,4,1
-"Yates, J.",OCO,19,71,3.7,9,1
-"Winchester, A.",OCO,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,19,75,3.9,11,0,11,9
+"Blocksdale, A.",BAL,1,0,0,0,0,11,9
+"L'Alto, V.",BAL,1,2,2,2,1,11,9
+"Nuck, B.",BAL,1,4,4,4,1,11,9
+"Yates, J.",OCO,19,71,3.7,9,1,11,9
+"Winchester, A.",OCO,1,2,2,2,0,11,9

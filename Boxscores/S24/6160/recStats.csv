@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McCormick, A.",NO,7,39,5.6,10,0
-"Toriki, M.",NO,2,60,30,54,0
-"Snyder, S.",NO,2,42,21,34,0
-"Barker, E.",NO,2,24,12,13,0
-"Wolfcastle, R.",NO,2,13,6.5,7,0
-"Bodenhamer, B.",NO,1,14,14,14,0
-"Swift, N.",SJS,5,76,15.2,36,0
-"McDavid, L.",SJS,4,30,7.5,14,0
-"Thomas-Fox, D.",SJS,3,103,34.3,59,0
-"Hood, T.",SJS,2,28,14,21,0
-"Cardrissian, R.",SJS,1,5,5,5,0
-"Lackson, J.",SJS,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McCormick, A.",NO,7,39,5.6,10,0,5,24
+"Toriki, M.",NO,2,60,30,54,0,5,24
+"Snyder, S.",NO,2,42,21,34,0,5,24
+"Barker, E.",NO,2,24,12,13,0,5,24
+"Wolfcastle, R.",NO,2,13,6.5,7,0,5,24
+"Bodenhamer, B.",NO,1,14,14,14,0,5,24
+"Swift, N.",SJS,5,76,15.2,36,0,5,24
+"McDavid, L.",SJS,4,30,7.5,14,0,5,24
+"Thomas-Fox, D.",SJS,3,103,34.3,59,0,5,24
+"Hood, T.",SJS,2,28,14,21,0,5,24
+"Cardrissian, R.",SJS,1,5,5,5,0,5,24
+"Lackson, J.",SJS,1,3,3,3,0,5,24

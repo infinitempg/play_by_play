@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Boija, F.",PHI,9,40,4.4,10,2
-"Hank, F.",PHI,9,30,3.3,6,0
-"Falconi, A.",PHI,2,9,4.5,7,0
-"Jones, V.",PHI,1,2,2,2,0
-"Wizardry, D.",AUS,21,99,4.7,11,1
-"Mendonca, M.",AUS,9,41,4.6,14,0
-"Cole, E.",AUS,3,11,3.7,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Boija, F.",PHI,9,40,4.4,10,2,13,16
+"Hank, F.",PHI,9,30,3.3,6,0,13,16
+"Falconi, A.",PHI,2,9,4.5,7,0,13,16
+"Jones, V.",PHI,1,2,2,2,0,13,16
+"Wizardry, D.",AUS,21,99,4.7,11,1,13,16
+"Mendonca, M.",AUS,9,41,4.6,14,0,13,16
+"Cole, E.",AUS,3,11,3.7,6,0,13,16

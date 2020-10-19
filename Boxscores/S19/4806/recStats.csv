@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Sunnycursed, N.",YKW,9,104,11.6,22,2
-"Hanyadi, M.",YKW,8,72,9,18,0
-"Swift, N.",YKW,6,104,17.3,34,1
-"Helanen, T.",YKW,4,56,14,38,0
-"Drake, O.",YKW,2,11,5.5,6,0
-"Varga, N.",PHI,7,109,15.6,31,1
-"Torenson, S.",PHI,6,26,4.3,12,0
-"Dropson, J.",PHI,5,100,20,42,1
-"Dotson, F.",PHI,2,21,10.5,12,0
-"Hank, F.",PHI,2,14,7,11,0
-"CantCatchBot, Z.",PHI,1,10,10,10,0
-"Zephyrous, S.",PHI,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Sunnycursed, N.",YKW,9,104,11.6,22,2,1,19
+"Hanyadi, M.",YKW,8,72,9,18,0,1,19
+"Swift, N.",YKW,6,104,17.3,34,1,1,19
+"Helanen, T.",YKW,4,56,14,38,0,1,19
+"Drake, O.",YKW,2,11,5.5,6,0,1,19
+"Varga, N.",PHI,7,109,15.6,31,1,1,19
+"Torenson, S.",PHI,6,26,4.3,12,0,1,19
+"Dropson, J.",PHI,5,100,20,42,1,1,19
+"Dotson, F.",PHI,2,21,10.5,12,0,1,19
+"Hank, F.",PHI,2,14,7,11,0,1,19
+"CantCatchBot, Z.",PHI,1,10,10,10,0,1,19
+"Zephyrous, S.",PHI,1,8,8,8,0,1,19

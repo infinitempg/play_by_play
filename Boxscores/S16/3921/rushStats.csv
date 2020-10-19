@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jimbo, D.",BAL,23,115,5,11,0
-"Brown, M.",BAL,22,93,4.2,12,3
-"L'Alto, V.",BAL,2,2,1,1,0
-"Murphy, J.",AZ,12,39,3.2,8,0
-"Shady, S.",AZ,11,53,4.8,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jimbo, D.",BAL,23,115,5,11,0,11,16
+"Brown, M.",BAL,22,93,4.2,12,3,11,16
+"L'Alto, V.",BAL,2,2,1,1,0,11,16
+"Murphy, J.",AZ,12,39,3.2,8,0,11,16
+"Shady, S.",AZ,11,53,4.8,9,0,11,16

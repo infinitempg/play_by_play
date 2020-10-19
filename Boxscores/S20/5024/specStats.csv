@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Reed, A.",OCO,4,73,0,35,0,0,0,0
-"Banks II, D.",OCO,0,0,19,0,17,0,0,2
-"Lattimer, A.",OCO,1,25,0,25,0,0,0,0
-"Lavelle Jr., D.",AUS,5,125,122,44,54,0,0,3
-"Bakshi, S.",AUS,1,2,0,2,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Reed, A.",OCO,4,73,0,35,0,0,0,0,11,20
+"Banks II, D.",OCO,0,0,19,0,17,0,0,2,11,20
+"Lattimer, A.",OCO,1,25,0,25,0,0,0,0,11,20
+"Lavelle Jr., D.",AUS,5,125,122,44,54,0,0,3,11,20
+"Bakshi, S.",AUS,1,2,0,2,0,0,0,0,11,20

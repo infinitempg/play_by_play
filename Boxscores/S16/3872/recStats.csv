@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Olsen, C.",SJS,7,101,14.4,28,0
-"Espeeyeeseetee, A.",SJS,5,53,10.6,18,0
-"Wright, D.",SJS,5,28,5.6,10,0
-"Flash, X.",SJS,4,50,12.5,23,0
-"Davenport, C.",SJS,2,16,8,16,0
-"Blaze, J.",OCO,7,97,13.9,42,1
-"Valentine, V.",OCO,6,161,26.8,66,1
-"Sunnycursed, N.",OCO,3,113,37.7,60,0
-"Pitcher, A.",OCO,3,20,6.7,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Olsen, C.",SJS,7,101,14.4,28,0,1,16
+"Espeeyeeseetee, A.",SJS,5,53,10.6,18,0,1,16
+"Wright, D.",SJS,5,28,5.6,10,0,1,16
+"Flash, X.",SJS,4,50,12.5,23,0,1,16
+"Davenport, C.",SJS,2,16,8,16,0,1,16
+"Blaze, J.",OCO,7,97,13.9,42,1,1,16
+"Valentine, V.",OCO,6,161,26.8,66,1,1,16
+"Sunnycursed, N.",OCO,3,113,37.7,60,0,1,16
+"Pitcher, A.",OCO,3,20,6.7,10,0,1,16

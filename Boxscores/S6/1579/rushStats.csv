@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Pierno, N.",COL,21,79,3.8,27,0
-"Tweed, B.",COL,21,97,4.6,12,1
-"Joyce, S.",COL,5,17,3.4,7,1
-"Taylor, O.",BAL,26,120,4.6,17,0
-"Blocksdale, A.",BAL,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Pierno, N.",COL,21,79,3.8,27,0,1,6
+"Tweed, B.",COL,21,97,4.6,12,1,1,6
+"Joyce, S.",COL,5,17,3.4,7,1,1,6
+"Taylor, O.",BAL,26,120,4.6,17,0,1,6
+"Blocksdale, A.",BAL,1,4,4,4,0,1,6

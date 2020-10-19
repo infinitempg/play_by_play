@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Angler, J.",SAR,6,86,14.3,29,1
-"Witheblock, M.",SAR,4,90,22.5,33,0
-"Boyd, C.",SAR,2,32,16,25,0
-"Gordon, R.",SAR,2,22,11,15,0
-"Chan, R.",SAR,1,5,5,5,0
-"McCormick, A.",NO,6,37,6.2,11,0
-"Barker, E.",NO,4,103,25.8,37,0
-"Bodenhamer, B.",NO,3,67,22.3,35,1
-"Toriki, M.",NO,3,42,14,22,0
-"Snyder, S.",NO,2,26,13,19,1
-"Wolfcastle, R.",NO,2,17,8.5,10,0
-"Gump, F.",NO,1,11,11,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Angler, J.",SAR,6,86,14.3,29,1,7,24
+"Witheblock, M.",SAR,4,90,22.5,33,0,7,24
+"Boyd, C.",SAR,2,32,16,25,0,7,24
+"Gordon, R.",SAR,2,22,11,15,0,7,24
+"Chan, R.",SAR,1,5,5,5,0,7,24
+"McCormick, A.",NO,6,37,6.2,11,0,7,24
+"Barker, E.",NO,4,103,25.8,37,0,7,24
+"Bodenhamer, B.",NO,3,67,22.3,35,1,7,24
+"Toriki, M.",NO,3,42,14,22,0,7,24
+"Snyder, S.",NO,2,26,13,19,1,7,24
+"Wolfcastle, R.",NO,2,17,8.5,10,0,7,24
+"Gump, F.",NO,1,11,11,11,0,7,24

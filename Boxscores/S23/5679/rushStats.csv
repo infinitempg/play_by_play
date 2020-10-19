@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Toriki, M.",NO,16,64,4,11,1
-"Gump, F.",NO,11,41,3.7,10,0
-"Francisco, S.",NO,6,-3,-0.5,2,0
-"Yoda, B.",AZ,17,61,3.6,9,0
-"Cue, J.",AZ,6,25,4.2,13,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Toriki, M.",NO,16,64,4,11,1,14,23
+"Gump, F.",NO,11,41,3.7,10,0,14,23
+"Francisco, S.",NO,6,-3,-0.5,2,0,14,23
+"Yoda, B.",AZ,17,61,3.6,9,0,14,23
+"Cue, J.",AZ,6,25,4.2,13,1,14,23

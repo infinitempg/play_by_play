@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,11,27,2.5,9,0
-"Taylor, O.",BAL,22,83,3.8,12,1
-"Koch, D.",BAL,2,8,4,5,0
-"Blocksdale, A.",BAL,1,8,8,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,11,27,2.5,9,0,9,5
+"Taylor, O.",BAL,22,83,3.8,12,1,9,5
+"Koch, D.",BAL,2,8,4,5,0,9,5
+"Blocksdale, A.",BAL,1,8,8,8,0,9,5

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bronko, K.",AZ,"[26, 50]",390,15,5,1,102.9
-"Orosz, C.",SJS,"[24, 43]",363,15.1,1,0,91.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bronko, K.",AZ,390,15,5,1,102.9,26,24,9,5
+"Orosz, C.",SJS,363,15.1,1,0,91.5,26,24,9,5

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Armstrong, F.",OCO,22,132,6,21,1
-"Reed, A.",OCO,17,75,4.4,12,1
-"Shady, S.",OCO,7,27,3.9,7,0
-"Torenson, S.",PHI,14,65,4.6,11,0
-"Hank, F.",PHI,6,18,3,7,0
-"Dotson, F.",PHI,1,10,10,10,0
-"Phoenix, B.",PHI,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Armstrong, F.",OCO,22,132,6,21,1,10,20
+"Reed, A.",OCO,17,75,4.4,12,1,10,20
+"Shady, S.",OCO,7,27,3.9,7,0,10,20
+"Torenson, S.",PHI,14,65,4.6,11,0,10,20
+"Hank, F.",PHI,6,18,3,7,0,10,20
+"Dotson, F.",PHI,1,10,10,10,0,10,20
+"Phoenix, B.",PHI,1,0,0,0,0,10,20

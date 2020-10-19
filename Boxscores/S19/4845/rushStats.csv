@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,21,75,3.6,10,1
-"Toriki, M.",NO,15,46,3.1,8,0
-"Reed, A.",OCO,22,104,4.7,11,0
-"Armstrong, F.",OCO,11,67,6.1,14,0
-"Shady, S.",OCO,2,7,3.5,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,21,75,3.6,10,1,8,19
+"Toriki, M.",NO,15,46,3.1,8,0,8,19
+"Reed, A.",OCO,22,104,4.7,11,0,8,19
+"Armstrong, F.",OCO,11,67,6.1,14,0,8,19
+"Shady, S.",OCO,2,7,3.5,4,0,8,19

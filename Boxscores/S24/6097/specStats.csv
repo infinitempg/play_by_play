@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hanyadi, M.",YKW,5,147,3,45,3,0,0,1
-"Leonard, M.",YKW,1,19,0,19,0,0,0,0
-"Chan, R.",SAR,5,138,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hanyadi, M.",YKW,5,147,3,45,3,0,0,1,15,24
+"Leonard, M.",YKW,1,19,0,19,0,0,0,0,15,24
+"Chan, R.",SAR,5,138,0,42,0,0,0,0,15,24

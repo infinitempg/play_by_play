@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"McMahon, J.",COL,0,0,10,0,7,0,0,2
-"Berry, M.",COL,4,67,0,25,0,0,0,0
-"Emoji, E.",PHI,5,158,45,46,20,0,0,4
-"Garnett, L.",PHI,1,40,0,40,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"McMahon, J.",COL,0,0,10,0,7,0,0,2,4,20
+"Berry, M.",COL,4,67,0,25,0,0,0,0,4,20
+"Emoji, E.",PHI,5,158,45,46,20,0,0,4,4,20
+"Garnett, L.",PHI,1,40,0,40,0,0,0,0,4,20

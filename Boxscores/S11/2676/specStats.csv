@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,4,116,8,35,10,0,0,3
-"Pennington, T.",YKW,3,53,0,36,0,0,0,0
-"Barnes, B.",AZ,2,34,0,24,0,0,0,0
-"Hobbs, S.",AZ,4,63,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,4,116,8,35,10,0,0,3,2,11
+"Pennington, T.",YKW,3,53,0,36,0,0,0,0,2,11
+"Barnes, B.",AZ,2,34,0,24,0,0,0,0,2,11
+"Hobbs, S.",AZ,4,63,0,33,0,0,0,0,2,11

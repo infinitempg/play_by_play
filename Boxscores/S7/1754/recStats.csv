@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Weston, S.",SJS,6,105,17.5,40,0
-"Bottles, B.",SJS,6,21,3.5,5,0
-"Jackson, M.",SJS,5,106,21.2,33,0
-"Smallwood, D.",SJS,4,46,11.5,19,0
-"Diaz, D.",SJS,3,27,9,23,0
-"West, D.",SJS,1,9,9,9,0
-"McPoyal, G.",YKW,10,77,7.7,12,0
-"Cook, B.",YKW,5,73,14.6,25,0
-"Harris Jr., F.",YKW,4,50,12.5,15,1
-"Kennedy, E.",YKW,3,85,28.3,43,0
-"Lavelle, D.",YKW,1,18,18,18,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Weston, S.",SJS,6,105,17.5,40,0,7,7
+"Bottles, B.",SJS,6,21,3.5,5,0,7,7
+"Jackson, M.",SJS,5,106,21.2,33,0,7,7
+"Smallwood, D.",SJS,4,46,11.5,19,0,7,7
+"Diaz, D.",SJS,3,27,9,23,0,7,7
+"West, D.",SJS,1,9,9,9,0,7,7
+"McPoyal, G.",YKW,10,77,7.7,12,0,7,7
+"Cook, B.",YKW,5,73,14.6,25,0,7,7
+"Harris Jr., F.",YKW,4,50,12.5,15,1,7,7
+"Kennedy, E.",YKW,3,85,28.3,43,0,7,7
+"Lavelle, D.",YKW,1,18,18,18,0,7,7

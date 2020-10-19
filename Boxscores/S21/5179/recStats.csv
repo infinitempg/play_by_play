@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, N.",YKW,6,110,18.3,26,0
-"Gordon, R.",YKW,6,79,13.2,38,2
-"Hanyadi, M.",YKW,5,40,8,13,0
-"Rodriguez, B.",YKW,4,106,26.5,31,0
-"Drake, O.",YKW,4,37,9.2,18,0
-"Kross, C.",BAL,5,96,19.2,39,2
-"Maddox, E.",BAL,5,77,15.4,40,0
-"Reed, A.",BAL,4,35,8.8,22,0
-"Williams, D.",BAL,2,12,6,10,0
-"Quinn, A.",BAL,1,22,22,22,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, N.",YKW,6,110,18.3,26,0,6,21
+"Gordon, R.",YKW,6,79,13.2,38,2,6,21
+"Hanyadi, M.",YKW,5,40,8,13,0,6,21
+"Rodriguez, B.",YKW,4,106,26.5,31,0,6,21
+"Drake, O.",YKW,4,37,9.2,18,0,6,21
+"Kross, C.",BAL,5,96,19.2,39,2,6,21
+"Maddox, E.",BAL,5,77,15.4,40,0,6,21
+"Reed, A.",BAL,4,35,8.8,22,0,6,21
+"Williams, D.",BAL,2,12,6,10,0,6,21
+"Quinn, A.",BAL,1,22,22,22,0,6,21

@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,1,37,20,37,13,0,0,3
-"Purchase, L.",COL,1,44,0,44,0,0,0,0
-"Sauce, E.",COL,1,0,0,0,0,0,0,0
-"Donut, S.",AZ,2,58,0,38,0,0,0,0
-"Knight, L.",AZ,4,107,14,42,14,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,1,37,20,37,13,0,0,3,12,21
+"Purchase, L.",COL,1,44,0,44,0,0,0,0,12,21
+"Sauce, E.",COL,1,0,0,0,0,0,0,0,12,21
+"Donut, S.",AZ,2,58,0,38,0,0,0,0,12,21
+"Knight, L.",AZ,4,107,14,42,14,0,0,1,12,21

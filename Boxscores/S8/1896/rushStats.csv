@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Grau, M.",COL,30,120,4,11,0
-"Applehort, R.",COL,3,-2,-0.7,1,0
-"Joyce, S.",COL,3,13,4.3,8,1
-"Diaz, D.",SJS,23,74,3.2,12,0
-"Pennington, B.",SJS,1,-4,-4,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Grau, M.",COL,30,120,4,11,0,5,8
+"Applehort, R.",COL,3,-2,-0.7,1,0,5,8
+"Joyce, S.",COL,3,13,4.3,8,1,5,8
+"Diaz, D.",SJS,23,74,3.2,12,0,5,8
+"Pennington, B.",SJS,1,-4,-4,0,0,5,8

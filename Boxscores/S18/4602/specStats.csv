@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Emoji, E.",PHI,0,0,4,0,8,0,0,3
-"Garnett, L.",PHI,3,70,0,41,0,0,0,0
-"Varga, N.",PHI,2,55,0,40,0,0,0,0
-"Brown, M.",CHI,0,0,12,0,8,0,0,4
-"Parker, J.",CHI,5,83,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Emoji, E.",PHI,0,0,4,0,8,0,0,3,10,18
+"Garnett, L.",PHI,3,70,0,41,0,0,0,0,10,18
+"Varga, N.",PHI,2,55,0,40,0,0,0,0,10,18
+"Brown, M.",CHI,0,0,12,0,8,0,0,4,10,18
+"Parker, J.",CHI,5,83,0,34,0,0,0,0,10,18

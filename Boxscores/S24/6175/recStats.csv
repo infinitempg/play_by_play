@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, A.",YKW,6,48,8,18,3
-"Sakura, K.",YKW,5,74,14.8,26,0
-"Cash Jr., S.",YKW,3,27,9,14,0
-"Hanyadi, M.",YKW,3,19,6.3,10,0
-"Lee, M.",YKW,2,17,8.5,9,0
-"Rechs, Z.",YKW,1,8,8,8,0
-"Owens, A.",COL,6,68,11.3,28,0
-"Sauce, E.",COL,5,45,9,12,1
-"Lim, W.",COL,4,87,21.8,41,1
-"Jenkins, L.",COL,3,56,18.7,46,1
-"Kingston, J.",COL,2,12,6,7,0
-"Gilbert, R.",COL,2,6,3,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, A.",YKW,6,48,8,18,3,2,24
+"Sakura, K.",YKW,5,74,14.8,26,0,2,24
+"Cash Jr., S.",YKW,3,27,9,14,0,2,24
+"Hanyadi, M.",YKW,3,19,6.3,10,0,2,24
+"Lee, M.",YKW,2,17,8.5,9,0,2,24
+"Rechs, Z.",YKW,1,8,8,8,0,2,24
+"Owens, A.",COL,6,68,11.3,28,0,2,24
+"Sauce, E.",COL,5,45,9,12,1,2,24
+"Lim, W.",COL,4,87,21.8,41,1,2,24
+"Jenkins, L.",COL,3,56,18.7,46,1,2,24
+"Kingston, J.",COL,2,12,6,7,0,2,24
+"Gilbert, R.",COL,2,6,3,4,0,2,24

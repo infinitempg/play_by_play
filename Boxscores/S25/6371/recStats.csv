@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jeeta, E.",AUS,8,105,13.1,27,1
-"Gaines, N.",AUS,5,88,17.6,38,0
-"Vequain, F.",AUS,4,36,9,17,1
-"Watts, Z.",AUS,4,23,5.8,11,0
-"Videl-San, N.",AUS,3,74,24.7,42,0
-"Jones, K.",AUS,2,13,6.5,11,0
-"Podolak, J.",HON,7,104,14.9,44,0
-"Krashwagen, R.",HON,5,35,7,13,0
-"Kane-Maika'i, K.",HON,5,21,4.2,11,0
-"Alexander, W.",HON,3,72,24,53,0
-"J'Vathon, T.",HON,2,53,26.5,44,1
-"Ayers, N.",HON,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jeeta, E.",AUS,8,105,13.1,27,1,1,25
+"Gaines, N.",AUS,5,88,17.6,38,0,1,25
+"Vequain, F.",AUS,4,36,9,17,1,1,25
+"Watts, Z.",AUS,4,23,5.8,11,0,1,25
+"Videl-San, N.",AUS,3,74,24.7,42,0,1,25
+"Jones, K.",AUS,2,13,6.5,11,0,1,25
+"Podolak, J.",HON,7,104,14.9,44,0,1,25
+"Krashwagen, R.",HON,5,35,7,13,0,1,25
+"Kane-Maika'i, K.",HON,5,21,4.2,11,0,1,25
+"Alexander, W.",HON,3,72,24,53,0,1,25
+"J'Vathon, T.",HON,2,53,26.5,44,1,1,25
+"Ayers, N.",HON,1,9,9,9,0,1,25

@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",PHI,3,64,13,35,13,0,0,1
-"Hayden, A.",COL,2,34,2,22,6,0,0,2
-"Hendrix, K.",COL,3,63,0,37,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",PHI,3,64,13,35,13,0,0,1,5,2
+"Hayden, A.",COL,2,34,2,22,6,0,0,2,5,2
+"Hendrix, K.",COL,3,63,0,37,0,0,0,0,5,2

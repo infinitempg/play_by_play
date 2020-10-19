@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Podolak, J.",HON,5,55,11,17,1
-"Clay, J.",HON,4,79,19.8,32,1
-"Alexander, W.",HON,3,39,13,21,0
-"Kane-Maika'i, K.",HON,2,22,11,11,0
-"Z, D.",HON,2,10,5,5,0
-"Mendonca, M.",AUS,4,36,9,14,0
-"Tidwell, R.",AUS,3,91,30.3,44,1
-"Gaines, N.",AUS,3,69,23,43,0
-"Leaf Jr., R.",AUS,3,32,10.7,16,0
-"Larson, P.",AUS,3,26,8.7,9,0
-"Jeeta, E.",AUS,2,15,7.5,11,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Podolak, J.",HON,5,55,11,17,1,2,22
+"Clay, J.",HON,4,79,19.8,32,1,2,22
+"Alexander, W.",HON,3,39,13,21,0,2,22
+"Kane-Maika'i, K.",HON,2,22,11,11,0,2,22
+"Z, D.",HON,2,10,5,5,0,2,22
+"Mendonca, M.",AUS,4,36,9,14,0,2,22
+"Tidwell, R.",AUS,3,91,30.3,44,1,2,22
+"Gaines, N.",AUS,3,69,23,43,0,2,22
+"Leaf Jr., R.",AUS,3,32,10.7,16,0,2,22
+"Larson, P.",AUS,3,26,8.7,9,0,2,22
+"Jeeta, E.",AUS,2,15,7.5,11,1,2,22

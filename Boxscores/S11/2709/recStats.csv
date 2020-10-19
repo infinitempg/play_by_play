@@ -1,16 +1,16 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Brannigan, Z.",SJS,8,60,7.5,18,0
-"Flash, X.",SJS,6,67,11.2,26,0
-"Oles, K.",SJS,5,109,21.8,36,1
-"Weston, S.",SJS,2,10,5,5,0
-"Tuck Jr., T.",SJS,2,8,4,4,0
-"Orosz, C.",SJS,2,6,3,4,0
-"Canton, J.",SJS,2,5,2.5,3,0
-"Riddick, D.",SJS,1,6,6,6,0
-"Miller, H.",COL,4,101,25.2,43,1
-"North, F.",COL,4,52,13,27,2
-"Chipmunk, A.",COL,4,18,4.5,10,0
-"Grau, M.",COL,3,9,3,4,0
-"Aaron, D.",COL,1,50,50,50,0
-"Cansino, D.",COL,1,13,13,13,0
-"Wheat, B.",COL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Brannigan, Z.",SJS,8,60,7.5,18,0,10,11
+"Flash, X.",SJS,6,67,11.2,26,0,10,11
+"Oles, K.",SJS,5,109,21.8,36,1,10,11
+"Weston, S.",SJS,2,10,5,5,0,10,11
+"Tuck Jr., T.",SJS,2,8,4,4,0,10,11
+"Orosz, C.",SJS,2,6,3,4,0,10,11
+"Canton, J.",SJS,2,5,2.5,3,0,10,11
+"Riddick, D.",SJS,1,6,6,6,0,10,11
+"Miller, H.",COL,4,101,25.2,43,1,10,11
+"North, F.",COL,4,52,13,27,2,10,11
+"Chipmunk, A.",COL,4,18,4.5,10,0,10,11
+"Grau, M.",COL,3,9,3,4,0,10,11
+"Aaron, D.",COL,1,50,50,50,0,10,11
+"Cansino, D.",COL,1,13,13,13,0,10,11
+"Wheat, B.",COL,1,5,5,5,0,10,11

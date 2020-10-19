@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, E.",BAL,6,117,19.5,36,0
-"L'Alto, V.",BAL,5,43,8.6,13,0
-"Sunnycursed, N.",BAL,4,114,28.5,56,1
-"Jimbo, D.",BAL,3,16,5.3,10,1
-"Espeeyeeseetee, A.",BAL,2,24,12,13,0
-"Pancakes, P.",BAL,1,-1,-1,0,0
-"Nagasawa, Y.",OCO,4,96,24,39,1
-"Blaze, J.",OCO,4,54,13.5,33,0
-"Mongo, H.",OCO,3,37,12.3,23,0
-"Reed, A.",OCO,3,30,10,23,0
-"Pitcher, A.",OCO,2,22,11,15,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, E.",BAL,6,117,19.5,36,0,12,17
+"L'Alto, V.",BAL,5,43,8.6,13,0,12,17
+"Sunnycursed, N.",BAL,4,114,28.5,56,1,12,17
+"Jimbo, D.",BAL,3,16,5.3,10,1,12,17
+"Espeeyeeseetee, A.",BAL,2,24,12,13,0,12,17
+"Pancakes, P.",BAL,1,-1,-1,0,0,12,17
+"Nagasawa, Y.",OCO,4,96,24,39,1,12,17
+"Blaze, J.",OCO,4,54,13.5,33,0,12,17
+"Mongo, H.",OCO,3,37,12.3,23,0,12,17
+"Reed, A.",OCO,3,30,10,23,0,12,17
+"Pitcher, A.",OCO,2,22,11,15,1,12,17

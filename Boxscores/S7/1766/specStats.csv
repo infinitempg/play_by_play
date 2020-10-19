@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oakes, B.",NO,2,73,0,44,0,0,0,0
-"Evans, D.",NO,2,65,29,39,20,0,0,3
-"Delacour, A.",BAL,0,0,8,0,8,0,0,1
-"Willie, T.",BAL,4,72,0,25,0,0,0,0
-"LeClair, A.",BAL,3,98,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oakes, B.",NO,2,73,0,44,0,0,0,0,10,7
+"Evans, D.",NO,2,65,29,39,20,0,0,3,10,7
+"Delacour, A.",BAL,0,0,8,0,8,0,0,1,10,7
+"Willie, T.",BAL,4,72,0,25,0,0,0,0,10,7
+"LeClair, A.",BAL,3,98,0,34,0,0,0,0,10,7

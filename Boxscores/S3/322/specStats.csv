@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",PHI,1,8,21,8,12,0,0,4
-"Jefferson, L.",PHI,3,69,0,41,0,0,0,0
-"Westfield, B.",OCO,4,116,37,33,15,0,0,4
-"Phelps, R.",OCO,2,18,0,15,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",PHI,1,8,21,8,12,0,0,4,12,3
+"Jefferson, L.",PHI,3,69,0,41,0,0,0,0,12,3
+"Westfield, B.",OCO,4,116,37,33,15,0,0,4,12,3
+"Phelps, R.",OCO,2,18,0,15,0,0,0,0,12,3

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Petrongolo, J.",AZ,17,55,3.2,8,0
-"Cue, J.",AZ,10,29,2.9,9,0
-"Keppler, Z.",AZ,7,23,3.3,10,0
-"Mendonca, M.",AUS,19,61,3.2,10,0
-"Jones, K.",AUS,8,43,5.4,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Petrongolo, J.",AZ,17,55,3.2,8,0,2,24
+"Cue, J.",AZ,10,29,2.9,9,0,2,24
+"Keppler, Z.",AZ,7,23,3.3,10,0,2,24
+"Mendonca, M.",AUS,19,61,3.2,10,0,2,24
+"Jones, K.",AUS,8,43,5.4,11,0,2,24

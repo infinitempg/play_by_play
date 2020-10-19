@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Tackle, R.",COL,1,15,2,0
-"Taffy, T.",COL,1,5,0,0
-"Tackle, L.",COL,0,0,6,0
-"King, A.",COL,0,0,4,0
-"Owens, A.",COL,0,0,4,0
-"Centre, S.",COL,0,0,2,0
-"Guard, L.",COL,0,0,2,0
-"Guard, R.",COL,0,0,1,0
-"Vincent, M.",COL,0,0,1,0
-"Dotson, F.",PHI,2,25,1,0
-"Varga, N.",PHI,2,20,0,0
-"Franchet, M.",PHI,1,5,0,0
-"Garnett, L.",PHI,1,15,0,0
-"Harding, J.",PHI,1,10,0,0
-"Kassel, T.",PHI,1,5,0,0
-"Phoenix, B.",PHI,1,5,0,0
-"Tyler, J.",PHI,0,0,6,0
-"Arthur, C.",PHI,0,0,4,0
-"Fillmore, M.",PHI,0,0,3,1
-"Van Buren, M.",PHI,0,0,3,0
-"Blocksdale Jr., A.",PHI,0,0,2,0
-"Hayes, R.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Tackle, R.",COL,1,15,2,0,4,20
+"Taffy, T.",COL,1,5,0,0,4,20
+"Tackle, L.",COL,0,0,6,0,4,20
+"King, A.",COL,0,0,4,0,4,20
+"Owens, A.",COL,0,0,4,0,4,20
+"Centre, S.",COL,0,0,2,0,4,20
+"Guard, L.",COL,0,0,2,0,4,20
+"Guard, R.",COL,0,0,1,0,4,20
+"Vincent, M.",COL,0,0,1,0,4,20
+"Dotson, F.",PHI,2,25,1,0,4,20
+"Varga, N.",PHI,2,20,0,0,4,20
+"Franchet, M.",PHI,1,5,0,0,4,20
+"Garnett, L.",PHI,1,15,0,0,4,20
+"Harding, J.",PHI,1,10,0,0,4,20
+"Kassel, T.",PHI,1,5,0,0,4,20
+"Phoenix, B.",PHI,1,5,0,0,4,20
+"Tyler, J.",PHI,0,0,6,0,4,20
+"Arthur, C.",PHI,0,0,4,0,4,20
+"Fillmore, M.",PHI,0,0,3,1,4,20
+"Van Buren, M.",PHI,0,0,3,0,4,20
+"Blocksdale Jr., A.",PHI,0,0,2,0,4,20
+"Hayes, R.",PHI,0,0,1,0,4,20

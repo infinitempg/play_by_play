@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,24,85,3.5,9,2
-"Blocksdale, A.",BAL,2,5,2.5,4,0
-"Burnsman, E.",OCO,17,52,3.1,11,2
-"Boss, M.",OCO,2,14,7,12,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,24,85,3.5,9,2,9,7
+"Blocksdale, A.",BAL,2,5,2.5,4,0,9,7
+"Burnsman, E.",OCO,17,52,3.1,11,2,9,7
+"Boss, M.",OCO,2,14,7,12,0,9,7

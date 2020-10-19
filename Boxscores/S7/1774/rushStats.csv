@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wright, O.",AZ,23,109,4.7,12,3
-"Mackworthy, R.",AZ,17,88,5.2,19,0
-"Booter, F.",AZ,1,2,2,2,0
-"Taylor, O.",BAL,12,58,4.8,10,1
-"Blocksdale, A.",BAL,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wright, O.",AZ,23,109,4.7,12,3,12,7
+"Mackworthy, R.",AZ,17,88,5.2,19,0,12,7
+"Booter, F.",AZ,1,2,2,2,0,12,7
+"Taylor, O.",BAL,12,58,4.8,10,1,12,7
+"Blocksdale, A.",BAL,1,1,1,1,0,12,7

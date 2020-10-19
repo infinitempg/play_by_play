@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hardwick, S.",PHI,6,110,18.3,26,0
-"Batoff, R.",PHI,6,82,13.7,28,1
-"Bush, C.",PHI,5,81,16.2,28,2
-"von Matt, J.",PHI,4,119,29.8,42,1
-"Strike, L.",PHI,4,8,2,4,0
-"Brown, M.",PHI,2,9,4.5,5,0
-"Crindy, B.",AZ,3,42,14,17,0
-"Squanch, V.",AZ,2,28,14,21,0
-"Willie, T.",AZ,2,28,14,19,0
-"Moore, S.",AZ,2,11,5.5,6,0
-"Shady, S.",AZ,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hardwick, S.",PHI,6,110,18.3,26,0,12,13
+"Batoff, R.",PHI,6,82,13.7,28,1,12,13
+"Bush, C.",PHI,5,81,16.2,28,2,12,13
+"von Matt, J.",PHI,4,119,29.8,42,1,12,13
+"Strike, L.",PHI,4,8,2,4,0,12,13
+"Brown, M.",PHI,2,9,4.5,5,0,12,13
+"Crindy, B.",AZ,3,42,14,17,0,12,13
+"Squanch, V.",AZ,2,28,14,21,0,12,13
+"Willie, T.",AZ,2,28,14,19,0,12,13
+"Moore, S.",AZ,2,11,5.5,6,0,12,13
+"Shady, S.",AZ,1,5,5,5,0,12,13

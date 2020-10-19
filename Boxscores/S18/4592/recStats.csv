@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Espeeyeeseetee, A.",BAL,5,42,8.4,17,1
-"Sunnycursed, N.",BAL,4,73,18.2,38,2
-"Maddox, E.",BAL,3,83,27.7,46,0
-"L'Alto, V.",BAL,2,9,4.5,6,0
-"Bigby, L.",BAL,1,24,24,24,0
-"Brown, M.",CHI,12,124,10.3,14,0
-"Harp, D.",CHI,8,63,7.9,14,1
-"Hasselhoff, F.",CHI,5,73,14.6,26,1
-"Parker, J.",CHI,4,120,30,51,0
-"Utler, J.",CHI,2,9,4.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Espeeyeeseetee, A.",BAL,5,42,8.4,17,1,8,18
+"Sunnycursed, N.",BAL,4,73,18.2,38,2,8,18
+"Maddox, E.",BAL,3,83,27.7,46,0,8,18
+"L'Alto, V.",BAL,2,9,4.5,6,0,8,18
+"Bigby, L.",BAL,1,24,24,24,0,8,18
+"Brown, M.",CHI,12,124,10.3,14,0,8,18
+"Harp, D.",CHI,8,63,7.9,14,1,8,18
+"Hasselhoff, F.",CHI,5,73,14.6,26,1,8,18
+"Parker, J.",CHI,4,120,30,51,0,8,18
+"Utler, J.",CHI,2,9,4.5,6,0,8,18

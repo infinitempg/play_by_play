@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Wright, D.",SJS,"[16, 31]",171,10.7,0,0,68.1
-"Francisco, S.",NO,"[16, 24]",264,16.5,2,1,113.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Wright, D.",SJS,171,10.7,0,0,68.1,16,16,2,21
+"Francisco, S.",NO,264,16.5,2,1,113.9,16,16,2,21

@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crush, C.",COL,7,86,12.3,24,0
-"Miller, H.",COL,4,37,9.2,17,0
-"Aaron, D.",COL,2,16,8,10,0
-"Wheat, B.",COL,2,13,6.5,7,0
-"Joyce, S.",COL,2,9,4.5,5,0
-"Nuck, B.",COL,1,6,6,6,0
-"Yates, J.",OCO,6,85,14.2,41,0
-"Westfield, B.",OCO,6,81,13.5,29,1
-"Phelps, R.",OCO,5,97,19.4,53,1
-"O'Sullivan, S.",OCO,3,34,11.3,24,0
-"Atwell, T.",OCO,2,13,6.5,9,1
-"Burnsman, E.",OCO,2,8,4,6,0
-"RunBot2, Z.",OCO,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crush, C.",COL,7,86,12.3,24,0,7,7
+"Miller, H.",COL,4,37,9.2,17,0,7,7
+"Aaron, D.",COL,2,16,8,10,0,7,7
+"Wheat, B.",COL,2,13,6.5,7,0,7,7
+"Joyce, S.",COL,2,9,4.5,5,0,7,7
+"Nuck, B.",COL,1,6,6,6,0,7,7
+"Yates, J.",OCO,6,85,14.2,41,0,7,7
+"Westfield, B.",OCO,6,81,13.5,29,1,7,7
+"Phelps, R.",OCO,5,97,19.4,53,1,7,7
+"O'Sullivan, S.",OCO,3,34,11.3,24,0,7,7
+"Atwell, T.",OCO,2,13,6.5,9,1,7,7
+"Burnsman, E.",OCO,2,8,4,6,0,7,7
+"RunBot2, Z.",OCO,1,6,6,6,0,7,7

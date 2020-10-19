@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Westfield, B.",OCO,8,83,10.4,19,0
-"Adams, R.",OCO,5,36,7.2,12,0
-"Garden, J.",OCO,3,75,25,41,0
-"Zephyrous, S.",OCO,2,20,10,14,0
-"Broxton, J.",OCO,1,27,27,27,0
-"Crindy, B.",AZ,8,36,4.5,9,0
-"Wachter, J.",AZ,5,53,10.6,16,0
-"Squanch, V.",AZ,4,40,10,14,0
-"Morris, D.",AZ,4,33,8.2,11,0
-"Booter, F.",AZ,4,14,3.5,7,0
-"Mackworthy, R.",AZ,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Westfield, B.",OCO,8,83,10.4,19,0,13,10
+"Adams, R.",OCO,5,36,7.2,12,0,13,10
+"Garden, J.",OCO,3,75,25,41,0,13,10
+"Zephyrous, S.",OCO,2,20,10,14,0,13,10
+"Broxton, J.",OCO,1,27,27,27,0,13,10
+"Crindy, B.",AZ,8,36,4.5,9,0,13,10
+"Wachter, J.",AZ,5,53,10.6,16,0,13,10
+"Squanch, V.",AZ,4,40,10,14,0,13,10
+"Morris, D.",AZ,4,33,8.2,11,0,13,10
+"Booter, F.",AZ,4,14,3.5,7,0,13,10
+"Mackworthy, R.",AZ,1,6,6,6,0,13,10

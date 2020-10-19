@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Frost, D.",SAR,16,68,4.2,10,0
-"McTaco, P.",SAR,8,33,4.1,9,1
-"Gump, F.",NO,20,107,5.4,16,0
-"Toriki, M.",NO,16,80,5,14,1
-"Francisco, S.",NO,1,8,8,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Frost, D.",SAR,16,68,4.2,10,0,6,22
+"McTaco, P.",SAR,8,33,4.1,9,1,6,22
+"Gump, F.",NO,20,107,5.4,16,0,6,22
+"Toriki, M.",NO,16,80,5,14,1,6,22
+"Francisco, S.",NO,1,8,8,8,0,6,22

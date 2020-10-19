@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,4,103,0,36,0,0,0,0
-"Staley, T.",SJS,2,48,9,31,13,0,0,2
-"Reed, A.",OCO,1,23,0,23,0,0,0,0
-"Lattimer, A.",OCO,2,45,15,28,15,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,4,103,0,36,0,0,0,0,2,19
+"Staley, T.",SJS,2,48,9,31,13,0,0,2,2,19
+"Reed, A.",OCO,1,23,0,23,0,0,0,0,2,19
+"Lattimer, A.",OCO,2,45,15,28,15,0,0,1,2,19

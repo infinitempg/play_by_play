@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Kennedy, E.",YKW,6,37,6.2,14,0
-"Cook, B.",YKW,5,121,24.2,49,1
-"Nuck, B.",YKW,5,27,5.4,9,0
-"Askins, J.",YKW,4,36,9,19,0
-"Jarden, G.",YKW,3,11,3.7,7,0
-"Piper, W.",YKW,2,10,5,5,0
-"Law, D.",YKW,1,13,13,13,0
-"LeClair, A.",LV,5,81,16.2,29,0
-"Tanner, C.",LV,4,64,16,27,0
-"Tenzini, G.",LV,4,23,5.8,9,0
-"Ross, J.",LV,3,28,9.3,18,0
-"Cobb, K.",LV,3,25,8.3,11,0
-"Savea, A.",LV,3,19,6.3,14,0
-"Larsendorf, R.",LV,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Kennedy, E.",YKW,6,37,6.2,14,0,10,4
+"Cook, B.",YKW,5,121,24.2,49,1,10,4
+"Nuck, B.",YKW,5,27,5.4,9,0,10,4
+"Askins, J.",YKW,4,36,9,19,0,10,4
+"Jarden, G.",YKW,3,11,3.7,7,0,10,4
+"Piper, W.",YKW,2,10,5,5,0,10,4
+"Law, D.",YKW,1,13,13,13,0,10,4
+"LeClair, A.",LV,5,81,16.2,29,0,10,4
+"Tanner, C.",LV,4,64,16,27,0,10,4
+"Tenzini, G.",LV,4,23,5.8,9,0,10,4
+"Ross, J.",LV,3,28,9.3,18,0,10,4
+"Cobb, K.",LV,3,25,8.3,11,0,10,4
+"Savea, A.",LV,3,19,6.3,14,0,10,4
+"Larsendorf, R.",LV,1,0,0,0,0,10,4

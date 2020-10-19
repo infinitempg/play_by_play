@@ -1,9 +1,9 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hank, F.",PHI,15,75,5,15,0
-"Jones, V.",PHI,12,47,3.9,10,0
-"Falconi, A.",PHI,4,8,2,5,0
-"Boija, F.",PHI,3,12,4,6,0
-"Brown, M.",BAL,18,93,5.2,15,0
-"Jimbo, D.",BAL,9,23,2.6,7,0
-"Havran, C.",BAL,1,5,5,5,1
-"L'Alto, V.",BAL,1,3,3,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hank, F.",PHI,15,75,5,15,0,9,16
+"Jones, V.",PHI,12,47,3.9,10,0,9,16
+"Falconi, A.",PHI,4,8,2,5,0,9,16
+"Boija, F.",PHI,3,12,4,6,0,9,16
+"Brown, M.",BAL,18,93,5.2,15,0,9,16
+"Jimbo, D.",BAL,9,23,2.6,7,0,9,16
+"Havran, C.",BAL,1,5,5,5,1,9,16
+"L'Alto, V.",BAL,1,3,3,3,0,9,16

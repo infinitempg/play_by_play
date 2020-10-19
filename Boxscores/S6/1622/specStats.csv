@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kroetch, D.",PHI,2,67,0,35,0,0,0,0
-"Garden, J.",PHI,1,57,7,57,7,0,0,1
-"Lavelle, D.",YKW,4,72,26,28,16,0,0,3
-"Cook, B.",YKW,2,35,0,30,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kroetch, D.",PHI,2,67,0,35,0,0,0,0,12,6
+"Garden, J.",PHI,1,57,7,57,7,0,0,1,12,6
+"Lavelle, D.",YKW,4,72,26,28,16,0,0,3,12,6
+"Cook, B.",YKW,2,35,0,30,0,0,0,0,12,6

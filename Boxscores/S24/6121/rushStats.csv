@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cardrissian, R.",SJS,16,64,4,11,0
-"Lackson, J.",SJS,14,58,4.1,13,0
-"Gilbert, R.",COL,11,55,5,11,0
-"Owens, A.",COL,11,38,3.5,7,0
-"Bumper, T.",COL,9,43,4.8,13,1
-"McDummy, W.",COL,3,25,8.3,17,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cardrissian, R.",SJS,16,64,4,11,0,11,24
+"Lackson, J.",SJS,14,58,4.1,13,0,11,24
+"Gilbert, R.",COL,11,55,5,11,0,11,24
+"Owens, A.",COL,11,38,3.5,7,0,11,24
+"Bumper, T.",COL,9,43,4.8,13,1,11,24
+"McDummy, W.",COL,3,25,8.3,17,0,11,24

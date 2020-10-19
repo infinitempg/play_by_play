@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,13,50,3.8,10,2
-"Chess, C.",AZ,1,0,0,0,0
-"Taylor, O.",BAL,26,103,4,9,1
-"Koch, D.",BAL,1,9,9,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,13,50,3.8,10,2,7,5
+"Chess, C.",AZ,1,0,0,0,0,7,5
+"Taylor, O.",BAL,26,103,4,9,1,7,5
+"Koch, D.",BAL,1,9,9,9,0,7,5

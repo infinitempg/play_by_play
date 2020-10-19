@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Varga, N.",PHI,4,72,18,33,0
-"Torenson, S.",PHI,3,17,5.7,13,0
-"Dropson, J.",PHI,2,22,11,17,0
-"Dotson, F.",PHI,2,14,7,8,0
-"BotTight, Z.",PHI,2,9,4.5,7,0
-"Hank, F.",PHI,2,8,4,5,0
-"BigCatchMachine4, Z.",PHI,1,4,4,4,0
-"Owens, A.",COL,8,74,9.2,22,0
-"Bishop, J.",COL,4,57,14.2,26,0
-"King, A.",COL,4,25,6.2,10,0
-"McMahon, J.",COL,2,26,13,18,0
-"Vincent, M.",COL,2,20,10,18,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Varga, N.",PHI,4,72,18,33,0,2,19
+"Torenson, S.",PHI,3,17,5.7,13,0,2,19
+"Dropson, J.",PHI,2,22,11,17,0,2,19
+"Dotson, F.",PHI,2,14,7,8,0,2,19
+"BotTight, Z.",PHI,2,9,4.5,7,0,2,19
+"Hank, F.",PHI,2,8,4,5,0,2,19
+"BigCatchMachine4, Z.",PHI,1,4,4,4,0,2,19
+"Owens, A.",COL,8,74,9.2,22,0,2,19
+"Bishop, J.",COL,4,57,14.2,26,0,2,19
+"King, A.",COL,4,25,6.2,10,0,2,19
+"McMahon, J.",COL,2,26,13,18,0,2,19
+"Vincent, M.",COL,2,20,10,18,0,2,19

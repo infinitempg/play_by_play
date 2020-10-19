@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Chess, C.",ARI,7,65,9.3,21,0
-"Law, C.",ARI,7,57,8.1,15,0
-"Evans, D.",ARI,5,103,20.6,43,2
-"Tuck, J.",ARI,5,37,7.4,11,0
-"Garden, J.",ARI,4,95,23.8,42,1
-"Mackworthy, R.",ARI,1,10,10,10,0
-"Kennedy, E.",YKW,8,44,5.5,10,0
-"Askins, J.",YKW,7,36,5.1,8,1
-"Cook, B.",YKW,6,107,17.8,31,0
-"Jarden, G.",YKW,5,88,17.6,39,0
-"Law, D.",YKW,4,40,10,12,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Chess, C.",ARI,7,65,9.3,21,0,11,4
+"Law, C.",ARI,7,57,8.1,15,0,11,4
+"Evans, D.",ARI,5,103,20.6,43,2,11,4
+"Tuck, J.",ARI,5,37,7.4,11,0,11,4
+"Garden, J.",ARI,4,95,23.8,42,1,11,4
+"Mackworthy, R.",ARI,1,10,10,10,0,11,4
+"Kennedy, E.",YKW,8,44,5.5,10,0,11,4
+"Askins, J.",YKW,7,36,5.1,8,1,11,4
+"Cook, B.",YKW,6,107,17.8,31,0,11,4
+"Jarden, G.",YKW,5,88,17.6,39,0,11,4
+"Law, D.",YKW,4,40,10,12,1,11,4

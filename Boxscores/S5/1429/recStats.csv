@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hendrix, K.",COL,5,54,10.8,18,0
-"Crush, C.",COL,5,20,4,7,0
-"Tweed, B.",COL,4,31,7.8,14,0
-"Wheat, B.",COL,3,26,8.7,10,0
-"Joyce, S.",COL,1,9,9,9,0
-"Farlane, D.",COL,1,8,8,8,0
-"Reigns, J.",COL,1,4,4,4,0
-"Harris Jr., F.",YKW,10,60,6,13,3
-"Cook, B.",YKW,6,128,21.3,38,0
-"Nuck, B.",YKW,6,33,5.5,9,0
-"Law, D.",YKW,4,74,18.5,48,2
-"Jarden, G.",YKW,4,51,12.8,27,1
-"Kennedy, E.",YKW,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hendrix, K.",COL,5,54,10.8,18,0,14,5
+"Crush, C.",COL,5,20,4,7,0,14,5
+"Tweed, B.",COL,4,31,7.8,14,0,14,5
+"Wheat, B.",COL,3,26,8.7,10,0,14,5
+"Joyce, S.",COL,1,9,9,9,0,14,5
+"Farlane, D.",COL,1,8,8,8,0,14,5
+"Reigns, J.",COL,1,4,4,4,0,14,5
+"Harris Jr., F.",YKW,10,60,6,13,3,14,5
+"Cook, B.",YKW,6,128,21.3,38,0,14,5
+"Nuck, B.",YKW,6,33,5.5,9,0,14,5
+"Law, D.",YKW,4,74,18.5,48,2,14,5
+"Jarden, G.",YKW,4,51,12.8,27,1,14,5
+"Kennedy, E.",YKW,1,9,9,9,0,14,5

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",YKW,14,58,4.1,11,2
-"Marshall, M.",YKW,13,84,6.5,13,1
-"Bigsby, C.",YKW,1,2,2,2,0
-"Taffy, T.",COL,22,100,4.5,15,0
-"McDummy, W.",COL,1,-5,-5,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",YKW,14,58,4.1,11,2,5,16
+"Marshall, M.",YKW,13,84,6.5,13,1,5,16
+"Bigsby, C.",YKW,1,2,2,2,0,5,16
+"Taffy, T.",COL,22,100,4.5,15,0,5,16
+"McDummy, W.",COL,1,-5,-5,0,0,5,16

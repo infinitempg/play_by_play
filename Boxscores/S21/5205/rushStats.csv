@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Owens, A.",COL,13,70,5.4,21,0
-"Vincent, M.",COL,12,61,5.1,11,0
-"McDummy, W.",COL,10,52,5.2,25,2
-"Mendonca, M.",AUS,20,81,4,10,0
-"Cole, E.",AUS,3,25,8.3,28,1
-"Blockit, I.",AUS,2,3,1.5,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Owens, A.",COL,13,70,5.4,21,0,11,21
+"Vincent, M.",COL,12,61,5.1,11,0,11,21
+"McDummy, W.",COL,10,52,5.2,25,2,11,21
+"Mendonca, M.",AUS,20,81,4,10,0,11,21
+"Cole, E.",AUS,3,25,8.3,28,1,11,21
+"Blockit, I.",AUS,2,3,1.5,3,0,11,21

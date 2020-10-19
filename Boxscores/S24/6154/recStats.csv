@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blocksdale Jr., A.",PHI,5,46,9.2,14,0
-"Panda, F.",PHI,3,26,8.7,18,1
-"Torenson, S.",PHI,3,16,5.3,6,0
-"Arrabiata, D.",PHI,2,9,4.5,6,0
-"Varga, N.",PHI,1,25,25,25,0
-"Vuxta, R.",PHI,1,13,13,13,0
-"Thomas-Fox, D.",SJS,5,100,20,35,0
-"Hood, T.",SJS,3,68,22.7,37,0
-"Swift, N.",SJS,2,36,18,28,0
-"Cardrissian, R.",SJS,2,13,6.5,10,0
-"McDavid, L.",SJS,2,13,6.5,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blocksdale Jr., A.",PHI,5,46,9.2,14,0,6,24
+"Panda, F.",PHI,3,26,8.7,18,1,6,24
+"Torenson, S.",PHI,3,16,5.3,6,0,6,24
+"Arrabiata, D.",PHI,2,9,4.5,6,0,6,24
+"Varga, N.",PHI,1,25,25,25,0,6,24
+"Vuxta, R.",PHI,1,13,13,13,0,6,24
+"Thomas-Fox, D.",SJS,5,100,20,35,0,6,24
+"Hood, T.",SJS,3,68,22.7,37,0,6,24
+"Swift, N.",SJS,2,36,18,28,0,6,24
+"Cardrissian, R.",SJS,2,13,6.5,10,0,6,24
+"McDavid, L.",SJS,2,13,6.5,7,0,6,24

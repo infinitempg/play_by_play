@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gordon, R.",SAR,1,25,2,25,2,0,0,1
-"Frost, D.",SAR,2,27,0,14,0,0,0,0
-"Mendonca, M.",AUS,1,20,0,20,0,0,0,0
-"Lavelle Jr., D.",AUS,1,26,77,26,58,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gordon, R.",SAR,1,25,2,25,2,0,0,1,11,23
+"Frost, D.",SAR,2,27,0,14,0,0,0,0,11,23
+"Mendonca, M.",AUS,1,20,0,20,0,0,0,0,11,23
+"Lavelle Jr., D.",AUS,1,26,77,26,58,0,0,2,11,23

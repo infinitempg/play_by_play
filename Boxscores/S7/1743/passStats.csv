@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bronko, K.",AZ,"[19, 47]",254,13.4,2,2,54.7
-"Boss, M.",OCO,"[31, 49]",428,13.8,2,0,104.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bronko, K.",AZ,254,13.4,2,2,54.7,19,31,4,7
+"Boss, M.",OCO,428,13.8,2,0,104.8,19,31,4,7

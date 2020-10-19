@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,4,93,0,37,0,0,0,0
-"Wizardry, D.",YKW,3,55,94,26,62,0,0,5
-"Valentine, V.",BAL,4,50,2,20,6,0,0,2
-"Hondo, A.",BAL,3,78,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,4,93,0,37,0,0,0,0,13,13
+"Wizardry, D.",YKW,3,55,94,26,62,0,0,5,13,13
+"Valentine, V.",BAL,4,50,2,20,6,0,0,2,13,13
+"Hondo, A.",BAL,3,78,0,41,0,0,0,0,13,13

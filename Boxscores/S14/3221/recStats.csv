@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bush, C.",PHI,5,76,15.2,28,1
-"von Matt, J.",PHI,4,39,9.8,13,1
-"Ansong, L.",PHI,2,16,8,14,0
-"McCargue, B.",PHI,2,2,1,2,0
-"Batoff, R.",PHI,1,13,13,13,0
-"Parker, J.",YKW,4,65,16.2,41,0
-"Pennington, B.",YKW,4,40,10,16,0
-"Pitcher, A.",YKW,4,24,6,10,0
-"Wizardry, D.",YKW,4,20,5,8,0
-"Swift, N.",YKW,3,25,8.3,10,0
-"Helanen, T.",YKW,2,11,5.5,8,0
-"Carrasco, T.",YKW,2,7,3.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bush, C.",PHI,5,76,15.2,28,1,5,14
+"von Matt, J.",PHI,4,39,9.8,13,1,5,14
+"Ansong, L.",PHI,2,16,8,14,0,5,14
+"McCargue, B.",PHI,2,2,1,2,0,5,14
+"Batoff, R.",PHI,1,13,13,13,0,5,14
+"Parker, J.",YKW,4,65,16.2,41,0,5,14
+"Pennington, B.",YKW,4,40,10,16,0,5,14
+"Pitcher, A.",YKW,4,24,6,10,0,5,14
+"Wizardry, D.",YKW,4,20,5,8,0,5,14
+"Swift, N.",YKW,3,25,8.3,10,0,5,14
+"Helanen, T.",YKW,2,11,5.5,8,0,5,14
+"Carrasco, T.",YKW,2,7,3.5,6,0,5,14

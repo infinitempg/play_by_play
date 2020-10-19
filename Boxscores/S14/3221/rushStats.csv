@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Davenport, C.",PHI,23,111,4.8,8,0
-"Boija, F.",PHI,19,93,4.9,11,0
-"McCargue, B.",PHI,1,0,0,0,0
-"Wizardry, D.",YKW,24,124,5.2,25,0
-"Carrasco, T.",YKW,5,35,7,10,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Davenport, C.",PHI,23,111,4.8,8,0,5,14
+"Boija, F.",PHI,19,93,4.9,11,0,5,14
+"McCargue, B.",PHI,1,0,0,0,0,5,14
+"Wizardry, D.",YKW,24,124,5.2,25,0,5,14
+"Carrasco, T.",YKW,5,35,7,10,1,5,14

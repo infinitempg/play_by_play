@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tyerucker, Q.",SJS,12,32,2.7,6,0
-"Cardrissian, R.",SJS,11,38,3.5,9,0
-"Wright, D.",SJS,5,25,5,16,0
-"Gump, F.",NO,25,101,4,14,1
-"Toriki, M.",NO,18,100,5.6,15,0
-"Francisco, S.",NO,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tyerucker, Q.",SJS,12,32,2.7,6,0,2,21
+"Cardrissian, R.",SJS,11,38,3.5,9,0,2,21
+"Wright, D.",SJS,5,25,5,16,0,2,21
+"Gump, F.",NO,25,101,4,14,1,2,21
+"Toriki, M.",NO,18,100,5.6,15,0,2,21
+"Francisco, S.",NO,1,-1,-1,0,0,2,21

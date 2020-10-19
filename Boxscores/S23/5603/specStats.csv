@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hanyadi, M.",YKW,2,45,18,37,22,0,0,2
-"Gordon, R.",SAR,1,2,-3,2,0,0,0,1
-"Frost, D.",SAR,2,40,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hanyadi, M.",YKW,2,45,18,37,22,0,0,2,2,23
+"Gordon, R.",SAR,1,2,-3,2,0,0,0,1,2,23
+"Frost, D.",SAR,2,40,0,34,0,0,0,0,2,23

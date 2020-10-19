@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Williams, D.",COL,2,41,32,33,19,0,0,3
-"Hanyadi, M.",YKW,4,189,-2,99,0,0,0,1
-"Sakura, K.",YKW,1,38,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Williams, D.",COL,2,41,32,33,19,0,0,3,3,25
+"Sakura, K.",YKW,1,38,0,38,0,0,0,0,3,25
+"Hanyadi, M.",YKW,4,189,-2,99,0,0,0,1,3,25

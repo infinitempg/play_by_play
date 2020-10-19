@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,17,92,5.4,21,0
-"Skyline, A.",YKW,11,54,4.9,8,1
-"Dotson, F.",PHI,20,85,4.2,10,0
-"Torenson, S.",PHI,12,42,3.5,10,0
-"Phoenix, B.",PHI,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,17,92,5.4,21,0,5,23
+"Skyline, A.",YKW,11,54,4.9,8,1,5,23
+"Dotson, F.",PHI,20,85,4.2,10,0,5,23
+"Torenson, S.",PHI,12,42,3.5,10,0,5,23
+"Phoenix, B.",PHI,1,4,4,4,0,5,23

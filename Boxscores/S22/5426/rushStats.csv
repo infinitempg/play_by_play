@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Owens, A.",COL,17,78,4.6,14,0
-"McDummy, W.",COL,11,41,3.7,18,0
-"Vincent, M.",COL,11,38,3.5,11,1
-"Tirtawidjaja, J.",CHI,26,94,3.6,10,0
-"Hank, F.",CHI,16,40,2.5,10,0
-"Allan, C.",CHI,1,6,6,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Owens, A.",COL,17,78,4.6,14,0,12,22
+"McDummy, W.",COL,11,41,3.7,18,0,12,22
+"Vincent, M.",COL,11,38,3.5,11,1,12,22
+"Tirtawidjaja, J.",CHI,26,94,3.6,10,0,12,22
+"Hank, F.",CHI,16,40,2.5,10,0,12,22
+"Allan, C.",CHI,1,6,6,6,0,12,22

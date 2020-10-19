@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Harris Jr., F.",YKW,1,15,1,0
-"Rainey, R.",YKW,1,5,1,0
-"Brown, J.",YKW,1,1,0,0
-"Rodriguez, G.",YKW,1,5,0,0
-"Zhang, S.",YKW,1,10,0,0
-"Ones, B.",YKW,0,0,8,0
-"Pooky, S.",YKW,0,0,7,0
-"Rchon, A.",YKW,0,0,5,0
-"Mushing, M.",YKW,0,0,3,0
-"Amper, T.",YKW,0,0,1,1
-"McPoyal, G.",YKW,0,0,1,0
-"Zephyrous, S.",OCO,1,3,3,0
-"Broxton, J.",OCO,1,5,0,0
-"Wright Jr, G.",OCO,1,5,0,0
-"Falsestart, F.",OCO,0,0,4,0
-"Clipping, C.",OCO,0,0,3,1
-"Holding, H.",OCO,0,0,3,0
-"Tripping, T.",OCO,0,0,3,0
-"Facemask, F.",OCO,0,0,2,0
-"Adams, R.",OCO,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Harris Jr., F.",YKW,1,15,1,0,12,10
+"Rainey, R.",YKW,1,5,1,0,12,10
+"Brown, J.",YKW,1,1,0,0,12,10
+"Rodriguez, G.",YKW,1,5,0,0,12,10
+"Zhang, S.",YKW,1,10,0,0,12,10
+"Ones, B.",YKW,0,0,8,0,12,10
+"Pooky, S.",YKW,0,0,7,0,12,10
+"Rchon, A.",YKW,0,0,5,0,12,10
+"Mushing, M.",YKW,0,0,3,0,12,10
+"Amper, T.",YKW,0,0,1,1,12,10
+"McPoyal, G.",YKW,0,0,1,0,12,10
+"Zephyrous, S.",OCO,1,3,3,0,12,10
+"Broxton, J.",OCO,1,5,0,0,12,10
+"Wright Jr, G.",OCO,1,5,0,0,12,10
+"Falsestart, F.",OCO,0,0,4,0,12,10
+"Clipping, C.",OCO,0,0,3,1,12,10
+"Holding, H.",OCO,0,0,3,0,12,10
+"Tripping, T.",OCO,0,0,3,0,12,10
+"Facemask, F.",OCO,0,0,2,0,12,10
+"Adams, R.",OCO,0,0,0,1,12,10

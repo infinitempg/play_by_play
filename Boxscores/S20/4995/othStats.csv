@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Torenson, S.",PHI,1,15,3,0
-"Howyanow, W.",PHI,1,5,0,0
-"ILove, G.",PHI,1,5,0,0
-"Dotson, F.",PHI,0,0,5,0
-"Arthur, C.",PHI,0,0,4,1
-"Hayes, R.",PHI,0,0,4,0
-"Fillmore, M.",PHI,0,0,2,0
-"Tyler, J.",PHI,0,0,2,0
-"Blocksdale Jr., A.",PHI,0,0,1,0
-"Saul, C.",CHI,3,12,0,0
-"Ford Lalatina, D.",CHI,1,5,1,0
-"Marlin, J.",CHI,1,15,1,0
-"Castle, S.",CHI,1,15,0,0
-"Snider, N.",CHI,1,5,0,0
-"Leaf III, R.",CHI,0,0,5,0
-"MacDennis, C.",CHI,0,0,5,0
-"Cricket, R.",CHI,0,0,3,0
-"Danielsson, A.",CHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Torenson, S.",PHI,1,15,3,0,5,20
+"Howyanow, W.",PHI,1,5,0,0,5,20
+"ILove, G.",PHI,1,5,0,0,5,20
+"Dotson, F.",PHI,0,0,5,0,5,20
+"Arthur, C.",PHI,0,0,4,1,5,20
+"Hayes, R.",PHI,0,0,4,0,5,20
+"Fillmore, M.",PHI,0,0,2,0,5,20
+"Tyler, J.",PHI,0,0,2,0,5,20
+"Blocksdale Jr., A.",PHI,0,0,1,0,5,20
+"Saul, C.",CHI,3,12,0,0,5,20
+"Ford Lalatina, D.",CHI,1,5,1,0,5,20
+"Marlin, J.",CHI,1,15,1,0,5,20
+"Castle, S.",CHI,1,15,0,0,5,20
+"Snider, N.",CHI,1,5,0,0,5,20
+"Leaf III, R.",CHI,0,0,5,0,5,20
+"MacDennis, C.",CHI,0,0,5,0,5,20
+"Cricket, R.",CHI,0,0,3,0,5,20
+"Danielsson, A.",CHI,0,0,1,0,5,20

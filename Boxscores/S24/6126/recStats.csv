@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Mongo, H.",OCO,5,93,18.6,31,0
-"Phillips, J.",OCO,4,57,14.2,22,0
-"Trunks, F.",OCO,4,44,11,16,1
-"George, D.",OCO,4,29,7.2,14,0
-"Despacito Jr., G.",OCO,2,17,8.5,9,2
-"Nakamura, T.",OCO,2,10,5,7,0
-"Z, D.",OCO,1,8,8,8,0
-"Kaepercolin, N.",BAL,4,63,15.8,30,0
-"Williams, D.",BAL,4,32,8,16,1
-"Quinn, A.",BAL,3,60,20,32,0
-"Kross, C.",BAL,3,36,12,12,0
-"Lewandowski, J.",BAL,1,9,9,9,0
-"Skuff, R.",BAL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Mongo, H.",OCO,5,93,18.6,31,0,10,24
+"Phillips, J.",OCO,4,57,14.2,22,0,10,24
+"Trunks, F.",OCO,4,44,11,16,1,10,24
+"George, D.",OCO,4,29,7.2,14,0,10,24
+"Despacito Jr., G.",OCO,2,17,8.5,9,2,10,24
+"Nakamura, T.",OCO,2,10,5,7,0,10,24
+"Z, D.",OCO,1,8,8,8,0,10,24
+"Kaepercolin, N.",BAL,4,63,15.8,30,0,10,24
+"Williams, D.",BAL,4,32,8,16,1,10,24
+"Quinn, A.",BAL,3,60,20,32,0,10,24
+"Kross, C.",BAL,3,36,12,12,0,10,24
+"Lewandowski, J.",BAL,1,9,9,9,0,10,24
+"Skuff, R.",BAL,1,8,8,8,0,10,24

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, E.",BAL,4,157,39.2,86,1
-"Valentine, V.",BAL,4,125,31.2,47,0
-"L'Alto, V.",BAL,4,24,6,7,0
-"Brown, M.",BAL,4,22,5.5,9,0
-"Squanch, V.",BAL,2,37,18.5,32,2
-"Harp, D.",BAL,1,5,5,5,0
-"Nagasawa, Y.",BAL,1,5,5,5,0
-"Fyodorovich, V.",NO,6,90,15,26,0
-"Jones, B.",NO,4,49,12.2,15,0
-"Danielsson, A.",NO,3,36,12,22,0
-"Francisco, S.",NO,3,18,6,13,1
-"Swift, T.",NO,2,29,14.5,22,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, E.",BAL,4,157,39.2,86,1,14,15
+"Valentine, V.",BAL,4,125,31.2,47,0,14,15
+"L'Alto, V.",BAL,4,24,6,7,0,14,15
+"Brown, M.",BAL,4,22,5.5,9,0,14,15
+"Squanch, V.",BAL,2,37,18.5,32,2,14,15
+"Harp, D.",BAL,1,5,5,5,0,14,15
+"Nagasawa, Y.",BAL,1,5,5,5,0,14,15
+"Fyodorovich, V.",NO,6,90,15,26,0,14,15
+"Jones, B.",NO,4,49,12.2,15,0,14,15
+"Danielsson, A.",NO,3,36,12,22,0,14,15
+"Francisco, S.",NO,3,18,6,13,1,14,15
+"Swift, T.",NO,2,29,14.5,22,1,14,15

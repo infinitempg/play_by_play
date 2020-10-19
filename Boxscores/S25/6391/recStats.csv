@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Evans, H.",AZ,8,70,8.8,24,1
-"Donut, S.",AZ,5,154,30.8,48,0
-"Passmann, T.",AZ,4,51,12.8,18,0
-"Keppler, Z.",AZ,4,29,7.2,18,0
-"Raccoon, R.",AZ,4,24,6,11,0
-"Thorbjornsson, G.",AZ,1,7,7,7,0
-"Holloway, O.",OCO,4,65,16.2,45,1
-"Phillips, J.",OCO,4,61,15.2,28,1
-"Despacito Jr., G.",OCO,2,37,18.5,31,0
-"Trunks, F.",OCO,2,10,5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Evans, H.",AZ,8,70,8.8,24,1,4,25
+"Donut, S.",AZ,5,154,30.8,48,0,4,25
+"Passmann, T.",AZ,4,51,12.8,18,0,4,25
+"Keppler, Z.",AZ,4,29,7.2,18,0,4,25
+"Raccoon, R.",AZ,4,24,6,11,0,4,25
+"Thorbjornsson, G.",AZ,1,7,7,7,0,4,25
+"Holloway, O.",OCO,4,65,16.2,45,1,4,25
+"Phillips, J.",OCO,4,61,15.2,28,1,4,25
+"Despacito Jr., G.",OCO,2,37,18.5,31,0,4,25
+"Trunks, F.",OCO,2,10,5,6,0,4,25

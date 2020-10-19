@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Harp, D.",CHI,5,48,9.6,13,0
-"Adams, R.",CHI,3,20,6.7,8,0
-"Oles, K.",CHI,2,53,26.5,34,0
-"Hasselhoff, F.",CHI,2,33,16.5,19,0
-"Danielsson, A.",CHI,1,11,11,11,0
-"Mendonca, M.",AUS,7,104,14.9,35,1
-"Anoa'i, D.",AUS,6,73,12.2,32,0
-"Owens, A.",AUS,3,34,11.3,19,0
-"Larson, P.",AUS,3,28,9.3,10,0
-"Tidwell, R.",AUS,3,10,3.3,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Harp, D.",CHI,5,48,9.6,13,0,5,17
+"Adams, R.",CHI,3,20,6.7,8,0,5,17
+"Oles, K.",CHI,2,53,26.5,34,0,5,17
+"Hasselhoff, F.",CHI,2,33,16.5,19,0,5,17
+"Danielsson, A.",CHI,1,11,11,11,0,5,17
+"Mendonca, M.",AUS,7,104,14.9,35,1,5,17
+"Anoa'i, D.",AUS,6,73,12.2,32,0,5,17
+"Owens, A.",AUS,3,34,11.3,19,0,5,17
+"Larson, P.",AUS,3,28,9.3,10,0,5,17
+"Tidwell, R.",AUS,3,10,3.3,4,0,5,17

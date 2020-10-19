@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Grau, M.",COL,15,54,3.6,10,0
-"McCormick, M.",COL,9,80,8.9,27,1
-"Cansino, D.",COL,4,18,4.5,9,1
-"Wizardry, D.",YKW,14,62,4.4,10,0
-"Carrasco, T.",YKW,5,20,4,10,1
-"Applehort, R.",YKW,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Grau, M.",COL,15,54,3.6,10,0,14,13
+"McCormick, M.",COL,9,80,8.9,27,1,14,13
+"Cansino, D.",COL,4,18,4.5,9,1,14,13
+"Wizardry, D.",YKW,14,62,4.4,10,0,14,13
+"Carrasco, T.",YKW,5,20,4,10,1,14,13
+"Applehort, R.",YKW,1,2,2,2,0,14,13

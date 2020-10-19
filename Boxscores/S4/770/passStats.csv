@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bronko, K.",ARI,"[19, 31]",274,14.4,1,1,87.3
-"Blocksdale, A.",BAL,"[19, 27]",279,14.7,0,0,103.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bronko, K.",ARI,274,14.4,1,1,87.3,19,19,12,4
+"Blocksdale, A.",BAL,279,14.7,0,0,103.8,19,19,12,4

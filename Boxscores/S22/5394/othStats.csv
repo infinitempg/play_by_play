@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"McTackle, R.",AUS,2,14,0,0
-"Fassingit, H.",AUS,0,0,5,1
-"Beaver-Dantes, E.",AUS,0,0,4,0
-"Saurus, B.",AUS,0,0,3,0
-"Saurus, B.",AUS,0,0,3,0
-"Larson, P.",AUS,0,0,2,1
-"Leaf Jr., R.",AUS,0,0,1,0
-"Saurus, A.",AUS,0,0,0,1
-"Fillmore, M.",PHI,2,10,2,0
-"Tyler, J.",PHI,1,5,5,0
-"Hayes, R.",PHI,1,5,4,1
-"Dotson, F.",PHI,1,5,2,0
-"Blocksdale Jr., A.",PHI,1,5,1,0
-"Howyanow, W.",PHI,1,5,0,0
-"Arthur, C.",PHI,0,0,3,1
-"Torenson, S.",PHI,0,0,1,0
-"Van Buren, M.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"McTackle, R.",AUS,2,14,0,0,6,22
+"Fassingit, H.",AUS,0,0,5,1,6,22
+"Beaver-Dantes, E.",AUS,0,0,4,0,6,22
+"Saurus, B.",AUS,0,0,3,0,6,22
+"Saurus, B.",AUS,0,0,3,0,6,22
+"Larson, P.",AUS,0,0,2,1,6,22
+"Leaf Jr., R.",AUS,0,0,1,0,6,22
+"Saurus, A.",AUS,0,0,0,1,6,22
+"Fillmore, M.",PHI,2,10,2,0,6,22
+"Tyler, J.",PHI,1,5,5,0,6,22
+"Hayes, R.",PHI,1,5,4,1,6,22
+"Dotson, F.",PHI,1,5,2,0,6,22
+"Blocksdale Jr., A.",PHI,1,5,1,0,6,22
+"Howyanow, W.",PHI,1,5,0,0,6,22
+"Arthur, C.",PHI,0,0,3,1,6,22
+"Torenson, S.",PHI,0,0,1,0,6,22
+"Van Buren, M.",PHI,0,0,1,0,6,22

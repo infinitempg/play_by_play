@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Varga, N.",PHI,5,103,20.6,39,0
-"Vuxta, R.",PHI,5,77,15.4,31,0
-"Blocksdale Jr., A.",PHI,4,42,10.5,20,0
-"Torenson, S.",PHI,4,29,7.2,16,0
-"Dotson, F.",PHI,2,13,6.5,9,0
-"Dropson, J.",PHI,1,5,5,5,0
-"Bishop, J.",COL,6,75,12.5,18,0
-"Forty-Two, L.",COL,5,106,21.2,36,0
-"Sauce, E.",COL,2,13,6.5,10,0
-"Owens, A.",COL,2,11,5.5,7,0
-"Arrow, R.",COL,1,28,28,28,1
-"Vincent, M.",COL,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Varga, N.",PHI,5,103,20.6,39,0,8,21
+"Vuxta, R.",PHI,5,77,15.4,31,0,8,21
+"Blocksdale Jr., A.",PHI,4,42,10.5,20,0,8,21
+"Torenson, S.",PHI,4,29,7.2,16,0,8,21
+"Dotson, F.",PHI,2,13,6.5,9,0,8,21
+"Dropson, J.",PHI,1,5,5,5,0,8,21
+"Bishop, J.",COL,6,75,12.5,18,0,8,21
+"Forty-Two, L.",COL,5,106,21.2,36,0,8,21
+"Sauce, E.",COL,2,13,6.5,10,0,8,21
+"Owens, A.",COL,2,11,5.5,7,0,8,21
+"Arrow, R.",COL,1,28,28,28,1,8,21
+"Vincent, M.",COL,1,1,1,1,0,8,21

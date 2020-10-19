@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Beerus, L.",OCO,4,81,9,24,9,0,0,1
-"Rector, D.",NO,3,60,7,35,7,0,0,1
-"Blaylock, M.",NO,3,99,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Beerus, L.",OCO,4,81,9,24,9,0,0,1,12,24
+"Rector, D.",NO,3,60,7,35,7,0,0,1,12,24
+"Blaylock, M.",NO,3,99,0,41,0,0,0,0,12,24

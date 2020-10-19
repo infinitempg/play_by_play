@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,3,91,0,34,0,0,0,0
-"McMahon, J.",COL,2,38,4,26,4,0,0,2
-"Green, W.",BAL,2,36,0,28,0,0,0,0
-"Maddox, E.",BAL,1,22,17,22,13,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,3,91,0,34,0,0,0,0,5,19
+"McMahon, J.",COL,2,38,4,26,4,0,0,2,5,19
+"Green, W.",BAL,2,36,0,28,0,0,0,0,5,19
+"Maddox, E.",BAL,1,22,17,22,13,0,0,2,5,19

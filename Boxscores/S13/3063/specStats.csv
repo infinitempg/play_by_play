@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Felix, L.",PHI,2,41,0,22,0,0,0,0
-"Garnett, L.",PHI,0,0,13,0,15,0,0,2
-"von Matt, J.",PHI,2,41,0,27,0,0,0,0
-"Fyodorovich, V.",NO,3,81,8,43,11,0,0,2
-"Schneider, D.",NO,4,165,0,92,0,1,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Felix, L.",PHI,2,41,0,22,0,0,0,0,13,13
+"Garnett, L.",PHI,0,0,13,0,15,0,0,2,13,13
+"von Matt, J.",PHI,2,41,0,27,0,0,0,0,13,13
+"Fyodorovich, V.",NO,3,81,8,43,11,0,0,2,13,13
+"Schneider, D.",NO,4,165,0,92,0,1,0,0,13,13

@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Emoji, E.",PHI,0,0,17,0,10,0,0,2
-"Garnett, L.",PHI,3,40,0,26,0,0,0,0
-"Varga, N.",PHI,2,29,0,20,0,0,0,0
-"Reed, A.",OCO,1,18,0,18,0,0,0,0
-"Schneider, D.",OCO,0,0,60,0,36,0,0,4
-"Showbiz, G.",OCO,1,2,0,2,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Emoji, E.",PHI,0,0,17,0,10,0,0,2,2,18
+"Garnett, L.",PHI,3,40,0,26,0,0,0,0,2,18
+"Varga, N.",PHI,2,29,0,20,0,0,0,0,2,18
+"Reed, A.",OCO,1,18,0,18,0,0,0,0,2,18
+"Schneider, D.",OCO,0,0,60,0,36,0,0,4,2,18
+"Showbiz, G.",OCO,1,2,0,2,0,0,0,0,2,18

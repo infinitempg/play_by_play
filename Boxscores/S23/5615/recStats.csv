@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Oberwald, G.",CHI,5,57,11.4,29,0
-"Hayes, V.",CHI,3,11,3.7,7,0
-"Okusi, R.",CHI,2,38,19,32,0
-"O'Leary, S.",CHI,2,19,9.5,11,0
-"Tirtawidjaja, J.",CHI,2,3,1.5,2,0
-"Quinn, A.",BAL,6,95,15.8,27,0
-"Lewandowski, J.",BAL,4,51,12.8,29,0
-"Kaepercolin, N.",BAL,4,50,12.5,30,0
-"Skuff, R.",BAL,2,12,6,7,0
-"Kross, C.",BAL,1,9,9,9,0
-"Williams, D.",BAL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Oberwald, G.",CHI,5,57,11.4,29,0,4,23
+"Hayes, V.",CHI,3,11,3.7,7,0,4,23
+"Okusi, R.",CHI,2,38,19,32,0,4,23
+"O'Leary, S.",CHI,2,19,9.5,11,0,4,23
+"Tirtawidjaja, J.",CHI,2,3,1.5,2,0,4,23
+"Quinn, A.",BAL,6,95,15.8,27,0,4,23
+"Lewandowski, J.",BAL,4,51,12.8,29,0,4,23
+"Kaepercolin, N.",BAL,4,50,12.5,30,0,4,23
+"Skuff, R.",BAL,2,12,6,7,0,4,23
+"Kross, C.",BAL,1,9,9,9,0,4,23
+"Williams, D.",BAL,1,8,8,8,0,4,23

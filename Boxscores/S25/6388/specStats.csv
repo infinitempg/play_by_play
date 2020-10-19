@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Vuxta, R.",PHI,5,154,0,39,0,0,0,0
-"Panda, F.",PHI,1,20,25,20,13,0,0,2
-"Chan, R.",SAR,4,138,0,47,0,0,0,0
-"Clemente, C.",SAR,3,63,0,26,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Vuxta, R.",PHI,5,154,0,39,0,0,0,0,3,25
+"Panda, F.",PHI,1,20,25,20,13,0,0,2,3,25
+"Chan, R.",SAR,4,138,0,47,0,0,0,0,3,25
+"Clemente, C.",SAR,3,63,0,26,0,0,0,0,3,25

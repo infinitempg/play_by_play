@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Cook, B.",YKW,5,85,17,39,1
-"Kennedy, E.",YKW,5,71,14.2,26,1
-"McPoyal, G.",YKW,3,25,8.3,10,0
-"Rainey, R.",YKW,2,14,7,8,0
-"Harris Jr., F.",YKW,1,14,14,14,0
-"Lavelle, D.",YKW,1,8,8,8,0
-"Rocket, J.",YKW,1,7,7,7,0
-"North, F.",PHI,8,104,13,36,0
-"Bush, C.",PHI,5,55,11,22,0
-"Garden, J.",PHI,5,38,7.6,10,0
-"Stormblessed, N.",PHI,2,21,10.5,14,0
-"Farlane, D.",PHI,2,8,4,6,0
-"O'Connell, K.",PHI,2,6,3,3,0
-"Storm, B.",PHI,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Cook, B.",YKW,5,85,17,39,1,14,8
+"Kennedy, E.",YKW,5,71,14.2,26,1,14,8
+"McPoyal, G.",YKW,3,25,8.3,10,0,14,8
+"Rainey, R.",YKW,2,14,7,8,0,14,8
+"Harris Jr., F.",YKW,1,14,14,14,0,14,8
+"Lavelle, D.",YKW,1,8,8,8,0,14,8
+"Rocket, J.",YKW,1,7,7,7,0,14,8
+"North, F.",PHI,8,104,13,36,0,14,8
+"Bush, C.",PHI,5,55,11,22,0,14,8
+"Garden, J.",PHI,5,38,7.6,10,0,14,8
+"Stormblessed, N.",PHI,2,21,10.5,14,0,14,8
+"Farlane, D.",PHI,2,8,4,6,0,14,8
+"O'Connell, K.",PHI,2,6,3,3,0,14,8
+"Storm, B.",PHI,1,8,8,8,0,14,8

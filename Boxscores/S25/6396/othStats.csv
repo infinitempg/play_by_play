@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Hayes, R.",PHI,1,5,1,0
-"Zbornak, D.",PHI,1,2,0,0
-"Fillmore, M.",PHI,0,0,5,0
-"Arrabiata, D.",PHI,0,0,3,0
-"Tremblay, S.",PHI,0,0,2,0
-"Blocksdale Jr., A.",PHI,0,0,1,0
-"Dotson, F.",PHI,0,0,1,0
-"Elephant, M.",PHI,0,0,1,0
-"Van Buren, M.",PHI,0,0,1,0
-"VonPebbles, M.",BER,2,15,0,0
-"Dolls, B.",BER,1,5,10,1
-"Wall, J.",BER,1,5,7,0
-"Wall, G.",BER,0,0,6,0
-"Boyd, C.",BER,0,0,5,0
-"King, D.",BER,0,0,3,0
-"McCabe, J.",BER,0,0,3,0
-"Skiuuup, C.",BER,0,0,2,0
-"Wall, D.",BER,0,0,2,0
-"Petrongolo, J.",BER,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Hayes, R.",PHI,1,5,1,0,4,25
+"Zbornak, D.",PHI,1,2,0,0,4,25
+"Fillmore, M.",PHI,0,0,5,0,4,25
+"Arrabiata, D.",PHI,0,0,3,0,4,25
+"Tremblay, S.",PHI,0,0,2,0,4,25
+"Blocksdale Jr., A.",PHI,0,0,1,0,4,25
+"Dotson, F.",PHI,0,0,1,0,4,25
+"Elephant, M.",PHI,0,0,1,0,4,25
+"Van Buren, M.",PHI,0,0,1,0,4,25
+"VonPebbles, M.",BER,2,15,0,0,4,25
+"Dolls, B.",BER,1,5,10,1,4,25
+"Wall, J.",BER,1,5,7,0,4,25
+"Wall, G.",BER,0,0,6,0,4,25
+"Boyd, C.",BER,0,0,5,0,4,25
+"King, D.",BER,0,0,3,0,4,25
+"McCabe, J.",BER,0,0,3,0,4,25
+"Skiuuup, C.",BER,0,0,2,0,4,25
+"Wall, D.",BER,0,0,2,0,4,25
+"Petrongolo, J.",BER,0,0,1,1,4,25

@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Asipi III, A.",AZ,6,62,10.3,29,0
-"Squanch, V.",AZ,4,104,26,44,0
-"Crindy, B.",AZ,4,52,13,20,0
-"Moore, S.",AZ,3,18,6,11,0
-"Shady, S.",AZ,2,11,5.5,7,0
-"Willie, T.",AZ,1,20,20,20,1
-"Christmas, C.",AZ,1,14,14,14,1
-"Adams, R.",OCO,7,53,7.6,34,0
-"Crush, C.",OCO,4,87,21.8,38,0
-"Sunnycursed, N.",OCO,4,35,8.8,14,0
-"Zephyrous, S.",OCO,4,18,4.5,9,0
-"Helanen, T.",OCO,2,10,5,9,1
-"Atwell, T.",OCO,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Asipi III, A.",AZ,6,62,10.3,29,0,14,12
+"Squanch, V.",AZ,4,104,26,44,0,14,12
+"Crindy, B.",AZ,4,52,13,20,0,14,12
+"Moore, S.",AZ,3,18,6,11,0,14,12
+"Shady, S.",AZ,2,11,5.5,7,0,14,12
+"Willie, T.",AZ,1,20,20,20,1,14,12
+"Christmas, C.",AZ,1,14,14,14,1,14,12
+"Adams, R.",OCO,7,53,7.6,34,0,14,12
+"Crush, C.",OCO,4,87,21.8,38,0,14,12
+"Sunnycursed, N.",OCO,4,35,8.8,14,0,14,12
+"Zephyrous, S.",OCO,4,18,4.5,9,0,14,12
+"Helanen, T.",OCO,2,10,5,9,1,14,12
+"Atwell, T.",OCO,1,5,5,5,0,14,12

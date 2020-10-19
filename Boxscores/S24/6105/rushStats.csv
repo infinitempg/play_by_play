@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Petrongolo, J.",AZ,13,49,3.8,9,0
-"Keppler, Z.",AZ,11,44,4,8,0
-"Cue, J.",AZ,6,43,7.2,19,1
-"Toriki, M.",NO,20,79,4,9,0
-"Gump, F.",NO,11,27,2.5,9,0
-"Slothlisberger, B.",NO,2,11,5.5,11,0
-"Wolfcastle, R.",NO,1,1,1,1,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Petrongolo, J.",AZ,13,49,3.8,9,0,14,24
+"Keppler, Z.",AZ,11,44,4,8,0,14,24
+"Cue, J.",AZ,6,43,7.2,19,1,14,24
+"Toriki, M.",NO,20,79,4,9,0,14,24
+"Gump, F.",NO,11,27,2.5,9,0,14,24
+"Slothlisberger, B.",NO,2,11,5.5,11,0,14,24
+"Wolfcastle, R.",NO,1,1,1,1,1,14,24

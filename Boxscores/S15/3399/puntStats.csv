@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Crisco, A.",NO,7,309,44.1,62,0
-"Ramero, E.",COL,7,376,53.7,63,2
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Crisco, A.",NO,7,309,44.1,62,0,11,15
+"Ramero, E.",COL,7,376,53.7,63,2,11,15

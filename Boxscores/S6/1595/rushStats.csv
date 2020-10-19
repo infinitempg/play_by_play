@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kroetch, D.",PHI,18,69,3.8,8,3
-"O'Connell, K.",PHI,4,5,1.2,2,0
-"Oles, T.",PHI,2,2,1,1,0
-"Savea, A.",NO,18,55,3.1,8,0
-"Maximus III, B.",NO,1,0,0,0,0
-"O'Sullivan, C.",NO,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kroetch, D.",PHI,18,69,3.8,8,3,5,6
+"O'Connell, K.",PHI,4,5,1.2,2,0,5,6
+"Oles, T.",PHI,2,2,1,1,0,5,6
+"Savea, A.",NO,18,55,3.1,8,0,5,6
+"Maximus III, B.",NO,1,0,0,0,0,5,6
+"O'Sullivan, C.",NO,1,4,4,4,0,5,6

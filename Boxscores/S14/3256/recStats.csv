@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"von Matt, J.",PHI,7,104,14.9,32,1
-"Bush, C.",PHI,6,136,22.7,36,0
-"Boija, F.",PHI,1,10,10,10,0
-"Batoff, R.",PHI,1,4,4,4,0
-"Davenport, C.",PHI,1,4,4,4,0
-"Ansong, L.",PHI,1,3,3,3,1
-"Justice, T.",SJS,6,84,14,32,1
-"Oles, K.",SJS,5,132,26.4,46,0
-"Flash, X.",SJS,4,27,6.8,12,1
-"Brannigan, Z.",SJS,4,26,6.5,13,0
-"Orosz, C.",SJS,3,10,3.3,6,0
-"Bot, B.",SJS,1,13,13,13,0
-"Canton, J.",SJS,1,10,10,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"von Matt, J.",PHI,7,104,14.9,32,1,13,14
+"Bush, C.",PHI,6,136,22.7,36,0,13,14
+"Boija, F.",PHI,1,10,10,10,0,13,14
+"Batoff, R.",PHI,1,4,4,4,0,13,14
+"Davenport, C.",PHI,1,4,4,4,0,13,14
+"Ansong, L.",PHI,1,3,3,3,1,13,14
+"Justice, T.",SJS,6,84,14,32,1,13,14
+"Oles, K.",SJS,5,132,26.4,46,0,13,14
+"Flash, X.",SJS,4,27,6.8,12,1,13,14
+"Brannigan, Z.",SJS,4,26,6.5,13,0,13,14
+"Orosz, C.",SJS,3,10,3.3,6,0,13,14
+"Bot, B.",SJS,1,13,13,13,0,13,14
+"Canton, J.",SJS,1,10,10,10,0,13,14

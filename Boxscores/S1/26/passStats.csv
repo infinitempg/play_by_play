@@ -1,4 +1,4 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Draxel, V.",ARI,"[17, 29]",174,10.2,1,1,73.1
-"Bronko, K.",ARI,"[7, 8]",71,10.1,0,0,103.6
-"Noble, L.",COL,"[12, 31]",144,12,0,0,53.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Draxel, V.",ARI,174,10.2,1,1,73.1,17,7,13,1
+"Bronko, K.",ARI,71,10.1,0,0,103.6,17,7,13,1
+"Noble, L.",COL,144,12,0,0,53.7,17,7,13,1

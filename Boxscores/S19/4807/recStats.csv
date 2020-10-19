@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Harp, D.",CHI,5,34,6.8,12,0
-"Utler, J.",CHI,5,23,4.6,7,0
-"Parker, J.",CHI,4,46,11.5,19,1
-"O'Leary, S.",CHI,4,30,7.5,11,0
-"James-Jones, S.",CHI,3,47,15.7,20,0
-"Espeeyeeseetee, A.",BAL,3,36,12,25,1
-"L'Alto, V.",BAL,3,26,8.7,15,0
-"Bigby, L.",BAL,2,23,11.5,15,0
-"Maddox, E.",BAL,2,23,11.5,16,0
-"Sauce, E.",BAL,2,9,4.5,5,0
-"Quinn, A.",BAL,1,14,14,14,0
-"Pancakes, P.",BAL,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Harp, D.",CHI,5,34,6.8,12,0,1,19
+"Utler, J.",CHI,5,23,4.6,7,0,1,19
+"Parker, J.",CHI,4,46,11.5,19,1,1,19
+"O'Leary, S.",CHI,4,30,7.5,11,0,1,19
+"James-Jones, S.",CHI,3,47,15.7,20,0,1,19
+"Espeeyeeseetee, A.",BAL,3,36,12,25,1,1,19
+"L'Alto, V.",BAL,3,26,8.7,15,0,1,19
+"Bigby, L.",BAL,2,23,11.5,15,0,1,19
+"Maddox, E.",BAL,2,23,11.5,16,0,1,19
+"Sauce, E.",BAL,2,9,4.5,5,0,1,19
+"Quinn, A.",BAL,1,14,14,14,0,1,19
+"Pancakes, P.",BAL,1,2,2,2,0,1,19

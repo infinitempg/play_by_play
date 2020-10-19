@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nuck, B.",YKW,16,60,3.8,7,0
-"Kennedy, E.",YKW,5,30,6,11,0
-"Akselsen, M.",YKW,1,2,2,2,0
-"Mackworthy, R.",AZ,12,29,2.4,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nuck, B.",YKW,16,60,3.8,7,0,3,5
+"Kennedy, E.",YKW,5,30,6,11,0,3,5
+"Akselsen, M.",YKW,1,2,2,2,0,3,5
+"Mackworthy, R.",AZ,12,29,2.4,5,0,3,5

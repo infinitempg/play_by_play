@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Swift, N.",YKW,6,125,0,36,0,0,0,0
-"Snuggles, J.",YKW,0,0,10,0,7,0,0,4
-"Owens, A.",COL,2,20,0,18,0,0,0,0
-"McMahon, J.",COL,5,103,0,37,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Swift, N.",YKW,6,125,0,36,0,0,0,0,8,19
+"Snuggles, J.",YKW,0,0,10,0,7,0,0,4,8,19
+"Owens, A.",COL,2,20,0,18,0,0,0,0,8,19
+"McMahon, J.",COL,5,103,0,37,0,0,0,0,8,19

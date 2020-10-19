@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,13,49,3.8,13,3
-"Nuck, B.",NO,1,7,7,7,0
-"Mackworthy, R.",AZ,19,83,4.4,13,0
-"Bronko, K.",AZ,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,13,49,3.8,13,3,9,8
+"Nuck, B.",NO,1,7,7,7,0,9,8
+"Mackworthy, R.",AZ,19,83,4.4,13,0,9,8
+"Bronko, K.",AZ,1,-1,-1,0,0,9,8

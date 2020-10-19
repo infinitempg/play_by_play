@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jimbo, D.",BAL,15,70,4.7,12,1
-"Brown, M.",BAL,14,65,4.6,13,0
-"L'Alto, V.",BAL,1,2,2,2,0
-"Orosz, C.",SJS,11,51,4.6,8,0
-"Christ, J.",SJS,9,21,2.3,6,0
-"Bigby, L.",SJS,8,38,4.8,10,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jimbo, D.",BAL,15,70,4.7,12,1,10,16
+"Brown, M.",BAL,14,65,4.6,13,0,10,16
+"L'Alto, V.",BAL,1,2,2,2,0,10,16
+"Orosz, C.",SJS,11,51,4.6,8,0,10,16
+"Christ, J.",SJS,9,21,2.3,6,0,10,16
+"Bigby, L.",SJS,8,38,4.8,10,1,10,16

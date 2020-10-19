@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Emoji, E.",PHI,2,41,12,31,18,0,0,3
-"Garnett, L.",PHI,1,32,0,32,0,0,0,0
-"Swift, N.",YKW,4,87,0,35,0,0,0,0
-"Snuggles, J.",YKW,2,77,46,43,30,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Emoji, E.",PHI,2,41,12,31,18,0,0,3,10,20
+"Garnett, L.",PHI,1,32,0,32,0,0,0,0,10,20
+"Swift, N.",YKW,4,87,0,35,0,0,0,0,10,20
+"Snuggles, J.",YKW,2,77,46,43,30,0,0,3,10,20

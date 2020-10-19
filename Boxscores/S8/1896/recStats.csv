@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Miller, H.",COL,5,54,10.8,19,0
-"O'Sullivan, S.",COL,5,25,5,8,0
-"Wheat, B.",COL,4,48,12,20,0
-"Grau, M.",COL,2,8,4,5,0
-"Aaron, D.",COL,1,5,5,5,0
-"Joyce, S.",COL,1,4,4,4,0
-"West, D.",SJS,6,47,7.8,13,1
-"Tuck Jr., T.",SJS,6,39,6.5,12,0
-"Jackson, M.",SJS,5,54,10.8,18,0
-"Weston, S.",SJS,4,73,18.2,41,0
-"Riddick, D.",SJS,2,9,4.5,8,0
-"Legion, A.",SJS,1,11,11,11,0
-"Diaz, D.",SJS,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Miller, H.",COL,5,54,10.8,19,0,5,8
+"O'Sullivan, S.",COL,5,25,5,8,0,5,8
+"Wheat, B.",COL,4,48,12,20,0,5,8
+"Grau, M.",COL,2,8,4,5,0,5,8
+"Aaron, D.",COL,1,5,5,5,0,5,8
+"Joyce, S.",COL,1,4,4,4,0,5,8
+"West, D.",SJS,6,47,7.8,13,1,5,8
+"Tuck Jr., T.",SJS,6,39,6.5,12,0,5,8
+"Jackson, M.",SJS,5,54,10.8,18,0,5,8
+"Weston, S.",SJS,4,73,18.2,41,0,5,8
+"Riddick, D.",SJS,2,9,4.5,8,0,5,8
+"Legion, A.",SJS,1,11,11,11,0,5,8
+"Diaz, D.",SJS,1,4,4,4,0,5,8

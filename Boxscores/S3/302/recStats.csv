@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"North, F.",PHI,6,130,21.7,35,1
-"Kroetch, D.",PHI,4,91,22.8,29,0
-"DiMirio, P.",PHI,3,29,9.7,11,0
-"O'Connell, K.",PHI,2,22,11,15,0
-"Wright, O.",PHI,2,17,8.5,12,0
-"Rocket, J.",PHI,2,16,8,14,1
-"Browning, B.",PHI,1,8,8,8,0
-"LeClair, A.",LV,7,77,11,16,0
-"Baker, J.",LV,4,38,9.5,14,0
-"Ross, J.",LV,3,78,26,32,0
-"Cobb, K.",LV,3,25,8.3,9,0
-"Tenzini, G.",LV,2,29,14.5,24,0
-"Savea, A.",LV,2,11,5.5,6,0
-"Tanner, C.",LV,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"North, F.",PHI,6,130,21.7,35,1,7,3
+"Kroetch, D.",PHI,4,91,22.8,29,0,7,3
+"DiMirio, P.",PHI,3,29,9.7,11,0,7,3
+"O'Connell, K.",PHI,2,22,11,15,0,7,3
+"Wright, O.",PHI,2,17,8.5,12,0,7,3
+"Rocket, J.",PHI,2,16,8,14,1,7,3
+"Browning, B.",PHI,1,8,8,8,0,7,3
+"LeClair, A.",LV,7,77,11,16,0,7,3
+"Baker, J.",LV,4,38,9.5,14,0,7,3
+"Ross, J.",LV,3,78,26,32,0,7,3
+"Cobb, K.",LV,3,25,8.3,9,0,7,3
+"Tenzini, G.",LV,2,29,14.5,24,0,7,3
+"Savea, A.",LV,2,11,5.5,6,0,7,3
+"Tanner, C.",LV,1,8,8,8,0,7,3

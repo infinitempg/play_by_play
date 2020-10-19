@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hank, F.",PHI,20,87,4.4,9,0
-"Brown, M.",PHI,7,17,2.4,8,0
-"Shady, S.",AZ,15,64,4.3,10,0
-"Murphy, J.",AZ,8,33,4.1,12,0
-"Zephyrous, S.",AZ,2,16,8,10,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hank, F.",PHI,20,87,4.4,9,0,13,17
+"Brown, M.",PHI,7,17,2.4,8,0,13,17
+"Shady, S.",AZ,15,64,4.3,10,0,13,17
+"Murphy, J.",AZ,8,33,4.1,12,0,13,17
+"Zephyrous, S.",AZ,2,16,8,10,1,13,17

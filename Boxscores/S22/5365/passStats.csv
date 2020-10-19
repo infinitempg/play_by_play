@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bigsby, C.",YKW,"[22, 45]",343,15.6,2,0,89.4
-"Vega, Z.",SAR,"[14, 33]",179,12.8,0,1,47.4
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bigsby, C.",YKW,343,15.6,2,0,89.4,22,14,2,22
+"Vega, Z.",SAR,179,12.8,0,1,47.4,22,14,2,22

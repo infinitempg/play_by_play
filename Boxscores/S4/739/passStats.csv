@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Akselsen, M.",YKW,"[36, 54]",391,10.9,2,1,92.4
-"Boss, M.",OCO,"[26, 47]",365,14,4,0,108.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Akselsen, M.",YKW,391,10.9,2,1,92.4,36,26,4,4
+"Boss, M.",OCO,365,14,4,0,108.9,36,26,4,4

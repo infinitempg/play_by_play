@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Owens, A.",COL,11,33,3,5,0
-"Gilbert, R.",COL,4,7,1.8,5,0
-"McDummy, W.",COL,4,21,5.2,9,0
-"Yoda, B.",AZ,17,75,4.4,9,1
-"Cue, J.",AZ,6,20,3.3,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Owens, A.",COL,11,33,3,5,0,10,23
+"Gilbert, R.",COL,4,7,1.8,5,0,10,23
+"McDummy, W.",COL,4,21,5.2,9,0,10,23
+"Yoda, B.",AZ,17,75,4.4,9,1,10,23
+"Cue, J.",AZ,6,20,3.3,9,0,10,23

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, N.",YKW,5,86,17.2,35,1
-"Gordon, R.",YKW,4,80,20,36,0
-"Hanyadi, M.",YKW,3,36,12,29,0
-"Rodriguez, B.",YKW,3,22,7.3,14,0
-"Drake, O.",YKW,2,11,5.5,8,0
-"Leaf Jr., R.",CHI,11,148,13.5,33,1
-"O'Leary, S.",CHI,6,30,5,9,1
-"Espeeyeeseetee, A.",CHI,5,71,14.2,34,0
-"Firestorm-Fjord, O.",CHI,4,42,10.5,16,0
-"Utler, J.",CHI,3,12,4,6,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, N.",YKW,5,86,17.2,35,1,2,21
+"Gordon, R.",YKW,4,80,20,36,0,2,21
+"Hanyadi, M.",YKW,3,36,12,29,0,2,21
+"Rodriguez, B.",YKW,3,22,7.3,14,0,2,21
+"Drake, O.",YKW,2,11,5.5,8,0,2,21
+"Leaf Jr., R.",CHI,11,148,13.5,33,1,2,21
+"O'Leary, S.",CHI,6,30,5,9,1,2,21
+"Espeeyeeseetee, A.",CHI,5,71,14.2,34,0,2,21
+"Firestorm-Fjord, O.",CHI,4,42,10.5,16,0,2,21
+"Utler, J.",CHI,3,12,4,6,1,2,21

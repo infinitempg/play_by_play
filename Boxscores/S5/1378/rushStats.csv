@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",OCO,17,58,3.4,7,0
-"Tweed, B.",COL,23,74,3.2,9,2
-"Pierno, N.",COL,7,36,5.1,19,0
-"Farlane, D.",COL,3,8,2.7,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",OCO,17,58,3.4,7,0,2,5
+"Tweed, B.",COL,23,74,3.2,9,2,2,5
+"Pierno, N.",COL,7,36,5.1,19,0,2,5
+"Farlane, D.",COL,3,8,2.7,4,0,2,5

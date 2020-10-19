@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,31,97,3.1,10,0
-"O'Sullivan, C.",LV,2,11,5.5,7,0
-"Noble, L.",LV,1,0,0,0,0
-"Tweed, B.",COL,24,69,2.9,16,1
-"Farlane, D.",COL,14,66,4.7,10,0
-"Pierno, N.",COL,8,21,2.6,19,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,31,97,3.1,10,0,5,5
+"O'Sullivan, C.",LV,2,11,5.5,7,0,5,5
+"Noble, L.",LV,1,0,0,0,0,5,5
+"Tweed, B.",COL,24,69,2.9,16,1,5,5
+"Farlane, D.",COL,14,66,4.7,10,0,5,5
+"Pierno, N.",COL,8,21,2.6,19,0,5,5

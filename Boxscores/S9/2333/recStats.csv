@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"L'Alto, V.",BAL,7,67,9.6,24,0
-"Willie, T.",BAL,5,116,23.2,29,0
-"LeClair, A.",BAL,4,62,15.5,40,0
-"Browning, B.",BAL,3,33,11,21,0
-"Taylor, O.",BAL,3,22,7.3,10,0
-"Nuck, B.",BAL,2,10,5,6,0
-"Weston, S.",SJS,6,91,15.2,25,0
-"Riddick, D.",SJS,5,43,8.6,15,0
-"(R)Brannigan, Z.",SJS,5,26,5.2,10,0
-"Tuck Jr., T.",SJS,4,23,5.8,9,0
-"Legion, A.",SJS,2,17,8.5,9,0
-"Diaz, D.",SJS,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"L'Alto, V.",BAL,7,67,9.6,24,0,5,9
+"Willie, T.",BAL,5,116,23.2,29,0,5,9
+"LeClair, A.",BAL,4,62,15.5,40,0,5,9
+"Browning, B.",BAL,3,33,11,21,0,5,9
+"Taylor, O.",BAL,3,22,7.3,10,0,5,9
+"Nuck, B.",BAL,2,10,5,6,0,5,9
+"Weston, S.",SJS,6,91,15.2,25,0,5,9
+"Riddick, D.",SJS,5,43,8.6,15,0,5,9
+"(R)Brannigan, Z.",SJS,5,26,5.2,10,0,5,9
+"Tuck Jr., T.",SJS,4,23,5.8,9,0,5,9
+"Legion, A.",SJS,2,17,8.5,9,0,5,9
+"Diaz, D.",SJS,1,6,6,6,0,5,9

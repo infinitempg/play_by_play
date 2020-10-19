@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Adams, R.",OCO,25,104,4.2,11,1
-"Showbiz, G.",OCO,4,37,9.2,23,0
-"Smallwood, D.",NO,24,125,5.2,29,0
-"Maximus III, B.",NO,2,8,4,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Adams, R.",OCO,25,104,4.2,11,1,2,10
+"Showbiz, G.",OCO,4,37,9.2,23,0,2,10
+"Smallwood, D.",NO,24,125,5.2,29,0,2,10
+"Maximus III, B.",NO,2,8,4,7,0,2,10

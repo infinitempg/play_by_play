@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hardwick, S.",AZ,3,88,0,35,0,0,0,0
-"Hasselhoff, F.",AZ,4,60,-3,17,0,0,0,1
-"Flash, X.",SJS,1,12,0,12,0,0,0,0
-"Oles, K.",SJS,1,48,24,48,14,0,0,4
-"Poopsie, D.",SJS,1,-2,0,0,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hardwick, S.",AZ,3,88,0,35,0,0,0,0,2,14
+"Hasselhoff, F.",AZ,4,60,-3,17,0,0,0,1,2,14
+"Flash, X.",SJS,1,12,0,12,0,0,0,0,2,14
+"Oles, K.",SJS,1,48,24,48,14,0,0,4,2,14
+"Poopsie, D.",SJS,1,-2,0,0,0,0,0,0,2,14

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blocksdale Jr., A.",PHI,6,85,14.2,25,0
-"Vuxta, R.",PHI,5,50,10,14,1
-"Dotson, F.",PHI,5,43,8.6,15,0
-"Varga, N.",PHI,3,27,9,13,0
-"Torenson, S.",PHI,3,17,5.7,12,0
-"Dropson, J.",PHI,1,5,5,5,0
-"Larson, P.",AUS,4,52,13,19,0
-"Tidwell, R.",AUS,4,50,12.5,18,1
-"Gaines, N.",AUS,3,56,18.7,34,0
-"Mendonca, M.",AUS,3,42,14,37,0
-"Clay, J.",AUS,2,10,5,8,0
-"Blockit, I.",AUS,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blocksdale Jr., A.",PHI,6,85,14.2,25,0,8,20
+"Vuxta, R.",PHI,5,50,10,14,1,8,20
+"Dotson, F.",PHI,5,43,8.6,15,0,8,20
+"Varga, N.",PHI,3,27,9,13,0,8,20
+"Torenson, S.",PHI,3,17,5.7,12,0,8,20
+"Dropson, J.",PHI,1,5,5,5,0,8,20
+"Larson, P.",AUS,4,52,13,19,0,8,20
+"Tidwell, R.",AUS,4,50,12.5,18,1,8,20
+"Gaines, N.",AUS,3,56,18.7,34,0,8,20
+"Mendonca, M.",AUS,3,42,14,37,0,8,20
+"Clay, J.",AUS,2,10,5,8,0,8,20
+"Blockit, I.",AUS,1,2,2,2,0,8,20

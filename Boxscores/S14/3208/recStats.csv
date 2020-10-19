@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Oles, K.",SJS,5,116,23.2,52,3
-"Justice, T.",SJS,4,59,14.8,28,2
-"Brannigan, Z.",SJS,3,43,14.3,20,1
-"Orosz, C.",SJS,2,11,5.5,6,0
-"Flash, X.",SJS,1,11,11,11,0
-"Bot, B.",SJS,1,6,6,6,0
-"Canton, J.",SJS,1,6,6,6,0
-"Squanch, V.",COL,7,57,8.1,11,0
-"Crindy, B.",COL,7,48,6.9,11,0
-"Miller, H.",COL,5,74,14.8,24,1
-"Bishop, J.",COL,5,35,7,15,0
-"Chipmunk, A.",COL,3,21,7,11,0
-"Grau, M.",COL,2,11,5.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Oles, K.",SJS,5,116,23.2,52,3,1,14
+"Justice, T.",SJS,4,59,14.8,28,2,1,14
+"Brannigan, Z.",SJS,3,43,14.3,20,1,1,14
+"Orosz, C.",SJS,2,11,5.5,6,0,1,14
+"Flash, X.",SJS,1,11,11,11,0,1,14
+"Bot, B.",SJS,1,6,6,6,0,1,14
+"Canton, J.",SJS,1,6,6,6,0,1,14
+"Squanch, V.",COL,7,57,8.1,11,0,1,14
+"Crindy, B.",COL,7,48,6.9,11,0,1,14
+"Miller, H.",COL,5,74,14.8,24,1,1,14
+"Bishop, J.",COL,5,35,7,15,0,1,14
+"Chipmunk, A.",COL,3,21,7,11,0,1,14
+"Grau, M.",COL,2,11,5.5,6,0,1,14

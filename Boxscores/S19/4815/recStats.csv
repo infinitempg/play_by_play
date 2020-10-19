@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, A.",SJS,6,85,14.2,39,0
-"Thomas-Fox, D.",SJS,4,41,10.2,16,0
-"Olsen, C.",SJS,3,28,9.3,25,0
-"Bot, B.",SJS,2,6,3,5,1
-"Tyerucker, Q.",SJS,1,4,4,4,0
-"Banks II, D.",OCO,5,84,16.8,32,0
-"Blaze, J.",OCO,5,48,9.6,16,1
-"Pitcher, A.",OCO,5,25,5,9,0
-"Mongo, H.",OCO,4,58,14.5,21,1
-"Nagasawa, Y.",OCO,1,33,33,33,0
-"Shady, S.",OCO,1,20,20,20,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, A.",SJS,6,85,14.2,39,0,2,19
+"Thomas-Fox, D.",SJS,4,41,10.2,16,0,2,19
+"Olsen, C.",SJS,3,28,9.3,25,0,2,19
+"Bot, B.",SJS,2,6,3,5,1,2,19
+"Tyerucker, Q.",SJS,1,4,4,4,0,2,19
+"Banks II, D.",OCO,5,84,16.8,32,0,2,19
+"Blaze, J.",OCO,5,48,9.6,16,1,2,19
+"Pitcher, A.",OCO,5,25,5,9,0,2,19
+"Mongo, H.",OCO,4,58,14.5,21,1,2,19
+"Nagasawa, Y.",OCO,1,33,33,33,0,2,19
+"Shady, S.",OCO,1,20,20,20,0,2,19

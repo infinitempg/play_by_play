@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,26,129,5,18,3
-"Skyline, A.",YKW,8,47,5.9,9,0
-"Bigsby, C.",YKW,2,31,15.5,19,0
-"Ruff, R.",HON,13,43,3.3,10,0
-"Kane-Maika'i, K.",HON,6,28,4.7,9,1
-"Havran, C.",HON,4,0,0,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,26,129,5,18,3,10,23
+"Skyline, A.",YKW,8,47,5.9,9,0,10,23
+"Bigsby, C.",YKW,2,31,15.5,19,0,10,23
+"Ruff, R.",HON,13,43,3.3,10,0,10,23
+"Kane-Maika'i, K.",HON,6,28,4.7,9,1,10,23
+"Havran, C.",HON,4,0,0,1,0,10,23

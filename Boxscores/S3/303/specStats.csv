@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Novel, L.",YKW,1,7,0,7,0,0,0,0
-"Garden, J.",YKW,2,104,0,102,0,1,0,0
-"Lavelle, D.",YKW,0,0,15,0,16,0,0,3
-"Delacour, A.",BAL,0,0,36,0,16,0,0,4
-"Willie, T.",BAL,3,46,0,23,0,0,0,0
-"Stormblessed, N.",BAL,2,36,0,25,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Novel, L.",YKW,1,7,0,7,0,0,0,0,7,3
+"Garden, J.",YKW,2,104,0,102,0,1,0,0,7,3
+"Lavelle, D.",YKW,0,0,15,0,16,0,0,3,7,3
+"Delacour, A.",BAL,0,0,36,0,16,0,0,4,7,3
+"Willie, T.",BAL,3,46,0,23,0,0,0,0,7,3
+"Stormblessed, N.",BAL,2,36,0,25,0,0,0,0,7,3

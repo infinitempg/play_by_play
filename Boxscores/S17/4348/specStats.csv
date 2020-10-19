@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Reed, A.",OCO,2,28,0,17,0,0,0,0
-"Schneider, D.",OCO,2,72,26,42,21,0,0,2
-"Lewis, L.",CHI,3,65,0,42,0,0,0,0
-"Oles, K.",CHI,4,119,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Reed, A.",OCO,2,28,0,17,0,0,0,0,13,17
+"Schneider, D.",OCO,2,72,26,42,21,0,0,2,13,17
+"Lewis, L.",CHI,3,65,0,42,0,0,0,0,13,17
+"Oles, K.",CHI,4,119,0,41,0,0,0,0,13,17

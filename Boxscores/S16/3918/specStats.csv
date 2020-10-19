@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mughes, H.",AZ,1,28,0,28,0,0,0,0
-"Spector, M.",AZ,1,2,0,2,0,0,0,0
-"Barnes, B.",AZ,1,0,14,0,8,0,0,3
-"Lavelle Jr., D.",AUS,6,125,0,36,0,0,0,0
-"Jensen, C.",AUS,1,19,0,19,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mughes, H.",AZ,1,28,0,28,0,0,0,0,10,16
+"Spector, M.",AZ,1,2,0,2,0,0,0,0,10,16
+"Barnes, B.",AZ,1,0,14,0,8,0,0,3,10,16
+"Lavelle Jr., D.",AUS,6,125,0,36,0,0,0,0,10,16
+"Jensen, C.",AUS,1,19,0,19,0,0,0,0,10,16

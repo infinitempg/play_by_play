@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,20,87,4.4,10,1
-"Brown, M.",BAL,22,80,3.6,10,0
-"Jimbo, D.",BAL,16,79,4.9,16,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,20,87,4.4,10,1,13,16
+"Brown, M.",BAL,22,80,3.6,10,0,13,16
+"Jimbo, D.",BAL,16,79,4.9,16,0,13,16

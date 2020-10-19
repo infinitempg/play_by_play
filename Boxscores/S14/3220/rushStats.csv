@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Danielsson, A.",NO,16,56,3.5,8,2
-"Maximus III, B.",NO,6,35,5.8,15,0
-"Orosz, C.",SJS,12,61,5.1,21,0
-"Christ, J.",SJS,11,42,3.8,15,1
-"Canton, J.",SJS,9,29,3.2,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Danielsson, A.",NO,16,56,3.5,8,2,4,14
+"Maximus III, B.",NO,6,35,5.8,15,0,4,14
+"Orosz, C.",SJS,12,61,5.1,21,0,4,14
+"Christ, J.",SJS,11,42,3.8,15,1,4,14
+"Canton, J.",SJS,9,29,3.2,11,0,4,14

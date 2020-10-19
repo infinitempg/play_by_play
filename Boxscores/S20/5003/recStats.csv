@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Banks II, D.",OCO,5,41,8.2,11,0
-"Blaze, J.",OCO,4,74,18.5,31,1
-"Mongo, H.",OCO,4,59,14.8,32,0
-"Reed, A.",OCO,3,20,6.7,14,0
-"Oles, K.",OCO,2,12,6,8,0
-"Swift, N.",YKW,6,79,13.2,32,1
-"Gordon, R.",YKW,5,52,10.4,24,0
-"Helanen, T.",YKW,4,90,22.5,38,0
-"Drake, O.",YKW,4,46,11.5,20,1
-"Hanyadi, M.",YKW,3,25,8.3,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Banks II, D.",OCO,5,41,8.2,11,0,7,20
+"Blaze, J.",OCO,4,74,18.5,31,1,7,20
+"Mongo, H.",OCO,4,59,14.8,32,0,7,20
+"Reed, A.",OCO,3,20,6.7,14,0,7,20
+"Oles, K.",OCO,2,12,6,8,0,7,20
+"Swift, N.",YKW,6,79,13.2,32,1,7,20
+"Gordon, R.",YKW,5,52,10.4,24,0,7,20
+"Helanen, T.",YKW,4,90,22.5,38,0,7,20
+"Drake, O.",YKW,4,46,11.5,20,1,7,20
+"Hanyadi, M.",YKW,3,25,8.3,10,0,7,20

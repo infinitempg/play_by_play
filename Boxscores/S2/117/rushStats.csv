@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wright, O.",PHI,24,81,3.4,12,2
-"Newman, M.",PHI,3,10,3.3,4,0
-"Jensen, R.",PHI,2,4,2,4,0
-"Christ, J.",PHI,1,0,0,0,0
-"Savea, A.",LV,16,47,2.9,7,0
-"Cobb, K.",LV,9,43,4.8,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wright, O.",PHI,24,81,3.4,12,2,7,2
+"Newman, M.",PHI,3,10,3.3,4,0,7,2
+"Jensen, R.",PHI,2,4,2,4,0,7,2
+"Christ, J.",PHI,1,0,0,0,0,7,2
+"Savea, A.",LV,16,47,2.9,7,0,7,2
+"Cobb, K.",LV,9,43,4.8,10,0,7,2

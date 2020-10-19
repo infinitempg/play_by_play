@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"O'Donnell, G.",CHI,"[22, 37]",204,9.3,0,0,74.6
-"Bigsby, C.",YKW,"[15, 27]",140,9.3,0,0,70
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"O'Donnell, G.",CHI,204,9.3,0,0,74.6,22,15,14,23
+"Bigsby, C.",YKW,140,9.3,0,0,70,22,15,14,23

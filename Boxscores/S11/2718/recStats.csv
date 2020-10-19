@@ -1,16 +1,16 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"von Matt, J.",PHI,7,73,10.4,21,2
-"Hasselhoff, F.",PHI,5,60,12,18,0
-"Bush, C.",PHI,4,104,26,43,0
-"Brown, M.",PHI,4,12,3,7,0
-"O'Sullivan, S.",PHI,3,8,2.7,4,0
-"Hondo, A.",PHI,1,7,7,7,0
-"O'Sullivan, C.",PHI,1,3,3,3,0
-"Grau, M.",COL,6,54,9,19,0
-"Miller, H.",COL,5,75,15,37,0
-"Aaron, D.",COL,5,47,9.4,14,1
-"North, F.",COL,3,26,8.7,11,0
-"Wheat, B.",COL,2,23,11.5,13,0
-"Chipmunk, A.",COL,2,5,2.5,4,0
-"Cansino, D.",COL,1,13,13,13,0
-"Nyquist, W.",COL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"von Matt, J.",PHI,7,73,10.4,21,2,12,11
+"Hasselhoff, F.",PHI,5,60,12,18,0,12,11
+"Bush, C.",PHI,4,104,26,43,0,12,11
+"Brown, M.",PHI,4,12,3,7,0,12,11
+"O'Sullivan, S.",PHI,3,8,2.7,4,0,12,11
+"Hondo, A.",PHI,1,7,7,7,0,12,11
+"O'Sullivan, C.",PHI,1,3,3,3,0,12,11
+"Grau, M.",COL,6,54,9,19,0,12,11
+"Miller, H.",COL,5,75,15,37,0,12,11
+"Aaron, D.",COL,5,47,9.4,14,1,12,11
+"North, F.",COL,3,26,8.7,11,0,12,11
+"Wheat, B.",COL,2,23,11.5,13,0,12,11
+"Chipmunk, A.",COL,2,5,2.5,4,0,12,11
+"Cansino, D.",COL,1,13,13,13,0,12,11
+"Nyquist, W.",COL,1,8,8,8,0,12,11

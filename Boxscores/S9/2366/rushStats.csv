@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,21,92,4.4,13,0
-"Gore, B.",YKW,9,35,3.9,9,0
-"Akselsen, M.",YKW,5,14,2.8,7,0
-"Kroetch, D.",COL,8,14,1.8,6,0
-"Grau, M.",COL,4,13,3.2,7,0
-"Applehort, R.",COL,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,21,92,4.4,13,0,13,9
+"Gore, B.",YKW,9,35,3.9,9,0,13,9
+"Akselsen, M.",YKW,5,14,2.8,7,0,13,9
+"Kroetch, D.",COL,8,14,1.8,6,0,13,9
+"Grau, M.",COL,4,13,3.2,7,0,13,9
+"Applehort, R.",COL,1,1,1,1,0,13,9

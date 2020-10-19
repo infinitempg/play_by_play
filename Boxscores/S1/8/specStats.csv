@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"West, D.",BAL,2,53,16,29,10,0,0,3
-"Smith, M.",BAL,3,62,0,28,0,0,0,0
-"Law, D.",COL,2,16,29,14,15,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"West, D.",BAL,2,53,16,29,10,0,0,3,7,1
+"Smith, M.",BAL,3,62,0,28,0,0,0,0,7,1
+"Law, D.",COL,2,16,29,14,15,0,0,3,7,1

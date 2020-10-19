@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Pak, Y.",OCO,1,10,8,0
-"Despacito Jr., G.",OCO,1,5,0,0
-"Eagle, R.",OCO,1,15,0,0
-"Joestar, J.",OCO,1,5,0,0
-"Mo, N.",OCO,0,0,9,0
-"Harrison, H.",OCO,0,0,5,1
-"Iridian, G.",OCO,0,0,5,0
-"Johns, A.",OCO,0,0,3,0
-"McZeal, K.",OCO,0,0,3,0
-"Nakamura, T.",OCO,0,0,2,0
-"Wolfcastle, R.",NO,2,30,0,0
-"Jimbo Jr., D.",NO,1,5,4,1
-"Gump, F.",NO,1,15,2,0
-"Toriki, M.",NO,1,15,2,0
-"Barker, E.",NO,1,5,0,0
-"Bodenhamer, B.",NO,1,5,0,0
-"Ranger, A.",NO,1,5,0,0
-"Room, W.",NO,0,0,5,1
-"Brew, S.",NO,0,0,3,1
-"Ofyourlove, S.",NO,0,0,2,0
-"Rubbe, G.",NO,0,0,2,0
-"McCormick, A.",NO,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Pak, Y.",OCO,1,10,8,0,5,25
+"Despacito Jr., G.",OCO,1,5,0,0,5,25
+"Eagle, R.",OCO,1,15,0,0,5,25
+"Joestar, J.",OCO,1,5,0,0,5,25
+"Mo, N.",OCO,0,0,9,0,5,25
+"Harrison, H.",OCO,0,0,5,1,5,25
+"Iridian, G.",OCO,0,0,5,0,5,25
+"Johns, A.",OCO,0,0,3,0,5,25
+"McZeal, K.",OCO,0,0,3,0,5,25
+"Nakamura, T.",OCO,0,0,2,0,5,25
+"Wolfcastle, R.",NO,2,30,0,0,5,25
+"Jimbo Jr., D.",NO,1,5,4,1,5,25
+"Gump, F.",NO,1,15,2,0,5,25
+"Toriki, M.",NO,1,15,2,0,5,25
+"Barker, E.",NO,1,5,0,0,5,25
+"Bodenhamer, B.",NO,1,5,0,0,5,25
+"Ranger, A.",NO,1,5,0,0,5,25
+"Room, W.",NO,0,0,5,1,5,25
+"Brew, S.",NO,0,0,3,1,5,25
+"Ofyourlove, S.",NO,0,0,2,0,5,25
+"Rubbe, G.",NO,0,0,2,0,5,25
+"McCormick, A.",NO,0,0,1,0,5,25

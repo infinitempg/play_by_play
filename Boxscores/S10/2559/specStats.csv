@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",PHI,1,1,19,1,13,0,0,4
-"Felix, L.",PHI,3,76,0,29,0,0,0,0
-"Westfield, B.",OCO,3,85,0,36,0,0,0,0
-"Broxton, J.",OCO,0,0,23,0,11,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",PHI,1,1,19,1,13,0,0,4,10,10
+"Felix, L.",PHI,3,76,0,29,0,0,0,0,10,10
+"Westfield, B.",OCO,3,85,0,36,0,0,0,0,10,10
+"Broxton, J.",OCO,0,0,23,0,11,0,0,3,10,10

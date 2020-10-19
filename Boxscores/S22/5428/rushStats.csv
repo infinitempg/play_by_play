@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cardrissian, R.",SJS,20,81,4,10,0
-"Tyerucker, Q.",SJS,19,63,3.3,7,1
-"Wright, D.",SJS,1,0,0,0,0
-"Nakamura, T.",OCO,24,87,3.6,8,0
-"Bigby, L.",OCO,4,22,5.5,9,0
-"Armstrong, F.",OCO,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cardrissian, R.",SJS,20,81,4,10,0,12,22
+"Tyerucker, Q.",SJS,19,63,3.3,7,1,12,22
+"Wright, D.",SJS,1,0,0,0,0,12,22
+"Nakamura, T.",OCO,24,87,3.6,8,0,12,22
+"Bigby, L.",OCO,4,22,5.5,9,0,12,22
+"Armstrong, F.",OCO,1,5,5,5,0,12,22

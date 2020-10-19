@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,20,63,3.2,10,0
-"Akselsen, M.",YKW,12,109,9.1,25,1
-"Smallwood, D.",SJS,11,49,4.5,8,1
-"Diaz, D.",SJS,6,25,4.2,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,20,63,3.2,10,0,2,7
+"Akselsen, M.",YKW,12,109,9.1,25,1,2,7
+"Smallwood, D.",SJS,11,49,4.5,8,1,2,7
+"Diaz, D.",SJS,6,25,4.2,8,0,2,7

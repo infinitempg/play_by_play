@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Adams, R.",OCO,12,46,3.8,7,0
-"Zephyrous, S.",OCO,10,28,2.8,13,1
-"Showbiz, G.",OCO,2,1,0.5,4,0
-"Brown, M.",BAL,23,82,3.6,8,0
-"Gambino, C.",BAL,3,7,2.3,5,0
-"Harp, D.",BAL,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Adams, R.",OCO,12,46,3.8,7,0,9,14
+"Zephyrous, S.",OCO,10,28,2.8,13,1,9,14
+"Showbiz, G.",OCO,2,1,0.5,4,0,9,14
+"Brown, M.",BAL,23,82,3.6,8,0,9,14
+"Gambino, C.",BAL,3,7,2.3,5,0,9,14
+"Harp, D.",BAL,1,0,0,0,0,9,14

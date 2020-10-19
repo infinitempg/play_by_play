@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Chess, C.",ARI,7,129,18.4,50,0
-"Law, C.",ARI,6,39,6.5,15,0
-"Garden, J.",ARI,5,155,31,79,2
-"Evans, D.",ARI,4,94,23.5,32,1
-"Tuck, J.",ARI,4,36,9,18,0
-"Mackworthy, R.",ARI,1,20,20,20,0
-"West, D.",COL,5,65,13,32,0
-"Boggs, B.",COL,4,99,24.8,45,0
-"Hendrix, K.",COL,4,67,16.8,28,0
-"Young, J.",COL,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Chess, C.",ARI,7,129,18.4,50,0,8,4
+"Law, C.",ARI,6,39,6.5,15,0,8,4
+"Garden, J.",ARI,5,155,31,79,2,8,4
+"Evans, D.",ARI,4,94,23.5,32,1,8,4
+"Tuck, J.",ARI,4,36,9,18,0,8,4
+"Mackworthy, R.",ARI,1,20,20,20,0,8,4
+"West, D.",COL,5,65,13,32,0,8,4
+"Boggs, B.",COL,4,99,24.8,45,0,8,4
+"Hendrix, K.",COL,4,67,16.8,28,0,8,4
+"Young, J.",COL,1,9,9,9,0,8,4

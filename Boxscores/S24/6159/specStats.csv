@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Beerus, L.",OCO,1,45,0,45,0,0,0,0
-"Donut, S.",AZ,1,11,0,11,0,0,0,0
-"Scarlett, D.",AZ,5,145,2,45,6,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Beerus, L.",OCO,1,45,0,45,0,0,0,0,5,24
+"Donut, S.",AZ,1,11,0,11,0,0,0,0,5,24
+"Scarlett, D.",AZ,5,145,2,45,6,0,0,2,5,24

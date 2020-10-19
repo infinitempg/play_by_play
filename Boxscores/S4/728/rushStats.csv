@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,22,71,3.2,11,1
-"Farlane, D.",BAL,3,5,1.7,4,0
-"Blocksdale, A.",BAL,1,0,0,0,0
-"Koch, D.",BAL,1,0,0,0,0
-"Yates, J.",SJS,19,69,3.6,11,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,22,71,3.2,11,1,2,4
+"Farlane, D.",BAL,3,5,1.7,4,0,2,4
+"Blocksdale, A.",BAL,1,0,0,0,0,2,4
+"Koch, D.",BAL,1,0,0,0,0,2,4
+"Yates, J.",SJS,19,69,3.6,11,1,2,4

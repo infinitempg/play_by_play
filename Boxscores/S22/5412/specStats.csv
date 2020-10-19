@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hanyadi, M.",YKW,2,78,0,43,0,0,0,0
-"Snuggles, J.",YKW,0,0,55,0,20,0,0,5
-"Quaid, D.",YKW,1,3,0,3,0,0,0,0
-"Owens, A.",COL,3,57,31,31,14,0,0,5
-"Purchase, L.",COL,2,54,0,44,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hanyadi, M.",YKW,2,78,0,43,0,0,0,0,9,22
+"Snuggles, J.",YKW,0,0,55,0,20,0,0,5,9,22
+"Quaid, D.",YKW,1,3,0,3,0,0,0,0,9,22
+"Owens, A.",COL,3,57,31,31,14,0,0,5,9,22
+"Purchase, L.",COL,2,54,0,44,0,0,0,0,9,22

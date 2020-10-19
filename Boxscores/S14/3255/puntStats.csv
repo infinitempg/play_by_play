@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Jackson, D.",AZ,7,357,51,74,1
-"Frost, A.",BAL,2,77,38.5,39,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Jackson, D.",AZ,7,357,51,74,1,13,14
+"Frost, A.",BAL,2,77,38.5,39,0,13,14

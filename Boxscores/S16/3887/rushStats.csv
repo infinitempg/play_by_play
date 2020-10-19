@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wizardry, D.",AUS,21,96,4.6,17,1
-"Mendonca, M.",AUS,7,15,2.1,13,0
-"Orosz, C.",SJS,14,53,3.8,13,1
-"Christ, J.",SJS,13,104,8,23,0
-"Davenport, C.",SJS,10,58,5.8,19,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wizardry, D.",AUS,21,96,4.6,17,1,4,16
+"Mendonca, M.",AUS,7,15,2.1,13,0,4,16
+"Orosz, C.",SJS,14,53,3.8,13,1,4,16
+"Christ, J.",SJS,13,104,8,23,0,4,16
+"Davenport, C.",SJS,10,58,5.8,19,0,4,16

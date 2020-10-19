@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Olsen, C.",SJS,6,57,9.5,25,0
-"Justice, T.",SJS,5,40,8,10,0
-"Flash, X.",SJS,3,37,12.3,24,1
-"Valentine, V.",AZ,7,82,11.7,26,2
-"Oles, K.",AZ,4,70,17.5,39,0
-"Irving, J.",AZ,3,24,8,11,0
-"Donut, S.",AZ,3,15,5,8,2
-"Shady, S.",AZ,2,40,20,23,0
-"Landers, B.",AZ,2,34,17,22,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Olsen, C.",SJS,6,57,9.5,25,0,8,18
+"Justice, T.",SJS,5,40,8,10,0,8,18
+"Flash, X.",SJS,3,37,12.3,24,1,8,18
+"Valentine, V.",AZ,7,82,11.7,26,2,8,18
+"Oles, K.",AZ,4,70,17.5,39,0,8,18
+"Irving, J.",AZ,3,24,8,11,0,8,18
+"Donut, S.",AZ,3,15,5,8,2,8,18
+"Shady, S.",AZ,2,40,20,23,0,8,18
+"Landers, B.",AZ,2,34,17,22,0,8,18

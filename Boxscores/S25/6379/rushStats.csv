@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Watts, Z.",AUS,22,97,4.4,18,1
-"Jones, K.",AUS,16,63,3.9,10,0
-"Cole, E.",AUS,1,0,0,0,0
-"Torenson, S.",PHI,12,53,4.4,7,0
-"Dotson, F.",PHI,10,24,2.4,6,0
-"Phoenix, B.",PHI,7,67,9.6,30,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Watts, Z.",AUS,22,97,4.4,18,1,2,25
+"Jones, K.",AUS,16,63,3.9,10,0,2,25
+"Cole, E.",AUS,1,0,0,0,0,2,25
+"Torenson, S.",PHI,12,53,4.4,7,0,2,25
+"Dotson, F.",PHI,10,24,2.4,6,0,2,25
+"Phoenix, B.",PHI,7,67,9.6,30,0,2,25

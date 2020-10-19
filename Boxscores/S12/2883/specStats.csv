@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Miller, H.",COL,3,48,0,31,0,0,0,0
-"Danger, D.",COL,0,0,31,0,16,0,0,3
-"Grau, M.",COL,4,77,0,29,0,0,0,0
-"Valentine, V.",BAL,3,85,79,41,66,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Miller, H.",COL,3,48,0,31,0,0,0,0,2,12
+"Danger, D.",COL,0,0,31,0,16,0,0,3,2,12
+"Grau, M.",COL,4,77,0,29,0,0,0,0,2,12
+"Valentine, V.",BAL,3,85,79,41,66,0,0,3,2,12

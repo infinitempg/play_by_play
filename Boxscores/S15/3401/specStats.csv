@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Fyodorovich, V.",NO,0,0,0,0,1,0,0,2
-"Rax, L.",NO,1,3,0,3,0,0,0,0
-"Swift, T.",NO,2,36,0,23,0,0,0,0
-"Shady, S.",AZ,3,89,0,38,0,0,0,0
-"Murphy, J.",AZ,3,64,0,29,0,0,0,0
-"Adams, R.",AZ,0,0,14,0,14,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Fyodorovich, V.",NO,0,0,0,0,1,0,0,2,12,15
+"Rax, L.",NO,1,3,0,3,0,0,0,0,12,15
+"Swift, T.",NO,2,36,0,23,0,0,0,0,12,15
+"Shady, S.",AZ,3,89,0,38,0,0,0,0,12,15
+"Murphy, J.",AZ,3,64,0,29,0,0,0,0,12,15
+"Adams, R.",AZ,0,0,14,0,14,0,0,1,12,15

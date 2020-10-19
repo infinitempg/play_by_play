@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Barnes, B.",AZ,1,6,23,6,17,0,0,3
-"Asipi III, A.",AZ,2,75,0,41,0,0,0,0
-"Robertson, A.",AZ,1,0,0,0,0,0,0,0
-"Fyodorovich, V.",NO,5,117,6,44,3,0,0,2
-"Schneider, D.",NO,3,62,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Barnes, B.",AZ,1,6,23,6,17,0,0,3,5,13
+"Asipi III, A.",AZ,2,75,0,41,0,0,0,0,5,13
+"Robertson, A.",AZ,1,0,0,0,0,0,0,0,5,13
+"Fyodorovich, V.",NO,5,117,6,44,3,0,0,2,5,13
+"Schneider, D.",NO,3,62,0,33,0,0,0,0,5,13

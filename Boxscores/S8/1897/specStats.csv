@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,1,14,19,14,9,0,0,3
-"Wachter, J.",AZ,2,30,0,26,0,0,0,0
-"Evans, D.",NO,2,47,17,27,8,0,0,3
-"Smallwood, D.",NO,3,84,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,1,14,19,14,9,0,0,3,5,8
+"Wachter, J.",AZ,2,30,0,26,0,0,0,0,5,8
+"Evans, D.",NO,2,47,17,27,8,0,0,3,5,8
+"Smallwood, D.",NO,3,84,0,34,0,0,0,0,5,8

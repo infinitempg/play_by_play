@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Fulture, K.",CHI,4,228,57,67,1
-"Brand, F.",BAL,3,139,46.3,54,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Fulture, K.",CHI,4,228,57,67,1,4,17
+"Brand, F.",BAL,3,139,46.3,54,0,4,17

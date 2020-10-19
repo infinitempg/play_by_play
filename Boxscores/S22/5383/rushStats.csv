@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ruff, R.",HON,28,115,4.1,8,3
-"Kane-Maika'i, K.",HON,23,77,3.3,8,1
-"Havran, C.",HON,1,6,6,6,0
-"Gump, F.",NO,14,62,4.4,11,1
-"Toriki, M.",NO,8,55,6.9,19,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ruff, R.",HON,28,115,4.1,8,3,5,22
+"Kane-Maika'i, K.",HON,23,77,3.3,8,1,5,22
+"Havran, C.",HON,1,6,6,6,0,5,22
+"Gump, F.",NO,14,62,4.4,11,1,5,22
+"Toriki, M.",NO,8,55,6.9,19,1,5,22

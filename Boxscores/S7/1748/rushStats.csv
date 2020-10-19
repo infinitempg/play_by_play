@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Diaz, D.",SJS,16,83,5.2,15,1
-"Smallwood, D.",SJS,14,51,3.6,10,1
-"Orosz, C.",SJS,1,-2,-2,0,0
-"Nuck, B.",COL,14,52,3.7,7,0
-"Joyce, S.",COL,9,46,5.1,12,0
-"Applehort, R.",COL,3,-7,-2.3,1,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Diaz, D.",SJS,16,83,5.2,15,1,6,7
+"Smallwood, D.",SJS,14,51,3.6,10,1,6,7
+"Orosz, C.",SJS,1,-2,-2,0,0,6,7
+"Nuck, B.",COL,14,52,3.7,7,0,6,7
+"Joyce, S.",COL,9,46,5.1,12,0,6,7
+"Applehort, R.",COL,3,-7,-2.3,1,1,6,7

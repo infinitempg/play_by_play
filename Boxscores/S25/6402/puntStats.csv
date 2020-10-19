@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Kokot, B.",YKW,9,338,37.6,67,0
-"Small, J.",SAR,6,251,41.8,54,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Kokot, B.",YKW,9,338,37.6,67,0,5,25
+"Small, J.",SAR,6,251,41.8,54,1,5,25

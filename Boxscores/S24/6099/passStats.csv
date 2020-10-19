@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Armstrong, F.",OCO,"[20, 29]",222,11.1,0,0,91.5
-"Skywalker, L.",HON,"[13, 34]",221,17,0,0,61
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Armstrong, F.",OCO,222,11.1,0,0,91.5,20,13,15,24
+"Skywalker, L.",HON,221,17,0,0,61,20,13,15,24

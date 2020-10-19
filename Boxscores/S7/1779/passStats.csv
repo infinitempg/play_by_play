@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Blocksdale, A.",BAL,"[26, 47]",337,13,3,0,99.3
-"Akselsen, M.",YKW,"[24, 35]",317,13.2,2,0,116
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Blocksdale, A.",BAL,337,13,3,0,99.3,26,24,13,7
+"Akselsen, M.",YKW,317,13.2,2,0,116,26,24,13,7

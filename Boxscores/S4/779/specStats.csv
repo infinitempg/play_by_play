@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,3,66,0,29,0,0,0,0
-"Garden, J.",ARI,0,0,151,0,64,0,1,8
-"LeClair, A.",LV,2,45,0,27,0,0,0,0
-"Carter, P.",LV,0,0,17,0,17,0,0,1
-"Fulton, W.",LV,3,39,0,26,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,3,66,0,29,0,0,0,0,14,4
+"Garden, J.",ARI,0,0,151,0,64,0,1,8,14,4
+"LeClair, A.",LV,2,45,0,27,0,0,0,0,14,4
+"Carter, P.",LV,0,0,17,0,17,0,0,1,14,4
+"Fulton, W.",LV,3,39,0,26,0,0,0,0,14,4

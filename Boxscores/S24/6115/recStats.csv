@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, A.",YKW,5,47,9.4,21,0
-"Hanyadi, M.",YKW,5,21,4.2,6,0
-"Cash Jr., S.",YKW,3,59,19.7,28,0
-"Skyline, A.",YKW,3,32,10.7,15,0
-"Lee, M.",YKW,3,30,10,21,1
-"Sakura, K.",YKW,2,22,11,17,0
-"Rechs, Z.",YKW,1,10,10,10,0
-"Vuxta, R.",PHI,7,102,14.6,28,0
-"Blocksdale Jr., A.",PHI,4,34,8.5,11,0
-"Panda, F.",PHI,3,136,45.3,83,0
-"Varga, N.",PHI,3,38,12.7,22,0
-"Torenson, S.",PHI,3,7,2.3,7,0
-"Dotson, F.",PHI,1,6,6,6,0
-"Arrabiata, D.",PHI,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, A.",YKW,5,47,9.4,21,0,12,24
+"Hanyadi, M.",YKW,5,21,4.2,6,0,12,24
+"Cash Jr., S.",YKW,3,59,19.7,28,0,12,24
+"Skyline, A.",YKW,3,32,10.7,15,0,12,24
+"Lee, M.",YKW,3,30,10,21,1,12,24
+"Sakura, K.",YKW,2,22,11,17,0,12,24
+"Rechs, Z.",YKW,1,10,10,10,0,12,24
+"Vuxta, R.",PHI,7,102,14.6,28,0,12,24
+"Blocksdale Jr., A.",PHI,4,34,8.5,11,0,12,24
+"Panda, F.",PHI,3,136,45.3,83,0,12,24
+"Varga, N.",PHI,3,38,12.7,22,0,12,24
+"Torenson, S.",PHI,3,7,2.3,7,0,12,24
+"Dotson, F.",PHI,1,6,6,6,0,12,24
+"Arrabiata, D.",PHI,1,5,5,5,0,12,24

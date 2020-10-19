@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Anoa'i, D.",AUS,7,108,15.4,33,1
-"Owens, A.",AUS,7,33,4.7,8,0
-"Tidwell, R.",AUS,6,139,23.2,30,0
-"Mendonca, M.",AUS,5,63,12.6,23,1
-"Larson, P.",AUS,4,11,2.8,7,0
-"Blaze, J.",OCO,5,101,20.2,52,1
-"Mongo, H.",OCO,5,79,15.8,38,0
-"Banks II, D.",OCO,3,22,7.3,8,0
-"Pitcher, A.",OCO,3,16,5.3,8,0
-"Nagasawa, Y.",OCO,2,16,8,9,0
-"Reed, A.",OCO,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Anoa'i, D.",AUS,7,108,15.4,33,1,3,18
+"Owens, A.",AUS,7,33,4.7,8,0,3,18
+"Tidwell, R.",AUS,6,139,23.2,30,0,3,18
+"Mendonca, M.",AUS,5,63,12.6,23,1,3,18
+"Larson, P.",AUS,4,11,2.8,7,0,3,18
+"Blaze, J.",OCO,5,101,20.2,52,1,3,18
+"Mongo, H.",OCO,5,79,15.8,38,0,3,18
+"Banks II, D.",OCO,3,22,7.3,8,0,3,18
+"Pitcher, A.",OCO,3,16,5.3,8,0,3,18
+"Nagasawa, Y.",OCO,2,16,8,9,0,3,18
+"Reed, A.",OCO,1,2,2,2,0,3,18

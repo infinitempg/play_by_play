@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Cole, E.",AUS,"[15, 23]",98,6.5,0,0,74.2
-"Jenkins, R.",CHI,"[16, 29]",219,13.7,0,0,79.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Cole, E.",AUS,98,6.5,0,0,74.2,15,16,9,16
+"Jenkins, R.",CHI,219,13.7,0,0,79.5,15,16,9,16

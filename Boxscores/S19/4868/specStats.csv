@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gaines, N.",AUS,1,19,0,19,0,0,0,0
-"Lavelle Jr., D.",AUS,3,93,1,46,3,0,0,3
-"Emoji, E.",PHI,4,70,42,45,20,0,0,3
-"Garnett, L.",PHI,1,19,0,19,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gaines, N.",AUS,1,19,0,19,0,0,0,0,13,19
+"Lavelle Jr., D.",AUS,3,93,1,46,3,0,0,3,13,19
+"Emoji, E.",PHI,4,70,42,45,20,0,0,3,13,19
+"Garnett, L.",PHI,1,19,0,19,0,0,0,0,13,19

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Leaf Jr., R.",CHI,23,93,4,14,0
-"Hank, F.",CHI,14,55,3.9,7,1
-"Utler, J.",CHI,1,4,4,4,0
-"Toriki, M.",NO,21,106,5,20,1
-"Gump, F.",NO,14,64,4.6,11,2
-"Francisco, S.",NO,1,7,7,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Leaf Jr., R.",CHI,23,93,4,14,0,13,21
+"Hank, F.",CHI,14,55,3.9,7,1,13,21
+"Utler, J.",CHI,1,4,4,4,0,13,21
+"Toriki, M.",NO,21,106,5,20,1,13,21
+"Gump, F.",NO,14,64,4.6,11,2,13,21
+"Francisco, S.",NO,1,7,7,7,0,13,21

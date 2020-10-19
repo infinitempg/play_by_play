@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,25,130,5.2,11,0
-"Reese, A.",AZ,1,2,2,2,0
-"Bigby, L.",BAL,10,49,4.9,23,0
-"Trevor, C.",BAL,4,11,2.8,6,1
-"Havran, C.",BAL,3,3,1,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,25,130,5.2,11,0,11,18
+"Reese, A.",AZ,1,2,2,2,0,11,18
+"Bigby, L.",BAL,10,49,4.9,23,0,11,18
+"Trevor, C.",BAL,4,11,2.8,6,1,11,18
+"Havran, C.",BAL,3,3,1,7,0,11,18

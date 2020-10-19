@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Gordon, R.",SAR,1,5,0,0
-"Doe, B.",SAR,0,0,12,1
-"Woakneoa, S.",SAR,0,0,5,0
-"Smith, J.",SAR,0,0,4,0
-"Bakhtiari, S.",SAR,0,0,3,0
-"Boyd, C.",SAR,0,0,3,0
-"McCabe, J.",SAR,0,0,3,0
-"Back, R.",SAR,0,0,2,0
-"Angler, J.",SAR,0,0,1,0
-"Chan, R.",SAR,0,0,1,0
-"Van Buren, M.",PHI,1,5,4,0
-"Panda, F.",PHI,1,10,0,0
-"Tyler, J.",PHI,0,0,6,1
-"Fillmore, M.",PHI,0,0,5,0
-"Dotson, F.",PHI,0,0,4,0
-"Hayes, R.",PHI,0,0,3,0
-"Tremblay, S.",PHI,0,0,3,0
-"Arrabiata, D.",PHI,0,0,1,0
-"Blocksdale Jr., A.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Gordon, R.",SAR,1,5,0,0,13,24
+"Doe, B.",SAR,0,0,12,1,13,24
+"Woakneoa, S.",SAR,0,0,5,0,13,24
+"Smith, J.",SAR,0,0,4,0,13,24
+"Bakhtiari, S.",SAR,0,0,3,0,13,24
+"Boyd, C.",SAR,0,0,3,0,13,24
+"McCabe, J.",SAR,0,0,3,0,13,24
+"Back, R.",SAR,0,0,2,0,13,24
+"Angler, J.",SAR,0,0,1,0,13,24
+"Chan, R.",SAR,0,0,1,0,13,24
+"Van Buren, M.",PHI,1,5,4,0,13,24
+"Panda, F.",PHI,1,10,0,0,13,24
+"Tyler, J.",PHI,0,0,6,1,13,24
+"Fillmore, M.",PHI,0,0,5,0,13,24
+"Dotson, F.",PHI,0,0,4,0,13,24
+"Hayes, R.",PHI,0,0,3,0,13,24
+"Tremblay, S.",PHI,0,0,3,0,13,24
+"Arrabiata, D.",PHI,0,0,1,0,13,24
+"Blocksdale Jr., A.",PHI,0,0,1,0,13,24

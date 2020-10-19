@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"George, D.",OCO,6,54,9,26,0
-"Mongo, H.",OCO,5,66,13.2,37,1
-"Phillips, J.",OCO,4,39,9.8,16,0
-"Trunks, F.",OCO,4,27,6.8,8,0
-"Z, D.",OCO,1,13,13,13,0
-"Nakamura, T.",OCO,1,7,7,7,0
-"Donut, S.",AZ,2,99,49.5,77,1
-"Passmann, T.",AZ,2,36,18,21,0
-"Bur'Berry, J.",AZ,2,15,7.5,11,0
-"Yoda, B.",AZ,2,4,2,3,0
-"Evans, H.",AZ,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"George, D.",OCO,6,54,9,26,0,12,23
+"Mongo, H.",OCO,5,66,13.2,37,1,12,23
+"Phillips, J.",OCO,4,39,9.8,16,0,12,23
+"Trunks, F.",OCO,4,27,6.8,8,0,12,23
+"Z, D.",OCO,1,13,13,13,0,12,23
+"Nakamura, T.",OCO,1,7,7,7,0,12,23
+"Donut, S.",AZ,2,99,49.5,77,1,12,23
+"Passmann, T.",AZ,2,36,18,21,0,12,23
+"Bur'Berry, J.",AZ,2,15,7.5,11,0,12,23
+"Yoda, B.",AZ,2,4,2,3,0,12,23
+"Evans, H.",AZ,1,5,5,5,0,12,23

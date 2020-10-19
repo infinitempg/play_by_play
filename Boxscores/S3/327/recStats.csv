@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Smallwood, D.",SJS,7,102,14.6,35,0
-"Jackson, M.",SJS,6,77,12.8,32,0
-"Weston, S.",SJS,5,108,21.6,27,0
-"Durden, J.",SJS,5,14,2.8,6,1
-"Bottles, B.",SJS,2,13,6.5,8,0
-"Diaz, D.",SJS,1,10,10,10,0
-"Evans, D.",ARI,6,83,13.8,45,1
-"Chess, C.",ARI,5,104,20.8,43,0
-"Law, C.",ARI,5,73,14.6,25,1
-"Mackworthy, R.",ARI,5,33,6.6,11,0
-"Zhang, S.",ARI,3,93,31,44,0
-"Tuck, J.",ARI,2,6,3,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Smallwood, D.",SJS,7,102,14.6,35,0,13,3
+"Jackson, M.",SJS,6,77,12.8,32,0,13,3
+"Weston, S.",SJS,5,108,21.6,27,0,13,3
+"Durden, J.",SJS,5,14,2.8,6,1,13,3
+"Bottles, B.",SJS,2,13,6.5,8,0,13,3
+"Diaz, D.",SJS,1,10,10,10,0,13,3
+"Evans, D.",ARI,6,83,13.8,45,1,13,3
+"Chess, C.",ARI,5,104,20.8,43,0,13,3
+"Law, C.",ARI,5,73,14.6,25,1,13,3
+"Mackworthy, R.",ARI,5,33,6.6,11,0,13,3
+"Zhang, S.",ARI,3,93,31,44,0,13,3
+"Tuck, J.",ARI,2,6,3,5,0,13,3

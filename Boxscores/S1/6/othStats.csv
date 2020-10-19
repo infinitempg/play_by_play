@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Pest, T.",ARI,1,6,5,2
-"Blade, B.",ARI,1,5,0,0
-"Timlin, S.",ARI,0,0,5,0
-"Jefferspin, S.",ARI,0,0,4,0
-"Thomas, A.",ARI,0,0,3,2
-"Durden, J.",ARI,0,0,2,0
-"Sharp, B.",ARI,0,0,1,0
-"Hamilton, C.",OCO,1,15,4,0
-"Jenkins, L.",OCO,1,5,1,0
-"Bavitz, I.",OCO,1,5,0,0
-"Verns, D.",OCO,1,15,0,0
-"Yates, J.",OCO,1,10,0,0
-"Winchester, A.",OCO,0,0,5,0
-"Boyd, M.",OCO,0,0,4,0
-"Wright Jr, G.",OCO,0,0,3,0
-"Clegane, G.",OCO,0,0,1,0
-"Davidson, J.",OCO,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Pest, T.",ARI,1,6,5,2,12,1
+"Blade, B.",ARI,1,5,0,0,12,1
+"Timlin, S.",ARI,0,0,5,0,12,1
+"Jefferspin, S.",ARI,0,0,4,0,12,1
+"Thomas, A.",ARI,0,0,3,2,12,1
+"Durden, J.",ARI,0,0,2,0,12,1
+"Sharp, B.",ARI,0,0,1,0,12,1
+"Hamilton, C.",OCO,1,15,4,0,12,1
+"Jenkins, L.",OCO,1,5,1,0,12,1
+"Bavitz, I.",OCO,1,5,0,0,12,1
+"Verns, D.",OCO,1,15,0,0,12,1
+"Yates, J.",OCO,1,10,0,0,12,1
+"Winchester, A.",OCO,0,0,5,0,12,1
+"Boyd, M.",OCO,0,0,4,0,12,1
+"Wright Jr, G.",OCO,0,0,3,0,12,1
+"Clegane, G.",OCO,0,0,1,0,12,1
+"Davidson, J.",OCO,0,0,0,1,12,1

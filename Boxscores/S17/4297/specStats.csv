@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,0,0,2,0,2,0,0,1
-"Fyodorovich, V.",NO,4,68,0,22,0,0,0,0
-"Tuck, J.",SJS,3,93,0,42,0,0,0,0
-"Flash, X.",SJS,1,22,1,22,1,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,0,0,2,0,2,0,0,1,2,17
+"Fyodorovich, V.",NO,4,68,0,22,0,0,0,0,2,17
+"Tuck, J.",SJS,3,93,0,42,0,0,0,0,2,17
+"Flash, X.",SJS,1,22,1,22,1,0,0,1,2,17

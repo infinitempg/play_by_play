@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,13,33,2.5,6,0
-"Noble, L.",LV,2,12,6,12,0
-"O'Sullivan, C.",LV,2,6,3,4,0
-"Nuck, B.",YKW,11,29,2.6,5,0
-"Kennedy, E.",YKW,6,28,4.7,16,0
-"Akselsen, M.",YKW,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,13,33,2.5,6,0,13,5
+"Noble, L.",LV,2,12,6,12,0,13,5
+"O'Sullivan, C.",LV,2,6,3,4,0,13,5
+"Nuck, B.",YKW,11,29,2.6,5,0,13,5
+"Kennedy, E.",YKW,6,28,4.7,16,0,13,5
+"Akselsen, M.",YKW,1,1,1,1,0,13,5

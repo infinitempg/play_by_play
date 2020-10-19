@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bigby, L.",BAL,17,65,3.8,7,0
-"Havran, C.",BAL,7,16,2.3,8,0
-"Williams, D.",BAL,5,18,3.6,11,0
-"Cue, J.",AZ,13,56,4.3,14,0
-"Ruff, R.",AZ,13,55,4.2,12,0
-"Allan, C.",AZ,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bigby, L.",BAL,17,65,3.8,7,0,1,20
+"Havran, C.",BAL,7,16,2.3,8,0,1,20
+"Williams, D.",BAL,5,18,3.6,11,0,1,20
+"Cue, J.",AZ,13,56,4.3,14,0,1,20
+"Ruff, R.",AZ,13,55,4.2,12,0,1,20
+"Allan, C.",AZ,1,2,2,2,0,1,20

@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Marlin, J.",CHI,1,10,9,1
-"Beat, N.",CHI,1,15,0,0
-"Castle, S.",CHI,1,5,0,0
-"Hockhertz, M.",CHI,1,5,0,0
-"Parker, J.",CHI,1,10,0,0
-"Cricket, R.",CHI,0,0,7,0
-"Leaf III, R.",CHI,0,0,3,0
-"MacDennis, C.",CHI,0,0,3,0
-"Ford Lalatina, D.",CHI,0,0,2,0
-"Danielsson, A.",CHI,0,0,1,0
-"Bakshi, S.",AUS,3,35,0,0
-"Edmond, H.",AUS,2,10,0,0
-"Gaines, N.",AUS,1,5,0,0
-"Sexjoke, A.",AUS,1,5,0,0
-"Mendonca, M.",AUS,0,0,4,1
-"A'Barelyanything, L.",AUS,0,0,3,0
-"A'Ton, L.",AUS,0,0,3,0
-"A'Little, L.",AUS,0,0,2,1
-"A'Moderateamount, L.",AUS,0,0,2,1
-"Larson, P.",AUS,0,0,1,1
-"Beaver-Dantes, E.",AUS,0,0,1,0
-"Blockit, I.",AUS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Marlin, J.",CHI,1,10,9,1,12,20
+"Beat, N.",CHI,1,15,0,0,12,20
+"Castle, S.",CHI,1,5,0,0,12,20
+"Hockhertz, M.",CHI,1,5,0,0,12,20
+"Parker, J.",CHI,1,10,0,0,12,20
+"Cricket, R.",CHI,0,0,7,0,12,20
+"Leaf III, R.",CHI,0,0,3,0,12,20
+"MacDennis, C.",CHI,0,0,3,0,12,20
+"Ford Lalatina, D.",CHI,0,0,2,0,12,20
+"Danielsson, A.",CHI,0,0,1,0,12,20
+"Bakshi, S.",AUS,3,35,0,0,12,20
+"Edmond, H.",AUS,2,10,0,0,12,20
+"Gaines, N.",AUS,1,5,0,0,12,20
+"Sexjoke, A.",AUS,1,5,0,0,12,20
+"Mendonca, M.",AUS,0,0,4,1,12,20
+"A'Barelyanything, L.",AUS,0,0,3,0,12,20
+"A'Ton, L.",AUS,0,0,3,0,12,20
+"A'Little, L.",AUS,0,0,2,1,12,20
+"A'Moderateamount, L.",AUS,0,0,2,1,12,20
+"Larson, P.",AUS,0,0,1,1,12,20
+"Beaver-Dantes, E.",AUS,0,0,1,0,12,20
+"Blockit, I.",AUS,0,0,1,0,12,20

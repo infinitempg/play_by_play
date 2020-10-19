@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Shady, S.",AZ,7,59,8.4,15,0
-"Landers, B.",AZ,7,56,8,19,0
-"Valentine, V.",AZ,5,136,27.2,79,1
-"Parker, J.",AZ,4,70,17.5,43,0
-"Donut, S.",AZ,3,50,16.7,32,1
-"Irving, J.",AZ,3,21,7,13,0
-"Tidwell, R.",AUS,5,112,22.4,56,1
-"Owens, A.",AUS,5,37,7.4,10,0
-"Larson, P.",AUS,5,28,5.6,9,0
-"Anoa'i, D.",AUS,3,54,18,25,1
-"Mendonca, M.",AUS,2,24,12,18,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Shady, S.",AZ,7,59,8.4,15,0,2,18
+"Landers, B.",AZ,7,56,8,19,0,2,18
+"Valentine, V.",AZ,5,136,27.2,79,1,2,18
+"Parker, J.",AZ,4,70,17.5,43,0,2,18
+"Donut, S.",AZ,3,50,16.7,32,1,2,18
+"Irving, J.",AZ,3,21,7,13,0,2,18
+"Tidwell, R.",AUS,5,112,22.4,56,1,2,18
+"Owens, A.",AUS,5,37,7.4,10,0,2,18
+"Larson, P.",AUS,5,28,5.6,9,0,2,18
+"Anoa'i, D.",AUS,3,54,18,25,1,2,18
+"Mendonca, M.",AUS,2,24,12,18,0,2,18

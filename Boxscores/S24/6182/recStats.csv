@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Angler, J.",SAR,8,133,16.6,33,1
-"Chan, R.",SAR,5,69,13.8,49,0
-"Gordon, R.",SAR,4,59,14.8,36,0
-"Boyd, C.",SAR,4,27,6.8,14,0
-"Witheblock, M.",SAR,3,66,22,39,0
-"Back, R.",SAR,1,3,3,3,0
-"Kaepercolin, N.",BAL,5,57,11.4,17,0
-"Kross, C.",BAL,4,68,17,24,0
-"Quinn, A.",BAL,4,53,13.2,25,1
-"Lewandowski, J.",BAL,3,34,11.3,15,0
-"Williams, D.",BAL,2,11,5.5,8,0
-"Skuff, R.",BAL,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Angler, J.",SAR,8,133,16.6,33,1,1,24
+"Chan, R.",SAR,5,69,13.8,49,0,1,24
+"Gordon, R.",SAR,4,59,14.8,36,0,1,24
+"Boyd, C.",SAR,4,27,6.8,14,0,1,24
+"Witheblock, M.",SAR,3,66,22,39,0,1,24
+"Back, R.",SAR,1,3,3,3,0,1,24
+"Kaepercolin, N.",BAL,5,57,11.4,17,0,1,24
+"Kross, C.",BAL,4,68,17,24,0,1,24
+"Quinn, A.",BAL,4,53,13.2,25,1,1,24
+"Lewandowski, J.",BAL,3,34,11.3,15,0,1,24
+"Williams, D.",BAL,2,11,5.5,8,0,1,24
+"Skuff, R.",BAL,1,6,6,6,0,1,24

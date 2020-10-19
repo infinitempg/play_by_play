@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Meoff, B.",NO,4,169,42.2,46,0
-"Fulture, K.",PHI,4,146,36.5,48,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Meoff, B.",NO,4,169,42.2,46,0,3,13
+"Fulture, K.",PHI,4,146,36.5,48,0,3,13

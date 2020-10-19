@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,25,97,3.9,12,1
-"Toriki, M.",NO,19,66,3.5,10,0
-"Francisco, S.",NO,1,7,7,7,0
-"Hanyadi, M.",YKW,17,48,2.8,8,2
-"Drake, O.",YKW,8,31,3.9,11,0
-"Bigsby, C.",YKW,1,12,12,12,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,25,97,3.9,12,1,5,19
+"Toriki, M.",NO,19,66,3.5,10,0,5,19
+"Francisco, S.",NO,1,7,7,7,0,5,19
+"Hanyadi, M.",YKW,17,48,2.8,8,2,5,19
+"Drake, O.",YKW,8,31,3.9,11,0,5,19
+"Bigsby, C.",YKW,1,12,12,12,0,5,19

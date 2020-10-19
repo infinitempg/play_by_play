@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kennedy, E.",YKW,17,83,4.9,11,1
-"Akselsen, M.",YKW,5,11,2.2,8,0
-"Nuck, B.",YKW,5,8,1.6,3,1
-"Smallwood, D.",SJS,22,103,4.7,14,1
-"Diaz, D.",SJS,12,27,2.2,5,1
-"Orosz, C.",SJS,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kennedy, E.",YKW,17,83,4.9,11,1,7,6
+"Akselsen, M.",YKW,5,11,2.2,8,0,7,6
+"Nuck, B.",YKW,5,8,1.6,3,1,7,6
+"Smallwood, D.",SJS,22,103,4.7,14,1,7,6
+"Diaz, D.",SJS,12,27,2.2,5,1,7,6
+"Orosz, C.",SJS,1,5,5,5,0,7,6

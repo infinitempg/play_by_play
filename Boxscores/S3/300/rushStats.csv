@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,30,92,3.1,8,0
-"Newman, M.",COL,5,14,2.8,8,0
-"Pierno, N.",COL,1,7,7,7,0
-"Mackworthy, R.",ARI,27,68,2.5,8,1
-"Tuck, J.",ARI,7,9,1.3,6,0
-"Bronko, K.",ARI,1,1,1,1,0
-"Law, C.",ARI,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,30,92,3.1,8,0,7,3
+"Newman, M.",COL,5,14,2.8,8,0,7,3
+"Pierno, N.",COL,1,7,7,7,0,7,3
+"Mackworthy, R.",ARI,27,68,2.5,8,1,7,3
+"Tuck, J.",ARI,7,9,1.3,6,0,7,3
+"Bronko, K.",ARI,1,1,1,1,0,7,3
+"Law, C.",ARI,1,0,0,0,0,7,3

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tirtawidjaja, J.",CHI,11,47,4.3,9,1
-"Yoda, B.",CHI,7,14,2,4,0
-"O'Donnell, G.",CHI,3,12,4,7,0
-"Hanyadi, M.",YKW,17,38,2.2,5,1
-"Skyline, A.",YKW,7,16,2.3,6,0
-"Jack, C.",YKW,5,20,4,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tirtawidjaja, J.",CHI,11,47,4.3,9,1,1,25
+"Yoda, B.",CHI,7,14,2,4,0,1,25
+"O'Donnell, G.",CHI,3,12,4,7,0,1,25
+"Hanyadi, M.",YKW,17,38,2.2,5,1,1,25
+"Skyline, A.",YKW,7,16,2.3,6,0,1,25
+"Jack, C.",YKW,5,20,4,9,0,1,25

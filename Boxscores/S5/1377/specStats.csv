@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,4,92,18,38,18,0,0,1
-"Cook, B.",YKW,2,75,0,38,0,0,0,0
-"Ridley, W.",YKW,1,0,0,0,0,0,0,0
-"Delacour, A.",BAL,0,0,6,0,6,0,0,1
-"Willie, T.",BAL,3,98,0,36,0,0,0,0
-"LeClair, A.",BAL,2,40,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,4,92,18,38,18,0,0,1,1,5
+"Cook, B.",YKW,2,75,0,38,0,0,0,0,1,5
+"Ridley, W.",YKW,1,0,0,0,0,0,0,0,1,5
+"Delacour, A.",BAL,0,0,6,0,6,0,0,1,1,5
+"Willie, T.",BAL,3,98,0,36,0,0,0,0,1,5
+"LeClair, A.",BAL,2,40,0,38,0,0,0,0,1,5

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,3,95,27,45,12,0,0,3
-"Rainey, R.",YKW,2,24,0,15,0,0,0,0
-"Mackworthy, R.",AZ,4,117,49,39,20,0,0,5
-"Wachter, J.",AZ,1,33,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,3,95,27,45,12,0,0,3,2,8
+"Rainey, R.",YKW,2,24,0,15,0,0,0,0,2,8
+"Mackworthy, R.",AZ,4,117,49,39,20,0,0,5,2,8
+"Wachter, J.",AZ,1,33,0,33,0,0,0,0,2,8

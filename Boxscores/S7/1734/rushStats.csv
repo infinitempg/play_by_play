@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,26,114,4.4,10,1
-"Blocksdale, A.",BAL,1,5,5,5,1
-"Savea, A.",NO,14,39,2.8,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,26,114,4.4,10,1,2,7
+"Blocksdale, A.",BAL,1,5,5,5,1,2,7
+"Savea, A.",NO,14,39,2.8,7,0,2,7

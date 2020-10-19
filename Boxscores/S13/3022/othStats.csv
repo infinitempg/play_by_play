@@ -1,28 +1,28 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Belongwithme, H.",NO,1,5,4,0
-"Swift, T.",NO,1,15,2,0
-"Danielsson, A.",NO,1,5,0,0
-"Marchand, J.",NO,1,5,0,0
-"O'Sullivan, J.",NO,1,5,0,0
-"Ramsey Jr., G.",NO,1,15,0,0
-"Schneider, D.",NO,1,5,0,0
-"Townsend, F.",NO,1,5,0,0
-"Sno, F.",NO,0,0,6,0
-"Spais, B.",NO,0,0,6,0
-"Sackless, S.",NO,0,0,5,0
-"Watyumaidmedu, L.",NO,0,0,5,0
-"Danger, H.",NO,0,0,2,0
-"Gore, B.",NO,0,0,1,0
-"Arthur, C.",PHI,3,35,3,0
-"Tyler, J.",PHI,1,5,6,0
-"Fillmore, M.",PHI,1,5,2,0
-"Van Buren, M.",PHI,1,5,2,0
-"Cox III, J.",PHI,1,15,0,0
-"Falconi, A.",PHI,1,5,0,0
-"Hardwick, S.",PHI,1,5,0,0
-"Kalilmoku, I.",PHI,1,20,0,0
-"Smyles, L.",PHI,1,10,0,0
-"Weathers III, B.",PHI,1,15,0,0
-"Hayes, R.",PHI,0,0,6,0
-"Brown, M.",PHI,0,0,4,0
-"Strike, L.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Belongwithme, H.",NO,1,5,4,0,3,13
+"Swift, T.",NO,1,15,2,0,3,13
+"Danielsson, A.",NO,1,5,0,0,3,13
+"Marchand, J.",NO,1,5,0,0,3,13
+"O'Sullivan, J.",NO,1,5,0,0,3,13
+"Ramsey Jr., G.",NO,1,15,0,0,3,13
+"Schneider, D.",NO,1,5,0,0,3,13
+"Townsend, F.",NO,1,5,0,0,3,13
+"Sno, F.",NO,0,0,6,0,3,13
+"Spais, B.",NO,0,0,6,0,3,13
+"Sackless, S.",NO,0,0,5,0,3,13
+"Watyumaidmedu, L.",NO,0,0,5,0,3,13
+"Danger, H.",NO,0,0,2,0,3,13
+"Gore, B.",NO,0,0,1,0,3,13
+"Arthur, C.",PHI,3,35,3,0,3,13
+"Tyler, J.",PHI,1,5,6,0,3,13
+"Fillmore, M.",PHI,1,5,2,0,3,13
+"Van Buren, M.",PHI,1,5,2,0,3,13
+"Cox III, J.",PHI,1,15,0,0,3,13
+"Falconi, A.",PHI,1,5,0,0,3,13
+"Hardwick, S.",PHI,1,5,0,0,3,13
+"Kalilmoku, I.",PHI,1,20,0,0,3,13
+"Smyles, L.",PHI,1,10,0,0,3,13
+"Weathers III, B.",PHI,1,15,0,0,3,13
+"Hayes, R.",PHI,0,0,6,0,3,13
+"Brown, M.",PHI,0,0,4,0,3,13
+"Strike, L.",PHI,0,0,1,0,3,13

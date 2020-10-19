@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Lim, W.",COL,7,98,14,26,0
-"Sauce, E.",COL,6,86,14.3,32,0
-"Arrow, R.",COL,4,48,12,23,0
-"Owens, A.",COL,3,14,4.7,7,1
-"Kingston, J.",COL,2,22,11,14,0
-"Vincent, M.",COL,2,14,7,10,0
-"Gilbert, R.",COL,1,5,5,5,0
-"Rodriguez, B.",YKW,7,98,14,27,1
-"Swift, N.",YKW,6,86,14.3,35,1
-"Jackson, A.",YKW,5,73,14.6,23,0
-"Skyline, A.",YKW,4,27,6.8,7,0
-"Hanyadi, M.",YKW,2,4,2,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Lim, W.",COL,7,98,14,26,0,4,23
+"Sauce, E.",COL,6,86,14.3,32,0,4,23
+"Arrow, R.",COL,4,48,12,23,0,4,23
+"Owens, A.",COL,3,14,4.7,7,1,4,23
+"Kingston, J.",COL,2,22,11,14,0,4,23
+"Vincent, M.",COL,2,14,7,10,0,4,23
+"Gilbert, R.",COL,1,5,5,5,0,4,23
+"Rodriguez, B.",YKW,7,98,14,27,1,4,23
+"Swift, N.",YKW,6,86,14.3,35,1,4,23
+"Jackson, A.",YKW,5,73,14.6,23,0,4,23
+"Skyline, A.",YKW,4,27,6.8,7,0,4,23
+"Hanyadi, M.",YKW,2,4,2,4,0,4,23

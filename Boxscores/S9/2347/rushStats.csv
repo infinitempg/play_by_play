@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Diaz, D.",SJS,34,110,3.2,10,0
-"Riddick, D.",SJS,9,52,5.8,16,0
-"Pennington, B.",SJS,2,4,2,3,0
-"Yates, J.",OCO,12,46,3.8,9,0
-"Boss, M.",OCO,1,-2,-2,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Diaz, D.",SJS,34,110,3.2,10,0,8,9
+"Riddick, D.",SJS,9,52,5.8,16,0,8,9
+"Pennington, B.",SJS,2,4,2,3,0,8,9
+"Yates, J.",OCO,12,46,3.8,9,0,8,9
+"Boss, M.",OCO,1,-2,-2,0,0,8,9

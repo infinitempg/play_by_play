@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"McDummy, W.",COL,"[19, 40]",269,14.2,2,0,86.4
-"Reese, A.",AZ,"[20, 35]",319,16,1,2,73.4
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"McDummy, W.",COL,269,14.2,2,0,86.4,19,20,12,18
+"Reese, A.",AZ,319,16,1,2,73.4,19,20,12,18

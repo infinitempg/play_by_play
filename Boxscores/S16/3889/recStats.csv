@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Parker, J.",YKW,6,103,17.2,42,0
-"Helanen, T.",YKW,5,52,10.4,15,1
-"Canton, J.",YKW,4,16,4,13,0
-"Pennington, B.",YKW,3,38,12.7,19,0
-"Swift, N.",YKW,3,28,9.3,11,1
-"Marshall, M.",YKW,2,25,12.5,22,0
-"Palmer, J.",COL,6,56,9.3,30,0
-"Crindy, B.",COL,6,45,7.5,12,0
-"Bishop, J.",COL,5,70,14,28,0
-"LaMelllana, S.",COL,4,78,19.5,32,0
-"Wright, R.",COL,2,21,10.5,13,0
-"Taffy, T.",COL,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Parker, J.",YKW,6,103,17.2,42,0,5,16
+"Helanen, T.",YKW,5,52,10.4,15,1,5,16
+"Canton, J.",YKW,4,16,4,13,0,5,16
+"Pennington, B.",YKW,3,38,12.7,19,0,5,16
+"Swift, N.",YKW,3,28,9.3,11,1,5,16
+"Marshall, M.",YKW,2,25,12.5,22,0,5,16
+"Palmer, J.",COL,6,56,9.3,30,0,5,16
+"Crindy, B.",COL,6,45,7.5,12,0,5,16
+"Bishop, J.",COL,5,70,14,28,0,5,16
+"LaMelllana, S.",COL,4,78,19.5,32,0,5,16
+"Wright, R.",COL,2,21,10.5,13,0,5,16
+"Taffy, T.",COL,1,7,7,7,0,5,16

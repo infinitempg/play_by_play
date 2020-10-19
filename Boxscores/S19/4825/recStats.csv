@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Mongo, H.",OCO,4,73,18.2,44,1
-"Blaze, J.",OCO,4,64,16,31,1
-"Banks II, D.",OCO,4,38,9.5,14,0
-"Pitcher, A.",OCO,4,12,3,4,1
-"Reed, A.",OCO,2,10,5,10,0
-"Harp, D.",CHI,8,45,5.6,15,0
-"Parker, J.",CHI,5,79,15.8,35,0
-"O'Leary, S.",CHI,3,16,5.3,7,0
-"James-Jones, S.",CHI,2,46,23,33,0
-"Utler, J.",CHI,2,9,4.5,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Mongo, H.",OCO,4,73,18.2,44,1,4,19
+"Blaze, J.",OCO,4,64,16,31,1,4,19
+"Banks II, D.",OCO,4,38,9.5,14,0,4,19
+"Pitcher, A.",OCO,4,12,3,4,1,4,19
+"Reed, A.",OCO,2,10,5,10,0,4,19
+"Harp, D.",CHI,8,45,5.6,15,0,4,19
+"Parker, J.",CHI,5,79,15.8,35,0,4,19
+"O'Leary, S.",CHI,3,16,5.3,7,0,4,19
+"James-Jones, S.",CHI,2,46,23,33,0,4,19
+"Utler, J.",CHI,2,9,4.5,8,0,4,19

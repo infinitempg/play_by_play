@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Aaron, D.",COL,2,75,0,40,0,0,0,0
-"Miller, H.",COL,4,151,17,65,17,0,0,1
-"Taylor, O.",BAL,3,75,0,40,0,0,0,0
-"Valentine, V.",BAL,5,94,8,26,8,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Aaron, D.",COL,2,75,0,40,0,0,0,0,9,11
+"Miller, H.",COL,4,151,17,65,17,0,0,1,9,11
+"Taylor, O.",BAL,3,75,0,40,0,0,0,0,9,11
+"Valentine, V.",BAL,5,94,8,26,8,0,0,1,9,11

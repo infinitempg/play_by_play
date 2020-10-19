@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Emoji, E.",PHI,1,9,21,9,15,0,0,2
-"Garnett, L.",PHI,5,117,0,38,0,0,0,0
-"Gump, F.",NO,1,29,29,29,17,0,0,3
-"Jones, B.",NO,3,76,0,35,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Emoji, E.",PHI,1,9,21,9,15,0,0,2,2,20
+"Garnett, L.",PHI,5,117,0,38,0,0,0,0,2,20
+"Gump, F.",NO,1,29,29,29,17,0,0,3,2,20
+"Jones, B.",NO,3,76,0,35,0,0,0,0,2,20

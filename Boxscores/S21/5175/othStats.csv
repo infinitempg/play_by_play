@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Harding, J.",CHI,1,5,0,0
-"GarlicMuffin, F.",CHI,0,0,8,0
-"Jenkins, L.",CHI,0,0,4,0
-"Leaf-Clover, R.",CHI,0,0,3,0
-"Hank, F.",CHI,0,0,2,0
-"Firestorm-Fjord, O.",CHI,0,0,1,0
-"Oles, T.",CHI,0,0,1,0
-"Tyler, J.",PHI,1,5,4,1
-"Fillmore, M.",PHI,1,5,4,0
-"Hayes, R.",PHI,1,5,2,1
-"Garnett, L.",PHI,1,5,0,0
-"Hardshaft, R.",PHI,1,15,0,0
-"Stephens, W.",PHI,1,7,0,0
-"Varga, N.",PHI,1,5,0,0
-"Van Buren, M.",PHI,0,0,5,0
-"Arthur, C.",PHI,0,0,2,2
-"Dotson, F.",PHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Harding, J.",CHI,1,5,0,0,5,21
+"GarlicMuffin, F.",CHI,0,0,8,0,5,21
+"Jenkins, L.",CHI,0,0,4,0,5,21
+"Leaf-Clover, R.",CHI,0,0,3,0,5,21
+"Hank, F.",CHI,0,0,2,0,5,21
+"Firestorm-Fjord, O.",CHI,0,0,1,0,5,21
+"Oles, T.",CHI,0,0,1,0,5,21
+"Tyler, J.",PHI,1,5,4,1,5,21
+"Fillmore, M.",PHI,1,5,4,0,5,21
+"Hayes, R.",PHI,1,5,2,1,5,21
+"Garnett, L.",PHI,1,5,0,0,5,21
+"Hardshaft, R.",PHI,1,15,0,0,5,21
+"Stephens, W.",PHI,1,7,0,0,5,21
+"Varga, N.",PHI,1,5,0,0,5,21
+"Van Buren, M.",PHI,0,0,5,0,5,21
+"Arthur, C.",PHI,0,0,2,2,5,21
+"Dotson, F.",PHI,0,0,2,0,5,21

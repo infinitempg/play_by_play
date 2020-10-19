@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Smallwood, D.",NO,5,113,0,46,0,0,0,0
-"Bayley, B.",NO,2,61,30,44,18,0,0,3
-"Lavelle, D.",YKW,2,107,26,98,12,1,0,4
-"Kennedy, E.",YKW,2,75,0,40,0,0,0,0
-"Tweed, B.",YKW,1,2,0,2,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Smallwood, D.",NO,5,113,0,46,0,0,0,0,10,9
+"Bayley, B.",NO,2,61,30,44,18,0,0,3,10,9
+"Lavelle, D.",YKW,2,107,26,98,12,1,0,4,10,9
+"Kennedy, E.",YKW,2,75,0,40,0,0,0,0,10,9
+"Tweed, B.",YKW,1,2,0,2,0,0,0,0,10,9

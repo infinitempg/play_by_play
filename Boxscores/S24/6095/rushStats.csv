@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,20,92,4.6,14,1
-"Jones, K.",AUS,18,79,4.4,13,0
-"Cole, E.",AUS,4,21,5.2,8,0
-"Kane-Maika'i, K.",HON,9,46,5.1,10,0
-"Skywalker, L.",HON,4,-1,-0.2,2,0
-"Ayers, N.",HON,2,1,0.5,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,20,92,4.6,14,1,16,24
+"Jones, K.",AUS,18,79,4.4,13,0,16,24
+"Cole, E.",AUS,4,21,5.2,8,0,16,24
+"Kane-Maika'i, K.",HON,9,46,5.1,10,0,16,24
+"Skywalker, L.",HON,4,-1,-0.2,2,0,16,24
+"Ayers, N.",HON,2,1,0.5,1,0,16,24

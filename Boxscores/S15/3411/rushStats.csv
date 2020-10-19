@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,14,84,6,16,1
-"Adams, R.",AZ,10,58,5.8,19,0
-"Reese, A.",AZ,3,13,4.3,9,0
-"Davenport, C.",SJS,12,58,4.8,12,1
-"Christ, J.",SJS,9,45,5,12,0
-"Orosz, C.",SJS,8,29,3.6,8,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,14,84,6,16,1,14,15
+"Adams, R.",AZ,10,58,5.8,19,0,14,15
+"Reese, A.",AZ,3,13,4.3,9,0,14,15
+"Davenport, C.",SJS,12,58,4.8,12,1,14,15
+"Christ, J.",SJS,9,45,5,12,0,14,15
+"Orosz, C.",SJS,8,29,3.6,8,1,14,15

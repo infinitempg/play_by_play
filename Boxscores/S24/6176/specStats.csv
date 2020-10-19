@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Torenson, S.",PHI,3,100,0,44,0,0,0,0
-"Panda, F.",PHI,2,40,14,31,16,0,0,2
-"Chan, R.",SAR,0,0,8,0,10,0,0,2
-"Adams, X.",SAR,3,115,0,44,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Torenson, S.",PHI,3,100,0,44,0,0,0,0,2,24
+"Panda, F.",PHI,2,40,14,31,16,0,0,2,2,24
+"Chan, R.",SAR,0,0,8,0,10,0,0,2,2,24
+"Adams, X.",SAR,3,115,0,44,0,0,0,0,2,24

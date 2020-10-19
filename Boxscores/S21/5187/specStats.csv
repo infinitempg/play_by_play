@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Taylor, D.",NO,2,67,0,35,0,0,0,0
-"Gump, F.",NO,2,41,6,29,6,0,0,2
-"Varga, N.",PHI,4,101,0,44,0,0,0,1
-"Vuxta, R.",PHI,4,61,0,20,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Taylor, D.",NO,2,67,0,35,0,0,0,0,7,21
+"Gump, F.",NO,2,41,6,29,6,0,0,2,7,21
+"Varga, N.",PHI,4,101,0,44,0,0,0,1,7,21
+"Vuxta, R.",PHI,4,61,0,20,0,0,0,0,7,21

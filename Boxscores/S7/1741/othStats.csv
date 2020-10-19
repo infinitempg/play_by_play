@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Garden, J.",PHI,2,20,0,0
-"North, F.",PHI,2,10,0,0
-"Bagwell, N.",PHI,1,5,0,0
-"Tyler, J.",PHI,0,0,6,1
-"Hayes, R.",PHI,0,0,6,0
-"Arthur, C.",PHI,0,0,4,0
-"Van Buren, M.",PHI,0,0,3,0
-"DiMirio, P.",PHI,0,0,2,0
-"Filmore, M.",PHI,0,0,1,0
-"Kroetch, D.",PHI,0,0,1,0
-"Diggler, D.",BAL,1,15,1,0
-"Hendrix, K.",BAL,1,15,0,0
-"Grey, S.",BAL,0,0,4,1
-"Jeremy, R.",BAL,0,0,4,0
-"Steele, R.",BAL,0,0,3,1
-"L'Alto, V.",BAL,0,0,1,0
-"Star, L.",BAL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Garden, J.",PHI,2,20,0,0,4,7
+"North, F.",PHI,2,10,0,0,4,7
+"Bagwell, N.",PHI,1,5,0,0,4,7
+"Tyler, J.",PHI,0,0,6,1,4,7
+"Hayes, R.",PHI,0,0,6,0,4,7
+"Arthur, C.",PHI,0,0,4,0,4,7
+"Van Buren, M.",PHI,0,0,3,0,4,7
+"DiMirio, P.",PHI,0,0,2,0,4,7
+"Filmore, M.",PHI,0,0,1,0,4,7
+"Kroetch, D.",PHI,0,0,1,0,4,7
+"Diggler, D.",BAL,1,15,1,0,4,7
+"Hendrix, K.",BAL,1,15,0,0,4,7
+"Grey, S.",BAL,0,0,4,1,4,7
+"Jeremy, R.",BAL,0,0,4,0,4,7
+"Steele, R.",BAL,0,0,3,1,4,7
+"L'Alto, V.",BAL,0,0,1,0,4,7
+"Star, L.",BAL,0,0,1,0,4,7

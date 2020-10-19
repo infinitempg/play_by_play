@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,24,105,4.4,13,0
-"Toriki, M.",NO,18,87,4.8,13,0
-"Francisco, S.",NO,1,13,13,13,0
-"Mendonca, M.",AUS,25,98,3.9,10,2
-"Cole, E.",AUS,2,5,2.5,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,24,105,4.4,13,0,10,19
+"Toriki, M.",NO,18,87,4.8,13,0,10,19
+"Francisco, S.",NO,1,13,13,13,0,10,19
+"Mendonca, M.",AUS,25,98,3.9,10,2,10,19
+"Cole, E.",AUS,2,5,2.5,8,0,10,19

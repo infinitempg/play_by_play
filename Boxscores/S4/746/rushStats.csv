@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,41,102,2.5,8,0
-"Cobb, K.",LV,12,52,4.3,8,1
-"Stone, W.",LV,2,-2,-1,0,0
-"Larsendorf, R.",LV,1,0,0,0,0
-"Taylor, O.",BAL,25,124,5,15,1
-"Farlane, D.",BAL,1,4,4,4,0
-"Koch, D.",BAL,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,41,102,2.5,8,0,6,4
+"Cobb, K.",LV,12,52,4.3,8,1,6,4
+"Stone, W.",LV,2,-2,-1,0,0,6,4
+"Larsendorf, R.",LV,1,0,0,0,0,6,4
+"Taylor, O.",BAL,25,124,5,15,1,6,4
+"Farlane, D.",BAL,1,4,4,4,0,6,4
+"Koch, D.",BAL,1,2,2,2,0,6,4

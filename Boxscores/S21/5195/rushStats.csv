@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,17,54,3.2,11,1
-"Drake, O.",YKW,16,63,3.9,11,1
-"Bigsby, C.",YKW,2,0,0,0,0
-"Owens, A.",COL,28,95,3.4,10,0
-"Vincent, M.",COL,7,34,4.9,10,0
-"McDummy, W.",COL,2,10,5,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,17,54,3.2,11,1,9,21
+"Drake, O.",YKW,16,63,3.9,11,1,9,21
+"Bigsby, C.",YKW,2,0,0,0,0,9,21
+"Owens, A.",COL,28,95,3.4,10,0,9,21
+"Vincent, M.",COL,7,34,4.9,10,0,9,21
+"McDummy, W.",COL,2,10,5,8,0,9,21

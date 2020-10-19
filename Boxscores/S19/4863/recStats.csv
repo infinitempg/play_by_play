@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bigby, L.",BAL,4,64,16,41,0
-"Maddox, E.",BAL,4,61,15.2,35,0
-"Espeeyeeseetee, A.",BAL,4,60,15,24,0
-"Sauce, E.",BAL,4,41,10.2,25,1
-"Quinn, A.",BAL,2,30,15,18,1
-"L'Alto, V.",BAL,1,6,6,6,0
-"Jackson, A.",SJS,6,94,15.7,28,0
-"Olsen, C.",SJS,5,42,8.4,12,1
-"Batoff, R.",SJS,2,24,12,18,0
-"Bot, B.",SJS,2,11,5.5,6,0
-"Tyerucker, Q.",SJS,1,13,13,13,0
-"Thomas-Fox, D.",SJS,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bigby, L.",BAL,4,64,16,41,0,12,19
+"Maddox, E.",BAL,4,61,15.2,35,0,12,19
+"Espeeyeeseetee, A.",BAL,4,60,15,24,0,12,19
+"Sauce, E.",BAL,4,41,10.2,25,1,12,19
+"Quinn, A.",BAL,2,30,15,18,1,12,19
+"L'Alto, V.",BAL,1,6,6,6,0,12,19
+"Jackson, A.",SJS,6,94,15.7,28,0,12,19
+"Olsen, C.",SJS,5,42,8.4,12,1,12,19
+"Batoff, R.",SJS,2,24,12,18,0,12,19
+"Bot, B.",SJS,2,11,5.5,6,0,12,19
+"Tyerucker, Q.",SJS,1,13,13,13,0,12,19
+"Thomas-Fox, D.",SJS,1,7,7,7,0,12,19

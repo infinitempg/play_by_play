@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Canton, J.",YKW,21,91,4.3,12,0
-"Marshall, M.",YKW,9,29,3.2,8,0
-"Bigsby, C.",YKW,5,49,9.8,20,0
-"Brown, M.",BAL,18,74,4.1,13,2
-"Bigby, L.",BAL,2,6,3,6,0
-"Jimbo, D.",BAL,2,3,1.5,3,1
-"Havran, C.",BAL,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Canton, J.",YKW,21,91,4.3,12,0,1,16
+"Marshall, M.",YKW,9,29,3.2,8,0,1,16
+"Bigsby, C.",YKW,5,49,9.8,20,0,1,16
+"Brown, M.",BAL,18,74,4.1,13,2,1,16
+"Bigby, L.",BAL,2,6,3,6,0,1,16
+"Jimbo, D.",BAL,2,3,1.5,3,1,1,16
+"Havran, C.",BAL,1,1,1,1,0,1,16

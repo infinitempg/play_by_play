@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,1,38,44,38,17,0,0,6
-"Flock, R.",ARI,1,5,0,5,0,0,0,0
-"Rocket, J.",LV,5,77,0,30,0,0,0,0
-"Stormblessed, N.",LV,4,76,14,27,17,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,1,38,44,38,17,0,0,6,14,2
+"Flock, R.",ARI,1,5,0,5,0,0,0,0,14,2
+"Rocket, J.",LV,5,77,0,30,0,0,0,0,14,2
+"Stormblessed, N.",LV,4,76,14,27,17,0,0,3,14,2

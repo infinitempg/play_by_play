@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tyerucker, Q.",SJS,15,55,3.7,9,0
-"Cardrissian, R.",SJS,11,37,3.4,10,0
-"Wright, D.",SJS,1,0,0,0,0
-"Owens, A.",COL,26,107,4.1,11,2
-"Vincent, M.",COL,8,31,3.9,16,1
-"McDummy, W.",COL,2,18,9,17,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tyerucker, Q.",SJS,15,55,3.7,9,0,13,21
+"Cardrissian, R.",SJS,11,37,3.4,10,0,13,21
+"Wright, D.",SJS,1,0,0,0,0,13,21
+"Owens, A.",COL,26,107,4.1,11,2,13,21
+"Vincent, M.",COL,8,31,3.9,16,1,13,21
+"McDummy, W.",COL,2,18,9,17,0,13,21

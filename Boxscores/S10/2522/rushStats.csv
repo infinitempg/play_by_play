@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,15,65,4.3,12,0
-"Gore, B.",YKW,1,5,5,5,0
-"Pennington, B.",YKW,1,7,7,7,0
-"Taylor, O.",BAL,31,154,5,12,2
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,15,65,4.3,12,0,1,10
+"Gore, B.",YKW,1,5,5,5,0,1,10
+"Pennington, B.",YKW,1,7,7,7,0,1,10
+"Taylor, O.",BAL,31,154,5,12,2,1,10

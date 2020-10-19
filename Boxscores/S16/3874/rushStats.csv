@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,28,100,3.6,10,2
-"Carrasco, T.",COL,2,3,1.5,2,0
-"Brown, M.",BAL,28,134,4.8,13,2
-"Bigby, L.",BAL,1,7,7,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,28,100,3.6,10,2,2,16
+"Carrasco, T.",COL,2,3,1.5,2,0,2,16
+"Brown, M.",BAL,28,134,4.8,13,2,2,16
+"Bigby, L.",BAL,1,7,7,7,0,2,16

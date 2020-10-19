@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Clutch, C.",AZ,3,157,52.3,59,1
-"Crisco, A.",AUS,6,240,40,57,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Clutch, C.",AZ,3,157,52.3,59,1,2,18
+"Crisco, A.",AUS,6,240,40,57,0,2,18

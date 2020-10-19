@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",CHI,26,136,5.2,15,3
-"Danielsson, A.",CHI,22,123,5.6,15,1
-"Brown, M.",PHI,11,36,3.3,10,1
-"Hank, F.",PHI,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",CHI,26,136,5.2,15,3,6,17
+"Danielsson, A.",CHI,22,123,5.6,15,1,6,17
+"Brown, M.",PHI,11,36,3.3,10,1,6,17
+"Hank, F.",PHI,1,4,4,4,0,6,17

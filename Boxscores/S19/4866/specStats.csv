@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Swift, N.",YKW,3,44,0,32,0,0,0,0
-"Snuggles, J.",YKW,2,69,26,38,14,0,0,4
-"Donut, S.",AZ,3,70,0,35,0,0,0,0
-"Landers, B.",AZ,3,83,0,35,0,0,0,0
-"Mughes, H.",AZ,0,0,10,0,10,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Swift, N.",YKW,3,44,0,32,0,0,0,0,13,19
+"Snuggles, J.",YKW,2,69,26,38,14,0,0,4,13,19
+"Donut, S.",AZ,3,70,0,35,0,0,0,0,13,19
+"Landers, B.",AZ,3,83,0,35,0,0,0,0,13,19
+"Mughes, H.",AZ,0,0,10,0,10,0,0,1,13,19

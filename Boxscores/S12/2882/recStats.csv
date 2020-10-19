@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Adams, R.",OCO,7,76,10.9,18,0
-"Zephyrous, S.",OCO,6,27,4.5,9,0
-"Helanen, T.",OCO,5,63,12.6,17,0
-"Atwell, T.",OCO,4,98,24.5,47,0
-"Crush, C.",OCO,4,31,7.8,12,1
-"Sunnycursed, N.",OCO,3,31,10.3,14,1
-"Bush, C.",PHI,4,27,6.8,9,1
-"Hasselhoff, F.",PHI,3,45,15,19,0
-"von Matt, J.",PHI,2,30,15,18,0
-"Hardwick, S.",PHI,1,8,8,8,0
-"Flores, R.",PHI,1,7,7,7,0
-"Brown, M.",PHI,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Adams, R.",OCO,7,76,10.9,18,0,2,12
+"Zephyrous, S.",OCO,6,27,4.5,9,0,2,12
+"Helanen, T.",OCO,5,63,12.6,17,0,2,12
+"Atwell, T.",OCO,4,98,24.5,47,0,2,12
+"Crush, C.",OCO,4,31,7.8,12,1,2,12
+"Sunnycursed, N.",OCO,3,31,10.3,14,1,2,12
+"Bush, C.",PHI,4,27,6.8,9,1,2,12
+"Hasselhoff, F.",PHI,3,45,15,19,0,2,12
+"von Matt, J.",PHI,2,30,15,18,0,2,12
+"Hardwick, S.",PHI,1,8,8,8,0,2,12
+"Flores, R.",PHI,1,7,7,7,0,2,12
+"Brown, M.",PHI,1,7,7,7,0,2,12

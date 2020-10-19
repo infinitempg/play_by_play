@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Robotman, A.",AZ,1,15,4,1
-"Robotman, B.",AZ,1,5,2,0
-"Robotman, D.",AZ,1,5,2,0
-"Robotman, E.",AZ,0,0,3,0
-"Crindy, B.",AZ,0,0,2,0
-"Robotman, C.",AZ,0,0,2,0
-"Shady, S.",AZ,0,0,1,0
-"Hayes, R.",PHI,1,10,2,0
-"Hondo, A.",PHI,1,15,1,0
-"Hardwick, S.",PHI,1,10,0,0
-"Becker, K.",PHI,1,5,0,0
-"Hasselhoff, F.",PHI,1,5,0,0
-"von Matt, J.",PHI,1,5,0,0
-"Fillmore, M.",PHI,0,0,7,0
-"Tyler, J.",PHI,0,0,5,0
-"Van Buren, M.",PHI,0,0,4,0
-"Arthur, C.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Robotman, A.",AZ,1,15,4,1,4,12
+"Robotman, B.",AZ,1,5,2,0,4,12
+"Robotman, D.",AZ,1,5,2,0,4,12
+"Robotman, E.",AZ,0,0,3,0,4,12
+"Crindy, B.",AZ,0,0,2,0,4,12
+"Robotman, C.",AZ,0,0,2,0,4,12
+"Shady, S.",AZ,0,0,1,0,4,12
+"Hayes, R.",PHI,1,10,2,0,4,12
+"Hondo, A.",PHI,1,15,1,0,4,12
+"Hardwick, S.",PHI,1,10,0,0,4,12
+"Becker, K.",PHI,1,5,0,0,4,12
+"Hasselhoff, F.",PHI,1,5,0,0,4,12
+"von Matt, J.",PHI,1,5,0,0,4,12
+"Fillmore, M.",PHI,0,0,7,0,4,12
+"Tyler, J.",PHI,0,0,5,0,4,12
+"Van Buren, M.",PHI,0,0,4,0,4,12
+"Arthur, C.",PHI,0,0,1,0,4,12

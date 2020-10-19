@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Sullivan, S.",OCO,6,47,7.8,11,0
-"Phelps, R.",OCO,5,81,16.2,32,1
-"Westfield, B.",OCO,5,67,13.4,27,1
-"Jenkins, L.",OCO,5,31,6.2,14,0
-"Reigns, J.",OCO,4,52,13,21,0
-"Durden, J.",OCO,2,16,8,8,0
-"Burnsman, E.",OCO,1,17,17,17,0
-"Christmas, C.",BAL,7,58,8.3,14,0
-"Willie, T.",BAL,4,57,14.2,27,1
-"Taylor, O.",BAL,3,18,6,14,0
-"Stormblessed, N.",BAL,2,33,16.5,21,0
-"Koch, D.",BAL,1,8,8,8,0
-"Wheat, B.",BAL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Sullivan, S.",OCO,6,47,7.8,11,0,13,4
+"Phelps, R.",OCO,5,81,16.2,32,1,13,4
+"Westfield, B.",OCO,5,67,13.4,27,1,13,4
+"Jenkins, L.",OCO,5,31,6.2,14,0,13,4
+"Reigns, J.",OCO,4,52,13,21,0,13,4
+"Durden, J.",OCO,2,16,8,8,0,13,4
+"Burnsman, E.",OCO,1,17,17,17,0,13,4
+"Christmas, C.",BAL,7,58,8.3,14,0,13,4
+"Willie, T.",BAL,4,57,14.2,27,1,13,4
+"Taylor, O.",BAL,3,18,6,14,0,13,4
+"Stormblessed, N.",BAL,2,33,16.5,21,0,13,4
+"Koch, D.",BAL,1,8,8,8,0,13,4
+"Wheat, B.",BAL,1,8,8,8,0,13,4

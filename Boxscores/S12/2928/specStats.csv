@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Valentine, V.",BAL,2,49,8,32,12,0,0,2
-"Summer, A.",BAL,1,38,0,38,0,0,0,0
-"Flash, X.",SJS,1,15,0,15,0,0,0,0
-"Oles, K.",SJS,6,135,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Valentine, V.",BAL,2,49,8,32,12,0,0,2,13,12
+"Summer, A.",BAL,1,38,0,38,0,0,0,0,13,12
+"Flash, X.",SJS,1,15,0,15,0,0,0,0,13,12
+"Oles, K.",SJS,6,135,0,39,0,0,0,0,13,12

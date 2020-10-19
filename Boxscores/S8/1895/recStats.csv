@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bush, C.",PHI,7,57,8.1,19,1
-"DiMirio, P.",PHI,6,113,18.8,55,1
-"North, F.",PHI,3,20,6.7,8,0
-"Garden, J.",PHI,3,18,6,8,0
-"Kroetch, D.",PHI,2,7,3.5,4,0
-"Kennedy, E.",YKW,7,111,15.9,39,0
-"McPoyal, G.",YKW,5,28,5.6,6,0
-"Cook, B.",YKW,4,119,29.8,50,0
-"Lavelle, D.",YKW,2,51,25.5,32,0
-"Milan, C.",YKW,2,14,7,9,1
-"Harris Jr., F.",YKW,2,11,5.5,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bush, C.",PHI,7,57,8.1,19,1,5,8
+"DiMirio, P.",PHI,6,113,18.8,55,1,5,8
+"North, F.",PHI,3,20,6.7,8,0,5,8
+"Garden, J.",PHI,3,18,6,8,0,5,8
+"Kroetch, D.",PHI,2,7,3.5,4,0,5,8
+"Kennedy, E.",YKW,7,111,15.9,39,0,5,8
+"McPoyal, G.",YKW,5,28,5.6,6,0,5,8
+"Cook, B.",YKW,4,119,29.8,50,0,5,8
+"Lavelle, D.",YKW,2,51,25.5,32,0,5,8
+"Milan, C.",YKW,2,14,7,9,1,5,8
+"Harris Jr., F.",YKW,2,11,5.5,8,0,5,8

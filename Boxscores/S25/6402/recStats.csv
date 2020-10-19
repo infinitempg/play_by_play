@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Rechs, Z.",YKW,7,36,5.1,16,0
-"Skyline, A.",YKW,6,119,19.8,35,0
-"Sakura, K.",YKW,5,107,21.4,41,1
-"Kross, C.",YKW,4,75,18.8,48,0
-"Walker, M.",YKW,3,14,4.7,8,0
-"Hanyadi, M.",YKW,1,6,6,6,0
-"Angler, J.",SAR,7,77,11,18,1
-"Witheblock, M.",SAR,6,106,17.7,34,0
-"Gordon, R.",SAR,5,101,20.2,42,0
-"Chan, R.",SAR,4,37,9.2,15,0
-"Manclaw, C.",SAR,2,5,2.5,3,0
-"Z, D.",SAR,1,16,16,16,0
-"Back, R.",SAR,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Rechs, Z.",YKW,7,36,5.1,16,0,5,25
+"Skyline, A.",YKW,6,119,19.8,35,0,5,25
+"Sakura, K.",YKW,5,107,21.4,41,1,5,25
+"Kross, C.",YKW,4,75,18.8,48,0,5,25
+"Walker, M.",YKW,3,14,4.7,8,0,5,25
+"Hanyadi, M.",YKW,1,6,6,6,0,5,25
+"Angler, J.",SAR,7,77,11,18,1,5,25
+"Witheblock, M.",SAR,6,106,17.7,34,0,5,25
+"Gordon, R.",SAR,5,101,20.2,42,0,5,25
+"Chan, R.",SAR,4,37,9.2,15,0,5,25
+"Manclaw, C.",SAR,2,5,2.5,3,0,5,25
+"Z, D.",SAR,1,16,16,16,0,5,25
+"Back, R.",SAR,1,4,4,4,0,5,25

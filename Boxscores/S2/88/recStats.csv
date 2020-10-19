@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"LeClair, A.",LV,5,92,18.4,31,1
-"Rocket, J.",LV,4,53,13.2,37,1
-"Stormblessed, N.",LV,4,52,13,19,1
-"Larsendorf, R.",LV,4,13,3.2,6,0
-"Cobb, K.",LV,3,9,3,6,0
-"Tenzini, G.",LV,2,10,5,6,0
-"Lecavalier, R.",LV,1,12,12,12,0
-"Phelps, R.",OCO,7,136,19.4,35,1
-"Wright Jr, G.",OCO,7,46,6.6,14,1
-"Westfield, B.",OCO,6,64,10.7,29,1
-"Bowers Jr, V.",OCO,3,19,6.3,7,0
-"Davidson, J.",OCO,2,9,4.5,7,0
-"Jenkins, L.",OCO,2,4,2,3,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"LeClair, A.",LV,5,92,18.4,31,1,11,2
+"Rocket, J.",LV,4,53,13.2,37,1,11,2
+"Stormblessed, N.",LV,4,52,13,19,1,11,2
+"Larsendorf, R.",LV,4,13,3.2,6,0,11,2
+"Cobb, K.",LV,3,9,3,6,0,11,2
+"Tenzini, G.",LV,2,10,5,6,0,11,2
+"Lecavalier, R.",LV,1,12,12,12,0,11,2
+"Phelps, R.",OCO,7,136,19.4,35,1,11,2
+"Wright Jr, G.",OCO,7,46,6.6,14,1,11,2
+"Westfield, B.",OCO,6,64,10.7,29,1,11,2
+"Bowers Jr, V.",OCO,3,19,6.3,7,0,11,2
+"Davidson, J.",OCO,2,9,4.5,7,0,11,2
+"Jenkins, L.",OCO,2,4,2,3,1,11,2

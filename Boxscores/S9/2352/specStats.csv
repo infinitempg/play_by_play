@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"North, F.",PHI,2,81,0,42,0,0,0,0
-"Garden, J.",PHI,3,71,24,32,16,0,0,3
-"Weston, S.",SJS,3,79,19,38,16,0,0,4
-"Canton, J.",SJS,2,18,0,14,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"North, F.",PHI,2,81,0,42,0,0,0,0,9,9
+"Garden, J.",PHI,3,71,24,32,16,0,0,3,9,9
+"Weston, S.",SJS,3,79,19,38,16,0,0,4,9,9
+"Canton, J.",SJS,2,18,0,14,0,0,0,0,9,9

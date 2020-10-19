@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Robinson, M.",BAL,16,72,4.5,13,0
-"Novel, L.",BAL,11,23,2.1,7,1
-"Kyubee, S.",BAL,1,0,0,0,0
-"Nuck, B.",YKW,26,99,3.8,14,1
-"Stats, J.",YKW,3,9,3,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Robinson, M.",BAL,16,72,4.5,13,0,12,1
+"Novel, L.",BAL,11,23,2.1,7,1,12,1
+"Kyubee, S.",BAL,1,0,0,0,0,12,1
+"Nuck, B.",YKW,26,99,3.8,14,1,12,1
+"Stats, J.",YKW,3,9,3,6,0,12,1

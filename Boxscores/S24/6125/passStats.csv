@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Skywalker, L.",HON,"[20, 34]",185,9.2,1,0,83.6
-"Banks II, D.",SAR,"[19, 38]",305,16.1,1,1,75
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Skywalker, L.",HON,185,9.2,1,0,83.6,20,19,11,24
+"Banks II, D.",SAR,305,16.1,1,1,75,20,19,11,24

@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, N.",YKW,6,109,18.2,38,0
-"Canton, J.",YKW,6,92,15.3,33,2
-"Helanen, T.",YKW,5,86,17.2,31,0
-"Batoff, R.",YKW,5,33,6.6,11,0
-"Marshall, M.",YKW,4,1,0.2,1,0
-"Z, D.",YKW,1,10,10,10,0
-"Justice, T.",SJS,4,37,9.2,13,0
-"Flash, X.",SJS,2,25,12.5,15,0
-"Olsen, C.",SJS,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, N.",YKW,6,109,18.2,38,0,3,18
+"Canton, J.",YKW,6,92,15.3,33,2,3,18
+"Helanen, T.",YKW,5,86,17.2,31,0,3,18
+"Batoff, R.",YKW,5,33,6.6,11,0,3,18
+"Marshall, M.",YKW,4,1,0.2,1,0,3,18
+"Z, D.",YKW,1,10,10,10,0,3,18
+"Justice, T.",SJS,4,37,9.2,13,0,3,18
+"Flash, X.",SJS,2,25,12.5,15,0,3,18
+"Olsen, C.",SJS,1,6,6,6,0,3,18

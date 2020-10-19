@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Toriki, M.",NO,13,47,3.6,13,0
-"Gump, F.",NO,9,23,2.6,8,1
-"Ayers, N.",HON,16,59,3.7,9,0
-"Kane-Maika'i, K.",HON,14,70,5,11,1
-"Skywalker, L.",HON,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Toriki, M.",NO,13,47,3.6,13,0,13,24
+"Gump, F.",NO,9,23,2.6,8,1,13,24
+"Ayers, N.",HON,16,59,3.7,9,0,13,24
+"Kane-Maika'i, K.",HON,14,70,5,11,1,13,24
+"Skywalker, L.",HON,1,0,0,0,0,13,24

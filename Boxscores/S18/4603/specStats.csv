@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Reed, A.",OCO,3,75,0,36,0,0,0,0
-"Schneider, D.",OCO,1,19,50,19,20,0,0,5
-"Lejune, L.",COL,4,106,19,31,14,0,0,2
-"Bishop, J.",COL,3,74,0,46,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Reed, A.",OCO,3,75,0,36,0,0,0,0,10,18
+"Schneider, D.",OCO,1,19,50,19,20,0,0,5,10,18
+"Lejune, L.",COL,4,106,19,31,14,0,0,2,10,18
+"Bishop, J.",COL,3,74,0,46,0,0,0,0,10,18

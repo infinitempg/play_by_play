@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Van Buren, M.",PHI,1,5,8,0
-"Kroetch, D.",PHI,1,10,0,1
-"Tucker, P.",PHI,1,10,0,0
-"Hayes, R.",PHI,0,0,5,1
-"Filmore, M.",PHI,0,0,5,0
-"Tyler, J.",PHI,0,0,5,0
-"DiMirio, P.",PHI,0,0,4,0
-"Arthur, C.",PHI,0,0,3,0
-"Jeremy, R.",BAL,1,5,5,0
-"Grey, S.",BAL,1,10,4,0
-"Metas, B.",BAL,1,5,0,0
-"Steele, R.",BAL,0,0,7,1
-"Diggler, D.",BAL,0,0,3,0
-"Taylor, O.",BAL,0,0,2,0
-"Star, L.",BAL,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Van Buren, M.",PHI,1,5,8,0,13,6
+"Kroetch, D.",PHI,1,10,0,1,13,6
+"Tucker, P.",PHI,1,10,0,0,13,6
+"Hayes, R.",PHI,0,0,5,1,13,6
+"Filmore, M.",PHI,0,0,5,0,13,6
+"Tyler, J.",PHI,0,0,5,0,13,6
+"DiMirio, P.",PHI,0,0,4,0,13,6
+"Arthur, C.",PHI,0,0,3,0,13,6
+"Jeremy, R.",BAL,1,5,5,0,13,6
+"Grey, S.",BAL,1,10,4,0,13,6
+"Metas, B.",BAL,1,5,0,0,13,6
+"Steele, R.",BAL,0,0,7,1,13,6
+"Diggler, D.",BAL,0,0,3,0,13,6
+"Taylor, O.",BAL,0,0,2,0,13,6
+"Star, L.",BAL,0,0,1,1,13,6

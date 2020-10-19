@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",COL,2,69,0,47,0,0,0,0
-"Tweed, B.",COL,0,0,69,0,16,0,0,6
-"Garden, J.",YKW,1,35,0,35,0,0,0,0
-"Lavelle, D.",YKW,4,105,10,35,10,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",COL,2,69,0,47,0,0,0,0,9,3
+"Tweed, B.",COL,0,0,69,0,16,0,0,6,9,3
+"Garden, J.",YKW,1,35,0,35,0,0,0,0,9,3
+"Lavelle, D.",YKW,4,105,10,35,10,0,0,2,9,3

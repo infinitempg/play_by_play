@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Kyubee, S.",BAL,"[22, 39]",291,13.2,1,2,67.4
-"Bronko, K.",ARI,"[12, 17]",123,10.2,1,0,110.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Kyubee, S.",BAL,291,13.2,1,2,67.4,22,12,9,3
+"Bronko, K.",ARI,123,10.2,1,0,110.7,22,12,9,3

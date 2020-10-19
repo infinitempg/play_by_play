@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,10,45,4.5,15,0
-"Owens, A.",AUS,10,28,2.8,6,1
-"Cole, E.",AUS,2,-1,-0.5,1,0
-"Torenson, S.",PHI,24,99,4.1,11,2
-"Falconi, A.",PHI,1,5,5,5,0
-"Zephyrous, S.",PHI,1,7,7,7,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,10,45,4.5,15,0,13,18
+"Owens, A.",AUS,10,28,2.8,6,1,13,18
+"Cole, E.",AUS,2,-1,-0.5,1,0,13,18
+"Torenson, S.",PHI,24,99,4.1,11,2,13,18
+"Falconi, A.",PHI,1,5,5,5,0,13,18
+"Zephyrous, S.",PHI,1,7,7,7,1,13,18

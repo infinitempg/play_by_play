@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Phelps, R.",OCO,5,93,18.6,34,0
-"Willie, T.",OCO,5,47,9.4,13,2
-"Wright Jr, G.",OCO,5,41,8.2,17,0
-"Westfield, B.",OCO,2,16,8,10,0
-"Bowers Jr, V.",OCO,1,10,10,10,0
-"Davidson, J.",OCO,1,7,7,7,0
-"Vincent, M.",BAL,5,41,8.2,16,0
-"Christmas, C.",BAL,4,55,13.8,24,0
-"Sanderson, J.",BAL,3,22,7.3,10,0
-"Piper, W.",BAL,3,13,4.3,7,0
-"Baker, J.",BAL,1,15,15,15,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Phelps, R.",OCO,5,93,18.6,34,0,13,2
+"Willie, T.",OCO,5,47,9.4,13,2,13,2
+"Wright Jr, G.",OCO,5,41,8.2,17,0,13,2
+"Westfield, B.",OCO,2,16,8,10,0,13,2
+"Bowers Jr, V.",OCO,1,10,10,10,0,13,2
+"Davidson, J.",OCO,1,7,7,7,0,13,2
+"Vincent, M.",BAL,5,41,8.2,16,0,13,2
+"Christmas, C.",BAL,4,55,13.8,24,0,13,2
+"Sanderson, J.",BAL,3,22,7.3,10,0,13,2
+"Piper, W.",BAL,3,13,4.3,7,0,13,2
+"Baker, J.",BAL,1,15,15,15,0,13,2

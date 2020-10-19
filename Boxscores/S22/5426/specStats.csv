@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,2,69,25,42,10,0,0,6
-"O'Leary, S.",CHI,3,56,0,23,0,0,0,0
-"Firestorm-Fjord, O.",CHI,4,72,0,26,0,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,2,69,25,42,10,0,0,6,12,22
+"O'Leary, S.",CHI,3,56,0,23,0,0,0,0,12,22
+"Firestorm-Fjord, O.",CHI,4,72,0,26,0,0,0,1,12,22

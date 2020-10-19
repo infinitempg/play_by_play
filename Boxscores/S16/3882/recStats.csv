@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Landers, B.",AZ,6,102,17,38,0
-"Moore, S.",AZ,6,73,12.2,30,2
-"Murphy, J.",AZ,4,79,19.8,38,1
-"Irving, J.",AZ,4,49,12.2,33,0
-"Baxter, D.",AZ,2,13,6.5,7,0
-"Shady, S.",AZ,2,12,6,10,0
-"Zephyrous, S.",AZ,1,4,4,4,0
-"Jones, B.",NO,8,83,10.4,26,0
-"Gump, F.",NO,5,29,5.8,9,0
-"Fyodorovich, V.",NO,4,38,9.5,13,0
-"Swift, T.",NO,4,33,8.2,16,0
-"Halvorsen, T.",NO,2,19,9.5,15,0
-"Rudd, E.",NO,2,13,6.5,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Landers, B.",AZ,6,102,17,38,0,3,16
+"Moore, S.",AZ,6,73,12.2,30,2,3,16
+"Murphy, J.",AZ,4,79,19.8,38,1,3,16
+"Irving, J.",AZ,4,49,12.2,33,0,3,16
+"Baxter, D.",AZ,2,13,6.5,7,0,3,16
+"Shady, S.",AZ,2,12,6,10,0,3,16
+"Zephyrous, S.",AZ,1,4,4,4,0,3,16
+"Jones, B.",NO,8,83,10.4,26,0,3,16
+"Gump, F.",NO,5,29,5.8,9,0,3,16
+"Fyodorovich, V.",NO,4,38,9.5,13,0,3,16
+"Swift, T.",NO,4,33,8.2,16,0,3,16
+"Halvorsen, T.",NO,2,19,9.5,15,0,3,16
+"Rudd, E.",NO,2,13,6.5,9,0,3,16

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,28,121,4.3,11,0
-"Falconi, A.",PHI,1,0,0,0,0
-"Zephyrous, S.",PHI,1,7,7,7,0
-"Taffy, T.",COL,17,69,4.1,10,0
-"Vincent, M.",COL,7,35,5,9,0
-"Damian-Luna, B.",COL,2,1,0.5,1,0
-"McDummy, W.",COL,2,3,1.5,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,28,121,4.3,11,0,8,18
+"Falconi, A.",PHI,1,0,0,0,0,8,18
+"Zephyrous, S.",PHI,1,7,7,7,0,8,18
+"Taffy, T.",COL,17,69,4.1,10,0,8,18
+"Vincent, M.",COL,7,35,5,9,0,8,18
+"Damian-Luna, B.",COL,2,1,0.5,1,0,8,18
+"McDummy, W.",COL,2,3,1.5,2,0,8,18

@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lewis, L.",CHI,2,33,0,27,0,0,0,0
-"Oles, K.",CHI,3,67,68,39,69,0,0,2
-"Emoji, E.",PHI,0,0,15,0,9,0,0,2
-"von Matt, J.",PHI,5,124,0,40,0,0,0,0
-"Garnett, L.",PHI,2,35,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lewis, L.",CHI,2,33,0,27,0,0,0,0,6,17
+"Oles, K.",CHI,3,67,68,39,69,0,0,2,6,17
+"Emoji, E.",PHI,0,0,15,0,9,0,0,2,6,17
+"von Matt, J.",PHI,5,124,0,40,0,0,0,0,6,17
+"Garnett, L.",PHI,2,35,0,24,0,0,0,0,6,17

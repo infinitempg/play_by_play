@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Irving, J.",OCO,5,79,15.8,32,0
-"Trunks, F.",OCO,5,55,11,21,1
-"Mongo, H.",OCO,4,130,32.5,53,1
-"Phillips, J.",OCO,3,33,11,20,0
-"Bigby, L.",OCO,2,4,2,2,0
-"Nakamura, T.",OCO,1,7,7,7,1
-"Gordon, R.",SAR,4,73,18.2,34,0
-"Blaze, J.",SAR,2,23,11.5,14,0
-"Witheblock, M.",SAR,2,16,8,10,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Irving, J.",OCO,5,79,15.8,32,0,8,22
+"Trunks, F.",OCO,5,55,11,21,1,8,22
+"Mongo, H.",OCO,4,130,32.5,53,1,8,22
+"Phillips, J.",OCO,3,33,11,20,0,8,22
+"Bigby, L.",OCO,2,4,2,2,0,8,22
+"Nakamura, T.",OCO,1,7,7,7,1,8,22
+"Gordon, R.",SAR,4,73,18.2,34,0,8,22
+"Blaze, J.",SAR,2,23,11.5,14,0,8,22
+"Witheblock, M.",SAR,2,16,8,10,1,8,22

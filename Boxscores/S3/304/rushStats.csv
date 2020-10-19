@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,25,84,3.4,11,1
-"Cobb, K.",LV,1,-1,-1,0,0
-"Durden, J.",SJS,16,76,4.8,11,0
-"Diaz, D.",SJS,4,3,0.8,3,1
-"Hunt, E.",SJS,3,10,3.3,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,25,84,3.4,11,1,8,3
+"Cobb, K.",LV,1,-1,-1,0,0,8,3
+"Durden, J.",SJS,16,76,4.8,11,0,8,3
+"Diaz, D.",SJS,4,3,0.8,3,1,8,3
+"Hunt, E.",SJS,3,10,3.3,6,0,8,3

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Cole, E.",AUS,"[12, 29]",121,10.1,2,0,76.9
-"Bigsby, C.",YKW,"[26, 41]",390,15,1,1,92.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Cole, E.",AUS,121,10.1,2,0,76.9,12,26,9,23
+"Bigsby, C.",YKW,390,15,1,1,92.5,12,26,9,23

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blocksdale Jr., A.",PHI,5,71,14.2,33,0
-"Varga, N.",PHI,4,49,12.2,32,0
-"Torenson, S.",PHI,4,22,5.5,7,1
-"Panda, F.",PHI,2,17,8.5,11,0
-"Vuxta, R.",PHI,1,20,20,20,0
-"Arrabiata, D.",PHI,1,13,13,13,0
-"Donut, S.",AZ,7,83,11.9,26,0
-"Passmann, T.",AZ,4,95,23.8,51,1
-"Evans, H.",AZ,4,24,6,7,0
-"Bur'Berry, J.",AZ,3,54,18,27,0
-"Yoda, B.",AZ,2,9,4.5,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blocksdale Jr., A.",PHI,5,71,14.2,33,0,9,23
+"Varga, N.",PHI,4,49,12.2,32,0,9,23
+"Torenson, S.",PHI,4,22,5.5,7,1,9,23
+"Panda, F.",PHI,2,17,8.5,11,0,9,23
+"Vuxta, R.",PHI,1,20,20,20,0,9,23
+"Arrabiata, D.",PHI,1,13,13,13,0,9,23
+"Donut, S.",AZ,7,83,11.9,26,0,9,23
+"Passmann, T.",AZ,4,95,23.8,51,1,9,23
+"Evans, H.",AZ,4,24,6,7,0,9,23
+"Bur'Berry, J.",AZ,3,54,18,27,0,9,23
+"Yoda, B.",AZ,2,9,4.5,8,0,9,23

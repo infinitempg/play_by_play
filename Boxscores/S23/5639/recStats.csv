@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hanyadi, M.",YKW,5,20,4,11,0
-"Rodriguez, B.",YKW,3,58,19.3,24,0
-"Skyline, A.",YKW,3,33,11,20,0
-"Jackson, A.",YKW,3,30,10,21,0
-"Lee, M.",YKW,3,30,10,12,0
-"Swift, N.",YKW,2,21,10.5,18,0
-"McCormick, A.",NO,5,64,12.8,24,1
-"Wolfcastle, R.",NO,4,43,10.8,13,0
-"Gump, F.",NO,3,72,24,34,1
-"Barker, E.",NO,3,25,8.3,10,0
-"Toriki, M.",NO,2,20,10,14,0
-"Alexander, B.",NO,2,11,5.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hanyadi, M.",YKW,5,20,4,11,0,8,23
+"Rodriguez, B.",YKW,3,58,19.3,24,0,8,23
+"Skyline, A.",YKW,3,33,11,20,0,8,23
+"Jackson, A.",YKW,3,30,10,21,0,8,23
+"Lee, M.",YKW,3,30,10,12,0,8,23
+"Swift, N.",YKW,2,21,10.5,18,0,8,23
+"McCormick, A.",NO,5,64,12.8,24,1,8,23
+"Wolfcastle, R.",NO,4,43,10.8,13,0,8,23
+"Gump, F.",NO,3,72,24,34,1,8,23
+"Barker, E.",NO,3,25,8.3,10,0,8,23
+"Toriki, M.",NO,2,20,10,14,0,8,23
+"Alexander, B.",NO,2,11,5.5,6,0,8,23

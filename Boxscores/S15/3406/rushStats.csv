@@ -1,9 +1,9 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cansino, D.",COL,14,60,4.3,13,0
-"Taffy, T.",COL,10,51,5.1,10,0
-"Grau, M.",COL,1,4,4,4,0
-"McCormick, M.",COL,1,-1,-1,0,0
-"Marshall, M.",YKW,14,77,5.5,16,2
-"Wizardry, D.",YKW,6,21,3.5,12,0
-"Canton, J.",YKW,4,35,8.8,13,0
-"Bigsby, C.",YKW,2,19,9.5,18,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cansino, D.",COL,14,60,4.3,13,0,13,15
+"Taffy, T.",COL,10,51,5.1,10,0,13,15
+"Grau, M.",COL,1,4,4,4,0,13,15
+"McCormick, M.",COL,1,-1,-1,0,0,13,15
+"Marshall, M.",YKW,14,77,5.5,16,2,13,15
+"Wizardry, D.",YKW,6,21,3.5,12,0,13,15
+"Canton, J.",YKW,4,35,8.8,13,0,13,15
+"Bigsby, C.",YKW,2,19,9.5,18,0,13,15

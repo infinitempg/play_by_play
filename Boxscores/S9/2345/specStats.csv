@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,2,43,0,30,0,0,0,0
-"Kennedy, E.",YKW,3,98,0,46,0,0,0,0
-"Delacour, A.",BAL,3,71,17,33,19,0,0,2
-"Willie, T.",BAL,2,60,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,2,43,0,30,0,0,0,0,8,9
+"Kennedy, E.",YKW,3,98,0,46,0,0,0,0,8,9
+"Delacour, A.",BAL,3,71,17,33,19,0,0,2,8,9
+"Willie, T.",BAL,2,60,0,42,0,0,0,0,8,9

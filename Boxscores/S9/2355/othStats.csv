@@ -1,24 +1,24 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Probincrux III, D.",SJS,1,5,3,1
-"Tacktheritrix, J.",SJS,1,10,3,1
-"Brill, J.",SJS,1,10,0,0
-"Legion, A.",SJS,1,5,0,0
-"Jahelpme, H.",SJS,0,0,8,1
-"(R)Brannigan, Z.",SJS,0,0,6,0
-"McKoutchie, M.",SJS,0,0,5,0
-"Rucker, F.",SJS,0,0,4,0
-"Riddick, D.",SJS,0,0,2,0
-"Tuck Jr., T.",SJS,0,0,2,0
-"Knuckler, B.",COL,1,10,5,1
-"Bastard, F.",COL,1,10,5,0
-"Ludvig, O.",COL,1,5,0,0
-"Thibault, A.",COL,1,5,0,0
-"Miller, D.",COL,1,15,0,0
-"Tillman, M.",COL,1,11,0,0
-"Windchesthair, A.",COL,0,0,4,1
-"Vibrations, F.",COL,0,0,3,1
-"Down, D.",COL,0,0,2,0
-"Kroetch, D.",COL,0,0,2,0
-"Chipmunk, A.",COL,0,0,1,0
-"Cox, J.",COL,0,0,1,0
-"Grau, M.",COL,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Probincrux III, D.",SJS,1,5,3,1,10,9
+"Tacktheritrix, J.",SJS,1,10,3,1,10,9
+"Brill, J.",SJS,1,10,0,0,10,9
+"Legion, A.",SJS,1,5,0,0,10,9
+"Jahelpme, H.",SJS,0,0,8,1,10,9
+"(R)Brannigan, Z.",SJS,0,0,6,0,10,9
+"McKoutchie, M.",SJS,0,0,5,0,10,9
+"Rucker, F.",SJS,0,0,4,0,10,9
+"Riddick, D.",SJS,0,0,2,0,10,9
+"Tuck Jr., T.",SJS,0,0,2,0,10,9
+"Knuckler, B.",COL,1,10,5,1,10,9
+"Bastard, F.",COL,1,10,5,0,10,9
+"Ludvig, O.",COL,1,5,0,0,10,9
+"Thibault, A.",COL,1,5,0,0,10,9
+"Miller, D.",COL,1,15,0,0,10,9
+"Tillman, M.",COL,1,11,0,0,10,9
+"Windchesthair, A.",COL,0,0,4,1,10,9
+"Vibrations, F.",COL,0,0,3,1,10,9
+"Down, D.",COL,0,0,2,0,10,9
+"Kroetch, D.",COL,0,0,2,0,10,9
+"Chipmunk, A.",COL,0,0,1,0,10,9
+"Cox, J.",COL,0,0,1,0,10,9
+"Grau, M.",COL,0,0,0,1,10,9

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Booter, F.",AZ,6,35,5.8,11,1
-"Wachter, J.",AZ,4,63,15.8,27,1
-"Chess, C.",AZ,3,64,21.3,28,0
-"Squanch, V.",AZ,3,37,12.3,19,0
-"Mackworthy, R.",AZ,3,22,7.3,10,0
-"Crindy, B.",AZ,3,15,5,7,0
-"Christmas, C.",AZ,1,13,13,13,0
-"LeClair, A.",BAL,6,95,15.8,40,1
-"Willie, T.",BAL,6,70,11.7,37,0
-"L'Alto, V.",BAL,5,38,7.6,9,0
-"Taylor, O.",BAL,5,32,6.4,17,0
-"Browning, B.",BAL,3,45,15,22,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Booter, F.",AZ,6,35,5.8,11,1,7,8
+"Wachter, J.",AZ,4,63,15.8,27,1,7,8
+"Chess, C.",AZ,3,64,21.3,28,0,7,8
+"Squanch, V.",AZ,3,37,12.3,19,0,7,8
+"Mackworthy, R.",AZ,3,22,7.3,10,0,7,8
+"Crindy, B.",AZ,3,15,5,7,0,7,8
+"Christmas, C.",AZ,1,13,13,13,0,7,8
+"LeClair, A.",BAL,6,95,15.8,40,1,7,8
+"Willie, T.",BAL,6,70,11.7,37,0,7,8
+"L'Alto, V.",BAL,5,38,7.6,9,0,7,8
+"Taylor, O.",BAL,5,32,6.4,17,0,7,8
+"Browning, B.",BAL,3,45,15,22,1,7,8

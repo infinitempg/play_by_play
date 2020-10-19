@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,32,121,3.8,16,3
-"Wright, O.",AZ,12,50,4.2,7,0
-"Savea, A.",NO,25,102,4.1,17,1
-"O'Sullivan, C.",NO,1,9,9,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,32,121,3.8,16,3,1,7
+"Wright, O.",AZ,12,50,4.2,7,0,1,7
+"Savea, A.",NO,25,102,4.1,17,1,1,7
+"O'Sullivan, C.",NO,1,9,9,9,0,1,7

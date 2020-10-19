@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"LeClair, A.",BAL,6,97,16.2,39,1
-"Browning, B.",BAL,6,92,15.3,25,0
-"Willie, T.",BAL,5,107,21.4,49,2
-"L'Alto, V.",BAL,5,35,7,13,0
-"Taylor, O.",BAL,4,18,4.5,7,0
-"Bush, C.",PHI,7,106,15.1,42,0
-"Garden, J.",PHI,6,97,16.2,28,0
-"North, F.",PHI,5,54,10.8,20,1
-"DiMirio, P.",PHI,4,17,4.2,7,2
-"Kroetch, D.",PHI,3,26,8.7,16,0
-"O'Connell, K.",PHI,3,15,5,6,0
-"Storm, B.",PHI,2,17,8.5,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"LeClair, A.",BAL,6,97,16.2,39,1,2,8
+"Browning, B.",BAL,6,92,15.3,25,0,2,8
+"Willie, T.",BAL,5,107,21.4,49,2,2,8
+"L'Alto, V.",BAL,5,35,7,13,0,2,8
+"Taylor, O.",BAL,4,18,4.5,7,0,2,8
+"Bush, C.",PHI,7,106,15.1,42,0,2,8
+"Garden, J.",PHI,6,97,16.2,28,0,2,8
+"North, F.",PHI,5,54,10.8,20,1,2,8
+"DiMirio, P.",PHI,4,17,4.2,7,2,2,8
+"Kroetch, D.",PHI,3,26,8.7,16,0,2,8
+"O'Connell, K.",PHI,3,15,5,6,0,2,8
+"Storm, B.",PHI,2,17,8.5,9,0,2,8

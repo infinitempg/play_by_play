@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ruff, R.",AZ,15,64,4.3,13,1
-"Cue, J.",AZ,3,30,10,17,0
-"Tyerucker, Q.",SJS,13,36,2.8,5,0
-"Cardrissian, R.",SJS,8,38,4.8,9,0
-"Wright, D.",SJS,2,4,2,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ruff, R.",AZ,15,64,4.3,13,1,5,21
+"Cue, J.",AZ,3,30,10,17,0,5,21
+"Tyerucker, Q.",SJS,13,36,2.8,5,0,5,21
+"Cardrissian, R.",SJS,8,38,4.8,9,0,5,21
+"Wright, D.",SJS,2,4,2,4,0,5,21

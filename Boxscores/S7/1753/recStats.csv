@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Evans, D.",NO,6,83,13.8,32,0
-"Law, C.",NO,4,57,14.2,27,0
-"Stormblessed, N.",NO,3,23,7.7,9,0
-"Savea, A.",NO,1,7,7,7,0
-"Reigns, J.",NO,1,4,4,4,0
-"O'Sullivan, C.",NO,1,3,3,3,0
-"DiMirio, P.",PHI,9,94,10.4,20,2
-"Garden, J.",PHI,6,104,17.3,40,0
-"North, F.",PHI,6,92,15.3,52,0
-"Hendrix, K.",PHI,3,14,4.7,10,1
-"Bush, C.",PHI,2,4,2,3,0
-"Storm, B.",PHI,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Evans, D.",NO,6,83,13.8,32,0,7,7
+"Law, C.",NO,4,57,14.2,27,0,7,7
+"Stormblessed, N.",NO,3,23,7.7,9,0,7,7
+"Savea, A.",NO,1,7,7,7,0,7,7
+"Reigns, J.",NO,1,4,4,4,0,7,7
+"O'Sullivan, C.",NO,1,3,3,3,0,7,7
+"DiMirio, P.",PHI,9,94,10.4,20,2,7,7
+"Garden, J.",PHI,6,104,17.3,40,0,7,7
+"North, F.",PHI,6,92,15.3,52,0,7,7
+"Hendrix, K.",PHI,3,14,4.7,10,1,7,7
+"Bush, C.",PHI,2,4,2,3,0,7,7
+"Storm, B.",PHI,1,7,7,7,0,7,7

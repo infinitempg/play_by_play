@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Maddox, E.",BAL,4,73,0,40,0,0,0,0
-"Hornbacher, A.",BAL,1,46,0,46,0,0,0,0
-"Mughes, H.",AZ,3,100,0,36,0,0,0,0
-"Barnes, B.",AZ,2,64,46,45,18,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Maddox, E.",BAL,4,73,0,40,0,0,0,0,11,16
+"Hornbacher, A.",BAL,1,46,0,46,0,0,0,0,11,16
+"Mughes, H.",AZ,3,100,0,36,0,0,0,0,11,16
+"Barnes, B.",AZ,2,64,46,45,18,0,0,4,11,16

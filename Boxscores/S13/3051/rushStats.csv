@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cansino, D.",COL,14,100,7.1,46,0
-"Grau, M.",COL,12,63,5.2,12,1
-"McCormick, M.",COL,1,6,6,6,0
-"Swift, T.",NO,11,49,4.5,10,0
-"Danielsson, A.",NO,7,36,5.1,13,0
-"Maximus III, B.",NO,2,6,3,5,0
-"Gore, B.",NO,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cansino, D.",COL,14,100,7.1,46,0,10,13
+"Grau, M.",COL,12,63,5.2,12,1,10,13
+"McCormick, M.",COL,1,6,6,6,0,10,13
+"Swift, T.",NO,11,49,4.5,10,0,10,13
+"Danielsson, A.",NO,7,36,5.1,13,0,10,13
+"Maximus III, B.",NO,2,6,3,5,0,10,13
+"Gore, B.",NO,1,2,2,2,0,10,13

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,2,29,15,25,15,0,0,1
-"Diaz, D.",SJS,2,38,0,20,0,0,0,0
-"Westfield, B.",OCO,3,56,125,32,84,0,1,5
-"Phelps, R.",OCO,2,63,0,35,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,2,29,15,25,15,0,0,1,4,2
+"Diaz, D.",SJS,2,38,0,20,0,0,0,0,4,2
+"Westfield, B.",OCO,3,56,125,32,84,0,1,5,4,2
+"Phelps, R.",OCO,2,63,0,35,0,0,0,0,4,2

@@ -1,17 +1,17 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Lim, W.",COL,6,107,17.8,38,1
-"Owens, A.",COL,4,29,7.2,12,0
-"Sauce, E.",COL,4,12,3,5,0
-"Vincent, M.",COL,3,26,8.7,11,0
-"Bishop, J.",COL,3,24,8,11,1
-"Arrow, R.",COL,2,19,9.5,10,0
-"Kingston, J.",COL,2,17,8.5,10,0
-"Robertoswki, G.",COL,1,5,5,5,0
-"Gilbert, R.",COL,1,4,4,4,1
-"O'Leary, S.",CHI,7,114,16.3,58,1
-"Gelbman, T.",CHI,6,40,6.7,18,0
-"Oberwald, G.",CHI,3,37,12.3,22,0
-"Okusi, R.",CHI,2,23,11.5,16,0
-"Hank, F.",CHI,2,6,3,6,0
-"Hayes, V.",CHI,1,10,10,10,0
-"Tirtawidjaja, J.",CHI,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Lim, W.",COL,6,107,17.8,38,1,16,23
+"Owens, A.",COL,4,29,7.2,12,0,16,23
+"Sauce, E.",COL,4,12,3,5,0,16,23
+"Vincent, M.",COL,3,26,8.7,11,0,16,23
+"Bishop, J.",COL,3,24,8,11,1,16,23
+"Arrow, R.",COL,2,19,9.5,10,0,16,23
+"Kingston, J.",COL,2,17,8.5,10,0,16,23
+"Robertoswki, G.",COL,1,5,5,5,0,16,23
+"Gilbert, R.",COL,1,4,4,4,1,16,23
+"O'Leary, S.",CHI,7,114,16.3,58,1,16,23
+"Gelbman, T.",CHI,6,40,6.7,18,0,16,23
+"Oberwald, G.",CHI,3,37,12.3,22,0,16,23
+"Okusi, R.",CHI,2,23,11.5,16,0,16,23
+"Hank, F.",CHI,2,6,3,6,0,16,23
+"Hayes, V.",CHI,1,10,10,10,0,16,23
+"Tirtawidjaja, J.",CHI,1,6,6,6,0,16,23

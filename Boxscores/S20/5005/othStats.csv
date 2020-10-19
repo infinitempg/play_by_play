@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Mack, M.",CHI,1,5,0,0
-"Snider, N.",CHI,1,5,0,0
-"Utler, J.",CHI,1,0,0,0
-"Cricket, R.",CHI,0,0,5,0
-"MacDennis, C.",CHI,0,0,5,0
-"Ford Lalatina, D.",CHI,0,0,3,1
-"Danielsson, A.",CHI,0,0,2,0
-"Leaf III, R.",CHI,0,0,1,0
-"Landers, B.",BAL,1,5,0,0
-"Williams, D.",BAL,1,15,0,0
-"Diggler, D.",BAL,0,0,4,0
-"Jeremy, R.",BAL,0,0,3,1
-"Sauce, E.",BAL,0,0,3,0
-"Grey, S.",BAL,0,0,2,0
-"Steele, R.",BAL,0,0,2,0
-"Star, L.",BAL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Mack, M.",CHI,1,5,0,0,7,20
+"Snider, N.",CHI,1,5,0,0,7,20
+"Utler, J.",CHI,1,0,0,0,7,20
+"Cricket, R.",CHI,0,0,5,0,7,20
+"MacDennis, C.",CHI,0,0,5,0,7,20
+"Ford Lalatina, D.",CHI,0,0,3,1,7,20
+"Danielsson, A.",CHI,0,0,2,0,7,20
+"Leaf III, R.",CHI,0,0,1,0,7,20
+"Landers, B.",BAL,1,5,0,0,7,20
+"Williams, D.",BAL,1,15,0,0,7,20
+"Diggler, D.",BAL,0,0,4,0,7,20
+"Jeremy, R.",BAL,0,0,3,1,7,20
+"Sauce, E.",BAL,0,0,3,0,7,20
+"Grey, S.",BAL,0,0,2,0,7,20
+"Steele, R.",BAL,0,0,2,0,7,20
+"Star, L.",BAL,0,0,1,0,7,20

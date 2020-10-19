@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,10,45,4.5,7,0
-"Cansino, D.",COL,9,29,3.2,11,0
-"Shady, S.",AZ,17,66,3.9,10,0
-"Adams, R.",AZ,11,67,6.1,13,0
-"Reese, A.",AZ,1,18,18,18,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,10,45,4.5,7,0,8,15
+"Cansino, D.",COL,9,29,3.2,11,0,8,15
+"Shady, S.",AZ,17,66,3.9,10,0,8,15
+"Adams, R.",AZ,11,67,6.1,13,0,8,15
+"Reese, A.",AZ,1,18,18,18,1,8,15

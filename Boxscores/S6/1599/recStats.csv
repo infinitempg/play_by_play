@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",PHI,8,104,13,42,1
-"Garden, J.",PHI,7,119,17,34,0
-"North, F.",PHI,6,109,18.2,34,1
-"Storm, B.",PHI,6,72,12,17,0
-"Kroetch, D.",PHI,2,56,28,50,0
-"Law, C.",AZ,6,58,9.7,17,0
-"Chess, C.",AZ,4,55,13.8,21,0
-"Browning, B.",AZ,3,41,13.7,29,0
-"Asipi Jr., A.",AZ,3,20,6.7,9,0
-"Mackworthy, R.",AZ,2,10,5,5,0
-"Christmas, C.",AZ,1,10,10,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",PHI,8,104,13,42,1,6,6
+"Garden, J.",PHI,7,119,17,34,0,6,6
+"North, F.",PHI,6,109,18.2,34,1,6,6
+"Storm, B.",PHI,6,72,12,17,0,6,6
+"Kroetch, D.",PHI,2,56,28,50,0,6,6
+"Law, C.",AZ,6,58,9.7,17,0,6,6
+"Chess, C.",AZ,4,55,13.8,21,0,6,6
+"Browning, B.",AZ,3,41,13.7,29,0,6,6
+"Asipi Jr., A.",AZ,3,20,6.7,9,0,6,6
+"Mackworthy, R.",AZ,2,10,5,5,0,6,6
+"Christmas, C.",AZ,1,10,10,10,0,6,6

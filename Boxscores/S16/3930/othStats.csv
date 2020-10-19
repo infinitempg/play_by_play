@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Belongwithme, H.",NO,2,20,4,0
-"Arnold, D.",NO,1,15,0,0
-"Jefferson IV, J.",NO,1,5,0,0
-"Watyumaidmedu, L.",NO,0,0,5,0
-"Sackless, S.",NO,0,0,4,0
-"Gump, F.",NO,0,0,2,0
-"Spais, B.",NO,0,0,2,0
-"Sno, F.",NO,0,0,1,1
-"Stokeley, G.",CHI,2,10,0,0
-"Utchers, B.",CHI,1,10,2,0
-"Torenson, S.",CHI,1,5,1,0
-"Foster, W.",CHI,1,5,0,0
-"Laughter, S.",CHI,0,0,4,0
-"Lood, B.",CHI,0,0,4,0
-"Leaver, C.",CHI,0,0,3,0
-"Eat, M.",CHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Belongwithme, H.",NO,2,20,4,0,13,16
+"Arnold, D.",NO,1,15,0,0,13,16
+"Jefferson IV, J.",NO,1,5,0,0,13,16
+"Watyumaidmedu, L.",NO,0,0,5,0,13,16
+"Sackless, S.",NO,0,0,4,0,13,16
+"Gump, F.",NO,0,0,2,0,13,16
+"Spais, B.",NO,0,0,2,0,13,16
+"Sno, F.",NO,0,0,1,1,13,16
+"Stokeley, G.",CHI,2,10,0,0,13,16
+"Utchers, B.",CHI,1,10,2,0,13,16
+"Torenson, S.",CHI,1,5,1,0,13,16
+"Foster, W.",CHI,1,5,0,0,13,16
+"Laughter, S.",CHI,0,0,4,0,13,16
+"Lood, B.",CHI,0,0,4,0,13,16
+"Leaver, C.",CHI,0,0,3,0,13,16
+"Eat, M.",CHI,0,0,2,0,13,16

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Summer, A.",BAL,15,56,3.7,12,0
-"Taylor, O.",BAL,8,42,5.2,10,1
-"Gambino, C.",BAL,3,32,10.7,18,0
-"Harp, D.",BAL,1,1,1,1,0
-"Shady, S.",AZ,15,47,3.1,9,0
-"Asipi III, A.",AZ,12,57,4.8,8,0
-"Fitzpatrick, K.",AZ,2,-1,-0.5,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Summer, A.",BAL,15,56,3.7,12,0,12,12
+"Taylor, O.",BAL,8,42,5.2,10,1,12,12
+"Gambino, C.",BAL,3,32,10.7,18,0,12,12
+"Harp, D.",BAL,1,1,1,1,0,12,12
+"Shady, S.",AZ,15,47,3.1,9,0,12,12
+"Asipi III, A.",AZ,12,57,4.8,8,0,12,12
+"Fitzpatrick, K.",AZ,2,-1,-0.5,1,0,12,12

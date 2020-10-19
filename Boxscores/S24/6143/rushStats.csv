@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bumper, T.",COL,16,61,3.8,8,0
-"Owens, A.",COL,13,56,4.3,9,0
-"Gilbert, R.",COL,12,77,6.4,17,1
-"McDummy, W.",COL,7,27,3.9,20,0
-"Ayers, N.",HON,14,61,4.4,9,0
-"Kane-Maika'i, K.",HON,13,52,4,11,0
-"Skywalker, L.",HON,1,-4,-4,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bumper, T.",COL,16,61,3.8,8,0,8,24
+"Owens, A.",COL,13,56,4.3,9,0,8,24
+"Gilbert, R.",COL,12,77,6.4,17,1,8,24
+"McDummy, W.",COL,7,27,3.9,20,0,8,24
+"Ayers, N.",HON,14,61,4.4,9,0,8,24
+"Kane-Maika'i, K.",HON,13,52,4,11,0,8,24
+"Skywalker, L.",HON,1,-4,-4,0,0,8,24

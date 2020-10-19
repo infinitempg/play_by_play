@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Room, W.",NO,0,0,8,1
-"Rubbe, G.",NO,0,0,6,0
-"Ofyourlove, S.",NO,0,0,5,0
-"Jimbo Jr., D.",NO,0,0,3,0
-"McCormick, A.",NO,0,0,2,0
-"Brew, S.",NO,0,0,1,1
-"Toriki, M.",NO,0,0,1,0
-"Wolfcastle, R.",NO,0,0,1,0
-"Gelbman, T.",CHI,1,5,1,0
-"Bayley Jr., B.",CHI,0,0,7,0
-"Hayes, V.",CHI,0,0,6,0
-"Ahstreet, C.",CHI,0,0,5,0
-"Tirtawidjaja, J.",CHI,0,0,2,0
-"Tucker Jr., P.",CHI,0,0,2,0
-"LaFleur, F.",CHI,0,0,1,0
-"Yoda, B.",CHI,0,0,1,0
-"Lesnar, B.",CHI,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Room, W.",NO,0,0,8,1,6,24
+"Rubbe, G.",NO,0,0,6,0,6,24
+"Ofyourlove, S.",NO,0,0,5,0,6,24
+"Jimbo Jr., D.",NO,0,0,3,0,6,24
+"McCormick, A.",NO,0,0,2,0,6,24
+"Brew, S.",NO,0,0,1,1,6,24
+"Toriki, M.",NO,0,0,1,0,6,24
+"Wolfcastle, R.",NO,0,0,1,0,6,24
+"Gelbman, T.",CHI,1,5,1,0,6,24
+"Bayley Jr., B.",CHI,0,0,7,0,6,24
+"Hayes, V.",CHI,0,0,6,0,6,24
+"Ahstreet, C.",CHI,0,0,5,0,6,24
+"Tirtawidjaja, J.",CHI,0,0,2,0,6,24
+"Tucker Jr., P.",CHI,0,0,2,0,6,24
+"LaFleur, F.",CHI,0,0,1,0,6,24
+"Yoda, B.",CHI,0,0,1,0,6,24
+"Lesnar, B.",CHI,0,0,0,1,6,24

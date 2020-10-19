@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Snuggles, J.",YKW,4,74,13,28,8,0,0,3
-"Grithead, D.",YKW,2,37,0,27,0,0,0,0
-"Bishop, J.",COL,6,161,0,42,0,0,0,0
-"Lejune, L.",COL,0,0,2,0,7,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Snuggles, J.",YKW,4,74,13,28,8,0,0,3,1,17
+"Grithead, D.",YKW,2,37,0,27,0,0,0,0,1,17
+"Bishop, J.",COL,6,161,0,42,0,0,0,0,1,17
+"Lejune, L.",COL,0,0,2,0,7,0,0,3,1,17

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",BAL,17,98,5.8,15,0
-"Williams, D.",BAL,14,71,5.1,12,1
-"Skuff, R.",BAL,6,14,2.3,6,0
-"Fujiwara, C.",BAL,1,1,1,1,0
-"Mendonca, M.",AUS,19,55,2.9,8,1
-"Leaf Jr., R.",AUS,16,79,4.9,12,0
-"Cole, E.",AUS,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",BAL,17,98,5.8,15,0,8,22
+"Williams, D.",BAL,14,71,5.1,12,1,8,22
+"Skuff, R.",BAL,6,14,2.3,6,0,8,22
+"Fujiwara, C.",BAL,1,1,1,1,0,8,22
+"Mendonca, M.",AUS,19,55,2.9,8,1,8,22
+"Leaf Jr., R.",AUS,16,79,4.9,12,0,8,22
+"Cole, E.",AUS,1,1,1,1,0,8,22

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Robinson, M.",BAL,15,51,3.4,8,0
-"Novel, L.",BAL,6,24,4,10,1
-"Kyubee, S.",BAL,1,0,0,0,0
-"O'Connell, K.",COL,17,57,3.4,10,1
-"Tiernan, L.",COL,8,14,1.8,4,2
-"Tweed, B.",COL,7,32,4.6,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Robinson, M.",BAL,15,51,3.4,8,0,7,1
+"Novel, L.",BAL,6,24,4,10,1,7,1
+"Kyubee, S.",BAL,1,0,0,0,0,7,1
+"O'Connell, K.",COL,17,57,3.4,10,1,7,1
+"Tiernan, L.",COL,8,14,1.8,4,2,7,1
+"Tweed, B.",COL,7,32,4.6,10,0,7,1

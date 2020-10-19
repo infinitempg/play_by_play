@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Ruff, R.",AZ,1,5,2,1
-"Bakhtiari, S.",AZ,1,15,1,1
-"Donut, S.",AZ,1,15,0,0
-"Masters, S.",AZ,1,5,0,0
-"Morris, R.",AZ,1,5,0,0
-"Wilf, G.",AZ,1,5,0,0
-"Unk, J.",AZ,0,0,4,0
-"Chungus, M.",AZ,0,0,3,0
-"Irving, J.",AZ,0,0,3,0
-"Arbage, G.",AZ,0,0,1,0
-"Block, T.",AZ,0,0,1,0
-"Ford Lalatina, D.",CHI,2,7,3,0
-"MacDennis, C.",CHI,1,5,7,1
-"Beat, N.",CHI,1,15,0,0
-"Espeeyeeseetee, A.",CHI,1,3,0,0
-"Schneider, D.",CHI,1,5,0,0
-"Snider, N.",CHI,1,15,0,0
-"Vassallo, S.",CHI,1,5,0,0
-"Marlin, J.",CHI,0,0,7,0
-"Cricket, R.",CHI,0,0,4,0
-"Leaf III, R.",CHI,0,0,4,0
-"Utler, J.",CHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Ruff, R.",AZ,1,5,2,1,11,20
+"Bakhtiari, S.",AZ,1,15,1,1,11,20
+"Donut, S.",AZ,1,15,0,0,11,20
+"Masters, S.",AZ,1,5,0,0,11,20
+"Morris, R.",AZ,1,5,0,0,11,20
+"Wilf, G.",AZ,1,5,0,0,11,20
+"Unk, J.",AZ,0,0,4,0,11,20
+"Chungus, M.",AZ,0,0,3,0,11,20
+"Irving, J.",AZ,0,0,3,0,11,20
+"Arbage, G.",AZ,0,0,1,0,11,20
+"Block, T.",AZ,0,0,1,0,11,20
+"Ford Lalatina, D.",CHI,2,7,3,0,11,20
+"MacDennis, C.",CHI,1,5,7,1,11,20
+"Beat, N.",CHI,1,15,0,0,11,20
+"Espeeyeeseetee, A.",CHI,1,3,0,0,11,20
+"Schneider, D.",CHI,1,5,0,0,11,20
+"Snider, N.",CHI,1,15,0,0,11,20
+"Vassallo, S.",CHI,1,5,0,0,11,20
+"Marlin, J.",CHI,0,0,7,0,11,20
+"Cricket, R.",CHI,0,0,4,0,11,20
+"Leaf III, R.",CHI,0,0,4,0,11,20
+"Utler, J.",CHI,0,0,1,0,11,20

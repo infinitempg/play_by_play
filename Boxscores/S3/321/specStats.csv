@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"LeClair, A.",LV,1,26,0,26,0,0,0,0
-"Ross, J.",LV,2,42,0,33,0,0,0,1
-"Hayden, A.",COL,2,37,0,31,0,0,0,0
-"Tweed, B.",COL,1,21,52,21,18,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"LeClair, A.",LV,1,26,0,26,0,0,0,0,12,3
+"Ross, J.",LV,2,42,0,33,0,0,0,1,12,3
+"Hayden, A.",COL,2,37,0,31,0,0,0,0,12,3
+"Tweed, B.",COL,1,21,52,21,18,0,0,4,12,3

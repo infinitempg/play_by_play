@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",CHI,31,124,4,15,1
-"Danielsson, A.",CHI,16,94,5.9,16,1
-"Mendonca, M.",AUS,10,80,8,13,0
-"Owens, A.",AUS,7,19,2.7,5,0
-"Cole, E.",AUS,1,14,14,14,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",CHI,31,124,4,15,1,5,17
+"Danielsson, A.",CHI,16,94,5.9,16,1,5,17
+"Mendonca, M.",AUS,10,80,8,13,0,5,17
+"Owens, A.",AUS,7,19,2.7,5,0,5,17
+"Cole, E.",AUS,1,14,14,14,0,5,17

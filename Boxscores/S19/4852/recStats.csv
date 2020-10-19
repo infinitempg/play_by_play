@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Irving, J.",AZ,7,82,11.7,22,0
-"Oles, K.",AZ,6,102,17,44,2
-"Landers, B.",AZ,6,90,15,32,0
-"Donut, S.",AZ,5,101,20.2,43,2
-"Ruff, R.",AZ,5,35,7,18,0
-"Kwemen, K.",AZ,3,26,8.7,12,0
-"Parker, J.",CHI,6,72,12,36,0
-"Harp, D.",CHI,6,42,7,12,0
-"O'Leary, S.",CHI,5,75,15,25,0
-"James-Jones, S.",CHI,2,24,12,13,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Irving, J.",AZ,7,82,11.7,22,0,10,19
+"Oles, K.",AZ,6,102,17,44,2,10,19
+"Landers, B.",AZ,6,90,15,32,0,10,19
+"Donut, S.",AZ,5,101,20.2,43,2,10,19
+"Ruff, R.",AZ,5,35,7,18,0,10,19
+"Kwemen, K.",AZ,3,26,8.7,12,0,10,19
+"Parker, J.",CHI,6,72,12,36,0,10,19
+"Harp, D.",CHI,6,42,7,12,0,10,19
+"O'Leary, S.",CHI,5,75,15,25,0,10,19
+"James-Jones, S.",CHI,2,24,12,13,0,10,19

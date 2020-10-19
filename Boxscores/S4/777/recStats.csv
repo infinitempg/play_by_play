@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, M.",SJS,7,69,9.9,19,0
-"Smallwood, D.",SJS,6,59,9.8,23,0
-"Weston, S.",SJS,5,87,17.4,40,0
-"Bottles, B.",SJS,4,31,7.8,14,0
-"Yates, J.",SJS,3,16,5.3,7,0
-"Jenkins, L.",OCO,7,41,5.9,12,0
-"Phelps, R.",OCO,6,130,21.7,40,1
-"Reigns, J.",OCO,6,48,8,17,1
-"O'Sullivan, S.",OCO,6,45,7.5,15,0
-"Westfield, B.",OCO,4,103,25.8,45,0
-"Burnsman, E.",OCO,2,3,1.5,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, M.",SJS,7,69,9.9,19,0,14,4
+"Smallwood, D.",SJS,6,59,9.8,23,0,14,4
+"Weston, S.",SJS,5,87,17.4,40,0,14,4
+"Bottles, B.",SJS,4,31,7.8,14,0,14,4
+"Yates, J.",SJS,3,16,5.3,7,0,14,4
+"Jenkins, L.",OCO,7,41,5.9,12,0,14,4
+"Phelps, R.",OCO,6,130,21.7,40,1,14,4
+"Reigns, J.",OCO,6,48,8,17,1,14,4
+"O'Sullivan, S.",OCO,6,45,7.5,15,0,14,4
+"Westfield, B.",OCO,4,103,25.8,45,0,14,4
+"Burnsman, E.",OCO,2,3,1.5,3,0,14,4

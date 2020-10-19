@@ -1,9 +1,9 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,17,80,4.7,10,2
-"Murphy, J.",AZ,15,71,4.7,12,0
-"Reese, A.",AZ,3,36,12,20,0
-"Zephyrous, S.",AZ,1,4,4,4,0
-"Taffy, T.",COL,25,102,4.1,14,0
-"Carrasco, T.",COL,9,26,2.9,5,1
-"Grau, M.",COL,2,14,7,8,0
-"McDummy, W.",COL,1,3,3,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,17,80,4.7,10,2,12,16
+"Murphy, J.",AZ,15,71,4.7,12,0,12,16
+"Reese, A.",AZ,3,36,12,20,0,12,16
+"Zephyrous, S.",AZ,1,4,4,4,0,12,16
+"Taffy, T.",COL,25,102,4.1,14,0,12,16
+"Carrasco, T.",COL,9,26,2.9,5,1,12,16
+"Grau, M.",COL,2,14,7,8,0,12,16
+"McDummy, W.",COL,1,3,3,3,0,12,16

@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Pooky, S.",YKW,1,5,8,0
-"Carrasco, T.",YKW,1,15,0,0
-"Woodham, A.",YKW,1,15,0,0
-"Brown, J.",YKW,1,5,0,0
-"Mushing, M.",YKW,0,0,6,0
-"Rchon, A.",YKW,0,0,5,0
-"Ones, B.",YKW,0,0,4,0
-"Amper, T.",YKW,0,0,3,0
-"Gore, B.",YKW,0,0,1,0
-"McKoutchie, M.",SJS,2,15,3,0
-"Tacktheritrix, J.",SJS,2,23,3,0
-"Brill, J.",SJS,2,6,0,0
-"Rucker, F.",SJS,1,15,3,0
-"Brannigan, Z.",SJS,1,5,2,0
-"Methane, D.",SJS,1,15,0,0
-"Marrett, O.",SJS,1,5,0,0
-"Troyski, X.",SJS,1,5,0,0
-"Jahelpme, H.",SJS,0,0,8,3
-"Probincrux III, D.",SJS,0,0,5,1
-"Canton, J.",SJS,0,0,1,1
-"Orosz, C.",SJS,0,0,1,0
-"Tuck Jr., T.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Pooky, S.",YKW,1,5,8,0,11,11
+"Carrasco, T.",YKW,1,15,0,0,11,11
+"Woodham, A.",YKW,1,15,0,0,11,11
+"Brown, J.",YKW,1,5,0,0,11,11
+"Mushing, M.",YKW,0,0,6,0,11,11
+"Rchon, A.",YKW,0,0,5,0,11,11
+"Ones, B.",YKW,0,0,4,0,11,11
+"Amper, T.",YKW,0,0,3,0,11,11
+"Gore, B.",YKW,0,0,1,0,11,11
+"McKoutchie, M.",SJS,2,15,3,0,11,11
+"Tacktheritrix, J.",SJS,2,23,3,0,11,11
+"Brill, J.",SJS,2,6,0,0,11,11
+"Rucker, F.",SJS,1,15,3,0,11,11
+"Brannigan, Z.",SJS,1,5,2,0,11,11
+"Methane, D.",SJS,1,15,0,0,11,11
+"Marrett, O.",SJS,1,5,0,0,11,11
+"Troyski, X.",SJS,1,5,0,0,11,11
+"Jahelpme, H.",SJS,0,0,8,3,11,11
+"Probincrux III, D.",SJS,0,0,5,1,11,11
+"Canton, J.",SJS,0,0,1,1,11,11
+"Orosz, C.",SJS,0,0,1,0,11,11
+"Tuck Jr., T.",SJS,0,0,1,0,11,11

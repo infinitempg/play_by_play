@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Chipmunk, A.",COL,7,60,8.6,15,0
-"North, F.",COL,7,40,5.7,9,2
-"Miller, H.",COL,6,131,21.8,39,1
-"Aaron, D.",COL,5,49,9.8,14,0
-"Wheat, B.",COL,4,42,10.5,17,0
-"Grau, M.",COL,4,19,4.8,13,0
-"Stormblessed, N.",PHI,4,55,13.8,30,0
-"Slax, G.",PHI,4,37,9.2,14,0
-"Weathers III, B.",PHI,2,28,14,20,0
-"O'Sullivan, S.",PHI,2,8,4,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Chipmunk, A.",COL,7,60,8.6,15,0,12,10
+"North, F.",COL,7,40,5.7,9,2,12,10
+"Miller, H.",COL,6,131,21.8,39,1,12,10
+"Aaron, D.",COL,5,49,9.8,14,0,12,10
+"Wheat, B.",COL,4,42,10.5,17,0,12,10
+"Grau, M.",COL,4,19,4.8,13,0,12,10
+"Stormblessed, N.",PHI,4,55,13.8,30,0,12,10
+"Slax, G.",PHI,4,37,9.2,14,0,12,10
+"Weathers III, B.",PHI,2,28,14,20,0,12,10
+"O'Sullivan, S.",PHI,2,8,4,5,0,12,10

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bishop, J.",COL,4,72,18,29,0
-"Forty-Two, L.",COL,4,50,12.5,29,1
-"Arrow, R.",COL,3,56,18.7,26,0
-"Sauce, E.",COL,2,20,10,11,0
-"Vincent, M.",COL,2,18,9,11,0
-"Owens, A.",COL,1,12,12,12,0
-"Tidwell, R.",AUS,6,101,16.8,30,0
-"Gaines, N.",AUS,4,111,27.8,37,0
-"Larson, P.",AUS,4,83,20.8,40,0
-"Mendonca, M.",AUS,4,32,8,13,0
-"Clay, J.",AUS,3,25,8.3,10,1
-"Blockit, I.",AUS,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bishop, J.",COL,4,72,18,29,0,11,21
+"Forty-Two, L.",COL,4,50,12.5,29,1,11,21
+"Arrow, R.",COL,3,56,18.7,26,0,11,21
+"Sauce, E.",COL,2,20,10,11,0,11,21
+"Vincent, M.",COL,2,18,9,11,0,11,21
+"Owens, A.",COL,1,12,12,12,0,11,21
+"Tidwell, R.",AUS,6,101,16.8,30,0,11,21
+"Gaines, N.",AUS,4,111,27.8,37,0,11,21
+"Larson, P.",AUS,4,83,20.8,40,0,11,21
+"Mendonca, M.",AUS,4,32,8,13,0,11,21
+"Clay, J.",AUS,3,25,8.3,10,1,11,21
+"Blockit, I.",AUS,1,2,2,2,0,11,21

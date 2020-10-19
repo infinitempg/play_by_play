@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McCormick, A.",NO,5,53,10.6,22,1
-"Jones, B.",NO,3,103,34.3,41,0
-"Valentine, V.",NO,3,74,24.7,53,0
-"Toriki, M.",NO,3,17,5.7,8,2
-"Rodriguez, B.",NO,1,16,16,16,0
-"Fyodorovich, V.",NO,1,10,10,10,0
-"Pitcher, A.",OCO,6,63,10.5,21,0
-"Blaze, J.",OCO,5,60,12,26,2
-"Banks II, D.",OCO,2,32,16,17,0
-"Nagasawa, Y.",OCO,2,16,8,9,0
-"Mongo, H.",OCO,1,32,32,32,1
-"Reed, A.",OCO,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McCormick, A.",NO,5,53,10.6,22,1,8,19
+"Jones, B.",NO,3,103,34.3,41,0,8,19
+"Valentine, V.",NO,3,74,24.7,53,0,8,19
+"Toriki, M.",NO,3,17,5.7,8,2,8,19
+"Rodriguez, B.",NO,1,16,16,16,0,8,19
+"Fyodorovich, V.",NO,1,10,10,10,0,8,19
+"Pitcher, A.",OCO,6,63,10.5,21,0,8,19
+"Blaze, J.",OCO,5,60,12,26,2,8,19
+"Banks II, D.",OCO,2,32,16,17,0,8,19
+"Nagasawa, Y.",OCO,2,16,8,9,0,8,19
+"Mongo, H.",OCO,1,32,32,32,1,8,19
+"Reed, A.",OCO,1,4,4,4,0,8,19

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Morris, D.",AZ,1,41,0,41,0,0,0,0
-"Barnes, B.",AZ,2,43,36,28,17,0,0,3
-"Brown, M.",PHI,1,15,0,15,0,0,0,0
-"Garnett, L.",PHI,1,34,14,34,14,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Morris, D.",AZ,1,41,0,41,0,0,0,0,4,12
+"Barnes, B.",AZ,2,43,36,28,17,0,0,3,4,12
+"Brown, M.",PHI,1,15,0,15,0,0,0,0,4,12
+"Garnett, L.",PHI,1,34,14,34,14,0,0,1,4,12

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,1,21,0,21,0,0,0,0
-"Jackson, A.",SJS,2,21,18,18,16,0,0,2
-"Leaf Jr., R.",CHI,2,13,4,12,4,0,0,1
-"Espeeyeeseetee, A.",CHI,4,76,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,1,21,0,21,0,0,0,0,11,21
+"Jackson, A.",SJS,2,21,18,18,16,0,0,2,11,21
+"Leaf Jr., R.",CHI,2,13,4,12,4,0,0,1,11,21
+"Espeeyeeseetee, A.",CHI,4,76,0,41,0,0,0,0,11,21

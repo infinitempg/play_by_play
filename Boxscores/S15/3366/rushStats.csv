@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Davenport, C.",SJS,12,66,5.5,12,1
-"Orosz, C.",SJS,11,66,6,14,0
-"Christ, J.",SJS,9,18,2,6,0
-"Taffy, T.",COL,16,36,2.2,12,0
-"Cansino, D.",COL,8,23,2.9,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Davenport, C.",SJS,12,66,5.5,12,1,3,15
+"Orosz, C.",SJS,11,66,6,14,0,3,15
+"Christ, J.",SJS,9,18,2,6,0,3,15
+"Taffy, T.",COL,16,36,2.2,12,0,3,15
+"Cansino, D.",COL,8,23,2.9,8,0,3,15

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Thomas-Fox, D.",SJS,4,71,17.8,28,0
-"Cardrissian, R.",SJS,4,30,7.5,15,0
-"McDavid, L.",SJS,2,15,7.5,15,0
-"Irving, J.",SJS,1,5,5,5,0
-"Hood, T.",SJS,1,2,2,2,0
-"Donut, S.",AZ,6,125,20.8,29,1
-"Evans, H.",AZ,6,48,8,13,0
-"Bur'Berry, J.",AZ,4,75,18.8,37,1
-"Passmann, T.",AZ,4,52,13,23,1
-"Yoda, B.",AZ,4,9,2.2,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Thomas-Fox, D.",SJS,4,71,17.8,28,0,2,23
+"Cardrissian, R.",SJS,4,30,7.5,15,0,2,23
+"McDavid, L.",SJS,2,15,7.5,15,0,2,23
+"Irving, J.",SJS,1,5,5,5,0,2,23
+"Hood, T.",SJS,1,2,2,2,0,2,23
+"Donut, S.",AZ,6,125,20.8,29,1,2,23
+"Evans, H.",AZ,6,48,8,13,0,2,23
+"Bur'Berry, J.",AZ,4,75,18.8,37,1,2,23
+"Passmann, T.",AZ,4,52,13,23,1,2,23
+"Yoda, B.",AZ,4,9,2.2,4,0,2,23

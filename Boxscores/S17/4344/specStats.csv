@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mughes, H.",AZ,6,108,0,38,0,0,0,0
-"Bishop, J.",COL,1,35,0,35,0,0,0,0
-"Lejune, L.",COL,3,38,14,23,14,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mughes, H.",AZ,6,108,0,38,0,0,0,0,12,17
+"Bishop, J.",COL,1,35,0,35,0,0,0,0,12,17
+"Lejune, L.",COL,3,38,14,23,14,0,0,1,12,17

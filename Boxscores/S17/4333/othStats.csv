@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Star, L.",BAL,1,5,4,1
-"Jeremy, R.",BAL,0,0,5,0
-"Steele, R.",BAL,0,0,5,0
-"L'Alto, V.",BAL,0,0,4,0
-"Grey, S.",BAL,0,0,3,0
-"Diggler, D.",BAL,0,0,2,0
-"Pancakes, P.",BAL,0,0,2,0
-"Jimbo, D.",BAL,0,0,1,1
-"Ones, B.",YKW,2,15,3,0
-"Leaf Jr., R.",YKW,1,20,0,0
-"Storm, J.",YKW,1,5,0,0
-"Rchonsucks, A.",YKW,0,0,3,1
-"Mushing, M.",YKW,0,0,1,1
-"Amper, T.",YKW,0,0,1,0
-"Marshall, M.",YKW,0,0,1,0
-"Pooky, S.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Star, L.",BAL,1,5,4,1,10,17
+"Jeremy, R.",BAL,0,0,5,0,10,17
+"Steele, R.",BAL,0,0,5,0,10,17
+"L'Alto, V.",BAL,0,0,4,0,10,17
+"Grey, S.",BAL,0,0,3,0,10,17
+"Diggler, D.",BAL,0,0,2,0,10,17
+"Pancakes, P.",BAL,0,0,2,0,10,17
+"Jimbo, D.",BAL,0,0,1,1,10,17
+"Ones, B.",YKW,2,15,3,0,10,17
+"Leaf Jr., R.",YKW,1,20,0,0,10,17
+"Storm, J.",YKW,1,5,0,0,10,17
+"Rchonsucks, A.",YKW,0,0,3,1,10,17
+"Mushing, M.",YKW,0,0,1,1,10,17
+"Amper, T.",YKW,0,0,1,0,10,17
+"Marshall, M.",YKW,0,0,1,0,10,17
+"Pooky, S.",YKW,0,0,1,0,10,17

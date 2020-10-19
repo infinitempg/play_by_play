@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Clay, J.",HON,5,63,12.6,19,0
-"Podolak, J.",HON,5,34,6.8,9,0
-"Ayers, N.",HON,4,84,21,26,1
-"Alexander, W.",HON,4,28,7,12,1
-"Kane-Maika'i, K.",HON,4,28,7,11,0
-"Evans, H.",AZ,8,65,8.1,17,1
-"Donut, S.",AZ,7,91,13,31,1
-"Bur'Berry, J.",AZ,5,76,15.2,39,0
-"Passmann, T.",AZ,4,47,11.8,24,0
-"Petrongolo, J.",AZ,3,15,5,10,0
-"Keppler, Z.",AZ,2,8,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Clay, J.",HON,5,63,12.6,19,0,12,24
+"Podolak, J.",HON,5,34,6.8,9,0,12,24
+"Ayers, N.",HON,4,84,21,26,1,12,24
+"Alexander, W.",HON,4,28,7,12,1,12,24
+"Kane-Maika'i, K.",HON,4,28,7,11,0,12,24
+"Evans, H.",AZ,8,65,8.1,17,1,12,24
+"Donut, S.",AZ,7,91,13,31,1,12,24
+"Bur'Berry, J.",AZ,5,76,15.2,39,0,12,24
+"Passmann, T.",AZ,4,47,11.8,24,0,12,24
+"Petrongolo, J.",AZ,3,15,5,10,0,12,24
+"Keppler, Z.",AZ,2,8,4,4,0,12,24

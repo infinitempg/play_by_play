@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Law, C.",ARI,7,60,8.6,13,1
-"Zhang, S.",ARI,7,52,7.4,12,0
-"Evans, D.",ARI,5,65,13,30,1
-"Chess, C.",ARI,5,54,10.8,14,0
-"Tuck, J.",ARI,4,34,8.5,18,1
-"Hendrix, K.",COL,4,71,17.8,28,0
-"Joyce, S.",COL,3,22,7.3,10,0
-"Young, J.",COL,2,20,10,12,0
-"Tweed, B.",COL,2,9,4.5,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Law, C.",ARI,7,60,8.6,13,1,4,3
+"Zhang, S.",ARI,7,52,7.4,12,0,4,3
+"Evans, D.",ARI,5,65,13,30,1,4,3
+"Chess, C.",ARI,5,54,10.8,14,0,4,3
+"Tuck, J.",ARI,4,34,8.5,18,1,4,3
+"Hendrix, K.",COL,4,71,17.8,28,0,4,3
+"Joyce, S.",COL,3,22,7.3,10,0,4,3
+"Young, J.",COL,2,20,10,12,0,4,3
+"Tweed, B.",COL,2,9,4.5,7,0,4,3

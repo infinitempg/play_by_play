@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Varga, N.",PHI,5,58,11.6,24,0
-"Dotson, F.",PHI,4,22,5.5,14,0
-"Blocksdale Jr., A.",PHI,3,22,7.3,10,1
-"Vuxta, R.",PHI,2,10,5,6,0
-"Torenson, S.",PHI,2,9,4.5,6,0
-"Panda, F.",PHI,1,40,40,40,0
-"Swift, N.",YKW,6,93,15.5,25,0
-"Hanyadi, M.",YKW,5,62,12.4,20,1
-"Rodriguez, B.",YKW,5,45,9,11,2
-"Hardagain, W.",YKW,4,56,14,17,1
-"Drake, O.",YKW,1,6,6,6,0
-"Skyline, A.",YKW,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Varga, N.",PHI,5,58,11.6,24,0,5,22
+"Dotson, F.",PHI,4,22,5.5,14,0,5,22
+"Blocksdale Jr., A.",PHI,3,22,7.3,10,1,5,22
+"Vuxta, R.",PHI,2,10,5,6,0,5,22
+"Torenson, S.",PHI,2,9,4.5,6,0,5,22
+"Panda, F.",PHI,1,40,40,40,0,5,22
+"Swift, N.",YKW,6,93,15.5,25,0,5,22
+"Hanyadi, M.",YKW,5,62,12.4,20,1,5,22
+"Rodriguez, B.",YKW,5,45,9,11,2,5,22
+"Hardagain, W.",YKW,4,56,14,17,1,5,22
+"Drake, O.",YKW,1,6,6,6,0,5,22
+"Skyline, A.",YKW,1,6,6,6,0,5,22

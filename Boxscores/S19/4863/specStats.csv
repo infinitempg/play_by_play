@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,2,52,0,26,0,0,0,0
-"Maddox, E.",BAL,0,0,16,0,13,0,0,2
-"Thomas-Fox, D.",SJS,2,71,0,40,0,0,0,0
-"Staley, T.",SJS,2,58,15,43,15,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,2,52,0,26,0,0,0,0,12,19
+"Maddox, E.",BAL,0,0,16,0,13,0,0,2,12,19
+"Thomas-Fox, D.",SJS,2,71,0,40,0,0,0,0,12,19
+"Staley, T.",SJS,2,58,15,43,15,0,0,1,12,19

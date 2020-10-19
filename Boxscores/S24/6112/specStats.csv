@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Rector, D.",NO,2,50,21,40,19,0,0,4
-"Blaylock, M.",NO,2,46,0,34,0,0,0,0
-"Kane-Maika'i, K.",HON,4,37,-4,12,0,0,0,1
-"Dawkins, S.",HON,3,42,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Rector, D.",NO,2,50,21,40,19,0,0,4,13,24
+"Blaylock, M.",NO,2,46,0,34,0,0,0,0,13,24
+"Kane-Maika'i, K.",HON,4,37,-4,12,0,0,0,1,13,24
+"Dawkins, S.",HON,3,42,0,24,0,0,0,0,13,24

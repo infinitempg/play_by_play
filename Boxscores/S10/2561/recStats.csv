@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McPoyal, G.",YKW,8,98,12.2,28,2
-"Atwell, T.",YKW,4,67,16.8,36,0
-"Harris Jr., F.",YKW,4,54,13.5,17,0
-"Rainey, R.",YKW,3,16,5.3,8,0
-"Kennedy, E.",YKW,3,11,3.7,7,0
-"Gore, B.",YKW,2,10,5,9,1
-"Law, C.",NO,7,116,16.6,43,2
-"DiMirio, P.",NO,6,62,10.3,34,1
-"Smallwood, D.",NO,6,21,3.5,8,0
-"Crush, C.",NO,5,95,19,33,0
-"LeClair, A.",NO,4,70,17.5,39,0
-"Savea, A.",NO,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McPoyal, G.",YKW,8,98,12.2,28,2,10,10
+"Atwell, T.",YKW,4,67,16.8,36,0,10,10
+"Harris Jr., F.",YKW,4,54,13.5,17,0,10,10
+"Rainey, R.",YKW,3,16,5.3,8,0,10,10
+"Kennedy, E.",YKW,3,11,3.7,7,0,10,10
+"Gore, B.",YKW,2,10,5,9,1,10,10
+"Law, C.",NO,7,116,16.6,43,2,10,10
+"DiMirio, P.",NO,6,62,10.3,34,1,10,10
+"Smallwood, D.",NO,6,21,3.5,8,0,10,10
+"Crush, C.",NO,5,95,19,33,0,10,10
+"LeClair, A.",NO,4,70,17.5,39,0,10,10
+"Savea, A.",NO,1,8,8,8,0,10,10

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kroetch, D.",PHI,11,37,3.4,9,1
-"O'Connell, K.",PHI,3,1,0.3,1,0
-"Oles, T.",PHI,2,23,11.5,23,0
-"Bush, C.",PHI,1,1,1,1,0
-"Diaz, D.",SJS,22,60,2.7,6,0
-"Pennington, B.",SJS,4,2,0.5,1,0
-"Riddick, D.",SJS,2,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kroetch, D.",PHI,11,37,3.4,9,1,7,8
+"O'Connell, K.",PHI,3,1,0.3,1,0,7,8
+"Oles, T.",PHI,2,23,11.5,23,0,7,8
+"Bush, C.",PHI,1,1,1,1,0,7,8
+"Diaz, D.",SJS,22,60,2.7,6,0,7,8
+"Pennington, B.",SJS,4,2,0.5,1,0,7,8
+"Riddick, D.",SJS,2,0,0,0,0,7,8

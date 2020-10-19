@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Leaf Jr., R.",CHI,3,115,8,93,5,1,0,2
-"Espeeyeeseetee, A.",CHI,2,57,0,31,0,0,0,0
-"Donut, S.",AZ,3,159,0,94,0,1,0,0
-"Knight, L.",AZ,3,71,61,27,61,0,1,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Leaf Jr., R.",CHI,3,115,8,93,5,1,0,2,1,21
+"Espeeyeeseetee, A.",CHI,2,57,0,31,0,0,0,0,1,21
+"Donut, S.",AZ,3,159,0,94,0,1,0,0,1,21
+"Knight, L.",AZ,3,71,61,27,61,0,1,1,1,21

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Armstrong, F.",OCO,"[15, 23]",162,10.8,1,0,100.3
-"O'Donnell, G.",CHI,"[19, 32]",252,13.3,1,1,81.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Armstrong, F.",OCO,162,10.8,1,0,100.3,15,19,9,23
+"O'Donnell, G.",CHI,252,13.3,1,1,81.8,15,19,9,23

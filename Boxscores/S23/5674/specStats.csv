@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,5,114,18,45,13,0,0,2
-"Quinn, A.",BAL,2,70,0,37,0,0,0,0
-"D'Attoria V, R.",PHI,4,80,0,40,0,0,0,0
-"Panda, F.",PHI,2,51,13,43,13,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,5,114,18,45,13,0,0,2,14,23
+"Quinn, A.",BAL,2,70,0,37,0,0,0,0,14,23
+"D'Attoria V, R.",PHI,4,80,0,40,0,0,0,0,14,23
+"Panda, F.",PHI,2,51,13,43,13,0,0,2,14,23

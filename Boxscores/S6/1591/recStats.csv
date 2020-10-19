@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Yates, J.",OCO,8,106,13.2,37,2
-"Phelps, R.",OCO,5,78,15.6,29,0
-"Petrakis, A.",OCO,4,21,5.2,8,0
-"Westfield, B.",OCO,3,41,13.7,31,1
-"CatchMachine9, Z.",OCO,1,15,15,15,0
-"O'Sullivan, S.",OCO,1,3,3,3,0
-"DiMirio, P.",PHI,12,126,10.5,34,0
-"Garden, J.",PHI,9,107,11.9,29,0
-"North, F.",PHI,6,75,12.5,25,1
-"Storm, B.",PHI,2,14,7,8,0
-"Kroetch, D.",PHI,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Yates, J.",OCO,8,106,13.2,37,2,4,6
+"Phelps, R.",OCO,5,78,15.6,29,0,4,6
+"Petrakis, A.",OCO,4,21,5.2,8,0,4,6
+"Westfield, B.",OCO,3,41,13.7,31,1,4,6
+"CatchMachine9, Z.",OCO,1,15,15,15,0,4,6
+"O'Sullivan, S.",OCO,1,3,3,3,0,4,6
+"DiMirio, P.",PHI,12,126,10.5,34,0,4,6
+"Garden, J.",PHI,9,107,11.9,29,0,4,6
+"North, F.",PHI,6,75,12.5,25,1,4,6
+"Storm, B.",PHI,2,14,7,8,0,4,6
+"Kroetch, D.",PHI,1,8,8,8,0,4,6

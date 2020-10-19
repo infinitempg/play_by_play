@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,3,48,-1,28,3,0,0,2
-"Fyodorovich, V.",NO,3,45,0,17,0,0,0,0
-"Sunnycursed, N.",OCO,4,109,3,31,3,0,0,1
-"Blaze, J.",OCO,2,51,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,3,48,-1,28,3,0,0,2,5,17
+"Fyodorovich, V.",NO,3,45,0,17,0,0,0,0,5,17
+"Sunnycursed, N.",OCO,4,109,3,31,3,0,0,1,5,17
+"Blaze, J.",OCO,2,51,0,31,0,0,0,0,5,17

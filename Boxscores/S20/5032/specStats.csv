@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Donut, S.",AZ,3,72,0,41,0,0,0,0
-"Knight, L.",AZ,2,44,10,30,18,0,0,3
-"Emoji, E.",PHI,1,22,12,22,11,0,0,2
-"Garnett, L.",PHI,5,160,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Donut, S.",AZ,3,72,0,41,0,0,0,0,13,20
+"Knight, L.",AZ,2,44,10,30,18,0,0,3,13,20
+"Emoji, E.",PHI,1,22,12,22,11,0,0,2,13,20
+"Garnett, L.",PHI,5,160,0,41,0,0,0,0,13,20

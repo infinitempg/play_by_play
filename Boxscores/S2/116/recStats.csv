@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",PHI,7,68,9.7,16,0
-"North, F.",PHI,6,100,16.7,34,1
-"Kroetch, D.",PHI,5,56,11.2,15,0
-"Wright, O.",PHI,5,45,9,18,1
-"Washington, W.",PHI,3,14,4.7,10,0
-"Mason, H.",PHI,2,13,6.5,9,0
-"Newman, M.",PHI,1,6,6,6,0
-"Smallwood, D.",SJS,5,101,20.2,37,0
-"Weston, S.",SJS,5,71,14.2,37,0
-"Bottles, B.",SJS,4,28,7,10,0
-"Durden, J.",SJS,2,12,6,6,0
-"Wheat, B.",SJS,2,6,3,3,0
-"Canton, J.",SJS,1,17,17,17,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",PHI,7,68,9.7,16,0,14,2
+"North, F.",PHI,6,100,16.7,34,1,14,2
+"Kroetch, D.",PHI,5,56,11.2,15,0,14,2
+"Wright, O.",PHI,5,45,9,18,1,14,2
+"Washington, W.",PHI,3,14,4.7,10,0,14,2
+"Mason, H.",PHI,2,13,6.5,9,0,14,2
+"Newman, M.",PHI,1,6,6,6,0,14,2
+"Smallwood, D.",SJS,5,101,20.2,37,0,14,2
+"Weston, S.",SJS,5,71,14.2,37,0,14,2
+"Bottles, B.",SJS,4,28,7,10,0,14,2
+"Durden, J.",SJS,2,12,6,6,0,14,2
+"Wheat, B.",SJS,2,6,3,3,0,14,2
+"Canton, J.",SJS,1,17,17,17,0,14,2

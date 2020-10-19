@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Boss, M.",OCO,"[29, 42]",409,14.1,4,2,112.1
-"Applehort, R.",COL,"[30, 53]",375,12.5,1,0,85
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Boss, M.",OCO,409,14.1,4,2,112.1,29,30,7,9
+"Applehort, R.",COL,375,12.5,1,0,85,29,30,7,9

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Grithead, D.",OCO,3,88,14,44,14,0,0,1
-"Sunnycursed, N.",OCO,3,37,0,13,0,0,0,0
-"Fyodorovich, V.",NO,5,149,0,42,0,0,0,0
-"Swift, T.",NO,3,86,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Grithead, D.",OCO,3,88,14,44,14,0,0,1,9,15
+"Sunnycursed, N.",OCO,3,37,0,13,0,0,0,0,9,15
+"Fyodorovich, V.",NO,5,149,0,42,0,0,0,0,9,15
+"Swift, T.",NO,3,86,0,39,0,0,0,0,9,15

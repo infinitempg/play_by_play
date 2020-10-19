@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Facemask, F.",OCO,1,5,7,1
-"Clipping, C.",OCO,1,15,3,0
-"Spaghetti, Y.",OCO,1,5,0,0
-"Brown, M.",OCO,1,5,0,0
-"Wright Jr, G.",OCO,1,15,0,0
-"Falsestart, F.",OCO,0,0,7,0
-"Holding, H.",OCO,0,0,5,0
-"Tripping, T.",OCO,0,0,1,0
-"Bush, C.",PHI,1,12,0,0
-"Garden, J.",PHI,1,5,0,0
-"Arthur, C.",PHI,0,0,4,0
-"Fillmore, M.",PHI,0,0,3,0
-"Hayes, R.",PHI,0,0,3,0
-"O'Sullivan, S.",PHI,0,0,3,0
-"Tyler, J.",PHI,0,0,2,1
-"Van Buren, M.",PHI,0,0,1,0
-"O'Sullivan, C.",PHI,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Facemask, F.",OCO,1,5,7,1,3,10
+"Clipping, C.",OCO,1,15,3,0,3,10
+"Spaghetti, Y.",OCO,1,5,0,0,3,10
+"Brown, M.",OCO,1,5,0,0,3,10
+"Wright Jr, G.",OCO,1,15,0,0,3,10
+"Falsestart, F.",OCO,0,0,7,0,3,10
+"Holding, H.",OCO,0,0,5,0,3,10
+"Tripping, T.",OCO,0,0,1,0,3,10
+"Bush, C.",PHI,1,12,0,0,3,10
+"Garden, J.",PHI,1,5,0,0,3,10
+"Arthur, C.",PHI,0,0,4,0,3,10
+"Fillmore, M.",PHI,0,0,3,0,3,10
+"Hayes, R.",PHI,0,0,3,0,3,10
+"O'Sullivan, S.",PHI,0,0,3,0,3,10
+"Tyler, J.",PHI,0,0,2,1,3,10
+"Van Buren, M.",PHI,0,0,1,0,3,10
+"O'Sullivan, C.",PHI,0,0,0,1,3,10

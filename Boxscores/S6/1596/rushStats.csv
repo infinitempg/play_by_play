@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Pierno, N.",COL,15,8,0.5,9,0
-"Tweed, B.",COL,10,28,2.8,10,0
-"Mackworthy, R.",AZ,18,68,3.8,11,0
-"Wright, O.",AZ,7,48,6.9,16,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Pierno, N.",COL,15,8,0.5,9,0,5,6
+"Tweed, B.",COL,10,28,2.8,10,0,5,6
+"Mackworthy, R.",AZ,18,68,3.8,11,0,5,6
+"Wright, O.",AZ,7,48,6.9,16,0,5,6

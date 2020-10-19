@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Firestorm-Fjord, O.",CHI,3,65,3,41,3,0,0,2
-"Mendonca, M.",AUS,1,0,0,0,0,0,0,0
-"Lavelle Jr., D.",AUS,3,68,15,31,15,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Firestorm-Fjord, O.",CHI,3,65,3,41,3,0,0,2,11,24
+"Mendonca, M.",AUS,1,0,0,0,0,0,0,0,11,24
+"Lavelle Jr., D.",AUS,3,68,15,31,15,0,0,4,11,24

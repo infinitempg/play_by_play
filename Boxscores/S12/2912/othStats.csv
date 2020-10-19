@@ -1,26 +1,26 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Justice, T.",SJS,2,20,0,0
-"Tacktheritrix, J.",SJS,1,15,5,0
-"Canton, J.",SJS,1,5,1,1
-"Riposte, F.",SJS,1,4,0,0
-"Tuck, J.",SJS,1,15,0,0
-"Oles, K.",SJS,1,10,0,0
-"Pennington, T.",SJS,1,5,0,0
-"Rucker, F.",SJS,0,0,8,0
-"McKoutchie, M.",SJS,0,0,6,0
-"Probincrux III, D.",SJS,0,0,5,0
-"Tuck, J.",SJS,0,0,1,0
-"Jahelpme, H.",SJS,0,0,1,0
-"Robotman, A.",AZ,1,15,5,0
-"Robotman, C.",AZ,1,15,3,0
-"Robotman, E.",AZ,1,10,2,0
-"Robotman, B.",AZ,1,5,1,0
-"Mughes, H.",AZ,1,6,0,0
-"Barnes, B.",AZ,1,5,0,0
-"Crindy, B.",AZ,1,10,0,0
-"Dwyer, J.",AZ,1,15,0,0
-"Fitzpatrick, K.",AZ,1,5,0,0
-"Medved, E.",AZ,1,10,0,0
-"Willie, T.",AZ,1,10,0,0
-"Robotman, D.",AZ,0,0,5,0
-"Asipi III, A.",AZ,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Justice, T.",SJS,2,20,0,0,9,12
+"Tacktheritrix, J.",SJS,1,15,5,0,9,12
+"Canton, J.",SJS,1,5,1,1,9,12
+"Riposte, F.",SJS,1,4,0,0,9,12
+"Tuck, J.",SJS,1,15,0,0,9,12
+"Oles, K.",SJS,1,10,0,0,9,12
+"Pennington, T.",SJS,1,5,0,0,9,12
+"Rucker, F.",SJS,0,0,8,0,9,12
+"McKoutchie, M.",SJS,0,0,6,0,9,12
+"Probincrux III, D.",SJS,0,0,5,0,9,12
+"Tuck, J.",SJS,0,0,1,0,9,12
+"Jahelpme, H.",SJS,0,0,1,0,9,12
+"Robotman, A.",AZ,1,15,5,0,9,12
+"Robotman, C.",AZ,1,15,3,0,9,12
+"Robotman, E.",AZ,1,10,2,0,9,12
+"Robotman, B.",AZ,1,5,1,0,9,12
+"Mughes, H.",AZ,1,6,0,0,9,12
+"Barnes, B.",AZ,1,5,0,0,9,12
+"Crindy, B.",AZ,1,10,0,0,9,12
+"Dwyer, J.",AZ,1,15,0,0,9,12
+"Fitzpatrick, K.",AZ,1,5,0,0,9,12
+"Medved, E.",AZ,1,10,0,0,9,12
+"Willie, T.",AZ,1,10,0,0,9,12
+"Robotman, D.",AZ,0,0,5,0,9,12
+"Asipi III, A.",AZ,0,0,1,0,9,12

@@ -1,15 +1,15 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Jeremy, R.",BAL,0,0,6,0
-"Grey, S.",BAL,0,0,4,0
-"Diggler, D.",BAL,0,0,3,0
-"Star, L.",BAL,0,0,3,0
-"Steele, R.",BAL,0,0,3,0
-"Taylor, O.",BAL,0,0,1,0
-"Carter, P.",YKW,1,5,0,0
-"Taylor, C.",YKW,1,15,0,0
-"Mushing, M.",YKW,0,0,6,0
-"Rchon, A.",YKW,0,0,3,1
-"Nuck, B.",YKW,0,0,3,0
-"Harris Jr., F.",YKW,0,0,2,0
-"Ones, B.",YKW,0,0,1,1
-"Pooky, S.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Jeremy, R.",BAL,0,0,6,0,8,5
+"Grey, S.",BAL,0,0,4,0,8,5
+"Diggler, D.",BAL,0,0,3,0,8,5
+"Star, L.",BAL,0,0,3,0,8,5
+"Steele, R.",BAL,0,0,3,0,8,5
+"Taylor, O.",BAL,0,0,1,0,8,5
+"Carter, P.",YKW,1,5,0,0,8,5
+"Taylor, C.",YKW,1,15,0,0,8,5
+"Mushing, M.",YKW,0,0,6,0,8,5
+"Rchon, A.",YKW,0,0,3,1,8,5
+"Nuck, B.",YKW,0,0,3,0,8,5
+"Harris Jr., F.",YKW,0,0,2,0,8,5
+"Ones, B.",YKW,0,0,1,1,8,5
+"Pooky, S.",YKW,0,0,1,0,8,5

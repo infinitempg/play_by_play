@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",PHI,7,105,15,29,1
-"Garden, J.",PHI,4,27,6.8,10,0
-"Hendrix, K.",PHI,3,17,5.7,11,0
-"Kroetch, D.",PHI,2,10,5,6,0
-"North, F.",PHI,1,32,32,32,1
-"Bush, C.",PHI,1,8,8,8,0
-"Storm, B.",PHI,1,4,4,4,0
-"McPoyal, G.",YKW,6,88,14.7,27,1
-"Kennedy, E.",YKW,5,91,18.2,32,0
-"Harris Jr., F.",YKW,4,45,11.2,16,0
-"Cook, B.",YKW,3,24,8,16,1
-"Rainey, R.",YKW,2,40,20,32,0
-"Lavelle, D.",YKW,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",PHI,7,105,15,29,1,14,7
+"Garden, J.",PHI,4,27,6.8,10,0,14,7
+"Hendrix, K.",PHI,3,17,5.7,11,0,14,7
+"Kroetch, D.",PHI,2,10,5,6,0,14,7
+"North, F.",PHI,1,32,32,32,1,14,7
+"Bush, C.",PHI,1,8,8,8,0,14,7
+"Storm, B.",PHI,1,4,4,4,0,14,7
+"McPoyal, G.",YKW,6,88,14.7,27,1,14,7
+"Kennedy, E.",YKW,5,91,18.2,32,0,14,7
+"Harris Jr., F.",YKW,4,45,11.2,16,0,14,7
+"Cook, B.",YKW,3,24,8,16,1,14,7
+"Rainey, R.",YKW,2,40,20,32,0,14,7
+"Lavelle, D.",YKW,1,6,6,6,0,14,7

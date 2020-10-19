@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crush, C.",OCO,8,108,13.5,32,0
-"Yates, J.",OCO,7,41,5.9,13,0
-"Westfield, B.",OCO,6,80,13.3,23,2
-"Phelps, R.",OCO,6,73,12.2,30,0
-"Atwell, T.",OCO,5,93,18.6,43,0
-"Spector, M.",OCO,1,9,9,9,0
-"L'Alto, V.",BAL,5,33,6.6,13,0
-"Willie, T.",BAL,4,51,12.8,34,0
-"LeClair, A.",BAL,4,36,9,11,0
-"Browning, B.",BAL,3,78,26,35,1
-"Taylor, O.",BAL,1,35,35,35,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crush, C.",OCO,8,108,13.5,32,0,4,9
+"Yates, J.",OCO,7,41,5.9,13,0,4,9
+"Westfield, B.",OCO,6,80,13.3,23,2,4,9
+"Phelps, R.",OCO,6,73,12.2,30,0,4,9
+"Atwell, T.",OCO,5,93,18.6,43,0,4,9
+"Spector, M.",OCO,1,9,9,9,0,4,9
+"L'Alto, V.",BAL,5,33,6.6,13,0,4,9
+"Willie, T.",BAL,4,51,12.8,34,0,4,9
+"LeClair, A.",BAL,4,36,9,11,0,4,9
+"Browning, B.",BAL,3,78,26,35,1,4,9
+"Taylor, O.",BAL,1,35,35,35,0,4,9

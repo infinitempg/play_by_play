@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hanyadi, M.",YKW,24,132,5.5,14,0
-"Skyline, A.",YKW,14,56,4,11,0
-"Drake, O.",YKW,3,0,0,0,0
-"Bigsby, C.",YKW,1,8,8,8,0
-"Toriki, M.",NO,24,118,4.9,11,0
-"Gump, F.",NO,13,54,4.2,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hanyadi, M.",YKW,24,132,5.5,14,0,8,22
+"Skyline, A.",YKW,14,56,4,11,0,8,22
+"Drake, O.",YKW,3,0,0,0,0,8,22
+"Bigsby, C.",YKW,1,8,8,8,0,8,22
+"Toriki, M.",NO,24,118,4.9,11,0,8,22
+"Gump, F.",NO,13,54,4.2,10,0,8,22

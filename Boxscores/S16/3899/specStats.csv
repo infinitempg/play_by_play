@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hornbacher, A.",BAL,2,51,9,26,13,0,0,3
-"Bishop, J.",COL,5,93,0,30,0,0,0,0
-"Montgomery, B.",COL,3,57,0,35,0,0,0,0
-"Lejune, L.",COL,0,0,6,0,6,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hornbacher, A.",BAL,2,51,9,26,13,0,0,3,7,16
+"Bishop, J.",COL,5,93,0,30,0,0,0,0,7,16
+"Montgomery, B.",COL,3,57,0,35,0,0,0,0,7,16
+"Lejune, L.",COL,0,0,6,0,6,0,0,1,7,16

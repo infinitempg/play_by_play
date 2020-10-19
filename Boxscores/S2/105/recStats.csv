@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Chess, C.",ARI,7,47,6.7,8,1
-"Jackson, M.",ARI,6,106,17.7,36,0
-"Evans, D.",ARI,6,63,10.5,18,0
-"Mackworthy, R.",ARI,4,12,3,7,0
-"Brownce, B.",ARI,4,9,2.2,4,0
-"Tkachuk, J.",ARI,2,20,10,11,0
-"Tobin, T.",ARI,1,1,1,1,0
-"North, F.",PHI,5,109,21.8,46,1
-"DiMirio, P.",PHI,2,14,7,10,0
-"Kroetch, D.",PHI,1,12,12,12,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Chess, C.",ARI,7,47,6.7,8,1,2,2
+"Jackson, M.",ARI,6,106,17.7,36,0,2,2
+"Evans, D.",ARI,6,63,10.5,18,0,2,2
+"Mackworthy, R.",ARI,4,12,3,7,0,2,2
+"Brownce, B.",ARI,4,9,2.2,4,0,2,2
+"Tkachuk, J.",ARI,2,20,10,11,0,2,2
+"Tobin, T.",ARI,1,1,1,1,0,2,2
+"North, F.",PHI,5,109,21.8,46,1,2,2
+"DiMirio, P.",PHI,2,14,7,10,0,2,2
+"Kroetch, D.",PHI,1,12,12,12,0,2,2

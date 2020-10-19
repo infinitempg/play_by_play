@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tyerucker, Q.",SJS,12,45,3.8,13,0
-"Cardrissian, R.",SJS,11,29,2.6,11,1
-"Wright, D.",SJS,2,7,3.5,7,0
-"Hanyadi, M.",YKW,26,121,4.7,19,1
-"Skyline, A.",YKW,14,76,5.4,8,0
-"Drake, O.",YKW,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tyerucker, Q.",SJS,12,45,3.8,13,0,7,22
+"Cardrissian, R.",SJS,11,29,2.6,11,1,7,22
+"Wright, D.",SJS,2,7,3.5,7,0,7,22
+"Hanyadi, M.",YKW,26,121,4.7,19,1,7,22
+"Skyline, A.",YKW,14,76,5.4,8,0,7,22
+"Drake, O.",YKW,1,0,0,0,0,7,22

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crindy, B.",COL,7,71,10.1,21,0
-"Bishop, J.",COL,4,85,21.2,38,0
-"LaMelllana, S.",COL,4,39,9.8,20,0
-"Taffy, T.",COL,4,17,4.2,8,0
-"Palmer, J.",COL,1,5,5,5,0
-"L'Alto, V.",BAL,8,83,10.4,31,0
-"Nagasawa, Y.",BAL,7,84,12,40,1
-"Maddox, E.",BAL,5,120,24,60,0
-"Jimbo, D.",BAL,4,45,11.2,17,0
-"Brown, M.",BAL,2,4,2,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crindy, B.",COL,7,71,10.1,21,0,2,16
+"Bishop, J.",COL,4,85,21.2,38,0,2,16
+"LaMelllana, S.",COL,4,39,9.8,20,0,2,16
+"Taffy, T.",COL,4,17,4.2,8,0,2,16
+"Palmer, J.",COL,1,5,5,5,0,2,16
+"L'Alto, V.",BAL,8,83,10.4,31,0,2,16
+"Nagasawa, Y.",BAL,7,84,12,40,1,2,16
+"Maddox, E.",BAL,5,120,24,60,0,2,16
+"Jimbo, D.",BAL,4,45,11.2,17,0,2,16
+"Brown, M.",BAL,2,4,2,5,0,2,16

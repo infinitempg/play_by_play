@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kane-Maika'i, K.",HON,3,78,12,32,13,0,0,2
-"Emoji, E.",HON,1,10,0,10,0,0,0,0
-"Thomas-Fox, D.",SJS,1,26,0,26,0,0,0,0
-"Jackson, A.",SJS,0,0,-2,0,3,0,0,2
-"PickSix, H.",SJS,4,133,0,71,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kane-Maika'i, K.",HON,3,78,12,32,13,0,0,2,11,22
+"Emoji, E.",HON,1,10,0,10,0,0,0,0,11,22
+"Thomas-Fox, D.",SJS,1,26,0,26,0,0,0,0,11,22
+"Jackson, A.",SJS,0,0,-2,0,3,0,0,2,11,22
+"PickSix, H.",SJS,4,133,0,71,0,0,0,0,11,22

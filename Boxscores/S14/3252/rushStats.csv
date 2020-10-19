@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Danielsson, A.",NO,18,115,6.4,32,0
-"Maximus III, B.",NO,10,8,0.8,11,0
-"Cansino, D.",COL,8,16,2,4,0
-"McCormick, M.",COL,1,7,7,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Danielsson, A.",NO,18,115,6.4,32,0,12,14
+"Maximus III, B.",NO,10,8,0.8,11,0,12,14
+"Cansino, D.",COL,8,16,2,4,0,12,14
+"McCormick, M.",COL,1,7,7,7,0,12,14

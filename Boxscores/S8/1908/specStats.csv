@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bly Jr., A.",COL,3,79,10,39,10,0,0,1
-"Miller, H.",COL,3,71,0,34,0,0,0,0
-"Westfield, B.",OCO,3,110,18,45,19,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bly Jr., A.",COL,3,79,10,39,10,0,0,1,8,8
+"Miller, H.",COL,3,71,0,34,0,0,0,0,8,8
+"Westfield, B.",OCO,3,110,18,45,19,0,0,2,8,8

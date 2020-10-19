@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Ramsey Jr., G.",NO,2,15,0,0
-"Spais, B.",NO,1,5,3,0
-"Thomas, S.",NO,1,5,0,0
-"Sackless, S.",NO,0,0,5,1
-"Belongwithme, H.",NO,0,0,5,0
-"Sno, F.",NO,0,0,4,0
-"Watyumaidmedu, L.",NO,0,0,2,0
-"Canton, J.",SJS,1,5,0,0
-"Probincrux III, D.",SJS,1,5,0,0
-"Jahelpme, H.",SJS,0,0,7,0
-"Brannigan, Z.",SJS,0,0,3,0
-"Rucker, F.",SJS,0,0,2,1
-"Bot, B.",SJS,0,0,1,0
-"McKoutchie, M.",SJS,0,0,1,0
-"Tacktheritrix, J.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Ramsey Jr., G.",NO,2,15,0,0,4,14
+"Spais, B.",NO,1,5,3,0,4,14
+"Thomas, S.",NO,1,5,0,0,4,14
+"Sackless, S.",NO,0,0,5,1,4,14
+"Belongwithme, H.",NO,0,0,5,0,4,14
+"Sno, F.",NO,0,0,4,0,4,14
+"Watyumaidmedu, L.",NO,0,0,2,0,4,14
+"Canton, J.",SJS,1,5,0,0,4,14
+"Probincrux III, D.",SJS,1,5,0,0,4,14
+"Jahelpme, H.",SJS,0,0,7,0,4,14
+"Brannigan, Z.",SJS,0,0,3,0,4,14
+"Rucker, F.",SJS,0,0,2,1,4,14
+"Bot, B.",SJS,0,0,1,0,4,14
+"McKoutchie, M.",SJS,0,0,1,0,4,14
+"Tacktheritrix, J.",SJS,0,0,1,0,4,14

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Swift, N.",YKW,2,57,0,42,0,0,0,0
-"Snuggles, J.",YKW,3,87,10,39,15,0,0,3
-"Lavelle Jr., D.",AUS,0,0,12,0,13,0,0,2
-"Bakshi, S.",AUS,7,207,0,91,0,1,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Swift, N.",YKW,2,57,0,42,0,0,0,0,2,20
+"Snuggles, J.",YKW,3,87,10,39,15,0,0,3,2,20
+"Lavelle Jr., D.",AUS,0,0,12,0,13,0,0,2,2,20
+"Bakshi, S.",AUS,7,207,0,91,0,1,0,0,2,20

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Owens, A.",COL,9,97,10.8,31,2
-"Sauce, E.",COL,6,37,6.2,10,1
-"Forty-Two, L.",COL,5,84,16.8,32,0
-"Bishop, J.",COL,2,32,16,22,0
-"Arrow, R.",COL,1,16,16,16,0
-"Vincent, M.",COL,1,0,0,0,0
-"Williams, D.",BAL,7,74,10.6,19,1
-"Quinn, A.",BAL,6,109,18.2,38,0
-"Maddox, E.",BAL,4,109,27.2,48,2
-"Kross, C.",BAL,2,22,11,16,0
-"Reed, A.",BAL,2,19,9.5,11,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Owens, A.",COL,9,97,10.8,31,2,7,21
+"Sauce, E.",COL,6,37,6.2,10,1,7,21
+"Forty-Two, L.",COL,5,84,16.8,32,0,7,21
+"Bishop, J.",COL,2,32,16,22,0,7,21
+"Arrow, R.",COL,1,16,16,16,0,7,21
+"Vincent, M.",COL,1,0,0,0,0,7,21
+"Williams, D.",BAL,7,74,10.6,19,1,7,21
+"Quinn, A.",BAL,6,109,18.2,38,0,7,21
+"Maddox, E.",BAL,4,109,27.2,48,2,7,21
+"Kross, C.",BAL,2,22,11,16,0,7,21
+"Reed, A.",BAL,2,19,9.5,11,1,7,21

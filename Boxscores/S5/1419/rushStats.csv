@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,10,30,3,9,0
-"Wright, O.",AZ,1,8,8,8,0
-"Kroetch, D.",PHI,19,80,4.2,13,0
-"O'Connell, K.",PHI,2,8,4,6,0
-"Milan, C.",PHI,1,2,2,2,0
-"Rove, C.",PHI,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,10,30,3,9,0,12,5
+"Wright, O.",AZ,1,8,8,8,0,12,5
+"Kroetch, D.",PHI,19,80,4.2,13,0,12,5
+"O'Connell, K.",PHI,2,8,4,6,0,12,5
+"Milan, C.",PHI,1,2,2,2,0,12,5
+"Rove, C.",PHI,1,-1,-1,0,0,12,5

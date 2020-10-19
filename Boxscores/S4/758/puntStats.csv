@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Kicksit, B.",COL,11,484,44,61,3
-"Lombardi, J.",YKW,8,338,42.2,51,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Kicksit, B.",COL,11,484,44,61,3,9,4
+"Lombardi, J.",YKW,8,338,42.2,51,0,9,4

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bigby, L.",BAL,19,85,4.5,11,1
-"Williams, D.",BAL,15,76,5.1,13,0
-"Havran, C.",BAL,6,18,3,7,1
-"Torenson, S.",PHI,27,93,3.4,9,0
-"Hank, F.",PHI,3,20,6.7,9,0
-"Dotson, F.",PHI,1,6,6,6,0
-"Phoenix, B.",PHI,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bigby, L.",BAL,19,85,4.5,11,1,7,20
+"Williams, D.",BAL,15,76,5.1,13,0,7,20
+"Havran, C.",BAL,6,18,3,7,1,7,20
+"Torenson, S.",PHI,27,93,3.4,9,0,7,20
+"Hank, F.",PHI,3,20,6.7,9,0,7,20
+"Dotson, F.",PHI,1,6,6,6,0,7,20
+"Phoenix, B.",PHI,1,2,2,2,0,7,20

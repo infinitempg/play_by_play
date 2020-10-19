@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Banana, S.",COL,3,125,41.7,51,0
-"Smalls, D.",YKW,6,267,44.5,70,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Banana, S.",COL,3,125,41.7,51,0,5,21
+"Smalls, D.",YKW,6,267,44.5,70,0,5,21

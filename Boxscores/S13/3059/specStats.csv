@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Broxton, J.",OCO,1,16,0,16,0,0,0,0
-"Bly Jr., A.",OCO,5,162,-3,103,0,1,0,1
-"Lavelle, D.",YKW,4,69,0,39,0,0,0,0
-"Wizardry, D.",YKW,4,101,40,33,25,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Broxton, J.",OCO,1,16,0,16,0,0,0,0,12,13
+"Bly Jr., A.",OCO,5,162,-3,103,0,1,0,1,12,13
+"Lavelle, D.",YKW,4,69,0,39,0,0,0,0,12,13
+"Wizardry, D.",YKW,4,101,40,33,25,0,0,3,12,13

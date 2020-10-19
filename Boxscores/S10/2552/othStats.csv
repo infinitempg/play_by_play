@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Showbiz, G.",OCO,1,10,0,0
-"Holding, H.",OCO,0,0,5,0
-"Clipping, C.",OCO,0,0,3,0
-"Falsestart, F.",OCO,0,0,2,0
-"Adams, R.",OCO,0,0,1,1
-"Tripping, T.",OCO,0,0,1,1
-"Oles, K.",SJS,2,20,0,0
-"McKoutchie, M.",SJS,1,5,7,0
-"Brannigan, Z.",SJS,1,5,2,0
-"Riddick, D.",SJS,1,5,1,0
-"Probincrux III, D.",SJS,0,0,3,0
-"Jahelpme, H.",SJS,0,0,2,0
-"Rucker, F.",SJS,0,0,1,0
-"Tacktheritrix, J.",SJS,0,0,1,0
-"Tuck Jr., T.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Showbiz, G.",OCO,1,10,0,0,8,10
+"Holding, H.",OCO,0,0,5,0,8,10
+"Clipping, C.",OCO,0,0,3,0,8,10
+"Falsestart, F.",OCO,0,0,2,0,8,10
+"Adams, R.",OCO,0,0,1,1,8,10
+"Tripping, T.",OCO,0,0,1,1,8,10
+"Oles, K.",SJS,2,20,0,0,8,10
+"McKoutchie, M.",SJS,1,5,7,0,8,10
+"Brannigan, Z.",SJS,1,5,2,0,8,10
+"Riddick, D.",SJS,1,5,1,0,8,10
+"Probincrux III, D.",SJS,0,0,3,0,8,10
+"Jahelpme, H.",SJS,0,0,2,0,8,10
+"Rucker, F.",SJS,0,0,1,0,8,10
+"Tacktheritrix, J.",SJS,0,0,1,0,8,10
+"Tuck Jr., T.",SJS,0,0,1,0,8,10

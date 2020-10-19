@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Burnsman, E.",OCO,12,48,4,13,2
-"Yates, J.",OCO,9,30,3.3,8,0
-"Smallwood, D.",NO,24,56,2.3,7,0
-"Nuck, B.",NO,19,72,3.8,8,0
-"Maximus III, B.",NO,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Burnsman, E.",OCO,12,48,4,13,2,13,8
+"Yates, J.",OCO,9,30,3.3,8,0,13,8
+"Smallwood, D.",NO,24,56,2.3,7,0,13,8
+"Nuck, B.",NO,19,72,3.8,8,0,13,8
+"Maximus III, B.",NO,1,4,4,4,0,13,8

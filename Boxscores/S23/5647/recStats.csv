@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Barker, E.",NO,4,112,28,58,0
-"Gump, F.",NO,3,45,15,23,1
-"McCormick, A.",NO,3,36,12,24,0
-"Wolfcastle, R.",NO,3,22,7.3,9,0
-"Toriki, M.",NO,2,31,15.5,20,0
-"Alexander, B.",NO,2,15,7.5,8,0
-"Kaepercolin, N.",BAL,5,68,13.6,17,1
-"Lewandowski, J.",BAL,4,56,14,30,0
-"Quinn, A.",BAL,4,49,12.2,24,0
-"Skuff, R.",BAL,3,30,10,13,0
-"Williams, D.",BAL,3,12,4,9,0
-"Kross, C.",BAL,2,11,5.5,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Barker, E.",NO,4,112,28,58,0,9,23
+"Gump, F.",NO,3,45,15,23,1,9,23
+"McCormick, A.",NO,3,36,12,24,0,9,23
+"Wolfcastle, R.",NO,3,22,7.3,9,0,9,23
+"Toriki, M.",NO,2,31,15.5,20,0,9,23
+"Alexander, B.",NO,2,15,7.5,8,0,9,23
+"Kaepercolin, N.",BAL,5,68,13.6,17,1,9,23
+"Lewandowski, J.",BAL,4,56,14,30,0,9,23
+"Quinn, A.",BAL,4,49,12.2,24,0,9,23
+"Skuff, R.",BAL,3,30,10,13,0,9,23
+"Williams, D.",BAL,3,12,4,9,0,9,23
+"Kross, C.",BAL,2,11,5.5,7,0,9,23

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Broxton, J.",OCO,2,75,0,47,0,0,0,0
-"Bly Jr., A.",OCO,2,22,9,12,9,0,0,2
-"Valentine, V.",BAL,3,63,55,27,20,0,0,4
-"Summer, A.",BAL,1,14,0,14,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Broxton, J.",OCO,2,75,0,47,0,0,0,0,10,12
+"Bly Jr., A.",OCO,2,22,9,12,9,0,0,2,10,12
+"Valentine, V.",BAL,3,63,55,27,20,0,0,4,10,12
+"Summer, A.",BAL,1,14,0,14,0,0,0,0,10,12

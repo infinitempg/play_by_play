@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gaines, N.",AUS,6,119,19.8,43,1
-"Tidwell, R.",AUS,4,107,26.8,42,0
-"Larson, P.",AUS,2,39,19.5,33,0
-"Mendonca, M.",AUS,2,15,7.5,10,0
-"Jones, K.",AUS,1,6,6,6,0
-"Kane-Maika'i, K.",HON,6,81,13.5,24,0
-"Podolak, J.",HON,5,74,14.8,29,1
-"Clay, J.",HON,4,37,9.2,17,0
-"Ruff, R.",HON,2,23,11.5,16,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gaines, N.",AUS,6,119,19.8,43,1,1,23
+"Tidwell, R.",AUS,4,107,26.8,42,0,1,23
+"Larson, P.",AUS,2,39,19.5,33,0,1,23
+"Mendonca, M.",AUS,2,15,7.5,10,0,1,23
+"Jones, K.",AUS,1,6,6,6,0,1,23
+"Kane-Maika'i, K.",HON,6,81,13.5,24,0,1,23
+"Podolak, J.",HON,5,74,14.8,29,1,1,23
+"Clay, J.",HON,4,37,9.2,17,0,1,23
+"Ruff, R.",HON,2,23,11.5,16,0,1,23

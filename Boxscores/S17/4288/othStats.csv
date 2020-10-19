@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Brown, M.",PHI,1,5,3,0
-"Bohne, D.",PHI,1,5,0,0
-"McGwire, A.",PHI,1,5,0,0
-"von Matt, J.",PHI,1,10,0,0
-"Tyler, J.",PHI,0,0,6,0
-"Hayes, R.",PHI,0,0,4,0
-"Van Buren, M.",PHI,0,0,4,0
-"Fillmore, M.",PHI,0,0,3,1
-"Hank, F.",PHI,0,0,3,0
-"Jones, V.",PHI,0,0,2,0
-"Faux, B.",CHI,3,15,0,0
-"Leaver, C.",CHI,2,21,5,0
-"Torenson, S.",CHI,2,20,0,0
-"Utchers, B.",CHI,1,10,3,0
-"Eat, M.",CHI,1,5,2,0
-"Danielsson, A.",CHI,1,5,0,0
-"Lewis, L.",CHI,1,5,0,0
-"Saul, C.",CHI,1,12,0,0
-"Walker, C.",CHI,1,5,0,0
-"Harp, D.",CHI,0,0,4,0
-"Laughter, S.",CHI,0,0,2,1
-"Lood, B.",CHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Brown, M.",PHI,1,5,3,0,1,17
+"Bohne, D.",PHI,1,5,0,0,1,17
+"McGwire, A.",PHI,1,5,0,0,1,17
+"von Matt, J.",PHI,1,10,0,0,1,17
+"Tyler, J.",PHI,0,0,6,0,1,17
+"Hayes, R.",PHI,0,0,4,0,1,17
+"Van Buren, M.",PHI,0,0,4,0,1,17
+"Fillmore, M.",PHI,0,0,3,1,1,17
+"Hank, F.",PHI,0,0,3,0,1,17
+"Jones, V.",PHI,0,0,2,0,1,17
+"Faux, B.",CHI,3,15,0,0,1,17
+"Leaver, C.",CHI,2,21,5,0,1,17
+"Torenson, S.",CHI,2,20,0,0,1,17
+"Utchers, B.",CHI,1,10,3,0,1,17
+"Eat, M.",CHI,1,5,2,0,1,17
+"Danielsson, A.",CHI,1,5,0,0,1,17
+"Lewis, L.",CHI,1,5,0,0,1,17
+"Saul, C.",CHI,1,12,0,0,1,17
+"Walker, C.",CHI,1,5,0,0,1,17
+"Harp, D.",CHI,0,0,4,0,1,17
+"Laughter, S.",CHI,0,0,2,1,1,17
+"Lood, B.",CHI,0,0,2,0,1,17

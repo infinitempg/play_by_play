@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Frost, D.",SAR,22,75,3.4,11,0
-"McTaco, P.",SAR,14,72,5.1,15,0
-"Vega, Z.",SAR,1,0,0,0,0
-"Tirtawidjaja, J.",CHI,13,64,4.9,12,0
-"Hank, F.",CHI,2,7,3.5,7,0
-"Jenkins, R.",CHI,2,11,5.5,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Frost, D.",SAR,22,75,3.4,11,0,5,22
+"McTaco, P.",SAR,14,72,5.1,15,0,5,22
+"Vega, Z.",SAR,1,0,0,0,0,5,22
+"Tirtawidjaja, J.",CHI,13,64,4.9,12,0,5,22
+"Hank, F.",CHI,2,7,3.5,7,0,5,22
+"Jenkins, R.",CHI,2,11,5.5,7,0,5,22

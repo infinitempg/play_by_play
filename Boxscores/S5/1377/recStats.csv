@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Kennedy, E.",YKW,10,149,14.9,36,2
-"Cook, B.",YKW,5,112,22.4,39,1
-"Nuck, B.",YKW,5,42,8.4,32,1
-"Law, D.",YKW,3,33,11,13,0
-"Harris Jr., F.",YKW,3,19,6.3,11,0
-"Jarden, G.",YKW,1,12,12,12,0
-"LeClair, A.",BAL,7,134,19.1,38,1
-"Willie, T.",BAL,7,98,14,53,0
-"Taylor, O.",BAL,7,39,5.6,10,0
-"Wachter, J.",BAL,5,45,9,13,0
-"Stormblessed, N.",BAL,4,103,25.8,50,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Kennedy, E.",YKW,10,149,14.9,36,2,1,5
+"Cook, B.",YKW,5,112,22.4,39,1,1,5
+"Nuck, B.",YKW,5,42,8.4,32,1,1,5
+"Law, D.",YKW,3,33,11,13,0,1,5
+"Harris Jr., F.",YKW,3,19,6.3,11,0,1,5
+"Jarden, G.",YKW,1,12,12,12,0,1,5
+"LeClair, A.",BAL,7,134,19.1,38,1,1,5
+"Willie, T.",BAL,7,98,14,53,0,1,5
+"Taylor, O.",BAL,7,39,5.6,10,0,1,5
+"Wachter, J.",BAL,5,45,9,13,0,1,5
+"Stormblessed, N.",BAL,4,103,25.8,50,0,1,5

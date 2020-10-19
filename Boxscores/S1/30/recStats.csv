@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gucci, R.",COL,6,43,7.2,15,0
-"Hendrix, K.",COL,5,79,15.8,45,1
-"Shaloiko, J.",COL,4,50,12.5,17,0
-"Law, D.",COL,3,39,13,16,1
-"Hargrove, M.",COL,3,10,3.3,6,0
-"Tiernan, L.",COL,1,8,8,8,0
-"Cook, B.",SJS,8,104,13,26,2
-"Weston, S.",SJS,5,79,15.8,43,0
-"Mademe, R.",SJS,3,20,6.7,9,0
-"Bottles, B.",SJS,3,12,4,5,0
-"Wiley, D.",SJS,2,13,6.5,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gucci, R.",COL,6,43,7.2,15,0,9,1
+"Hendrix, K.",COL,5,79,15.8,45,1,9,1
+"Shaloiko, J.",COL,4,50,12.5,17,0,9,1
+"Law, D.",COL,3,39,13,16,1,9,1
+"Hargrove, M.",COL,3,10,3.3,6,0,9,1
+"Tiernan, L.",COL,1,8,8,8,0,9,1
+"Cook, B.",SJS,8,104,13,26,2,9,1
+"Weston, S.",SJS,5,79,15.8,43,0,9,1
+"Mademe, R.",SJS,3,20,6.7,9,0,9,1
+"Bottles, B.",SJS,3,12,4,5,0,9,1
+"Wiley, D.",SJS,2,13,6.5,9,0,9,1

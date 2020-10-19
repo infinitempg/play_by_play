@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Adams, R.",OCO,21,94,4.5,13,0
-"Showbiz, G.",OCO,1,-6,-6,0,0
-"Taylor, O.",BAL,36,159,4.4,14,1
-"Harp, D.",BAL,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Adams, R.",OCO,21,94,4.5,13,0,11,10
+"Showbiz, G.",OCO,1,-6,-6,0,0,11,10
+"Taylor, O.",BAL,36,159,4.4,14,1,11,10
+"Harp, D.",BAL,1,0,0,0,0,11,10

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Wright, D.",SJS,"[19, 30]",220,11.6,2,0,107.6
-"Cue, J.",AZ,"[18, 28]",235,13.1,2,0,114.4
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Wright, D.",SJS,220,11.6,2,0,107.6,19,18,8,21
+"Cue, J.",AZ,235,13.1,2,0,114.4,19,18,8,21

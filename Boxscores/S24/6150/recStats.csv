@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McCormick, A.",NO,6,67,11.2,27,1
-"Barker, E.",NO,4,63,15.8,29,1
-"Snyder, S.",NO,2,38,19,25,0
-"Toriki, M.",NO,2,16,8,10,0
-"Gump, F.",NO,2,8,4,5,0
-"Wolfcastle, R.",NO,2,7,3.5,5,0
-"O'Leary, S.",CHI,8,87,10.9,18,1
-"Tirtawidjaja, J.",CHI,5,51,10.2,32,0
-"Rodriguez, B.",CHI,4,55,13.8,20,0
-"Gelbman, T.",CHI,3,34,11.3,14,0
-"Hayes, V.",CHI,3,14,4.7,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McCormick, A.",NO,6,67,11.2,27,1,6,24
+"Barker, E.",NO,4,63,15.8,29,1,6,24
+"Snyder, S.",NO,2,38,19,25,0,6,24
+"Toriki, M.",NO,2,16,8,10,0,6,24
+"Gump, F.",NO,2,8,4,5,0,6,24
+"Wolfcastle, R.",NO,2,7,3.5,5,0,6,24
+"O'Leary, S.",CHI,8,87,10.9,18,1,6,24
+"Tirtawidjaja, J.",CHI,5,51,10.2,32,0,6,24
+"Rodriguez, B.",CHI,4,55,13.8,20,0,6,24
+"Gelbman, T.",CHI,3,34,11.3,14,0,6,24
+"Hayes, V.",CHI,3,14,4.7,10,0,6,24

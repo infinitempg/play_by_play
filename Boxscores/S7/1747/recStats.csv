@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",PHI,8,68,8.5,19,0
-"Garden, J.",PHI,6,105,17.5,38,3
-"North, F.",PHI,4,94,23.5,43,1
-"Bush, C.",PHI,2,24,12,13,0
-"Hendrix, K.",PHI,2,12,6,9,0
-"Kroetch, D.",PHI,1,7,7,7,0
-"Mackworthy, R.",AZ,8,91,11.4,45,0
-"Chess, C.",AZ,7,104,14.9,29,0
-"Christmas, C.",AZ,6,64,10.7,34,0
-"Browning, B.",AZ,5,124,24.8,49,0
-"Wright, O.",AZ,2,24,12,15,1
-"Booter, F.",AZ,2,13,6.5,10,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",PHI,8,68,8.5,19,0,5,7
+"Garden, J.",PHI,6,105,17.5,38,3,5,7
+"North, F.",PHI,4,94,23.5,43,1,5,7
+"Bush, C.",PHI,2,24,12,13,0,5,7
+"Hendrix, K.",PHI,2,12,6,9,0,5,7
+"Kroetch, D.",PHI,1,7,7,7,0,5,7
+"Mackworthy, R.",AZ,8,91,11.4,45,0,5,7
+"Chess, C.",AZ,7,104,14.9,29,0,5,7
+"Christmas, C.",AZ,6,64,10.7,34,0,5,7
+"Browning, B.",AZ,5,124,24.8,49,0,5,7
+"Wright, O.",AZ,2,24,12,15,1,5,7
+"Booter, F.",AZ,2,13,6.5,10,1,5,7

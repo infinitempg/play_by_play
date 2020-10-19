@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,1,7,14,7,14,0,0,4
-"Oakes, B.",NO,2,60,0,32,0,0,0,0
-"Evans, D.",NO,2,46,19,25,19,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,1,7,14,7,14,0,0,4,14,6
+"Oakes, B.",NO,2,60,0,32,0,0,0,0,14,6
+"Evans, D.",NO,2,46,19,25,19,0,0,2,14,6

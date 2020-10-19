@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Christ, J.",SJS,12,45,3.8,13,0
-"Orosz, C.",SJS,12,63,5.2,14,1
-"Davenport, C.",SJS,10,40,4,9,0
-"Canton, J.",YKW,9,57,6.3,16,1
-"Marshall, M.",YKW,8,23,2.9,7,1
-"Wizardry, D.",YKW,4,8,2,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Christ, J.",SJS,12,45,3.8,13,0,11,15
+"Orosz, C.",SJS,12,63,5.2,14,1,11,15
+"Davenport, C.",SJS,10,40,4,9,0,11,15
+"Canton, J.",YKW,9,57,6.3,16,1,11,15
+"Marshall, M.",YKW,8,23,2.9,7,1,11,15
+"Wizardry, D.",YKW,4,8,2,4,0,11,15

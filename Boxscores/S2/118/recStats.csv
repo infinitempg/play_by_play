@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Stormblessed, N.",LV,6,113,18.8,33,0
-"LeClair, A.",LV,4,43,10.8,22,2
-"Tenzini, G.",LV,4,26,6.5,8,0
-"Rocket, J.",LV,3,44,14.7,27,0
-"Savea, A.",LV,3,41,13.7,27,0
-"Gibson, C.",BAL,6,53,8.8,14,1
-"Christmas, C.",BAL,2,36,18,18,0
-"Baker, J.",BAL,2,15,7.5,11,0
-"Sanderson, J.",BAL,2,12,6,8,0
-"Farlane, D.",BAL,1,5,5,5,0
-"Vincent, M.",BAL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Stormblessed, N.",LV,6,113,18.8,33,0,1,2
+"LeClair, A.",LV,4,43,10.8,22,2,1,2
+"Tenzini, G.",LV,4,26,6.5,8,0,1,2
+"Rocket, J.",LV,3,44,14.7,27,0,1,2
+"Savea, A.",LV,3,41,13.7,27,0,1,2
+"Gibson, C.",BAL,6,53,8.8,14,1,1,2
+"Christmas, C.",BAL,2,36,18,18,0,1,2
+"Baker, J.",BAL,2,15,7.5,11,0,1,2
+"Sanderson, J.",BAL,2,12,6,8,0,1,2
+"Farlane, D.",BAL,1,5,5,5,0,1,2
+"Vincent, M.",BAL,1,5,5,5,0,1,2

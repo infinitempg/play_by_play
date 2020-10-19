@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Draxel, V.",ARI,"[15, 28]",221,14.7,0,2,49.9
-"Christ, J.",SJS,"[19, 45]",194,10.2,0,2,36.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Draxel, V.",ARI,221,14.7,0,2,49.9,15,19,6,1
+"Christ, J.",SJS,194,10.2,0,2,36.7,15,19,6,1

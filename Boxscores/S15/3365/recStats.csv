@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Fyodorovich, V.",NO,6,65,10.8,18,0
-"Jones, B.",NO,4,26,6.5,10,0
-"Swift, T.",NO,3,33,11,16,0
-"Francisco, S.",NO,2,30,15,22,0
-"Halvorsen, T.",NO,1,5,5,5,0
-"Helanen, T.",YKW,5,68,13.6,24,1
-"Parker, J.",YKW,4,99,24.8,35,0
-"Wizardry, D.",YKW,4,58,14.5,33,0
-"Canton, J.",YKW,3,53,17.7,32,1
-"Swift, N.",YKW,3,42,14,20,0
-"Pennington, B.",YKW,2,19,9.5,11,0
-"Pitcher, A.",YKW,1,6,6,6,0
-"Marshall, M.",YKW,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Fyodorovich, V.",NO,6,65,10.8,18,0,3,15
+"Jones, B.",NO,4,26,6.5,10,0,3,15
+"Swift, T.",NO,3,33,11,16,0,3,15
+"Francisco, S.",NO,2,30,15,22,0,3,15
+"Halvorsen, T.",NO,1,5,5,5,0,3,15
+"Helanen, T.",YKW,5,68,13.6,24,1,3,15
+"Parker, J.",YKW,4,99,24.8,35,0,3,15
+"Wizardry, D.",YKW,4,58,14.5,33,0,3,15
+"Canton, J.",YKW,3,53,17.7,32,1,3,15
+"Swift, N.",YKW,3,42,14,20,0,3,15
+"Pennington, B.",YKW,2,19,9.5,11,0,3,15
+"Pitcher, A.",YKW,1,6,6,6,0,3,15
+"Marshall, M.",YKW,1,5,5,5,0,3,15

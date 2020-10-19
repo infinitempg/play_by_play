@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",PHI,3,75,21,28,14,0,0,3
-"Jefferson, L.",PHI,3,58,0,24,0,0,0,0
-"Delacour, A.",BAL,1,2,0,2,0,0,0,0
-"Farlane, D.",BAL,2,18,9,11,9,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",PHI,3,75,21,28,14,0,0,3,4,2
+"Jefferson, L.",PHI,3,58,0,24,0,0,0,0,4,2
+"Delacour, A.",BAL,1,2,0,2,0,0,0,0,4,2
+"Farlane, D.",BAL,2,18,9,11,9,0,0,1,4,2

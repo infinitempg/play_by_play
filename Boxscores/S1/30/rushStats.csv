@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"O'Connell, K.",COL,15,71,4.7,11,0
-"Tiernan, L.",COL,9,44,4.9,7,0
-"Tweed, B.",COL,6,17,2.8,6,0
-"Bowers Jr, V.",SJS,16,46,2.9,10,0
-"Wiley, D.",SJS,10,51,5.1,10,1
-"Hunt, E.",SJS,3,2,0.7,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"O'Connell, K.",COL,15,71,4.7,11,0,9,1
+"Tiernan, L.",COL,9,44,4.9,7,0,9,1
+"Tweed, B.",COL,6,17,2.8,6,0,9,1
+"Bowers Jr, V.",SJS,16,46,2.9,10,0,9,1
+"Wiley, D.",SJS,10,51,5.1,10,1,9,1
+"Hunt, E.",SJS,3,2,0.7,2,0,9,1

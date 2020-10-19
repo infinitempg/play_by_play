@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kane-Maika'i, K.",HON,2,79,76,44,60,0,0,4
-"Dawkins, S.",HON,1,27,0,27,0,0,0,0
-"Owens, A.",NY,4,71,0,37,0,0,0,1
-"Kingston, J.",NY,5,125,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kane-Maika'i, K.",HON,2,79,76,44,60,0,0,4,5,25
+"Dawkins, S.",HON,1,27,0,27,0,0,0,0,5,25
+"Owens, A.",NY,4,71,0,37,0,0,0,1,5,25
+"Kingston, J.",NY,5,125,0,41,0,0,0,0,5,25

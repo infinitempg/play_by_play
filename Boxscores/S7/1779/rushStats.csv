@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,12,41,3.4,7,0
-"Rainey, R.",YKW,20,75,3.8,10,0
-"Akselsen, M.",YKW,8,54,6.8,35,1
-"Harris Jr., F.",YKW,2,8,4,5,0
-"Milan, C.",YKW,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,12,41,3.4,7,0,13,7
+"Rainey, R.",YKW,20,75,3.8,10,0,13,7
+"Akselsen, M.",YKW,8,54,6.8,35,1,13,7
+"Harris Jr., F.",YKW,2,8,4,5,0,13,7
+"Milan, C.",YKW,1,0,0,0,0,13,7

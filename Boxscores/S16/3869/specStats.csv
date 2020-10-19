@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Snuggles, J.",YKW,1,7,6,7,6,0,0,1
-"Grithead, D.",YKW,4,101,0,44,0,0,0,0
-"Schmecondary2, Z.",YKW,0,0,-3,0,0,0,0,1
-"Roenick, A.",BAL,1,0,0,0,0,0,0,0
-"Maddox, E.",BAL,3,90,0,37,0,0,0,0
-"Hornbacher, A.",BAL,2,70,3,42,5,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Snuggles, J.",YKW,1,7,6,7,6,0,0,1,1,16
+"Grithead, D.",YKW,4,101,0,44,0,0,0,0,1,16
+"Schmecondary2, Z.",YKW,0,0,-3,0,0,0,0,1,1,16
+"Roenick, A.",BAL,1,0,0,0,0,0,0,0,1,16
+"Maddox, E.",BAL,3,90,0,37,0,0,0,0,1,16
+"Hornbacher, A.",BAL,2,70,3,42,5,0,0,2,1,16

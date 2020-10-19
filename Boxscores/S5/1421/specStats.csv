@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,1,1,21,1,10,0,0,3
-"Yates, J.",OCO,1,25,0,25,0,0,0,0
-"Delacour, A.",BAL,0,0,13,0,13,0,0,1
-"Willie, T.",BAL,3,81,0,30,0,0,0,0
-"LeClair, A.",BAL,4,57,0,26,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,1,1,21,1,10,0,0,3,12,5
+"Yates, J.",OCO,1,25,0,25,0,0,0,0,12,5
+"Delacour, A.",BAL,0,0,13,0,13,0,0,1,12,5
+"Willie, T.",BAL,3,81,0,30,0,0,0,0,12,5
+"LeClair, A.",BAL,4,57,0,26,0,0,0,0,12,5

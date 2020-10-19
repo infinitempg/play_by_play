@@ -1,15 +1,15 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Varga, N.",PHI,2,15,0,0
-"Hayes, R.",PHI,1,5,4,0
-"Tyler, J.",PHI,0,0,4,1
-"Tremblay, S.",PHI,0,0,3,0
-"Van Buren, M.",PHI,0,0,3,0
-"Fillmore, M.",PHI,0,0,2,0
-"Dotson, F.",PHI,0,0,1,0
-"Amper, T.",YKW,1,5,3,0
-"Kroustis, G.",YKW,1,10,0,0
-"Lee, M.",YKW,1,5,0,0
-"Ones, B.",YKW,0,0,6,0
-"Forty-Two, L.",YKW,0,0,5,0
-"Rechs, Z.",YKW,0,0,3,0
-"Rchonsucks, A.",YKW,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Varga, N.",PHI,2,15,0,0,1,24
+"Hayes, R.",PHI,1,5,4,0,1,24
+"Tyler, J.",PHI,0,0,4,1,1,24
+"Tremblay, S.",PHI,0,0,3,0,1,24
+"Van Buren, M.",PHI,0,0,3,0,1,24
+"Fillmore, M.",PHI,0,0,2,0,1,24
+"Dotson, F.",PHI,0,0,1,0,1,24
+"Amper, T.",YKW,1,5,3,0,1,24
+"Kroustis, G.",YKW,1,10,0,0,1,24
+"Lee, M.",YKW,1,5,0,0,1,24
+"Ones, B.",YKW,0,0,6,0,1,24
+"Forty-Two, L.",YKW,0,0,5,0,1,24
+"Rechs, Z.",YKW,0,0,3,0,1,24
+"Rchonsucks, A.",YKW,0,0,2,0,1,24

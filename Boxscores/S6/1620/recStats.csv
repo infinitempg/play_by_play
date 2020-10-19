@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Law, C.",AZ,10,126,12.6,35,2
-"Mackworthy, R.",AZ,6,50,8.3,14,0
-"Browning, B.",AZ,5,82,16.4,27,2
-"Christmas, C.",AZ,5,38,7.6,17,0
-"Chess, C.",AZ,4,27,6.8,11,0
-"Wright, O.",AZ,2,14,7,9,0
-"Floggity, J.",AZ,1,7,7,7,0
-"Asipi Jr., A.",AZ,1,6,6,6,0
-"Aaron, D.",COL,6,63,10.5,16,1
-"Crush, C.",COL,4,21,5.2,9,0
-"Hendrix, K.",COL,2,18,9,13,0
-"Wheat, B.",COL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Law, C.",AZ,10,126,12.6,35,2,11,6
+"Mackworthy, R.",AZ,6,50,8.3,14,0,11,6
+"Browning, B.",AZ,5,82,16.4,27,2,11,6
+"Christmas, C.",AZ,5,38,7.6,17,0,11,6
+"Chess, C.",AZ,4,27,6.8,11,0,11,6
+"Wright, O.",AZ,2,14,7,9,0,11,6
+"Floggity, J.",AZ,1,7,7,7,0,11,6
+"Asipi Jr., A.",AZ,1,6,6,6,0,11,6
+"Aaron, D.",COL,6,63,10.5,16,1,11,6
+"Crush, C.",COL,4,21,5.2,9,0,11,6
+"Hendrix, K.",COL,2,18,9,13,0,11,6
+"Wheat, B.",COL,1,8,8,8,0,11,6

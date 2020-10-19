@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Yates, J.",OCO,11,175,15.9,52,3
-"O'Sullivan, S.",OCO,10,69,6.9,17,0
-"Phelps, R.",OCO,7,93,13.3,36,0
-"Westfield, B.",OCO,6,118,19.7,39,1
-"Petrakis, A.",OCO,3,7,2.3,4,0
-"Burnsman, E.",OCO,2,2,1,2,0
-"CatchMachine9, Z.",OCO,1,3,3,3,0
-"Browning, B.",AZ,4,76,19,54,0
-"Chess, C.",AZ,4,55,13.8,26,0
-"Mackworthy, R.",AZ,4,32,8,19,0
-"Law, C.",AZ,4,24,6,7,0
-"Asipi Jr., A.",AZ,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Yates, J.",OCO,11,175,15.9,52,3,12,6
+"O'Sullivan, S.",OCO,10,69,6.9,17,0,12,6
+"Phelps, R.",OCO,7,93,13.3,36,0,12,6
+"Westfield, B.",OCO,6,118,19.7,39,1,12,6
+"Petrakis, A.",OCO,3,7,2.3,4,0,12,6
+"Burnsman, E.",OCO,2,2,1,2,0,12,6
+"CatchMachine9, Z.",OCO,1,3,3,3,0,12,6
+"Browning, B.",AZ,4,76,19,54,0,12,6
+"Chess, C.",AZ,4,55,13.8,26,0,12,6
+"Mackworthy, R.",AZ,4,32,8,19,0,12,6
+"Law, C.",AZ,4,24,6,7,0,12,6
+"Asipi Jr., A.",AZ,1,5,5,5,0,12,6

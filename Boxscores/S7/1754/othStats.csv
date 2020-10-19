@@ -1,22 +1,22 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Willey, M.",SJS,2,20,3,2
-"Smallwood, D.",SJS,1,2,2,0
-"McKoutchie, M.",SJS,0,0,8,0
-"Tacktheritrix, J.",SJS,0,0,6,0
-"Bottles, B.",SJS,0,0,4,0
-"Probincrux III, D.",SJS,0,0,4,0
-"Rucker, F.",SJS,0,0,4,0
-"Diaz, D.",SJS,0,0,1,0
-"Rchon, A.",YKW,1,10,6,0
-"McPoyal, G.",YKW,1,13,1,0
-"Cook, B.",YKW,1,9,0,0
-"Kane, M.",YKW,1,15,0,0
-"Kennedy, E.",YKW,1,5,0,0
-"Ridley, W.",YKW,1,10,0,0
-"Ones, B.",YKW,0,0,6,1
-"Pooky, S.",YKW,0,0,5,0
-"Harris Jr., F.",YKW,0,0,4,0
-"Mushing, M.",YKW,0,0,3,0
-"Rainey, R.",YKW,0,0,2,0
-"Amper, T.",YKW,0,0,1,1
-"Milan, C.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Willey, M.",SJS,2,20,3,2,7,7
+"Smallwood, D.",SJS,1,2,2,0,7,7
+"McKoutchie, M.",SJS,0,0,8,0,7,7
+"Tacktheritrix, J.",SJS,0,0,6,0,7,7
+"Bottles, B.",SJS,0,0,4,0,7,7
+"Probincrux III, D.",SJS,0,0,4,0,7,7
+"Rucker, F.",SJS,0,0,4,0,7,7
+"Diaz, D.",SJS,0,0,1,0,7,7
+"Rchon, A.",YKW,1,10,6,0,7,7
+"McPoyal, G.",YKW,1,13,1,0,7,7
+"Cook, B.",YKW,1,9,0,0,7,7
+"Kane, M.",YKW,1,15,0,0,7,7
+"Kennedy, E.",YKW,1,5,0,0,7,7
+"Ridley, W.",YKW,1,10,0,0,7,7
+"Ones, B.",YKW,0,0,6,1,7,7
+"Pooky, S.",YKW,0,0,5,0,7,7
+"Harris Jr., F.",YKW,0,0,4,0,7,7
+"Mushing, M.",YKW,0,0,3,0,7,7
+"Rainey, R.",YKW,0,0,2,0,7,7
+"Amper, T.",YKW,0,0,1,1,7,7
+"Milan, C.",YKW,0,0,1,0,7,7

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Fitzpatrick, K.",AZ,"[21, 45]",203,9.7,2,1,65.3
-"Showbiz, G.",OCO,"[24, 43]",395,16.5,3,3,81.1
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Fitzpatrick, K.",AZ,203,9.7,2,1,65.3,21,24,6,13
+"Showbiz, G.",OCO,395,16.5,3,3,81.1,21,24,6,13

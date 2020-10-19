@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,22,90,4.1,14,1
-"Cole, E.",AUS,2,7,3.5,4,0
-"Blockit, I.",AUS,1,8,8,8,0
-"Hanyadi, M.",YKW,23,113,4.9,11,0
-"Drake, O.",YKW,17,64,3.8,14,1
-"Bigsby, C.",YKW,2,1,0.5,1,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,22,90,4.1,14,1,12,21
+"Cole, E.",AUS,2,7,3.5,4,0,12,21
+"Blockit, I.",AUS,1,8,8,8,0,12,21
+"Hanyadi, M.",YKW,23,113,4.9,11,0,12,21
+"Drake, O.",YKW,17,64,3.8,14,1,12,21
+"Bigsby, C.",YKW,2,1,0.5,1,1,12,21

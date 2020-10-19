@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Swift, N.",YKW,4,107,0,34,0,0,0,0
-"Snuggles, J.",YKW,2,74,23,46,14,0,0,3
-"Danielsson, A.",CHI,3,69,0,28,0,0,0,0
-"Parker, J.",CHI,7,181,18,39,18,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Swift, N.",YKW,4,107,0,34,0,0,0,0,2,19
+"Snuggles, J.",YKW,2,74,23,46,14,0,0,3,2,19
+"Danielsson, A.",CHI,3,69,0,28,0,0,0,0,2,19
+"Parker, J.",CHI,7,181,18,39,18,0,0,1,2,19

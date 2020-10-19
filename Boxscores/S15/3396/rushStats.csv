@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Marshall, M.",YKW,15,60,4,9,1
-"Wizardry, D.",YKW,10,41,4.1,11,1
-"Canton, J.",YKW,8,35,4.4,10,0
-"Swift, T.",NO,17,76,4.5,14,0
-"Danielsson, A.",NO,6,25,4.2,6,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Marshall, M.",YKW,15,60,4,9,1,10,15
+"Wizardry, D.",YKW,10,41,4.1,11,1,10,15
+"Canton, J.",YKW,8,35,4.4,10,0,10,15
+"Swift, T.",NO,17,76,4.5,14,0,10,15
+"Danielsson, A.",NO,6,25,4.2,6,1,10,15

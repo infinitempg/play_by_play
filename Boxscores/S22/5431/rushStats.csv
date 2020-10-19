@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Leaf Jr., R.",AUS,19,74,3.9,13,0
-"Mendonca, M.",AUS,16,76,4.8,16,0
-"Cole, E.",AUS,1,24,24,24,1
-"Cardrissian, R.",SJS,15,67,4.5,22,0
-"Tyerucker, Q.",SJS,11,63,5.7,13,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Leaf Jr., R.",AUS,19,74,3.9,13,0,13,22
+"Mendonca, M.",AUS,16,76,4.8,16,0,13,22
+"Cole, E.",AUS,1,24,24,24,1,13,22
+"Cardrissian, R.",SJS,15,67,4.5,22,0,13,22
+"Tyerucker, Q.",SJS,11,63,5.7,13,0,13,22

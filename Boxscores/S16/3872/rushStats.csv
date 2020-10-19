@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Davenport, C.",SJS,15,63,4.2,10,0
-"Christ, J.",SJS,13,55,4.2,14,0
-"Orosz, C.",SJS,11,40,3.6,9,1
-"Reed, A.",OCO,13,42,3.2,6,1
-"Showbiz, G.",OCO,2,1,0.5,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Davenport, C.",SJS,15,63,4.2,10,0,1,16
+"Christ, J.",SJS,13,55,4.2,14,0,1,16
+"Orosz, C.",SJS,11,40,3.6,9,1,1,16
+"Reed, A.",OCO,13,42,3.2,6,1,1,16
+"Showbiz, G.",OCO,2,1,0.5,1,0,1,16

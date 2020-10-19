@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Nikko, G.",CHI,1,5,0,0
-"Oats, S.",CHI,1,5,0,0
-"O'Leary, S.",CHI,1,10,0,0
-"Ford Lalatina, D.",CHI,0,0,5,2
-"Bright, C.",CHI,0,0,5,0
-"Sandburg, C.",CHI,0,0,5,0
-"Gordon, B.",CHI,0,0,4,0
-"Danielsson, A.",CHI,0,0,2,1
-"Smith, G.",CHI,0,0,2,1
-"Utler, J.",CHI,0,0,1,0
-"Z, D.",CHI,0,0,1,0
-"Torenson, S.",PHI,2,20,1,1
-"Fillmore, M.",PHI,1,10,6,1
-"Hayes, R.",PHI,1,10,5,0
-"Kalilmoku, I.",PHI,1,15,0,0
-"Van Buren, M.",PHI,0,0,4,0
-"Hank, F.",PHI,0,0,3,0
-"Arthur, C.",PHI,0,0,1,0
-"Dotson, F.",PHI,0,0,1,0
-"Tyler, J.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Nikko, G.",CHI,1,5,0,0,5,19
+"Oats, S.",CHI,1,5,0,0,5,19
+"O'Leary, S.",CHI,1,10,0,0,5,19
+"Ford Lalatina, D.",CHI,0,0,5,2,5,19
+"Bright, C.",CHI,0,0,5,0,5,19
+"Sandburg, C.",CHI,0,0,5,0,5,19
+"Gordon, B.",CHI,0,0,4,0,5,19
+"Danielsson, A.",CHI,0,0,2,1,5,19
+"Smith, G.",CHI,0,0,2,1,5,19
+"Utler, J.",CHI,0,0,1,0,5,19
+"Z, D.",CHI,0,0,1,0,5,19
+"Torenson, S.",PHI,2,20,1,1,5,19
+"Fillmore, M.",PHI,1,10,6,1,5,19
+"Hayes, R.",PHI,1,10,5,0,5,19
+"Kalilmoku, I.",PHI,1,15,0,0,5,19
+"Van Buren, M.",PHI,0,0,4,0,5,19
+"Hank, F.",PHI,0,0,3,0,5,19
+"Arthur, C.",PHI,0,0,1,0,5,19
+"Dotson, F.",PHI,0,0,1,0,5,19
+"Tyler, J.",PHI,0,0,1,0,5,19

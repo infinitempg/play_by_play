@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Quail, D.",OCO,1,5,3,0
-"Johns, A.",OCO,1,10,2,0
-"Edd, B.",OCO,1,5,0,0
-"Harrison, H.",OCO,0,0,4,0
-"Iridian, G.",OCO,0,0,4,0
-"Pak, Y.",OCO,0,0,2,0
-"Phillips, J.",OCO,0,0,2,0
-"Vassallo, S.",CHI,3,15,0,0
-"Okusi, R.",CHI,2,10,0,0
-"Lesnar, B.",CHI,1,10,4,0
-"Hank, F.",CHI,1,15,1,0
-"McCringleberry, H.",CHI,1,5,0,0
-"O'Leary, S.",CHI,1,10,0,0
-"Bayley Jr., B.",CHI,0,0,9,0
-"Tucker Jr., P.",CHI,0,0,6,0
-"LaFleur, F.",CHI,0,0,4,1
-"Ahstreet, C.",CHI,0,0,3,0
-"Hayes, V.",CHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Quail, D.",OCO,1,5,3,0,9,23
+"Johns, A.",OCO,1,10,2,0,9,23
+"Edd, B.",OCO,1,5,0,0,9,23
+"Harrison, H.",OCO,0,0,4,0,9,23
+"Iridian, G.",OCO,0,0,4,0,9,23
+"Pak, Y.",OCO,0,0,2,0,9,23
+"Phillips, J.",OCO,0,0,2,0,9,23
+"Vassallo, S.",CHI,3,15,0,0,9,23
+"Okusi, R.",CHI,2,10,0,0,9,23
+"Lesnar, B.",CHI,1,10,4,0,9,23
+"Hank, F.",CHI,1,15,1,0,9,23
+"McCringleberry, H.",CHI,1,5,0,0,9,23
+"O'Leary, S.",CHI,1,10,0,0,9,23
+"Bayley Jr., B.",CHI,0,0,9,0,9,23
+"Tucker Jr., P.",CHI,0,0,6,0,9,23
+"LaFleur, F.",CHI,0,0,4,1,9,23
+"Ahstreet, C.",CHI,0,0,3,0,9,23
+"Hayes, V.",CHI,0,0,1,0,9,23

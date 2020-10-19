@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Snuggles, J.",YKW,3,42,19,24,19,0,0,1
-"Hornbacher, A.",YKW,1,26,0,26,0,0,0,0
-"Bigby, L.",BAL,1,1,0,1,0,0,0,0
-"Maddox, E.",BAL,3,25,1,10,5,0,0,3
-"Sunnycursed, N.",BAL,2,53,0,40,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Snuggles, J.",YKW,3,42,19,24,19,0,0,1,6,18
+"Hornbacher, A.",YKW,1,26,0,26,0,0,0,0,6,18
+"Bigby, L.",BAL,1,1,0,1,0,0,0,0,6,18
+"Maddox, E.",BAL,3,25,1,10,5,0,0,3,6,18
+"Sunnycursed, N.",BAL,2,53,0,40,0,0,0,0,6,18

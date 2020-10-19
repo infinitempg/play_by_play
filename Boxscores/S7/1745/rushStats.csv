@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,19,73,3.8,13,1
-"Akselsen, M.",YKW,12,92,7.7,27,0
-"Milan, C.",YKW,1,0,0,0,0
-"Burnsman, E.",OCO,11,29,2.6,7,0
-"O'Sullivan, S.",OCO,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,19,73,3.8,13,1,5,7
+"Akselsen, M.",YKW,12,92,7.7,27,0,5,7
+"Milan, C.",YKW,1,0,0,0,0,5,7
+"Burnsman, E.",OCO,11,29,2.6,7,0,5,7
+"O'Sullivan, S.",OCO,1,0,0,0,0,5,7

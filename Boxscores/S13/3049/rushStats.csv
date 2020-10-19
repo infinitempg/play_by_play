@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Trevor, C.",BAL,16,96,6,34,0
-"Gambino, C.",BAL,2,16,8,11,0
-"Canton, J.",SJS,17,80,4.7,14,0
-"Orosz, C.",SJS,15,61,4.1,9,1
-"Christ, J.",SJS,3,8,2.7,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Trevor, C.",BAL,16,96,6,34,0,10,13
+"Gambino, C.",BAL,2,16,8,11,0,10,13
+"Canton, J.",SJS,17,80,4.7,14,0,10,13
+"Orosz, C.",SJS,15,61,4.1,9,1,10,13
+"Christ, J.",SJS,3,8,2.7,6,0,10,13

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Chan, R.",SAR,17,46,2.7,10,0
-"Back, R.",SAR,9,44,4.9,12,0
-"Banks II, D.",SAR,6,52,8.7,22,0
-"Keppler, Z.",AZ,13,37,2.8,7,0
-"Cue, J.",AZ,7,32,4.6,21,1
-"Petrongolo, J.",AZ,7,30,4.3,12,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Chan, R.",SAR,17,46,2.7,10,0,10,24
+"Back, R.",SAR,9,44,4.9,12,0,10,24
+"Banks II, D.",SAR,6,52,8.7,22,0,10,24
+"Keppler, Z.",AZ,13,37,2.8,7,0,10,24
+"Cue, J.",AZ,7,32,4.6,21,1,10,24
+"Petrongolo, J.",AZ,7,30,4.3,12,0,10,24

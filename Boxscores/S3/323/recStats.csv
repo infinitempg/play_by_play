@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Garden, J.",YKW,5,104,20.8,31,1
-"Cook, B.",YKW,4,104,26,32,0
-"Askins, J.",YKW,4,42,10.5,23,0
-"Law, D.",YKW,3,48,16,30,1
-"Nuck, B.",YKW,2,9,4.5,9,0
-"Piper, W.",YKW,1,0,0,0,0
-"Smallwood, D.",SJS,7,79,11.3,21,0
-"Jackson, M.",SJS,6,110,18.3,38,1
-"Weston, S.",SJS,5,101,20.2,26,1
-"Bottles, B.",SJS,4,27,6.8,9,1
-"Durden, J.",SJS,3,19,6.3,8,0
-"Diaz, D.",SJS,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Garden, J.",YKW,5,104,20.8,31,1,12,3
+"Cook, B.",YKW,4,104,26,32,0,12,3
+"Askins, J.",YKW,4,42,10.5,23,0,12,3
+"Law, D.",YKW,3,48,16,30,1,12,3
+"Nuck, B.",YKW,2,9,4.5,9,0,12,3
+"Piper, W.",YKW,1,0,0,0,0,12,3
+"Smallwood, D.",SJS,7,79,11.3,21,0,12,3
+"Jackson, M.",SJS,6,110,18.3,38,1,12,3
+"Weston, S.",SJS,5,101,20.2,26,1,12,3
+"Bottles, B.",SJS,4,27,6.8,9,1,12,3
+"Durden, J.",SJS,3,19,6.3,8,0,12,3
+"Diaz, D.",SJS,1,9,9,9,0,12,3

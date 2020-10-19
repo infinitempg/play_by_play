@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Tidwell, R.",AUS,6,96,16,28,1
-"Blockerman, F.",AUS,5,45,9,23,0
-"Mendonca, M.",AUS,5,22,4.4,9,0
-"Anoa'i, D.",AUS,4,52,13,17,0
-"Larson, P.",AUS,4,35,8.8,27,0
-"Blockit, I.",AUS,1,5,5,5,0
-"Valentine, V.",NO,7,113,16.1,37,1
-"Rodriguez, B.",NO,3,20,6.7,8,0
-"Gump, F.",NO,3,17,5.7,8,0
-"Jones, B.",NO,2,20,10,11,0
-"Fyodorovich, V.",NO,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Tidwell, R.",AUS,6,96,16,28,1,2,19
+"Blockerman, F.",AUS,5,45,9,23,0,2,19
+"Mendonca, M.",AUS,5,22,4.4,9,0,2,19
+"Anoa'i, D.",AUS,4,52,13,17,0,2,19
+"Larson, P.",AUS,4,35,8.8,27,0,2,19
+"Blockit, I.",AUS,1,5,5,5,0,2,19
+"Valentine, V.",NO,7,113,16.1,37,1,2,19
+"Rodriguez, B.",NO,3,20,6.7,8,0,2,19
+"Gump, F.",NO,3,17,5.7,8,0,2,19
+"Jones, B.",NO,2,20,10,11,0,2,19
+"Fyodorovich, V.",NO,1,8,8,8,0,2,19

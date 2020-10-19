@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Mongo, H.",OCO,3,82,27.3,55,0
-"Blaze, J.",OCO,3,67,22.3,34,0
-"Banks II, D.",OCO,2,49,24.5,32,1
-"Owens, A.",COL,6,76,12.7,26,0
-"McMahon, J.",COL,5,65,13,21,0
-"Bishop, J.",COL,5,63,12.6,36,1
-"Forty-Two, L.",COL,3,44,14.7,23,0
-"King, A.",COL,3,23,7.7,11,0
-"Vincent, M.",COL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Mongo, H.",OCO,3,82,27.3,55,0,4,20
+"Blaze, J.",OCO,3,67,22.3,34,0,4,20
+"Banks II, D.",OCO,2,49,24.5,32,1,4,20
+"Owens, A.",COL,6,76,12.7,26,0,4,20
+"McMahon, J.",COL,5,65,13,21,0,4,20
+"Bishop, J.",COL,5,63,12.6,36,1,4,20
+"Forty-Two, L.",COL,3,44,14.7,23,0,4,20
+"King, A.",COL,3,23,7.7,11,0,4,20
+"Vincent, M.",COL,1,8,8,8,0,4,20

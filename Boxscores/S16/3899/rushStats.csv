@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bigby, L.",BAL,13,64,4.9,11,0
-"Jimbo, D.",BAL,10,45,4.5,17,1
-"Brown, M.",BAL,9,35,3.9,9,1
-"Taffy, T.",COL,31,112,3.6,9,0
-"Carrasco, T.",COL,12,60,5,11,0
-"McDummy, W.",COL,2,3,1.5,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bigby, L.",BAL,13,64,4.9,11,0,7,16
+"Jimbo, D.",BAL,10,45,4.5,17,1,7,16
+"Brown, M.",BAL,9,35,3.9,9,1,7,16
+"Taffy, T.",COL,31,112,3.6,9,0,7,16
+"Carrasco, T.",COL,12,60,5,11,0,7,16
+"McDummy, W.",COL,2,3,1.5,3,0,7,16

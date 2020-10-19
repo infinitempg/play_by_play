@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Lackson, J.",SJS,19,62,3.3,8,0
-"Cardrissian, R.",SJS,18,68,3.8,9,0
-"Nakamura, T.",OCO,19,53,2.8,7,0
-"Armstrong, F.",OCO,5,26,5.2,16,0
-"McZeal, K.",OCO,2,12,6,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Lackson, J.",SJS,19,62,3.3,8,0,2,24
+"Cardrissian, R.",SJS,18,68,3.8,9,0,2,24
+"Nakamura, T.",OCO,19,53,2.8,7,0,2,24
+"Armstrong, F.",OCO,5,26,5.2,16,0,2,24
+"McZeal, K.",OCO,2,12,6,7,0,2,24

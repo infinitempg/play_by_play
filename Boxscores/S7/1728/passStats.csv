@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Applehort, R.",COL,"[14, 40]",166,11.9,1,2,36
-"Akselsen, M.",YKW,"[26, 41]",379,14.6,1,1,91.4
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Applehort, R.",COL,166,11.9,1,2,36,14,26,1,7
+"Akselsen, M.",YKW,379,14.6,1,1,91.4,14,26,1,7

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",NO,21,98,4.7,15,0
-"Maximus III, B.",NO,1,3,3,3,0
-"Kroetch, D.",PHI,18,79,4.4,10,1
-"Bush, C.",PHI,12,78,6.5,15,0
-"Oles, T.",PHI,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",NO,21,98,4.7,15,0,7,7
+"Maximus III, B.",NO,1,3,3,3,0,7,7
+"Kroetch, D.",PHI,18,79,4.4,10,1,7,7
+"Bush, C.",PHI,12,78,6.5,15,0,7,7
+"Oles, T.",PHI,1,5,5,5,0,7,7

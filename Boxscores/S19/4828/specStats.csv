@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle Jr., D.",AUS,2,41,18,34,18,0,0,1
-"Jensen, C.",AUS,4,90,0,31,0,0,0,0
-"Thomas-Fox, D.",SJS,3,48,0,27,0,0,0,0
-"Staley, T.",SJS,1,35,0,35,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle Jr., D.",AUS,2,41,18,34,18,0,0,1,5,19
+"Jensen, C.",AUS,4,90,0,31,0,0,0,0,5,19
+"Thomas-Fox, D.",SJS,3,48,0,27,0,0,0,0,5,19
+"Staley, T.",SJS,1,35,0,35,0,0,0,0,5,19

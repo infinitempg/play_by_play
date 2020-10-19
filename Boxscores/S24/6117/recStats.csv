@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Trunks, F.",OCO,6,106,17.7,42,0
-"George, D.",OCO,6,41,6.8,13,0
-"Phillips, J.",OCO,4,63,15.8,22,0
-"Nakamura, T.",OCO,3,21,7,8,0
-"Despacito Jr., G.",OCO,2,34,17,28,0
-"Mongo, H.",OCO,1,9,9,9,0
-"Barker, E.",NO,4,56,14,29,0
-"McCormick, A.",NO,3,41,13.7,25,0
-"Gump, F.",NO,1,16,16,16,0
-"Bodenhamer, B.",NO,1,7,7,7,0
-"Toriki, M.",NO,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Trunks, F.",OCO,6,106,17.7,42,0,12,24
+"George, D.",OCO,6,41,6.8,13,0,12,24
+"Phillips, J.",OCO,4,63,15.8,22,0,12,24
+"Nakamura, T.",OCO,3,21,7,8,0,12,24
+"Despacito Jr., G.",OCO,2,34,17,28,0,12,24
+"Mongo, H.",OCO,1,9,9,9,0,12,24
+"Barker, E.",NO,4,56,14,29,0,12,24
+"McCormick, A.",NO,3,41,13.7,25,0,12,24
+"Gump, F.",NO,1,16,16,16,0,12,24
+"Bodenhamer, B.",NO,1,7,7,7,0,12,24
+"Toriki, M.",NO,1,5,5,5,0,12,24

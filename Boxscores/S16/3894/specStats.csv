@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Maddox, E.",BAL,5,174,0,84,0,0,0,0
-"Hornbacher, A.",BAL,3,133,3,99,3,0,0,1
-"Snuggles, J.",YKW,2,70,0,39,0,0,0,0
-"Grithead, D.",YKW,3,98,0,37,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Maddox, E.",BAL,5,174,0,84,0,0,0,0,6,16
+"Hornbacher, A.",BAL,3,133,3,99,3,0,0,1,6,16
+"Snuggles, J.",YKW,2,70,0,39,0,0,0,0,6,16
+"Grithead, D.",YKW,3,98,0,37,0,0,0,0,6,16

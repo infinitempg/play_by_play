@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hardwick, S.",AZ,4,48,12,17,0
-"Willie, T.",AZ,4,23,5.8,10,1
-"Rudd, E.",AZ,4,21,5.2,6,0
-"Moore, S.",AZ,3,30,10,11,0
-"Hasselhoff, F.",AZ,1,23,23,23,0
-"Shady, S.",AZ,1,15,15,15,0
-"Goomba, M.",AZ,1,1,1,1,0
-"von Matt, J.",PHI,7,133,19,43,1
-"Batoff, R.",PHI,7,84,12,37,0
-"Bush, C.",PHI,5,97,19.4,34,2
-"Davenport, C.",PHI,5,55,11,19,0
-"Boija, F.",PHI,2,15,7.5,9,0
-"McCargue, B.",PHI,2,3,1.5,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hardwick, S.",AZ,4,48,12,17,0,8,14
+"Willie, T.",AZ,4,23,5.8,10,1,8,14
+"Rudd, E.",AZ,4,21,5.2,6,0,8,14
+"Moore, S.",AZ,3,30,10,11,0,8,14
+"Hasselhoff, F.",AZ,1,23,23,23,0,8,14
+"Shady, S.",AZ,1,15,15,15,0,8,14
+"Goomba, M.",AZ,1,1,1,1,0,8,14
+"von Matt, J.",PHI,7,133,19,43,1,8,14
+"Batoff, R.",PHI,7,84,12,37,0,8,14
+"Bush, C.",PHI,5,97,19.4,34,2,8,14
+"Davenport, C.",PHI,5,55,11,19,0,8,14
+"Boija, F.",PHI,2,15,7.5,9,0,8,14
+"McCargue, B.",PHI,2,3,1.5,2,0,8,14

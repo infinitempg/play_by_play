@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"D'Attoria V, R.",PHI,2,58,0,40,0,0,0,0
-"Panda, F.",PHI,2,45,17,30,14,0,0,3
-"Owens, A.",COL,5,115,-2,40,0,0,0,1
-"Purchase, L.",COL,2,66,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"D'Attoria V, R.",PHI,2,58,0,40,0,0,0,0,12,23
+"Panda, F.",PHI,2,45,17,30,14,0,0,3,12,23
+"Owens, A.",COL,5,115,-2,40,0,0,0,1,12,23
+"Purchase, L.",COL,2,66,0,34,0,0,0,0,12,23

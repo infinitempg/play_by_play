@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,25,94,3.8,18,0
-"Booter, F.",AZ,1,0,0,0,0
-"Yates, J.",OCO,11,41,3.7,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,25,94,3.8,18,0,13,9
+"Booter, F.",AZ,1,0,0,0,0,13,9
+"Yates, J.",OCO,11,41,3.7,9,0,13,9

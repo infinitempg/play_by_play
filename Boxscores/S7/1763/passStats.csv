@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Orosz, C.",SJS,"[26, 47]",291,11.2,1,0,81.1
-"Maximus III, B.",NO,"[26, 57]",340,13.1,2,1,69.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Orosz, C.",SJS,291,11.2,1,0,81.1,26,26,9,7
+"Maximus III, B.",NO,340,13.1,2,1,69.3,26,26,9,7

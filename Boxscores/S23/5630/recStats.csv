@@ -1,8 +1,8 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Evans, H.",AZ,6,68,11.3,24,0
-"Donut, S.",AZ,5,121,24.2,45,1
-"Yoda, B.",AZ,5,29,5.8,12,0
-"Passmann, T.",AZ,4,39,9.8,15,0
-"Bur'Berry, J.",AZ,2,19,9.5,13,0
-"Kaepercolin, N.",BAL,2,27,13.5,15,1
-"Quinn, A.",BAL,1,12,12,12,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Evans, H.",AZ,6,68,11.3,24,0,6,23
+"Donut, S.",AZ,5,121,24.2,45,1,6,23
+"Yoda, B.",AZ,5,29,5.8,12,0,6,23
+"Passmann, T.",AZ,4,39,9.8,15,0,6,23
+"Bur'Berry, J.",AZ,2,19,9.5,13,0,6,23
+"Kaepercolin, N.",BAL,2,27,13.5,15,1,6,23
+"Quinn, A.",BAL,1,12,12,12,0,6,23

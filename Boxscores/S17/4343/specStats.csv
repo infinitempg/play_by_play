@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,2,41,22,32,15,0,0,2
-"Fyodorovich, V.",NO,2,48,0,34,0,0,0,0
-"Lewis, L.",CHI,4,63,0,36,0,0,0,0
-"Oles, K.",CHI,2,55,8,29,8,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,2,41,22,32,15,0,0,2,12,17
+"Fyodorovich, V.",NO,2,48,0,34,0,0,0,0,12,17
+"Lewis, L.",CHI,4,63,0,36,0,0,0,0,12,17
+"Oles, K.",CHI,2,55,8,29,8,0,0,1,12,17

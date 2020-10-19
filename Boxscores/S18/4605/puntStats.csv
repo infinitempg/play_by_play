@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Frost, A.",NO,4,161,40.2,53,1
-"Donaldson, N.",YKW,3,135,45,47,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Frost, A.",NO,4,161,40.2,53,1,10,18
+"Donaldson, N.",YKW,3,135,45,47,1,10,18

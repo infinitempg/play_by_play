@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,0,0,-3,0,0,0,0,2
-"Atwell, T.",OCO,3,76,0,37,0,0,0,0
-"Weston, S.",SJS,6,147,7,35,7,0,0,1
-"Canton, J.",SJS,2,71,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,0,0,-3,0,0,0,0,2,1,9
+"Atwell, T.",OCO,3,76,0,37,0,0,0,0,1,9
+"Weston, S.",SJS,6,147,7,35,7,0,0,1,1,9
+"Canton, J.",SJS,2,71,0,38,0,0,0,0,1,9

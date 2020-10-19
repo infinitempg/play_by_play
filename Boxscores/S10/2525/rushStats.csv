@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,29,114,3.9,14,2
-"Maximus III, B.",NO,1,1,1,1,0
-"Brown, M.",PHI,29,126,4.3,12,0
-"O'Sullivan, C.",PHI,8,11,1.4,4,0
-"Noble, L.",PHI,2,2,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,29,114,3.9,14,2,1,10
+"Maximus III, B.",NO,1,1,1,1,0,1,10
+"Brown, M.",PHI,29,126,4.3,12,0,1,10
+"O'Sullivan, C.",PHI,8,11,1.4,4,0,1,10
+"Noble, L.",PHI,2,2,1,1,0,1,10

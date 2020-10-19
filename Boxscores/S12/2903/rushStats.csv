@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Summer, A.",BAL,13,39,3,7,0
-"Taylor, O.",BAL,5,22,4.4,10,1
-"Gore, B.",NO,10,47,4.7,17,0
-"Maximus III, B.",NO,6,5,0.8,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Summer, A.",BAL,13,39,3,7,0,7,12
+"Taylor, O.",BAL,5,22,4.4,10,1,7,12
+"Gore, B.",NO,10,47,4.7,17,0,7,12
+"Maximus III, B.",NO,6,5,0.8,7,0,7,12

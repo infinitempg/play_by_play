@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Oles, K.",CHI,5,99,19.8,31,0
-"Adams, R.",CHI,3,49,16.3,21,0
-"Harp, D.",CHI,1,10,10,10,0
-"Hasselhoff, F.",CHI,1,8,8,8,1
-"Batoff, R.",CHI,1,5,5,5,0
-"Valentine, V.",OCO,8,126,15.8,32,0
-"Blaze, J.",OCO,5,61,12.2,27,0
-"Sunnycursed, N.",OCO,4,97,24.2,38,0
-"Pitcher, A.",OCO,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Oles, K.",CHI,5,99,19.8,31,0,12,16
+"Adams, R.",CHI,3,49,16.3,21,0,12,16
+"Harp, D.",CHI,1,10,10,10,0,12,16
+"Hasselhoff, F.",CHI,1,8,8,8,1,12,16
+"Batoff, R.",CHI,1,5,5,5,0,12,16
+"Valentine, V.",OCO,8,126,15.8,32,0,12,16
+"Blaze, J.",OCO,5,61,12.2,27,0,12,16
+"Sunnycursed, N.",OCO,4,97,24.2,38,0,12,16
+"Pitcher, A.",OCO,1,0,0,0,0,12,16

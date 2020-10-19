@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ruff, R.",AZ,17,91,5.4,16,2
-"Cue, J.",AZ,6,36,6,31,0
-"Allan, C.",AZ,1,1,1,1,0
-"Irving, J.",AZ,1,12,12,12,0
-"Danielsson, A.",CHI,18,72,4,9,2
-"Utler, J.",CHI,5,17,3.4,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ruff, R.",AZ,17,91,5.4,16,2,11,20
+"Cue, J.",AZ,6,36,6,31,0,11,20
+"Allan, C.",AZ,1,1,1,1,0,11,20
+"Irving, J.",AZ,1,12,12,12,0,11,20
+"Danielsson, A.",CHI,18,72,4,9,2,11,20
+"Utler, J.",CHI,5,17,3.4,5,0,11,20

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crush, C.",COL,7,81,11.6,15,0
-"Aaron, D.",COL,4,59,14.8,23,0
-"Miller, H.",COL,4,40,10,15,1
-"Nuck, B.",COL,3,12,4,9,0
-"Wheat, B.",COL,1,16,16,16,0
-"LeClair, A.",BAL,6,105,17.5,30,2
-"Willie, T.",BAL,5,62,12.4,20,0
-"Taylor, O.",BAL,5,24,4.8,8,1
-"L'Alto, V.",BAL,4,15,3.8,5,0
-"Wachter, J.",BAL,3,43,14.3,16,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crush, C.",COL,7,81,11.6,15,0,5,7
+"Aaron, D.",COL,4,59,14.8,23,0,5,7
+"Miller, H.",COL,4,40,10,15,1,5,7
+"Nuck, B.",COL,3,12,4,9,0,5,7
+"Wheat, B.",COL,1,16,16,16,0,5,7
+"LeClair, A.",BAL,6,105,17.5,30,2,5,7
+"Willie, T.",BAL,5,62,12.4,20,0,5,7
+"Taylor, O.",BAL,5,24,4.8,8,1,5,7
+"L'Alto, V.",BAL,4,15,3.8,5,0,5,7
+"Wachter, J.",BAL,3,43,14.3,16,0,5,7

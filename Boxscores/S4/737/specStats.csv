@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,1,42,0,42,0,0,0,0
-"Evans, D.",ARI,2,19,0,13,0,0,0,0
-"Garden, J.",ARI,0,0,20,0,14,0,0,2
-"Oles, T.",PHI,2,56,0,29,0,0,0,0
-"Kroetch, D.",PHI,3,102,0,75,0,0,0,0
-"Cushing, K.",PHI,0,0,-1,0,0,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,1,42,0,42,0,0,0,0,4,4
+"Evans, D.",ARI,2,19,0,13,0,0,0,0,4,4
+"Garden, J.",ARI,0,0,20,0,14,0,0,2,4,4
+"Oles, T.",PHI,2,56,0,29,0,0,0,0,4,4
+"Kroetch, D.",PHI,3,102,0,75,0,0,0,0,4,4
+"Cushing, K.",PHI,0,0,-1,0,0,0,0,1,4,4

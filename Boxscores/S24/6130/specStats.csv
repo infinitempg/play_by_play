@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,3,101,19,43,13,0,0,3
-"Purchase, L.",COL,2,79,0,49,0,0,0,0
-"Rector, D.",NO,2,75,0,38,0,0,0,0
-"Blaylock, M.",NO,5,136,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,3,101,19,43,13,0,0,3,10,24
+"Purchase, L.",COL,2,79,0,49,0,0,0,0,10,24
+"Rector, D.",NO,2,75,0,38,0,0,0,0,10,24
+"Blaylock, M.",NO,5,136,0,41,0,0,0,0,10,24

@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Corbett, K.",COL,1,39,39,39,0
-"Fulture, K.",PHI,8,347,43.4,55,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Corbett, K.",COL,1,39,39,39,0,5,13
+"Fulture, K.",PHI,8,347,43.4,55,1,5,13

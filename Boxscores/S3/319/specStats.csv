@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"LeClair, A.",LV,6,180,0,37,0,0,0,0
-"Ross, J.",LV,2,51,12,35,12,0,0,2
-"Wright, O.",PHI,4,81,21,29,12,0,0,2
-"Jefferson, L.",PHI,1,9,0,9,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"LeClair, A.",LV,6,180,0,37,0,0,0,0,11,3
+"Ross, J.",LV,2,51,12,35,12,0,0,2,11,3
+"Wright, O.",PHI,4,81,21,29,12,0,0,2,11,3
+"Jefferson, L.",PHI,1,9,0,9,0,0,0,0,11,3

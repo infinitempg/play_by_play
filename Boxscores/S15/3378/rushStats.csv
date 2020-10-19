@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,28,128,4.6,10,1
-"Adams, R.",AZ,12,58,4.8,13,0
-"Reed, A.",OCO,12,38,3.2,11,0
-"Zephyrous, S.",OCO,7,66,9.4,26,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,28,128,4.6,10,1,6,15
+"Adams, R.",AZ,12,58,4.8,13,0,6,15
+"Reed, A.",OCO,12,38,3.2,11,0,6,15
+"Zephyrous, S.",OCO,7,66,9.4,26,0,6,15

@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,20,102,5.1,10,0
-"Cole, E.",AUS,8,68,8.5,23,0
-"Blockit, I.",AUS,1,4,4,4,0
-"Tyerucker, Q.",SJS,19,92,4.8,10,1
-"Wright, D.",SJS,5,10,2,7,0
-"Blockerman, F.",SJS,1,1,1,1,0
-"Boija, F.",SJS,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,20,102,5.1,10,0,6,20
+"Cole, E.",AUS,8,68,8.5,23,0,6,20
+"Blockit, I.",AUS,1,4,4,4,0,6,20
+"Tyerucker, Q.",SJS,19,92,4.8,10,1,6,20
+"Wright, D.",SJS,5,10,2,7,0,6,20
+"Blockerman, F.",SJS,1,1,1,1,0,6,20
+"Boija, F.",SJS,1,4,4,4,0,6,20

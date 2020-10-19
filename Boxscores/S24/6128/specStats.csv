@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Chan, R.",SAR,4,47,22,25,17,0,0,2
-"Adams, X.",SAR,1,41,0,41,0,0,0,0
-"Donut, S.",AZ,2,13,0,12,0,0,0,0
-"Scarlett, D.",AZ,3,60,11,42,9,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Chan, R.",SAR,4,47,22,25,17,0,0,2,10,24
+"Adams, X.",SAR,1,41,0,41,0,0,0,0,10,24
+"Donut, S.",AZ,2,13,0,12,0,0,0,0,10,24
+"Scarlett, D.",AZ,3,60,11,42,9,0,0,3,10,24

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Francisco, S.",NO,"[17, 26]",234,13.8,3,0,132.5
-"McDummy, W.",COL,"[30, 50]",287,9.6,1,1,74.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Francisco, S.",NO,234,13.8,3,0,132.5,17,30,4,21
+"McDummy, W.",COL,287,9.6,1,1,74.3,17,30,4,21

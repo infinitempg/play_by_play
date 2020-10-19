@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Townsend, F.",NO,2,19,0,0
-"Watyumaidmedu, L.",NO,1,5,3,0
-"Swift, T.",NO,1,10,0,0
-"Belongwithme, H.",NO,0,0,6,0
-"Sno, F.",NO,0,0,3,0
-"Sackless, S.",NO,0,0,2,1
-"Spais, B.",NO,0,0,1,0
-"Dye, A.",OCO,1,5,4,0
-"Ramsey Jr., G.",OCO,1,15,0,0
-"Pak, Y.",OCO,0,0,4,0
-"Pitcher, A.",OCO,0,0,4,0
-"Harrison, H.",OCO,0,0,3,0
-"Wokkenfuss, G.",OCO,0,0,3,0
-"Reed, A.",OCO,0,0,2,0
-"Blaze, J.",OCO,0,0,1,0
-"Johns, A.",OCO,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Townsend, F.",NO,2,19,0,0,5,17
+"Watyumaidmedu, L.",NO,1,5,3,0,5,17
+"Swift, T.",NO,1,10,0,0,5,17
+"Belongwithme, H.",NO,0,0,6,0,5,17
+"Sno, F.",NO,0,0,3,0,5,17
+"Sackless, S.",NO,0,0,2,1,5,17
+"Spais, B.",NO,0,0,1,0,5,17
+"Dye, A.",OCO,1,5,4,0,5,17
+"Ramsey Jr., G.",OCO,1,15,0,0,5,17
+"Pak, Y.",OCO,0,0,4,0,5,17
+"Pitcher, A.",OCO,0,0,4,0,5,17
+"Harrison, H.",OCO,0,0,3,0,5,17
+"Wokkenfuss, G.",OCO,0,0,3,0,5,17
+"Reed, A.",OCO,0,0,2,0,5,17
+"Blaze, J.",OCO,0,0,1,0,5,17
+"Johns, A.",OCO,0,0,1,0,5,17

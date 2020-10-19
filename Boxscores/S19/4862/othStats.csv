@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Bright, C.",CHI,1,5,2,0
-"Utler, J.",CHI,1,5,1,0
-"Danielsson, A.",CHI,1,10,0,0
-"Henry, J.",CHI,1,5,0,0
-"Leaf Jr., R.",CHI,1,13,0,0
-"Sandburg, C.",CHI,0,0,8,0
-"Smith, G.",CHI,0,0,6,0
-"Ford Lalatina, D.",CHI,0,0,4,0
-"Gordon, B.",CHI,0,0,4,0
-"Harp, D.",CHI,0,0,1,0
-"Beaver-Dantes, E.",AUS,2,10,1,1
-"Tidwell, R.",AUS,2,10,0,0
-"Mendonca, M.",AUS,1,5,2,0
-"Bakshi, S.",AUS,1,5,0,0
-"Kuusela, G.",AUS,1,14,0,0
-"A'Little, L.",AUS,0,0,5,0
-"Larson, P.",AUS,0,0,4,0
-"A'Ton, L.",AUS,0,0,3,1
-"A'Moderateamount, L.",AUS,0,0,3,0
-"Blockit, I.",AUS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Bright, C.",CHI,1,5,2,0,12,19
+"Utler, J.",CHI,1,5,1,0,12,19
+"Danielsson, A.",CHI,1,10,0,0,12,19
+"Henry, J.",CHI,1,5,0,0,12,19
+"Leaf Jr., R.",CHI,1,13,0,0,12,19
+"Sandburg, C.",CHI,0,0,8,0,12,19
+"Smith, G.",CHI,0,0,6,0,12,19
+"Ford Lalatina, D.",CHI,0,0,4,0,12,19
+"Gordon, B.",CHI,0,0,4,0,12,19
+"Harp, D.",CHI,0,0,1,0,12,19
+"Beaver-Dantes, E.",AUS,2,10,1,1,12,19
+"Tidwell, R.",AUS,2,10,0,0,12,19
+"Mendonca, M.",AUS,1,5,2,0,12,19
+"Bakshi, S.",AUS,1,5,0,0,12,19
+"Kuusela, G.",AUS,1,14,0,0,12,19
+"A'Little, L.",AUS,0,0,5,0,12,19
+"Larson, P.",AUS,0,0,4,0,12,19
+"A'Ton, L.",AUS,0,0,3,1,12,19
+"A'Moderateamount, L.",AUS,0,0,3,0,12,19
+"Blockit, I.",AUS,0,0,1,0,12,19

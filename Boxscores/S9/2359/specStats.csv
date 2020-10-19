@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bly Jr., A.",COL,0,0,2,0,6,0,0,3
-"Miller, H.",COL,2,56,0,40,0,0,0,0
-"Grau, M.",COL,4,189,0,102,0,1,0,0
-"Bayley, B.",NO,2,59,13,47,15,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bly Jr., A.",COL,0,0,2,0,6,0,0,3,11,9
+"Miller, H.",COL,2,56,0,40,0,0,0,0,11,9
+"Grau, M.",COL,4,189,0,102,0,1,0,0,11,9
+"Bayley, B.",NO,2,59,13,47,15,0,0,3,11,9

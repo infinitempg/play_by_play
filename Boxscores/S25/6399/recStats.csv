@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Donut, S.",AZ,4,47,11.8,24,1
-"Evans, H.",AZ,4,43,10.8,16,0
-"Passmann, T.",AZ,2,34,17,24,1
-"Raimon, T.",AZ,2,15,7.5,8,0
-"Keppler, Z.",AZ,1,6,6,6,0
-"O'Leary, S.",CHI,6,69,11.5,29,1
-"Scabbia, L.",CHI,4,60,15,20,0
-"Gelbman, T.",CHI,4,30,7.5,8,0
-"Tirtawidjaja, J.",CHI,3,17,5.7,11,0
-"Yoda, B.",CHI,3,16,5.3,12,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Donut, S.",AZ,4,47,11.8,24,1,5,25
+"Evans, H.",AZ,4,43,10.8,16,0,5,25
+"Passmann, T.",AZ,2,34,17,24,1,5,25
+"Raimon, T.",AZ,2,15,7.5,8,0,5,25
+"Keppler, Z.",AZ,1,6,6,6,0,5,25
+"O'Leary, S.",CHI,6,69,11.5,29,1,5,25
+"Scabbia, L.",CHI,4,60,15,20,0,5,25
+"Gelbman, T.",CHI,4,30,7.5,8,0,5,25
+"Tirtawidjaja, J.",CHI,3,17,5.7,11,0,5,25
+"Yoda, B.",CHI,3,16,5.3,12,0,5,25

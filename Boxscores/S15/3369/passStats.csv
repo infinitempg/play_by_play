@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Falconi, A.",PHI,"[28, 44]",252,9,0,1,69.5
-"Reese, A.",AZ,"[13, 27]",170,13.1,1,0,80.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Falconi, A.",PHI,252,9,0,1,69.5,28,13,4,15
+"Reese, A.",AZ,170,13.1,1,0,80.8,28,13,4,15

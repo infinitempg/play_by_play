@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Irving, J.",SJS,1,2,3,0
-"Lee, B.",SJS,0,0,6,0
-"Johnson, R.",SJS,0,0,5,1
-"Pest, T.",SJS,0,0,5,1
-"Pancake, P.",SJS,0,0,4,0
-"McDavid, L.",SJS,0,0,1,0
-"Dissector, U.",NO,2,30,0,0
-"Brew, S.",NO,1,5,7,0
-"Steel, H.",NO,1,5,0,0
-"Wolfcastle, R.",NO,1,15,0,0
-"Jimbo Jr., D.",NO,0,0,4,1
-"Rubbe, G.",NO,0,0,4,0
-"Ofyourlove, S.",NO,0,0,3,0
-"Room, W.",NO,0,0,3,0
-"McCormick, A.",NO,0,0,2,0
-"Toriki, M.",NO,0,0,1,2
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Irving, J.",SJS,1,2,3,0,1,23
+"Lee, B.",SJS,0,0,6,0,1,23
+"Johnson, R.",SJS,0,0,5,1,1,23
+"Pest, T.",SJS,0,0,5,1,1,23
+"Pancake, P.",SJS,0,0,4,0,1,23
+"McDavid, L.",SJS,0,0,1,0,1,23
+"Dissector, U.",NO,2,30,0,0,1,23
+"Brew, S.",NO,1,5,7,0,1,23
+"Steel, H.",NO,1,5,0,0,1,23
+"Wolfcastle, R.",NO,1,15,0,0,1,23
+"Jimbo Jr., D.",NO,0,0,4,1,1,23
+"Rubbe, G.",NO,0,0,4,0,1,23
+"Ofyourlove, S.",NO,0,0,3,0,1,23
+"Room, W.",NO,0,0,3,0,1,23
+"McCormick, A.",NO,0,0,2,0,1,23
+"Toriki, M.",NO,0,0,1,2,1,23

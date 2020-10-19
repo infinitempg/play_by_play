@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,2,39,17,30,13,0,0,2
-"Wachter, J.",AZ,1,34,0,34,0,0,0,0
-"Lavelle, D.",YKW,6,118,0,37,0,0,0,0
-"Kennedy, E.",YKW,3,78,0,28,0,0,0,0
-"Cook, B.",YKW,0,0,12,0,12,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,2,39,17,30,13,0,0,2,10,8
+"Wachter, J.",AZ,1,34,0,34,0,0,0,0,10,8
+"Lavelle, D.",YKW,6,118,0,37,0,0,0,0,10,8
+"Kennedy, E.",YKW,3,78,0,28,0,0,0,0,10,8
+"Cook, B.",YKW,0,0,12,0,12,0,0,1,10,8

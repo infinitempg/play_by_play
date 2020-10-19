@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Tweed, B.",COL,3,55,41,35,17,0,0,4
-"Weston, S.",SJS,2,33,30,24,12,0,0,4
-"Jackson, M.",SJS,2,37,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Tweed, B.",COL,3,55,41,35,17,0,0,4,14,3
+"Weston, S.",SJS,2,33,30,24,12,0,0,4,14,3
+"Jackson, M.",SJS,2,37,0,24,0,0,0,0,14,3

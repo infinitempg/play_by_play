@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",BAL,25,109,4.4,13,0
-"Williams, D.",BAL,22,79,3.6,11,0
-"Skuff, R.",BAL,1,1,1,1,0
-"Nakamura, T.",OCO,15,45,3,8,1
-"Bigby, L.",OCO,3,1,0.3,1,0
-"Armstrong, F.",OCO,2,34,17,29,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",BAL,25,109,4.4,13,0,7,23
+"Williams, D.",BAL,22,79,3.6,11,0,7,23
+"Skuff, R.",BAL,1,1,1,1,0,7,23
+"Nakamura, T.",OCO,15,45,3,8,1,7,23
+"Bigby, L.",OCO,3,1,0.3,1,0,7,23
+"Armstrong, F.",OCO,2,34,17,29,0,7,23

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"L'Alto, V.",BAL,10,86,8.6,17,2
-"Willie, T.",BAL,9,124,13.8,25,1
-"Wachter, J.",BAL,6,39,6.5,11,1
-"LeClair, A.",BAL,5,125,25,52,1
-"Taylor, O.",BAL,3,34,11.3,24,0
-"CatchMachine17, Z.",BAL,1,12,12,12,0
-"Aaron, D.",COL,5,50,10,14,0
-"Wheat, B.",COL,4,48,12,28,0
-"O'Sullivan, S.",COL,4,29,7.2,13,0
-"Nuck, B.",COL,2,15,7.5,13,0
-"Miller, H.",COL,1,3,3,3,0
-"Joyce, S.",COL,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"L'Alto, V.",BAL,10,86,8.6,17,2,14,7
+"Willie, T.",BAL,9,124,13.8,25,1,14,7
+"Wachter, J.",BAL,6,39,6.5,11,1,14,7
+"LeClair, A.",BAL,5,125,25,52,1,14,7
+"Taylor, O.",BAL,3,34,11.3,24,0,14,7
+"CatchMachine17, Z.",BAL,1,12,12,12,0,14,7
+"Aaron, D.",COL,5,50,10,14,0,14,7
+"Wheat, B.",COL,4,48,12,28,0,14,7
+"O'Sullivan, S.",COL,4,29,7.2,13,0,14,7
+"Nuck, B.",COL,2,15,7.5,13,0,14,7
+"Miller, H.",COL,1,3,3,3,0,14,7
+"Joyce, S.",COL,1,1,1,1,0,14,7

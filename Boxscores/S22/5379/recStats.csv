@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Banks II, D.",SAR,6,105,17.5,29,0
-"Witheblock, M.",SAR,5,56,11.2,32,0
-"Gordon, R.",SAR,4,94,23.5,53,1
-"Handley, C.",SAR,2,28,14,14,0
-"Blaze, J.",SAR,2,17,8.5,10,0
-"Frost, D.",SAR,2,1,0.5,4,1
-"Dotson, F.",PHI,3,11,3.7,6,0
-"Vuxta, R.",PHI,2,60,30,36,0
-"Varga, N.",PHI,2,28,14,22,0
-"Blocksdale Jr., A.",PHI,2,19,9.5,10,0
-"Panda, F.",PHI,1,10,10,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Banks II, D.",SAR,6,105,17.5,29,0,4,22
+"Witheblock, M.",SAR,5,56,11.2,32,0,4,22
+"Gordon, R.",SAR,4,94,23.5,53,1,4,22
+"Handley, C.",SAR,2,28,14,14,0,4,22
+"Blaze, J.",SAR,2,17,8.5,10,0,4,22
+"Frost, D.",SAR,2,1,0.5,4,1,4,22
+"Dotson, F.",PHI,3,11,3.7,6,0,4,22
+"Vuxta, R.",PHI,2,60,30,36,0,4,22
+"Varga, N.",PHI,2,28,14,22,0,4,22
+"Blocksdale Jr., A.",PHI,2,19,9.5,10,0,4,22
+"Panda, F.",PHI,1,10,10,10,0,4,22

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Willie, T.",BAL,6,94,15.7,42,0
-"Harp, D.",BAL,6,40,6.7,9,1
-"Valentine, V.",BAL,5,84,16.8,42,0
-"Taylor, O.",BAL,5,24,4.8,8,1
-"L'Alto, V.",BAL,4,40,10,20,1
-"Blocksdale, A.",BAL,1,44,44,44,0
-"Miller, H.",COL,6,134,22.3,33,0
-"Aaron, D.",COL,6,93,15.5,33,1
-"North, F.",COL,6,62,10.3,17,0
-"Chipmunk, A.",COL,6,46,7.7,12,0
-"Grau, M.",COL,4,18,4.5,8,0
-"Cansino, D.",COL,1,16,16,16,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Willie, T.",BAL,6,94,15.7,42,0,2,11
+"Harp, D.",BAL,6,40,6.7,9,1,2,11
+"Valentine, V.",BAL,5,84,16.8,42,0,2,11
+"Taylor, O.",BAL,5,24,4.8,8,1,2,11
+"L'Alto, V.",BAL,4,40,10,20,1,2,11
+"Blocksdale, A.",BAL,1,44,44,44,0,2,11
+"Miller, H.",COL,6,134,22.3,33,0,2,11
+"Aaron, D.",COL,6,93,15.5,33,1,2,11
+"North, F.",COL,6,62,10.3,17,0,2,11
+"Chipmunk, A.",COL,6,46,7.7,12,0,2,11
+"Grau, M.",COL,4,18,4.5,8,0,2,11
+"Cansino, D.",COL,1,16,16,16,0,2,11

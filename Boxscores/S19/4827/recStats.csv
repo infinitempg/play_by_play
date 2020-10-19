@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Owens, A.",COL,6,46,7.7,15,0
-"King, A.",COL,6,43,7.2,11,1
-"Forty-Two, L.",COL,3,29,9.7,13,0
-"Bishop, J.",COL,2,29,14.5,21,1
-"Vincent, M.",COL,2,9,4.5,6,0
-"McMahon, J.",COL,1,12,12,12,0
-"Bigby, L.",BAL,6,98,16.3,42,0
-"Maddox, E.",BAL,4,116,29,56,1
-"Espeeyeeseetee, A.",BAL,4,75,18.8,37,0
-"Sauce, E.",BAL,4,26,6.5,14,0
-"Quinn, A.",BAL,3,28,9.3,11,1
-"L'Alto, V.",BAL,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Owens, A.",COL,6,46,7.7,15,0,5,19
+"King, A.",COL,6,43,7.2,11,1,5,19
+"Forty-Two, L.",COL,3,29,9.7,13,0,5,19
+"Bishop, J.",COL,2,29,14.5,21,1,5,19
+"Vincent, M.",COL,2,9,4.5,6,0,5,19
+"McMahon, J.",COL,1,12,12,12,0,5,19
+"Bigby, L.",BAL,6,98,16.3,42,0,5,19
+"Maddox, E.",BAL,4,116,29,56,1,5,19
+"Espeeyeeseetee, A.",BAL,4,75,18.8,37,0,5,19
+"Sauce, E.",BAL,4,26,6.5,14,0,5,19
+"Quinn, A.",BAL,3,28,9.3,11,1,5,19
+"L'Alto, V.",BAL,1,4,4,4,0,5,19

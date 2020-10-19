@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hardagain, W.",YKW,5,84,16.8,33,1
-"Hanyadi, M.",YKW,4,53,13.2,28,0
-"Swift, N.",YKW,3,43,14.3,21,1
-"Skyline, A.",YKW,3,23,7.7,10,0
-"Rodriguez, B.",YKW,1,16,16,16,0
-"Bishop, J.",COL,6,93,15.5,36,0
-"Arrow, R.",COL,4,45,11.2,22,0
-"Owens, A.",COL,2,19,9.5,10,0
-"Sauce, E.",COL,2,4,2,4,0
-"Lim, W.",COL,1,16,16,16,0
-"Robertowski, G.",COL,1,7,7,7,0
-"Vincent, M.",COL,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hardagain, W.",YKW,5,84,16.8,33,1,9,22
+"Hanyadi, M.",YKW,4,53,13.2,28,0,9,22
+"Swift, N.",YKW,3,43,14.3,21,1,9,22
+"Skyline, A.",YKW,3,23,7.7,10,0,9,22
+"Rodriguez, B.",YKW,1,16,16,16,0,9,22
+"Bishop, J.",COL,6,93,15.5,36,0,9,22
+"Arrow, R.",COL,4,45,11.2,22,0,9,22
+"Owens, A.",COL,2,19,9.5,10,0,9,22
+"Sauce, E.",COL,2,4,2,4,0,9,22
+"Lim, W.",COL,1,16,16,16,0,9,22
+"Robertowski, G.",COL,1,7,7,7,0,9,22
+"Vincent, M.",COL,1,0,0,0,0,9,22

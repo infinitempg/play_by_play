@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Akselsen, M.",SJS,"[26, 47]",328,12.6,1,2,66.6
-"Noble, L.",PHI,"[8, 24]",94,11.8,0,1,28.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Akselsen, M.",SJS,328,12.6,1,2,66.6,26,8,9,10
+"Noble, L.",PHI,94,11.8,0,1,28.8,26,8,9,10

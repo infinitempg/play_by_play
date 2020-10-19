@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Squanch, V.",AZ,8,97,12.1,20,2
-"Morris, D.",AZ,5,78,15.6,32,1
-"Wachter, J.",AZ,5,49,9.8,16,0
-"Crindy, B.",AZ,5,25,5,12,0
-"Chess, C.",AZ,3,34,11.3,15,0
-"Mackworthy, R.",AZ,2,6,3,3,0
-"Booter, F.",AZ,1,9,9,9,0
-"Slax, G.",PHI,4,53,13.2,23,0
-"Weathers III, B.",PHI,2,22,11,13,0
-"Stormblessed, N.",PHI,2,9,4.5,5,0
-"Kronen, R.",PHI,1,9,9,9,0
-"Brown, M.",PHI,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Squanch, V.",AZ,8,97,12.1,20,2,11,10
+"Morris, D.",AZ,5,78,15.6,32,1,11,10
+"Wachter, J.",AZ,5,49,9.8,16,0,11,10
+"Crindy, B.",AZ,5,25,5,12,0,11,10
+"Chess, C.",AZ,3,34,11.3,15,0,11,10
+"Mackworthy, R.",AZ,2,6,3,3,0,11,10
+"Booter, F.",AZ,1,9,9,9,0,11,10
+"Slax, G.",PHI,4,53,13.2,23,0,11,10
+"Weathers III, B.",PHI,2,22,11,13,0,11,10
+"Stormblessed, N.",PHI,2,9,4.5,5,0,11,10
+"Kronen, R.",PHI,1,9,9,9,0,11,10
+"Brown, M.",PHI,1,6,6,6,0,11,10

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Flash, X.",SJS,6,91,15.2,34,0
-"Espeeyeeseetee, A.",SJS,4,41,10.2,15,0
-"Olsen, C.",SJS,4,27,6.8,9,1
-"Wright, D.",SJS,4,24,6,12,1
-"Justice, T.",SJS,2,51,25.5,29,0
-"Davenport, C.",SJS,1,12,12,12,0
-"Orosz, C.",SJS,1,0,0,0,0
-"Moore, S.",AZ,4,34,8.5,16,0
-"Irving, J.",AZ,3,31,10.3,13,0
-"Landers, B.",AZ,2,65,32.5,38,1
-"Murphy, J.",AZ,2,16,8,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Flash, X.",SJS,6,91,15.2,34,0,5,16
+"Espeeyeeseetee, A.",SJS,4,41,10.2,15,0,5,16
+"Olsen, C.",SJS,4,27,6.8,9,1,5,16
+"Wright, D.",SJS,4,24,6,12,1,5,16
+"Justice, T.",SJS,2,51,25.5,29,0,5,16
+"Davenport, C.",SJS,1,12,12,12,0,5,16
+"Orosz, C.",SJS,1,0,0,0,0,5,16
+"Moore, S.",AZ,4,34,8.5,16,0,5,16
+"Irving, J.",AZ,3,31,10.3,13,0,5,16
+"Landers, B.",AZ,2,65,32.5,38,1,5,16
+"Murphy, J.",AZ,2,16,8,9,0,5,16

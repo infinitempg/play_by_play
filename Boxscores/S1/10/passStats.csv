@@ -1,4 +1,4 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Boss, M.",OCO,"[19, 35]",212,11.2,1,0,82.1
-"Hunt, E.",OCO,"[2, 4]",36,18,0,0,81.2
-"Orosz, C.",YKW,"[7, 17]",62,8.9,0,0,51.6
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Boss, M.",OCO,212,11.2,1,0,82.1,19,2,7,1
+"Hunt, E.",OCO,36,18,0,0,81.2,19,2,7,1
+"Orosz, C.",YKW,62,8.9,0,0,51.6,19,2,7,1

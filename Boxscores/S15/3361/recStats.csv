@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Parker, J.",YKW,6,79,13.2,35,0
-"Canton, J.",YKW,4,38,9.5,13,2
-"Swift, N.",YKW,2,23,11.5,13,0
-"Helanen, T.",YKW,2,16,8,8,0
-"Wizardry, D.",YKW,2,13,6.5,9,0
-"Pitcher, A.",YKW,2,12,6,7,0
-"Maddox, E.",BAL,4,56,14,38,1
-"Valentine, V.",BAL,3,50,16.7,24,1
-"Harp, D.",BAL,2,14,7,7,0
-"Brown, M.",BAL,2,4,2,4,0
-"L'Alto, V.",BAL,1,28,28,28,0
-"Squanch, V.",BAL,1,22,22,22,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Parker, J.",YKW,6,79,13.2,35,0,2,15
+"Canton, J.",YKW,4,38,9.5,13,2,2,15
+"Swift, N.",YKW,2,23,11.5,13,0,2,15
+"Helanen, T.",YKW,2,16,8,8,0,2,15
+"Wizardry, D.",YKW,2,13,6.5,9,0,2,15
+"Pitcher, A.",YKW,2,12,6,7,0,2,15
+"Maddox, E.",BAL,4,56,14,38,1,2,15
+"Valentine, V.",BAL,3,50,16.7,24,1,2,15
+"Harp, D.",BAL,2,14,7,7,0,2,15
+"Brown, M.",BAL,2,4,2,4,0,2,15
+"L'Alto, V.",BAL,1,28,28,28,0,2,15
+"Squanch, V.",BAL,1,22,22,22,0,2,15

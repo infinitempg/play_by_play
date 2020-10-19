@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Flash, X.",SJS,6,54,9,17,0
-"Brannigan, Z.",SJS,6,28,4.7,9,0
-"Oles, K.",SJS,4,104,26,39,1
-"Weston, S.",SJS,4,49,12.2,18,1
-"Tuck Jr., T.",SJS,1,4,4,4,0
-"Squanch, V.",AZ,6,105,17.5,27,1
-"Crindy, B.",AZ,6,43,7.2,14,0
-"Morris, D.",AZ,5,93,18.6,36,0
-"Wachter, J.",AZ,4,49,12.2,19,0
-"Chess, C.",AZ,1,29,29,29,0
-"Mackworthy, R.",AZ,1,4,4,4,0
-"Booter, F.",AZ,1,-1,-1,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Flash, X.",SJS,6,54,9,17,0,7,10
+"Brannigan, Z.",SJS,6,28,4.7,9,0,7,10
+"Oles, K.",SJS,4,104,26,39,1,7,10
+"Weston, S.",SJS,4,49,12.2,18,1,7,10
+"Tuck Jr., T.",SJS,1,4,4,4,0,7,10
+"Squanch, V.",AZ,6,105,17.5,27,1,7,10
+"Crindy, B.",AZ,6,43,7.2,14,0,7,10
+"Morris, D.",AZ,5,93,18.6,36,0,7,10
+"Wachter, J.",AZ,4,49,12.2,19,0,7,10
+"Chess, C.",AZ,1,29,29,29,0,7,10
+"Mackworthy, R.",AZ,1,4,4,4,0,7,10
+"Booter, F.",AZ,1,-1,-1,0,0,7,10

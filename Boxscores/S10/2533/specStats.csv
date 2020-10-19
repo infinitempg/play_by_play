@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Broxton, J.",OCO,1,21,0,21,0,0,0,0
-"Crush, C.",OCO,1,29,21,29,11,0,0,2
-"Verns, D.",PHI,4,62,0,31,0,0,0,0
-"Garden, J.",PHI,4,83,11,35,15,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Broxton, J.",OCO,1,21,0,21,0,0,0,0,3,10
+"Crush, C.",OCO,1,29,21,29,11,0,0,2,3,10
+"Verns, D.",PHI,4,62,0,31,0,0,0,0,3,10
+"Garden, J.",PHI,4,83,11,35,15,0,0,3,3,10

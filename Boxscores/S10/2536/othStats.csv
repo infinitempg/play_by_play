@@ -1,22 +1,22 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Mushing, M.",YKW,2,15,3,0
-"Maddox, R.",YKW,1,5,0,0
-"McPoyal, G.",YKW,0,0,4,0
-"Amper, T.",YKW,0,0,3,0
-"Ones, B.",YKW,0,0,3,0
-"Pooky, S.",YKW,0,0,3,0
-"Rchon, A.",YKW,0,0,3,0
-"Harris Jr., F.",YKW,0,0,1,0
-"Rainey, R.",YKW,0,0,1,0
-"Chambers III, C.",SJS,2,10,0,0
-"McKoutchie, M.",SJS,1,10,2,0
-"Lagerfield, E.",SJS,1,5,0,2
-"Barnhardt, B.",SJS,1,5,0,0
-"Canton, J.",SJS,1,0,0,0
-"Hansen, A.",SJS,1,1,0,0
-"Lewith, T.",SJS,1,5,0,0
-"Jahelpme, H.",SJS,0,0,5,0
-"Brannigan, Z.",SJS,0,0,3,1
-"Tacktheritrix, J.",SJS,0,0,2,0
-"Probincrux III, D.",SJS,0,0,1,0
-"Rucker, F.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Mushing, M.",YKW,2,15,3,0,4,10
+"Maddox, R.",YKW,1,5,0,0,4,10
+"McPoyal, G.",YKW,0,0,4,0,4,10
+"Amper, T.",YKW,0,0,3,0,4,10
+"Ones, B.",YKW,0,0,3,0,4,10
+"Pooky, S.",YKW,0,0,3,0,4,10
+"Rchon, A.",YKW,0,0,3,0,4,10
+"Harris Jr., F.",YKW,0,0,1,0,4,10
+"Rainey, R.",YKW,0,0,1,0,4,10
+"Chambers III, C.",SJS,2,10,0,0,4,10
+"McKoutchie, M.",SJS,1,10,2,0,4,10
+"Lagerfield, E.",SJS,1,5,0,2,4,10
+"Barnhardt, B.",SJS,1,5,0,0,4,10
+"Canton, J.",SJS,1,0,0,0,4,10
+"Hansen, A.",SJS,1,1,0,0,4,10
+"Lewith, T.",SJS,1,5,0,0,4,10
+"Jahelpme, H.",SJS,0,0,5,0,4,10
+"Brannigan, Z.",SJS,0,0,3,1,4,10
+"Tacktheritrix, J.",SJS,0,0,2,0,4,10
+"Probincrux III, D.",SJS,0,0,1,0,4,10
+"Rucker, F.",SJS,0,0,1,0,4,10

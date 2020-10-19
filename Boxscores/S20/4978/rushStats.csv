@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ruff, R.",AZ,16,87,5.4,14,1
-"Tyerucker, Q.",SJS,20,83,4.2,14,0
-"Wright, D.",SJS,9,50,5.6,21,0
-"Bot, B.",SJS,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ruff, R.",AZ,16,87,5.4,14,1,2,20
+"Tyerucker, Q.",SJS,20,83,4.2,14,0,2,20
+"Wright, D.",SJS,9,50,5.6,21,0,2,20
+"Bot, B.",SJS,1,1,1,1,0,2,20

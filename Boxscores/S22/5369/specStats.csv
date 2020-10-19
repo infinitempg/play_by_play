@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,3,111,44,43,16,0,0,3
-"Blaylock, M.",NO,1,37,0,37,0,0,0,0
-"Abernathy, K.",OCO,3,42,0,27,0,0,0,0
-"Dream, K.",OCO,1,41,22,41,16,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,3,111,44,43,16,0,0,3,2,22
+"Blaylock, M.",NO,1,37,0,37,0,0,0,0,2,22
+"Abernathy, K.",OCO,3,42,0,27,0,0,0,0,2,22
+"Dream, K.",OCO,1,41,22,41,16,0,0,3,2,22

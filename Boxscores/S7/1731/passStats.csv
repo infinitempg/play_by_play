@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bronko, K.",AZ,"[20, 36]",313,15.6,2,1,91.6
-"Maximus III, B.",NO,"[35, 53]",353,10.1,1,0,91.2
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bronko, K.",AZ,313,15.6,2,1,91.6,20,35,1,7
+"Maximus III, B.",NO,353,10.1,1,0,91.2,20,35,1,7

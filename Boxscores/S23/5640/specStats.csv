@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,4,182,28,91,20,0,0,3
-"Purchase, L.",COL,2,102,0,87,0,0,0,0
-"Edmond, H.",AUS,1,0,0,0,0,0,0,0
-"Lavelle Jr., D.",AUS,4,90,21,37,21,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,4,182,28,91,20,0,0,3,8,23
+"Purchase, L.",COL,2,102,0,87,0,0,0,0,8,23
+"Edmond, H.",AUS,1,0,0,0,0,0,0,0,8,23
+"Lavelle Jr., D.",AUS,4,90,21,37,21,0,0,3,8,23

@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Money, P.",YKW,2,10,0,0
-"Cho, J.",YKW,1,5,0,0
-"Forty-Two, L.",YKW,0,0,10,0
-"Rchonsucks, A.",YKW,0,0,5,1
-"Ones, B.",YKW,0,0,5,0
-"Pooky, S.",YKW,0,0,5,0
-"Hanyadi, M.",YKW,0,0,4,0
-"Skyline, A.",YKW,0,0,3,0
-"Amper, T.",YKW,0,0,2,0
-"Blocksdale Jr., A.",PHI,2,25,1,0
-"Booker, B.",PHI,1,5,0,0
-"Suzuki, S.",PHI,1,15,0,0
-"Arthur, C.",PHI,0,0,6,0
-"Tyler, J.",PHI,0,0,5,1
-"Van Buren, M.",PHI,0,0,5,0
-"Fillmore, M.",PHI,0,0,3,1
-"Dotson, F.",PHI,0,0,3,0
-"Hayes, R.",PHI,0,0,2,0
-"Torenson, S.",PHI,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Money, P.",YKW,2,10,0,0,13,22
+"Cho, J.",YKW,1,5,0,0,13,22
+"Forty-Two, L.",YKW,0,0,10,0,13,22
+"Rchonsucks, A.",YKW,0,0,5,1,13,22
+"Ones, B.",YKW,0,0,5,0,13,22
+"Pooky, S.",YKW,0,0,5,0,13,22
+"Hanyadi, M.",YKW,0,0,4,0,13,22
+"Skyline, A.",YKW,0,0,3,0,13,22
+"Amper, T.",YKW,0,0,2,0,13,22
+"Blocksdale Jr., A.",PHI,2,25,1,0,13,22
+"Booker, B.",PHI,1,5,0,0,13,22
+"Suzuki, S.",PHI,1,15,0,0,13,22
+"Arthur, C.",PHI,0,0,6,0,13,22
+"Tyler, J.",PHI,0,0,5,1,13,22
+"Van Buren, M.",PHI,0,0,5,0,13,22
+"Fillmore, M.",PHI,0,0,3,1,13,22
+"Dotson, F.",PHI,0,0,3,0,13,22
+"Hayes, R.",PHI,0,0,2,0,13,22
+"Torenson, S.",PHI,0,0,1,1,13,22

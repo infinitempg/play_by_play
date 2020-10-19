@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Angler, J.",SAR,8,58,7.2,16,0
-"Witheblock, M.",SAR,5,107,21.4,34,1
-"Gordon, R.",SAR,4,81,20.2,51,2
-"Boyd, C.",SAR,3,20,6.7,9,0
-"Chan, R.",SAR,1,12,12,12,0
-"Rechs, Z.",YKW,5,37,7.4,16,1
-"Sakura, K.",YKW,4,74,18.5,28,1
-"Hanyadi, M.",YKW,3,47,15.7,22,0
-"Cash Jr., S.",YKW,2,26,13,15,0
-"Jackson, A.",YKW,2,11,5.5,9,0
-"Lee, M.",YKW,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Angler, J.",SAR,8,58,7.2,16,0,4,24
+"Witheblock, M.",SAR,5,107,21.4,34,1,4,24
+"Gordon, R.",SAR,4,81,20.2,51,2,4,24
+"Boyd, C.",SAR,3,20,6.7,9,0,4,24
+"Chan, R.",SAR,1,12,12,12,0,4,24
+"Rechs, Z.",YKW,5,37,7.4,16,1,4,24
+"Sakura, K.",YKW,4,74,18.5,28,1,4,24
+"Hanyadi, M.",YKW,3,47,15.7,22,0,4,24
+"Cash Jr., S.",YKW,2,26,13,15,0,4,24
+"Jackson, A.",YKW,2,11,5.5,9,0,4,24
+"Lee, M.",YKW,1,0,0,0,0,4,24

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Staley, T.",SJS,1,32,16,32,14,0,0,3
-"Tuck, J.",SJS,2,41,0,30,0,0,0,0
-"Maddox, E.",BAL,2,29,7,18,8,0,0,2
-"Sunnycursed, N.",BAL,3,50,0,19,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Staley, T.",SJS,1,32,16,32,14,0,0,3,10,18
+"Tuck, J.",SJS,2,41,0,30,0,0,0,0,10,18
+"Maddox, E.",BAL,2,29,7,18,8,0,0,2,10,18
+"Sunnycursed, N.",BAL,3,50,0,19,0,0,0,0,10,18

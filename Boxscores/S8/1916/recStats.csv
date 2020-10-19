@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Savea, A.",NO,10,54,5.4,8,0
-"Smallwood, D.",NO,9,40,4.4,8,0
-"DiMirio, P.",NO,7,77,11,17,1
-"Law, C.",NO,6,71,11.8,19,0
-"Evans, D.",NO,5,105,21,37,0
-"Nuck, B.",NO,4,47,11.8,20,0
-"Atwell, T.",OCO,7,71,10.1,18,0
-"Crush, C.",OCO,6,86,14.3,28,1
-"Westfield, B.",OCO,5,59,11.8,19,0
-"Yates, J.",OCO,2,30,15,26,0
-"Phelps, R.",OCO,1,18,18,18,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Savea, A.",NO,10,54,5.4,8,0,10,8
+"Smallwood, D.",NO,9,40,4.4,8,0,10,8
+"DiMirio, P.",NO,7,77,11,17,1,10,8
+"Law, C.",NO,6,71,11.8,19,0,10,8
+"Evans, D.",NO,5,105,21,37,0,10,8
+"Nuck, B.",NO,4,47,11.8,20,0,10,8
+"Atwell, T.",OCO,7,71,10.1,18,0,10,8
+"Crush, C.",OCO,6,86,14.3,28,1,10,8
+"Westfield, B.",OCO,5,59,11.8,19,0,10,8
+"Yates, J.",OCO,2,30,15,26,0,10,8
+"Phelps, R.",OCO,1,18,18,18,0,10,8

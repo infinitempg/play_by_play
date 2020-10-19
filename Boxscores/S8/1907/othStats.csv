@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Robotman, B.",AZ,1,5,6,0
-"Medved, E.",AZ,1,15,0,0
-"Ramrio, M.",AZ,1,15,0,0
-"Robotman, A.",AZ,0,0,6,0
-"Robotman, E.",AZ,0,0,3,0
-"Crindy, B.",AZ,0,0,2,0
-"Mackworthy, R.",AZ,0,0,2,0
-"Filmore, M.",PHI,1,5,5,0
-"Farlane, D.",PHI,1,13,2,0
-"Bagwell, N.",PHI,1,5,0,0
-"Garden, J.",PHI,1,5,0,0
-"Hayden, A.",PHI,1,15,0,0
-"Tucker, P.",PHI,1,10,0,0
-"Tyler, J.",PHI,0,0,7,1
-"Hayes, R.",PHI,0,0,4,0
-"Arthur, C.",PHI,0,0,1,0
-"Van Buren, M.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Robotman, B.",AZ,1,5,6,0,8,8
+"Medved, E.",AZ,1,15,0,0,8,8
+"Ramrio, M.",AZ,1,15,0,0,8,8
+"Robotman, A.",AZ,0,0,6,0,8,8
+"Robotman, E.",AZ,0,0,3,0,8,8
+"Crindy, B.",AZ,0,0,2,0,8,8
+"Mackworthy, R.",AZ,0,0,2,0,8,8
+"Filmore, M.",PHI,1,5,5,0,8,8
+"Farlane, D.",PHI,1,13,2,0,8,8
+"Bagwell, N.",PHI,1,5,0,0,8,8
+"Garden, J.",PHI,1,5,0,0,8,8
+"Hayden, A.",PHI,1,15,0,0,8,8
+"Tucker, P.",PHI,1,10,0,0,8,8
+"Tyler, J.",PHI,0,0,7,1,8,8
+"Hayes, R.",PHI,0,0,4,0,8,8
+"Arthur, C.",PHI,0,0,1,0,8,8
+"Van Buren, M.",PHI,0,0,1,0,8,8

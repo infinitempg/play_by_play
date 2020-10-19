@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, R.",YKW,8,63,7.9,15,0
-"Garden, J.",YKW,7,126,18,30,1
-"West, D.",YKW,6,69,11.5,27,1
-"Smallwood, D.",YKW,4,33,8.2,14,1
-"Nuck, B.",YKW,1,7,7,7,0
-"Kennedy, E.",YKW,1,6,6,6,0
-"Stormblessed, N.",LV,6,49,8.2,13,2
-"Tenzini, G.",LV,6,33,5.5,12,0
-"LeClair, A.",LV,5,67,13.4,26,0
-"Rocket, J.",LV,3,57,19,42,0
-"Savea, A.",LV,2,10,5,7,0
-"Lecavalier, R.",LV,1,18,18,18,0
-"Cobb, K.",LV,1,4,4,4,0
-"Larsendorf, R.",LV,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, R.",YKW,8,63,7.9,15,0,9,2
+"Garden, J.",YKW,7,126,18,30,1,9,2
+"West, D.",YKW,6,69,11.5,27,1,9,2
+"Smallwood, D.",YKW,4,33,8.2,14,1,9,2
+"Nuck, B.",YKW,1,7,7,7,0,9,2
+"Kennedy, E.",YKW,1,6,6,6,0,9,2
+"Stormblessed, N.",LV,6,49,8.2,13,2,9,2
+"Tenzini, G.",LV,6,33,5.5,12,0,9,2
+"LeClair, A.",LV,5,67,13.4,26,0,9,2
+"Rocket, J.",LV,3,57,19,42,0,9,2
+"Savea, A.",LV,2,10,5,7,0,9,2
+"Lecavalier, R.",LV,1,18,18,18,0,9,2
+"Cobb, K.",LV,1,4,4,4,0,9,2
+"Larsendorf, R.",LV,1,4,4,4,0,9,2

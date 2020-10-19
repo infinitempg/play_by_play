@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Flash, X.",SJS,2,57,0,35,0,0,0,0
-"Poopsie, D.",SJS,3,42,-1,25,2,0,0,2
-"Bly Jr., A.",COL,0,0,25,0,18,0,0,6
-"Miller, H.",COL,2,48,0,38,0,0,0,0
-"Grau, M.",COL,2,61,0,32,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Flash, X.",SJS,2,57,0,35,0,0,0,0,3,10
+"Poopsie, D.",SJS,3,42,-1,25,2,0,0,2,3,10
+"Bly Jr., A.",COL,0,0,25,0,18,0,0,6,3,10
+"Miller, H.",COL,2,48,0,38,0,0,0,0,3,10
+"Grau, M.",COL,2,61,0,32,0,0,0,0,3,10

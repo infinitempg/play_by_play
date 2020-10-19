@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wizardry, D.",YKW,19,63,3.3,7,0
-"Carrasco, T.",YKW,9,53,5.9,13,0
-"Applehort, R.",YKW,1,-1,-1,0,0
-"Canton, J.",SJS,22,120,5.5,15,1
-"Orosz, C.",SJS,15,52,3.5,13,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wizardry, D.",YKW,19,63,3.3,7,0,3,12
+"Carrasco, T.",YKW,9,53,5.9,13,0,3,12
+"Applehort, R.",YKW,1,-1,-1,0,0,3,12
+"Canton, J.",SJS,22,120,5.5,15,1,3,12
+"Orosz, C.",SJS,15,52,3.5,13,1,3,12

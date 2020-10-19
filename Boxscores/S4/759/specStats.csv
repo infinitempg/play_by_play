@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,0,0,21,0,11,0,0,3
-"Phelps, R.",OCO,1,2,0,2,0,0,0,0
-"Boom, J.",OCO,1,1,0,1,0,0,0,0
-"Weston, S.",SJS,2,70,9,35,5,0,0,2
-"Jackson, M.",SJS,3,67,0,40,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,0,0,21,0,11,0,0,3,9,4
+"Phelps, R.",OCO,1,2,0,2,0,0,0,0,9,4
+"Boom, J.",OCO,1,1,0,1,0,0,0,0,9,4
+"Weston, S.",SJS,2,70,9,35,5,0,0,2,9,4
+"Jackson, M.",SJS,3,67,0,40,0,0,0,0,9,4

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bush, C.",PHI,7,113,16.1,31,1
-"von Matt, J.",PHI,5,112,22.4,35,2
-"Brown, M.",PHI,4,22,5.5,8,0
-"Hardwick, S.",PHI,2,13,6.5,9,0
-"Strike, L.",PHI,2,11,5.5,7,0
-"Batoff, R.",PHI,1,5,5,5,0
-"Adams, R.",OCO,8,101,12.6,50,0
-"Crush, C.",OCO,5,92,18.4,35,0
-"McPoyal, G.",OCO,5,44,8.8,12,0
-"Sunnycursed, N.",OCO,4,58,14.5,28,1
-"Atwell, T.",OCO,4,49,12.2,21,0
-"Zephyrous, S.",OCO,3,12,4,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bush, C.",PHI,7,113,16.1,31,1,7,13
+"von Matt, J.",PHI,5,112,22.4,35,2,7,13
+"Brown, M.",PHI,4,22,5.5,8,0,7,13
+"Hardwick, S.",PHI,2,13,6.5,9,0,7,13
+"Strike, L.",PHI,2,11,5.5,7,0,7,13
+"Batoff, R.",PHI,1,5,5,5,0,7,13
+"Adams, R.",OCO,8,101,12.6,50,0,7,13
+"Crush, C.",OCO,5,92,18.4,35,0,7,13
+"McPoyal, G.",OCO,5,44,8.8,12,0,7,13
+"Sunnycursed, N.",OCO,4,58,14.5,28,1,7,13
+"Atwell, T.",OCO,4,49,12.2,21,0,7,13
+"Zephyrous, S.",OCO,3,12,4,6,0,7,13

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",PHI,4,74,14,26,13,0,0,3
-"Felix, L.",PHI,2,51,0,34,0,0,0,0
-"Taylor, O.",BAL,2,62,0,34,0,0,0,0
-"Browning, B.",BAL,0,0,13,0,9,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",PHI,4,74,14,26,13,0,0,3,13,10
+"Felix, L.",PHI,2,51,0,34,0,0,0,0,13,10
+"Taylor, O.",BAL,2,62,0,34,0,0,0,0,13,10
+"Browning, B.",BAL,0,0,13,0,9,0,0,3,13,10

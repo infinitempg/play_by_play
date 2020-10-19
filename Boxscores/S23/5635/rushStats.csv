@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Lackson, J.",SJS,20,86,4.3,12,2
-"Cardrissian, R.",SJS,11,31,2.8,8,0
-"Jack, "".",SJS,2,0,0,0,0
-"Hanyadi, M.",YKW,19,93,4.9,12,2
-"Skyline, A.",YKW,6,21,3.5,7,0
-"Bigsby, C.",YKW,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Lackson, J.",SJS,20,86,4.3,12,2,7,23
+"Cardrissian, R.",SJS,11,31,2.8,8,0,7,23
+"Jack, "".",SJS,2,0,0,0,0,7,23
+"Hanyadi, M.",YKW,19,93,4.9,12,2,7,23
+"Skyline, A.",YKW,6,21,3.5,7,0,7,23
+"Bigsby, C.",YKW,1,1,1,1,0,7,23

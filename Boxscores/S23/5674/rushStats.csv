@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",BAL,17,71,4.2,10,0
-"Williams, D.",BAL,10,70,7,24,1
-"Fujiwara, C.",BAL,2,7,3.5,4,1
-"Skuff, R.",BAL,1,0,0,0,0
-"Torenson, S.",PHI,19,85,4.5,11,0
-"Dotson, F.",PHI,10,35,3.5,8,1
-"Phoenix, B.",PHI,3,22,7.3,20,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",BAL,17,71,4.2,10,0,14,23
+"Williams, D.",BAL,10,70,7,24,1,14,23
+"Fujiwara, C.",BAL,2,7,3.5,4,1,14,23
+"Skuff, R.",BAL,1,0,0,0,0,14,23
+"Torenson, S.",PHI,19,85,4.5,11,0,14,23
+"Dotson, F.",PHI,10,35,3.5,8,1,14,23
+"Phoenix, B.",PHI,3,22,7.3,20,0,14,23

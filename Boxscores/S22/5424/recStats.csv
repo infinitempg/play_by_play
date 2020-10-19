@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Banks II, D.",SAR,4,107,26.8,65,0
-"Gordon, R.",SAR,4,63,15.8,38,0
-"Blaze, J.",SAR,4,14,3.5,6,0
-"Frost, D.",SAR,3,16,5.3,10,0
-"McTaco, P.",SAR,3,15,5,9,0
-"Handley, C.",SAR,1,11,11,11,0
-"Owens, A.",COL,8,52,6.5,17,0
-"Arrow, R.",COL,4,50,12.5,19,0
-"Bishop, J.",COL,4,35,8.8,18,0
-"Lim, W.",COL,2,50,25,43,1
-"Sauce, E.",COL,2,14,7,9,0
-"Robertowski, G.",COL,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Banks II, D.",SAR,4,107,26.8,65,0,11,22
+"Gordon, R.",SAR,4,63,15.8,38,0,11,22
+"Blaze, J.",SAR,4,14,3.5,6,0,11,22
+"Frost, D.",SAR,3,16,5.3,10,0,11,22
+"McTaco, P.",SAR,3,15,5,9,0,11,22
+"Handley, C.",SAR,1,11,11,11,0,11,22
+"Owens, A.",COL,8,52,6.5,17,0,11,22
+"Arrow, R.",COL,4,50,12.5,19,0,11,22
+"Bishop, J.",COL,4,35,8.8,18,0,11,22
+"Lim, W.",COL,2,50,25,43,1,11,22
+"Sauce, E.",COL,2,14,7,9,0,11,22
+"Robertowski, G.",COL,1,3,3,3,0,11,22

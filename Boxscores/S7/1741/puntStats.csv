@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Harris, S.",PHI,7,326,46.6,63,1
-"Turkleton, T.",BAL,7,325,46.4,67,2
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Harris, S.",PHI,7,326,46.6,63,1,4,7
+"Turkleton, T.",BAL,7,325,46.4,67,2,4,7

@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Reed, A.",OCO,1,25,0,25,0,0,0,0
-"Banks II, D.",OCO,0,0,32,0,16,0,0,2
-"Lattimer, A.",OCO,2,51,0,35,0,0,0,0
-"Emoji, E.",PHI,2,82,32,47,18,0,0,4
-"Garnett, L.",PHI,4,103,0,28,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Reed, A.",OCO,1,25,0,25,0,0,0,0,10,20
+"Banks II, D.",OCO,0,0,32,0,16,0,0,2,10,20
+"Lattimer, A.",OCO,2,51,0,35,0,0,0,0,10,20
+"Emoji, E.",PHI,2,82,32,47,18,0,0,4,10,20
+"Garnett, L.",PHI,4,103,0,28,0,0,0,0,10,20

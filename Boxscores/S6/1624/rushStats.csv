@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",NO,18,70,3.9,14,0
-"Maximus III, B.",NO,2,11,5.5,11,0
-"Smallwood, D.",SJS,11,50,4.5,11,0
-"Diaz, D.",SJS,7,31,4.4,7,1
-"Bottles, B.",SJS,1,0,0,0,0
-"Orosz, C.",SJS,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",NO,18,70,3.9,14,0,12,6
+"Maximus III, B.",NO,2,11,5.5,11,0,12,6
+"Smallwood, D.",SJS,11,50,4.5,11,0,12,6
+"Diaz, D.",SJS,7,31,4.4,7,1,12,6
+"Bottles, B.",SJS,1,0,0,0,0,12,6
+"Orosz, C.",SJS,1,-1,-1,0,0,12,6

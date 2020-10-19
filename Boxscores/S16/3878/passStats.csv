@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Francisco, S.",NO,"[21, 45]",340,16.2,1,1,70.6
-"Christ, J.",SJS,"[17, 34]",260,15.3,2,1,83
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Francisco, S.",NO,340,16.2,1,1,70.6,21,17,2,16
+"Christ, J.",SJS,260,15.3,2,1,83,21,17,2,16

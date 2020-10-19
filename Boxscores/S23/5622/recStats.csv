@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Leary, S.",CHI,6,93,15.5,31,0
-"Hayes, V.",CHI,5,39,7.8,14,0
-"Oberwald, G.",CHI,4,39,9.8,17,0
-"Tirtawidjaja, J.",CHI,2,7,3.5,6,0
-"Okusi, R.",CHI,1,6,6,6,0
-"Gelbman, T.",CHI,1,5,5,5,0
-"Lim, W.",COL,4,62,15.5,26,0
-"Sauce, E.",COL,3,26,8.7,12,0
-"Arrow, R.",COL,2,23,11.5,16,0
-"Vincent, M.",COL,2,22,11,16,0
-"Owens, A.",COL,1,24,24,24,0
-"Gilbert, R.",COL,1,10,10,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Leary, S.",CHI,6,93,15.5,31,0,5,23
+"Hayes, V.",CHI,5,39,7.8,14,0,5,23
+"Oberwald, G.",CHI,4,39,9.8,17,0,5,23
+"Tirtawidjaja, J.",CHI,2,7,3.5,6,0,5,23
+"Okusi, R.",CHI,1,6,6,6,0,5,23
+"Gelbman, T.",CHI,1,5,5,5,0,5,23
+"Lim, W.",COL,4,62,15.5,26,0,5,23
+"Sauce, E.",COL,3,26,8.7,12,0,5,23
+"Arrow, R.",COL,2,23,11.5,16,0,5,23
+"Vincent, M.",COL,2,22,11,16,0,5,23
+"Owens, A.",COL,1,24,24,24,0,5,23
+"Gilbert, R.",COL,1,10,10,10,0,5,23

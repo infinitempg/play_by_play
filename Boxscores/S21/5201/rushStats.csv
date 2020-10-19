@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tyerucker, Q.",SJS,16,86,5.4,9,0
-"Cardrissian, R.",SJS,11,35,3.2,7,1
-"Wright, D.",SJS,3,-2,-0.7,1,0
-"Bot, B.",SJS,1,0,0,0,0
-"Reed, A.",BAL,20,98,4.9,15,0
-"Williams, D.",BAL,17,82,4.8,15,0
-"Kross, C.",BAL,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tyerucker, Q.",SJS,16,86,5.4,9,0,10,21
+"Cardrissian, R.",SJS,11,35,3.2,7,1,10,21
+"Wright, D.",SJS,3,-2,-0.7,1,0,10,21
+"Bot, B.",SJS,1,0,0,0,0,10,21
+"Reed, A.",BAL,20,98,4.9,15,0,10,21
+"Williams, D.",BAL,17,82,4.8,15,0,10,21
+"Kross, C.",BAL,1,4,4,4,0,10,21

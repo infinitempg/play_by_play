@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Ramero, E.",COL,5,207,41.4,53,1
-"Fulture, K.",PHI,4,187,46.8,57,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Ramero, E.",COL,5,207,41.4,53,1,12,15
+"Fulture, K.",PHI,4,187,46.8,57,0,12,15

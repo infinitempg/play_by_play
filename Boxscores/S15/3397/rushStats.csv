@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,22,105,4.8,11,2
-"Zephyrous, S.",OCO,3,34,11.3,15,0
-"Brown, M.",BAL,28,110,3.9,12,1
-"Gambino, C.",BAL,2,-2,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,22,105,4.8,11,2,11,15
+"Zephyrous, S.",OCO,3,34,11.3,15,0,11,15
+"Brown, M.",BAL,28,110,3.9,12,1,11,15
+"Gambino, C.",BAL,2,-2,-1,0,0,11,15

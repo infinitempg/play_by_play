@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",OCO,10,48,4.8,10,0
-"Burnsman, E.",OCO,4,32,8,11,0
-"Savea, A.",LV,18,66,3.7,10,0
-"Noble, L.",LV,1,9,9,9,0
-"O'Sullivan, C.",LV,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",OCO,10,48,4.8,10,0,10,5
+"Burnsman, E.",OCO,4,32,8,11,0,10,5
+"Savea, A.",LV,18,66,3.7,10,0,10,5
+"Noble, L.",LV,1,9,9,9,0,10,5
+"O'Sullivan, C.",LV,1,4,4,4,0,10,5

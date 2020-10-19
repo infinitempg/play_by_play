@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taffy, T.",COL,16,53,3.3,11,0
-"Vincent, M.",COL,11,37,3.4,9,0
-"McDummy, W.",COL,2,0,0,2,0
-"Damian-Luna, B.",COL,1,3,3,3,0
-"Shady, S.",AZ,25,138,5.5,12,1
-"Quick, J.",AZ,3,20,6.7,13,0
-"Reese, A.",AZ,2,24,12,25,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taffy, T.",COL,16,53,3.3,11,0,12,18
+"Vincent, M.",COL,11,37,3.4,9,0,12,18
+"McDummy, W.",COL,2,0,0,2,0,12,18
+"Damian-Luna, B.",COL,1,3,3,3,0,12,18
+"Shady, S.",AZ,25,138,5.5,12,1,12,18
+"Quick, J.",AZ,3,20,6.7,13,0,12,18
+"Reese, A.",AZ,2,24,12,25,0,12,18

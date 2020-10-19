@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Wizardry, D.",YKW,4,9,2.2,8,0
-"Helanen, T.",YKW,3,65,21.7,31,0
-"Parker, J.",YKW,3,25,8.3,11,0
-"Swift, N.",YKW,2,50,25,26,1
-"Pennington, B.",YKW,2,17,8.5,11,1
-"Pitcher, A.",YKW,2,11,5.5,6,0
-"Brannigan, Z.",SJS,6,42,7,13,0
-"Justice, T.",SJS,5,84,16.8,37,1
-"Oles, K.",SJS,4,81,20.2,37,0
-"Flash, X.",SJS,1,35,35,35,0
-"Canton, J.",SJS,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Wizardry, D.",YKW,4,9,2.2,8,0,14,14
+"Helanen, T.",YKW,3,65,21.7,31,0,14,14
+"Parker, J.",YKW,3,25,8.3,11,0,14,14
+"Swift, N.",YKW,2,50,25,26,1,14,14
+"Pennington, B.",YKW,2,17,8.5,11,1,14,14
+"Pitcher, A.",YKW,2,11,5.5,6,0,14,14
+"Brannigan, Z.",SJS,6,42,7,13,0,14,14
+"Justice, T.",SJS,5,84,16.8,37,1,14,14
+"Oles, K.",SJS,4,81,20.2,37,0,14,14
+"Flash, X.",SJS,1,35,35,35,0,14,14
+"Canton, J.",SJS,1,3,3,3,0,14,14

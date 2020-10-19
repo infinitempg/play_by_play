@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Donut, S.",AZ,1,11,0,11,0,0,0,0
-"Scarlett, D.",AZ,2,79,29,40,15,0,0,2
-"Varga, N.",PHI,2,39,0,35,0,0,0,0
-"D'Attoria V, R.",PHI,2,78,38,44,19,0,0,5
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Donut, S.",AZ,1,11,0,11,0,0,0,0,7,22
+"Scarlett, D.",AZ,2,79,29,40,15,0,0,2,7,22
+"Varga, N.",PHI,2,39,0,35,0,0,0,0,7,22
+"D'Attoria V, R.",PHI,2,78,38,44,19,0,0,5,7,22

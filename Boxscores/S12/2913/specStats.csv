@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,4,77,0,39,0,0,0,0
-"Wizardry, D.",YKW,3,44,0,17,0,0,0,0
-"Verden, J.",YKW,0,0,-1,0,0,0,0,1
-"Fyodorovich, V.",NO,4,103,0,41,0,0,0,1
-"DiMirio, P.",NO,1,1,0,1,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,4,77,0,39,0,0,0,0,9,12
+"Wizardry, D.",YKW,3,44,0,17,0,0,0,0,9,12
+"Verden, J.",YKW,0,0,-1,0,0,0,0,1,9,12
+"Fyodorovich, V.",NO,4,103,0,41,0,0,0,1,9,12
+"DiMirio, P.",NO,1,1,0,1,0,0,0,0,9,12

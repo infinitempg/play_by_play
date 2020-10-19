@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Donut, S.",AZ,3,66,0,38,0,0,0,0
-"Scarlett, D.",AZ,1,39,29,39,22,0,0,3
-"Owens, A.",NY,3,97,10,42,10,0,0,1
-"Kingston, J.",NY,3,112,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Donut, S.",AZ,3,66,0,38,0,0,0,0,3,25
+"Scarlett, D.",AZ,1,39,29,39,22,0,0,3,3,25
+"Owens, A.",NY,3,97,10,42,10,0,0,1,3,25
+"Kingston, J.",NY,3,112,0,39,0,0,0,0,3,25

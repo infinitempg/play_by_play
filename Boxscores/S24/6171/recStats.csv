@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Phillips, J.",OCO,6,67,11.2,21,0
-"Trunks, F.",OCO,6,50,8.3,13,0
-"Despacito Jr., G.",OCO,4,55,13.8,25,0
-"Mongo, H.",OCO,3,35,11.7,22,0
-"Nakamura, T.",OCO,3,16,5.3,7,0
-"George, D.",OCO,3,13,4.3,6,0
-"Mendonca, M.",AUS,5,85,17,41,1
-"Gaines, N.",AUS,5,83,16.6,34,0
-"Jeeta, E.",AUS,3,78,26,38,0
-"Videl-San, N.",AUS,2,20,10,12,0
-"Jones, K.",AUS,1,12,12,12,0
-"Larson, P.",AUS,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Phillips, J.",OCO,6,67,11.2,21,0,3,24
+"Trunks, F.",OCO,6,50,8.3,13,0,3,24
+"Despacito Jr., G.",OCO,4,55,13.8,25,0,3,24
+"Mongo, H.",OCO,3,35,11.7,22,0,3,24
+"Nakamura, T.",OCO,3,16,5.3,7,0,3,24
+"George, D.",OCO,3,13,4.3,6,0,3,24
+"Mendonca, M.",AUS,5,85,17,41,1,3,24
+"Gaines, N.",AUS,5,83,16.6,34,0,3,24
+"Jeeta, E.",AUS,3,78,26,38,0,3,24
+"Videl-San, N.",AUS,2,20,10,12,0,3,24
+"Jones, K.",AUS,1,12,12,12,0,3,24
+"Larson, P.",AUS,1,2,2,2,0,3,24

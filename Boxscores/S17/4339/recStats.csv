@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Anoa'i, D.",AUS,9,106,11.8,30,0
-"Owens, A.",AUS,8,53,6.6,12,0
-"Mendonca, M.",AUS,7,92,13.1,41,0
-"Larson, P.",AUS,6,48,8,16,0
-"Tidwell, R.",AUS,4,38,9.5,15,0
-"Bishop, J.",COL,4,66,16.5,25,1
-"Crindy, B.",COL,3,18,6,12,0
-"Palmer, J.",COL,3,16,5.3,6,0
-"Forty-Two, L.",COL,2,41,20.5,33,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Anoa'i, D.",AUS,9,106,11.8,30,0,11,17
+"Owens, A.",AUS,8,53,6.6,12,0,11,17
+"Mendonca, M.",AUS,7,92,13.1,41,0,11,17
+"Larson, P.",AUS,6,48,8,16,0,11,17
+"Tidwell, R.",AUS,4,38,9.5,15,0,11,17
+"Bishop, J.",COL,4,66,16.5,25,1,11,17
+"Crindy, B.",COL,3,18,6,12,0,11,17
+"Palmer, J.",COL,3,16,5.3,6,0,11,17
+"Forty-Two, L.",COL,2,41,20.5,33,0,11,17

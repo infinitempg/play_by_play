@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Francisco, S.",NO,"[25, 36]",266,10.6,1,2,76.9
-"Armstrong, F.",OCO,"[20, 27]",266,13.3,1,0,117.2
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Francisco, S.",NO,266,10.6,1,2,76.9,25,20,11,18
+"Armstrong, F.",OCO,266,13.3,1,0,117.2,25,20,11,18

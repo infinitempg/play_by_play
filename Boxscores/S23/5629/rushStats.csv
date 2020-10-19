@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jones, K.",AUS,11,74,6.7,17,0
-"Mendonca, M.",AUS,11,34,3.1,12,0
-"Cole, E.",AUS,3,28,9.3,24,0
-"Tirtawidjaja, J.",CHI,20,84,4.2,17,0
-"Hank, F.",CHI,10,36,3.6,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jones, K.",AUS,11,74,6.7,17,0,6,23
+"Mendonca, M.",AUS,11,34,3.1,12,0,6,23
+"Cole, E.",AUS,3,28,9.3,24,0,6,23
+"Tirtawidjaja, J.",CHI,20,84,4.2,17,0,6,23
+"Hank, F.",CHI,10,36,3.6,9,0,6,23

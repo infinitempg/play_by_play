@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Wright, D.",SJS,"[14, 27]",134,9.6,1,1,62.9
-"Reese, A.",AZ,"[21, 32]",265,12.6,4,0,130.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Wright, D.",SJS,134,9.6,1,1,62.9,14,21,8,18
+"Reese, A.",AZ,265,12.6,4,0,130.9,14,21,8,18

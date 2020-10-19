@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Novel, L.",BAL,14,62,4.4,10,0
-"Robinson, M.",BAL,12,36,3,7,1
-"Kyubee, S.",BAL,1,0,0,0,0
-"O'Connell, K.",COL,14,32,2.3,9,1
-"Tiernan, L.",COL,11,44,4,8,0
-"Tweed, B.",COL,9,39,4.3,9,0
-"Noble, L.",COL,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Novel, L.",BAL,14,62,4.4,10,0,6,1
+"Robinson, M.",BAL,12,36,3,7,1,6,1
+"Kyubee, S.",BAL,1,0,0,0,0,6,1
+"O'Connell, K.",COL,14,32,2.3,9,1,6,1
+"Tiernan, L.",COL,11,44,4,8,0,6,1
+"Tweed, B.",COL,9,39,4.3,9,0,6,1
+"Noble, L.",COL,1,1,1,1,0,6,1

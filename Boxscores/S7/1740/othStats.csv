@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Vibrations, F.",COL,0,0,5,2
-"Down, D.",COL,0,0,4,0
-"Windchesthair, A.",COL,0,0,4,0
-"Bastard, F.",COL,0,0,3,1
-"Knuckler, B.",COL,0,0,3,0
-"Nuck, B.",COL,0,0,2,0
-"Crush, C.",COL,0,0,1,0
-"McKoutchie, M.",SJS,2,20,6,1
-"Kane III, T.",SJS,2,10,0,0
-"Diaz, D.",SJS,1,5,1,1
-"Willey, M.",SJS,1,15,0,2
-"Joshua, C.",SJS,1,5,0,0
-"Lewith, T.",SJS,1,5,0,0
-"Rucker, F.",SJS,0,0,8,1
-"Bottles, B.",SJS,0,0,3,1
-"Tacktheritrix, J.",SJS,0,0,3,1
-"Smallwood, D.",SJS,0,0,2,0
-"Jahelpme, H.",SJS,0,0,1,0
-"Probincrux III, D.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Vibrations, F.",COL,0,0,5,2,4,7
+"Down, D.",COL,0,0,4,0,4,7
+"Windchesthair, A.",COL,0,0,4,0,4,7
+"Bastard, F.",COL,0,0,3,1,4,7
+"Knuckler, B.",COL,0,0,3,0,4,7
+"Nuck, B.",COL,0,0,2,0,4,7
+"Crush, C.",COL,0,0,1,0,4,7
+"McKoutchie, M.",SJS,2,20,6,1,4,7
+"Kane III, T.",SJS,2,10,0,0,4,7
+"Diaz, D.",SJS,1,5,1,1,4,7
+"Willey, M.",SJS,1,15,0,2,4,7
+"Joshua, C.",SJS,1,5,0,0,4,7
+"Lewith, T.",SJS,1,5,0,0,4,7
+"Rucker, F.",SJS,0,0,8,1,4,7
+"Bottles, B.",SJS,0,0,3,1,4,7
+"Tacktheritrix, J.",SJS,0,0,3,1,4,7
+"Smallwood, D.",SJS,0,0,2,0,4,7
+"Jahelpme, H.",SJS,0,0,1,0,4,7
+"Probincrux III, D.",SJS,0,0,1,0,4,7

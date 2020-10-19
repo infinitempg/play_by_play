@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McCormick, A.",NO,6,83,13.8,39,2
-"Gump, F.",NO,5,25,5,15,0
-"Podolak, J.",NO,3,96,32,38,0
-"Jones, B.",NO,2,41,20.5,30,0
-"Toriki, M.",NO,2,1,0.5,1,0
-"Jackson, A.",SJS,7,119,17,31,0
-"Thomas-Fox, D.",SJS,5,89,17.8,45,1
-"Tyerucker, Q.",SJS,4,62,15.5,28,0
-"McDavid, L.",SJS,4,9,2.2,5,0
-"Bot, B.",SJS,2,24,12,22,0
-"Cardrissian, R.",SJS,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McCormick, A.",NO,6,83,13.8,39,2,6,21
+"Gump, F.",NO,5,25,5,15,0,6,21
+"Podolak, J.",NO,3,96,32,38,0,6,21
+"Jones, B.",NO,2,41,20.5,30,0,6,21
+"Toriki, M.",NO,2,1,0.5,1,0,6,21
+"Jackson, A.",SJS,7,119,17,31,0,6,21
+"Thomas-Fox, D.",SJS,5,89,17.8,45,1,6,21
+"Tyerucker, Q.",SJS,4,62,15.5,28,0,6,21
+"McDavid, L.",SJS,4,9,2.2,5,0,6,21
+"Bot, B.",SJS,2,24,12,22,0,6,21
+"Cardrissian, R.",SJS,1,5,5,5,0,6,21

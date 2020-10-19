@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Durden, J.",ARI,13,59,4.5,10,0
-"Mackworthy, R.",ARI,9,41,4.6,11,0
-"Newman, M.",ARI,6,35,5.8,17,0
-"Draxel, V.",ARI,1,-1,-1,0,0
-"Robinson, M.",BAL,20,64,3.2,12,1
-"Novel, L.",BAL,9,35,3.9,10,1
-"Kyubee, S.",BAL,3,-3,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Durden, J.",ARI,13,59,4.5,10,0,8,1
+"Mackworthy, R.",ARI,9,41,4.6,11,0,8,1
+"Newman, M.",ARI,6,35,5.8,17,0,8,1
+"Draxel, V.",ARI,1,-1,-1,0,0,8,1
+"Robinson, M.",BAL,20,64,3.2,12,1,8,1
+"Novel, L.",BAL,9,35,3.9,10,1,8,1
+"Kyubee, S.",BAL,3,-3,-1,0,0,8,1

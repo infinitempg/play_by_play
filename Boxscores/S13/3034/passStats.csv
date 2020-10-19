@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Applehort, R.",YKW,"[26, 41]",278,10.7,3,0,107.6
-"Falconi, A.",PHI,"[22, 34]",323,14.7,2,1,102.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Applehort, R.",YKW,278,10.7,3,0,107.6,26,22,6,13
+"Falconi, A.",PHI,323,14.7,2,1,102.9,26,22,6,13

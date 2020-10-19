@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Barnes, B.",AZ,2,64,-4,43,0,0,0,1
-"Asipi III, A.",AZ,1,13,0,13,0,0,0,0
-"Valentine, V.",BAL,2,57,-3,32,0,0,0,2
-"Hondo, A.",BAL,1,15,0,15,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Barnes, B.",AZ,2,64,-4,43,0,0,0,1,4,13
+"Asipi III, A.",AZ,1,13,0,13,0,0,0,0,4,13
+"Valentine, V.",BAL,2,57,-3,32,0,0,0,2,4,13
+"Hondo, A.",BAL,1,15,0,15,0,0,0,0,4,13

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Armstrong, F.",OCO,"[17, 35]",269,15.8,3,1,91.2
-"Christ, J.",SJS,"[17, 28]",224,13.2,1,0,97.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Armstrong, F.",OCO,269,15.8,3,1,91.2,17,17,9,17
+"Christ, J.",SJS,224,13.2,1,0,97.9,17,17,9,17

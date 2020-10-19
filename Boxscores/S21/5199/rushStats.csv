@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,23,98,4.3,9,1
-"Dotson, F.",PHI,3,12,4,4,0
-"Phoenix, B.",PHI,2,15,7.5,14,0
-"Leaf Jr., R.",CHI,25,110,4.4,11,0
-"Hank, F.",CHI,14,69,4.9,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,23,98,4.3,9,1,10,21
+"Dotson, F.",PHI,3,12,4,4,0,10,21
+"Phoenix, B.",PHI,2,15,7.5,14,0,10,21
+"Leaf Jr., R.",CHI,25,110,4.4,11,0,10,21
+"Hank, F.",CHI,14,69,4.9,11,0,10,21

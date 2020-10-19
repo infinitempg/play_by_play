@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Centre, S.",COL,1,15,3,0
-"Magic, M.",COL,0,0,6,0
-"Sauce, E.",COL,0,0,6,0
-"Guard, R.",COL,0,0,5,0
-"Thruster, D.",COL,0,0,4,0
-"Gilbert, R.",COL,0,0,2,0
-"Bumper, T.",COL,0,0,1,0
-"Guard, L.",COL,0,0,1,0
-"McCormick, A.",NO,1,5,0,0
-"Witten, A.",NO,1,5,0,0
-"Rubbe, G.",NO,0,0,7,0
-"Wolfcastle, R.",NO,0,0,6,1
-"Ofyourlove, S.",NO,0,0,6,0
-"Room, W.",NO,0,0,4,0
-"Jimbo Jr., D.",NO,0,0,3,0
-"Toriki, M.",NO,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Centre, S.",COL,1,15,3,0,10,24
+"Magic, M.",COL,0,0,6,0,10,24
+"Sauce, E.",COL,0,0,6,0,10,24
+"Guard, R.",COL,0,0,5,0,10,24
+"Thruster, D.",COL,0,0,4,0,10,24
+"Gilbert, R.",COL,0,0,2,0,10,24
+"Bumper, T.",COL,0,0,1,0,10,24
+"Guard, L.",COL,0,0,1,0,10,24
+"McCormick, A.",NO,1,5,0,0,10,24
+"Witten, A.",NO,1,5,0,0,10,24
+"Rubbe, G.",NO,0,0,7,0,10,24
+"Wolfcastle, R.",NO,0,0,6,1,10,24
+"Ofyourlove, S.",NO,0,0,6,0,10,24
+"Room, W.",NO,0,0,4,0,10,24
+"Jimbo Jr., D.",NO,0,0,3,0,10,24
+"Toriki, M.",NO,0,0,2,0,10,24

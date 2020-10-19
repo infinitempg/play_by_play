@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kroetch, D.",PHI,16,51,3.2,11,0
-"O'Connell, K.",PHI,5,20,4,7,0
-"Rove, C.",PHI,1,0,0,0,0
-"Jenkins, L.",OCO,13,33,2.5,6,1
-"Burnsman, E.",OCO,11,36,3.3,10,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kroetch, D.",PHI,16,51,3.2,11,0,10,4
+"O'Connell, K.",PHI,5,20,4,7,0,10,4
+"Rove, C.",PHI,1,0,0,0,0,10,4
+"Jenkins, L.",OCO,13,33,2.5,6,1,10,4
+"Burnsman, E.",OCO,11,36,3.3,10,1,10,4

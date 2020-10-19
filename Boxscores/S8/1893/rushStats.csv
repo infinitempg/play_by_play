@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,42,153,3.6,14,0
-"Bronko, K.",AZ,3,20,6.7,18,0
-"Grau, M.",COL,14,42,3,7,0
-"Applehort, R.",COL,3,15,5,8,1
-"Joyce, S.",COL,1,8,8,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,42,153,3.6,14,0,4,8
+"Bronko, K.",AZ,3,20,6.7,18,0,4,8
+"Grau, M.",COL,14,42,3,7,0,4,8
+"Applehort, R.",COL,3,15,5,8,1,4,8
+"Joyce, S.",COL,1,8,8,8,0,4,8

@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,27,129,4.8,15,0
-"Armstrong, F.",OCO,11,67,6.1,35,1
-"Shady, S.",OCO,10,66,6.6,9,0
-"Danielsson, A.",CHI,13,41,3.2,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,27,129,4.8,15,0,4,19
+"Armstrong, F.",OCO,11,67,6.1,35,1,4,19
+"Shady, S.",OCO,10,66,6.6,9,0,4,19
+"Danielsson, A.",CHI,13,41,3.2,9,0,4,19

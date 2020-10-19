@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Abernathy, K.",OCO,2,100,0,94,0,1,0,0
-"Beerus, L.",OCO,2,44,41,34,18,0,0,3
-"Thomas-Fox, D.",SJS,2,45,9,26,9,0,0,1
-"PickSix, H.",SJS,3,64,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Abernathy, K.",OCO,2,100,0,94,0,1,0,0,1,25
+"Beerus, L.",OCO,2,44,41,34,18,0,0,3,1,25
+"Thomas-Fox, D.",SJS,2,45,9,26,9,0,0,1,1,25
+"PickSix, H.",SJS,3,64,0,38,0,0,0,0,1,25

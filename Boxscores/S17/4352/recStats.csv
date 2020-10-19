@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, N.",YKW,7,67,9.6,25,0
-"Canton, J.",YKW,6,61,10.2,18,1
-"Parker, J.",YKW,5,47,9.4,14,2
-"Marshall, M.",YKW,5,27,5.4,7,0
-"Helanen, T.",YKW,3,32,10.7,23,0
-"Tidwell, R.",AUS,6,81,13.5,31,0
-"Mendonca, M.",AUS,6,63,10.5,19,0
-"Larson, P.",AUS,6,39,6.5,11,1
-"Owens, A.",AUS,5,57,11.4,24,1
-"Anoa'i, D.",AUS,3,26,8.7,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, N.",YKW,7,67,9.6,25,0,13,17
+"Canton, J.",YKW,6,61,10.2,18,1,13,17
+"Parker, J.",YKW,5,47,9.4,14,2,13,17
+"Marshall, M.",YKW,5,27,5.4,7,0,13,17
+"Helanen, T.",YKW,3,32,10.7,23,0,13,17
+"Tidwell, R.",AUS,6,81,13.5,31,0,13,17
+"Mendonca, M.",AUS,6,63,10.5,19,0,13,17
+"Larson, P.",AUS,6,39,6.5,11,1,13,17
+"Owens, A.",AUS,5,57,11.4,24,1,13,17
+"Anoa'i, D.",AUS,3,26,8.7,11,0,13,17

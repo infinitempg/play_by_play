@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Akselsen, M.",YKW,13,35,2.7,10,1
-"Rainey, R.",YKW,12,25,2.1,5,1
-"Gore, B.",YKW,10,25,2.5,9,2
-"Diaz, D.",SJS,21,51,2.4,8,0
-"Riddick, D.",SJS,3,2,0.7,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Akselsen, M.",YKW,13,35,2.7,10,1,9,8
+"Rainey, R.",YKW,12,25,2.1,5,1,9,8
+"Gore, B.",YKW,10,25,2.5,9,2,9,8
+"Diaz, D.",SJS,21,51,2.4,8,0,9,8
+"Riddick, D.",SJS,3,2,0.7,1,0,9,8

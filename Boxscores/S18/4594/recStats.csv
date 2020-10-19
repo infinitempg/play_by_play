@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hank, F.",PHI,7,68,9.7,18,1
-"Varga, N.",PHI,5,101,20.2,36,1
-"Zephyrous, S.",PHI,5,24,4.8,9,0
-"Torenson, S.",PHI,4,14,3.5,5,0
-"Hardwick, S.",PHI,3,45,15,29,0
-"von Matt, J.",PHI,2,43,21.5,34,1
-"Bishop, J.",COL,3,53,17.7,28,0
-"King, A.",COL,3,15,5,6,0
-"Damian-Luna, B.",COL,3,6,2,6,0
-"Taffy, T.",COL,2,42,21,27,0
-"Forty-Two, L.",COL,2,12,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hank, F.",PHI,7,68,9.7,18,1,8,18
+"Varga, N.",PHI,5,101,20.2,36,1,8,18
+"Zephyrous, S.",PHI,5,24,4.8,9,0,8,18
+"Torenson, S.",PHI,4,14,3.5,5,0,8,18
+"Hardwick, S.",PHI,3,45,15,29,0,8,18
+"von Matt, J.",PHI,2,43,21.5,34,1,8,18
+"Bishop, J.",COL,3,53,17.7,28,0,8,18
+"King, A.",COL,3,15,5,6,0,8,18
+"Damian-Luna, B.",COL,3,6,2,6,0,8,18
+"Taffy, T.",COL,2,42,21,27,0,8,18
+"Forty-Two, L.",COL,2,12,6,6,0,8,18

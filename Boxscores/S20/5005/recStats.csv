@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Parker, J.",CHI,6,73,12.2,20,0
-"Espeeyeeseetee, A.",CHI,5,80,16,38,1
-"O'Leary, S.",CHI,4,42,10.5,20,0
-"Danielsson, A.",CHI,3,21,7,10,0
-"James-Jones, S.",CHI,2,15,7.5,9,0
-"Maddox, E.",BAL,5,94,18.8,35,1
-"Sauce, E.",BAL,5,33,6.6,20,0
-"Landers, B.",BAL,4,113,28.2,40,0
-"Bigby, L.",BAL,2,15,7.5,14,0
-"Williams, D.",BAL,2,4,2,4,0
-"Quinn, A.",BAL,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Parker, J.",CHI,6,73,12.2,20,0,7,20
+"Espeeyeeseetee, A.",CHI,5,80,16,38,1,7,20
+"O'Leary, S.",CHI,4,42,10.5,20,0,7,20
+"Danielsson, A.",CHI,3,21,7,10,0,7,20
+"James-Jones, S.",CHI,2,15,7.5,9,0,7,20
+"Maddox, E.",BAL,5,94,18.8,35,1,7,20
+"Sauce, E.",BAL,5,33,6.6,20,0,7,20
+"Landers, B.",BAL,4,113,28.2,40,0,7,20
+"Bigby, L.",BAL,2,15,7.5,14,0,7,20
+"Williams, D.",BAL,2,4,2,4,0,7,20
+"Quinn, A.",BAL,1,9,9,9,0,7,20

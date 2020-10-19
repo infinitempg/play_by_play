@@ -1,28 +1,28 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"King, G.",ARI,2,10,0,0
-"Pancake, P.",ARI,1,5,3,1
-"Thomas, A.",ARI,1,5,3,1
-"Mackworthy, R.",ARI,1,5,2,0
-"Tuck, J.",ARI,1,15,1,1
-"Ernston, H.",ARI,1,5,0,0
-"Harris Jr., F.",ARI,1,15,0,0
-"Luechly, L.",ARI,1,5,0,0
-"Asipi, A.",ARI,0,0,5,0
-"Law, C.",ARI,0,0,4,0
-"Pest, T.",ARI,0,0,4,0
-"Schmarchetype, A.",ARI,0,0,1,0
-"Timlin, S.",ARI,0,0,1,0
-"Boom, J.",OCO,3,17,0,0
-"Bavitz, I.",OCO,1,10,0,0
-"Kronen, R.",OCO,1,15,0,0
-"O'Sullivan, J.",OCO,1,5,0,0
-"Phelps, R.",OCO,1,5,0,0
-"Tomlinson, A.",OCO,1,5,0,0
-"Hamilton, C.",OCO,0,0,3,0
-"Winchester, A.",OCO,0,0,3,0
-"Ferguson, D.",OCO,0,0,2,0
-"Jenkins, L.",OCO,0,0,2,0
-"Wright Jr, G.",OCO,0,0,2,0
-"Burnsman, E.",OCO,0,0,1,1
-"Clegane, G.",OCO,0,0,1,1
-"Madlad, B.",OCO,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"King, G.",ARI,2,10,0,0,10,3
+"Pancake, P.",ARI,1,5,3,1,10,3
+"Thomas, A.",ARI,1,5,3,1,10,3
+"Mackworthy, R.",ARI,1,5,2,0,10,3
+"Tuck, J.",ARI,1,15,1,1,10,3
+"Ernston, H.",ARI,1,5,0,0,10,3
+"Harris Jr., F.",ARI,1,15,0,0,10,3
+"Luechly, L.",ARI,1,5,0,0,10,3
+"Asipi, A.",ARI,0,0,5,0,10,3
+"Law, C.",ARI,0,0,4,0,10,3
+"Pest, T.",ARI,0,0,4,0,10,3
+"Schmarchetype, A.",ARI,0,0,1,0,10,3
+"Timlin, S.",ARI,0,0,1,0,10,3
+"Boom, J.",OCO,3,17,0,0,10,3
+"Bavitz, I.",OCO,1,10,0,0,10,3
+"Kronen, R.",OCO,1,15,0,0,10,3
+"O'Sullivan, J.",OCO,1,5,0,0,10,3
+"Phelps, R.",OCO,1,5,0,0,10,3
+"Tomlinson, A.",OCO,1,5,0,0,10,3
+"Hamilton, C.",OCO,0,0,3,0,10,3
+"Winchester, A.",OCO,0,0,3,0,10,3
+"Ferguson, D.",OCO,0,0,2,0,10,3
+"Jenkins, L.",OCO,0,0,2,0,10,3
+"Wright Jr, G.",OCO,0,0,2,0,10,3
+"Burnsman, E.",OCO,0,0,1,1,10,3
+"Clegane, G.",OCO,0,0,1,1,10,3
+"Madlad, B.",OCO,0,0,1,1,10,3

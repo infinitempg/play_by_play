@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Lagerfield, E.",SJS,25,110,4.4,22,1
-"Akselsen, M.",SJS,1,4,4,4,0
-"Riddick, D.",SJS,1,7,7,7,0
-"Adams, R.",OCO,18,84,4.7,15,0
-"Showbiz, G.",OCO,4,11,2.8,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Lagerfield, E.",SJS,25,110,4.4,22,1,1,10
+"Akselsen, M.",SJS,1,4,4,4,0,1,10
+"Riddick, D.",SJS,1,7,7,7,0,1,10
+"Adams, R.",OCO,18,84,4.7,15,0,1,10
+"Showbiz, G.",OCO,4,11,2.8,6,0,1,10

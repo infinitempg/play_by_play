@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,2,63,27,44,12,0,0,3
-"Quinn, A.",BAL,1,22,0,22,0,0,0,0
-"Thomas-Fox, D.",SJS,1,14,0,14,0,0,0,0
-"PickSix, H.",SJS,1,23,0,23,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,2,63,27,44,12,0,0,3,8,23
+"Quinn, A.",BAL,1,22,0,22,0,0,0,0,8,23
+"Thomas-Fox, D.",SJS,1,14,0,14,0,0,0,0,8,23
+"PickSix, H.",SJS,1,23,0,23,0,0,0,0,8,23

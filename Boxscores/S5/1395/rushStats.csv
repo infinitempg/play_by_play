@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",SJS,15,43,2.9,8,2
-"Diaz, D.",SJS,9,33,3.7,7,0
-"Orosz, C.",SJS,1,0,0,0,0
-"Kroetch, D.",PHI,14,36,2.6,9,0
-"Rove, C.",PHI,2,4,2,4,0
-"O'Connell, K.",PHI,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",SJS,15,43,2.9,8,2,6,5
+"Diaz, D.",SJS,9,33,3.7,7,0,6,5
+"Orosz, C.",SJS,1,0,0,0,0,6,5
+"Kroetch, D.",PHI,14,36,2.6,9,0,6,5
+"Rove, C.",PHI,2,4,2,4,0,6,5
+"O'Connell, K.",PHI,1,2,2,2,0,6,5

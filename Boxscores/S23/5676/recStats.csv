@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Oberwald, G.",CHI,5,70,14,26,0
-"Hayes, V.",CHI,5,27,5.4,7,0
-"Gelbman, T.",CHI,4,23,5.8,8,0
-"Okusi, R.",CHI,4,22,5.5,7,0
-"O'Leary, S.",CHI,2,52,26,40,0
-"Hank, F.",CHI,2,10,5,5,0
-"Hanyadi, M.",YKW,5,52,10.4,19,0
-"Rodriguez, B.",YKW,4,42,10.5,18,0
-"Skyline, A.",YKW,3,12,4,6,0
-"Swift, N.",YKW,2,27,13.5,14,0
-"Jackson, A.",YKW,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Oberwald, G.",CHI,5,70,14,26,0,14,23
+"Hayes, V.",CHI,5,27,5.4,7,0,14,23
+"Gelbman, T.",CHI,4,23,5.8,8,0,14,23
+"Okusi, R.",CHI,4,22,5.5,7,0,14,23
+"O'Leary, S.",CHI,2,52,26,40,0,14,23
+"Hank, F.",CHI,2,10,5,5,0,14,23
+"Hanyadi, M.",YKW,5,52,10.4,19,0,14,23
+"Rodriguez, B.",YKW,4,42,10.5,18,0,14,23
+"Skyline, A.",YKW,3,12,4,6,0,14,23
+"Swift, N.",YKW,2,27,13.5,14,0,14,23
+"Jackson, A.",YKW,1,7,7,7,0,14,23

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gaines, N.",AUS,6,54,9,15,0
-"Jeeta, E.",AUS,5,53,10.6,15,1
-"Watts, Z.",AUS,5,33,6.6,14,0
-"Videl-San, N.",AUS,4,58,14.5,24,1
-"Jones, K.",AUS,3,6,2,4,0
-"Vequain, F.",AUS,2,17,8.5,11,0
-"Blocksdale Jr., A.",PHI,4,39,9.8,13,0
-"Arrabiata, D.",PHI,4,38,9.5,23,1
-"Vuxta, R.",PHI,3,31,10.3,18,1
-"Panda, F.",PHI,2,39,19.5,29,1
-"Chambers, K.",PHI,2,17,8.5,10,0
-"Torenson, S.",PHI,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gaines, N.",AUS,6,54,9,15,0,2,25
+"Jeeta, E.",AUS,5,53,10.6,15,1,2,25
+"Watts, Z.",AUS,5,33,6.6,14,0,2,25
+"Videl-San, N.",AUS,4,58,14.5,24,1,2,25
+"Jones, K.",AUS,3,6,2,4,0,2,25
+"Vequain, F.",AUS,2,17,8.5,11,0,2,25
+"Blocksdale Jr., A.",PHI,4,39,9.8,13,0,2,25
+"Arrabiata, D.",PHI,4,38,9.5,23,1,2,25
+"Vuxta, R.",PHI,3,31,10.3,18,1,2,25
+"Panda, F.",PHI,2,39,19.5,29,1,2,25
+"Chambers, K.",PHI,2,17,8.5,10,0,2,25
+"Torenson, S.",PHI,1,6,6,6,0,2,25

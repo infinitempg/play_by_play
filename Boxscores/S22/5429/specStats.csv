@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,3,108,13,46,10,0,0,2
-"Blaylock, M.",NO,4,56,0,20,0,0,0,0
-"Mendonca, M.",AUS,2,77,0,46,0,0,0,0
-"Lavelle Jr., D.",AUS,1,18,29,18,12,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,3,108,13,46,10,0,0,2,12,22
+"Blaylock, M.",NO,4,56,0,20,0,0,0,0,12,22
+"Mendonca, M.",AUS,2,77,0,46,0,0,0,0,12,22
+"Lavelle Jr., D.",AUS,1,18,29,18,12,0,0,3,12,22

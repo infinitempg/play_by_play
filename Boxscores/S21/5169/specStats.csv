@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Varga, N.",PHI,4,114,21,46,13,0,0,2
-"Vuxta, R.",PHI,3,73,0,37,0,0,0,0
-"Swift, N.",YKW,3,41,0,27,0,0,0,0
-"Snuggles, J.",YKW,2,70,13,46,20,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Varga, N.",PHI,4,114,21,46,13,0,0,2,4,21
+"Vuxta, R.",PHI,3,73,0,37,0,0,0,0,4,21
+"Swift, N.",YKW,3,41,0,27,0,0,0,0,4,21
+"Snuggles, J.",YKW,2,70,13,46,20,0,0,4,4,21

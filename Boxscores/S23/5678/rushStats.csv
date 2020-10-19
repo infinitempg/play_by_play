@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Lackson, J.",SJS,20,96,4.8,12,1
-"Cardrissian, R.",SJS,19,86,4.5,13,1
-"Jack, "".",SJS,2,5,2.5,5,0
-"Irving, J.",SJS,1,2,2,2,0
-"Kane-Maika'i, K.",HON,10,38,3.8,7,0
-"Ruff, R.",HON,10,17,1.7,6,0
-"Havran, C.",HON,3,4,1.3,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Lackson, J.",SJS,20,96,4.8,12,1,14,23
+"Cardrissian, R.",SJS,19,86,4.5,13,1,14,23
+"Jack, "".",SJS,2,5,2.5,5,0,14,23
+"Irving, J.",SJS,1,2,2,2,0,14,23
+"Kane-Maika'i, K.",HON,10,38,3.8,7,0,14,23
+"Ruff, R.",HON,10,17,1.7,6,0,14,23
+"Havran, C.",HON,3,4,1.3,8,0,14,23

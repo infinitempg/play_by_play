@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bigby, L.",BAL,21,84,4,11,2
-"Trevor, C.",BAL,7,28,4,8,1
-"Havran, C.",BAL,2,6,3,6,0
-"Pancakes, P.",BAL,1,2,2,2,0
-"Owens, A.",COL,23,92,4,11,0
-"Vincent, M.",COL,10,50,5,10,0
-"McDummy, W.",COL,5,-2,-0.4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bigby, L.",BAL,21,84,4,11,2,10,19
+"Trevor, C.",BAL,7,28,4,8,1,10,19
+"Havran, C.",BAL,2,6,3,6,0,10,19
+"Pancakes, P.",BAL,1,2,2,2,0,10,19
+"Owens, A.",COL,23,92,4,11,0,10,19
+"Vincent, M.",COL,10,50,5,10,0,10,19
+"McDummy, W.",COL,5,-2,-0.4,4,0,10,19

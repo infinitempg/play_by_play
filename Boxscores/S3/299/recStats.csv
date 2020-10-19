@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Garden, J.",YKW,5,98,19.6,41,1
-"Cook, B.",YKW,5,58,11.6,23,2
-"Kennedy, E.",YKW,3,24,8,14,0
-"West, D.",YKW,3,21,7,9,0
-"Askins, J.",YKW,1,7,7,7,0
-"Nuck, B.",YKW,1,7,7,7,0
-"Piper, W.",YKW,1,4,4,4,0
-"Hendrix, K.",COL,4,73,18.2,26,0
-"Law, D.",COL,2,51,25.5,32,0
-"Tweed, B.",COL,2,24,12,19,1
-"Joyce, S.",COL,1,6,6,6,0
-"Newman, M.",COL,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Garden, J.",YKW,5,98,19.6,41,1,6,3
+"Cook, B.",YKW,5,58,11.6,23,2,6,3
+"Kennedy, E.",YKW,3,24,8,14,0,6,3
+"West, D.",YKW,3,21,7,9,0,6,3
+"Askins, J.",YKW,1,7,7,7,0,6,3
+"Nuck, B.",YKW,1,7,7,7,0,6,3
+"Piper, W.",YKW,1,4,4,4,0,6,3
+"Hendrix, K.",COL,4,73,18.2,26,0,6,3
+"Law, D.",COL,2,51,25.5,32,0,6,3
+"Tweed, B.",COL,2,24,12,19,1,6,3
+"Joyce, S.",COL,1,6,6,6,0,6,3
+"Newman, M.",COL,1,0,0,0,0,6,3

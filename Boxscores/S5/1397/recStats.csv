@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hendrix, K.",COL,5,40,8,11,0
-"Wheat, B.",COL,4,68,17,28,0
-"Reigns, J.",COL,3,40,13.3,21,0
-"Tweed, B.",COL,2,50,25,38,0
-"Crush, C.",COL,2,6,3,3,0
-"LeClair, A.",BAL,7,88,12.6,44,1
-"Wachter, J.",BAL,6,84,14,38,1
-"Stormblessed, N.",BAL,6,57,9.5,27,1
-"Willie, T.",BAL,5,72,14.4,30,0
-"Taylor, O.",BAL,4,29,7.2,12,0
-"Koch, D.",BAL,4,18,4.5,6,1
-"Christmas, C.",BAL,3,18,6,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hendrix, K.",COL,5,40,8,11,0,6,5
+"Wheat, B.",COL,4,68,17,28,0,6,5
+"Reigns, J.",COL,3,40,13.3,21,0,6,5
+"Tweed, B.",COL,2,50,25,38,0,6,5
+"Crush, C.",COL,2,6,3,3,0,6,5
+"LeClair, A.",BAL,7,88,12.6,44,1,6,5
+"Wachter, J.",BAL,6,84,14,38,1,6,5
+"Stormblessed, N.",BAL,6,57,9.5,27,1,6,5
+"Willie, T.",BAL,5,72,14.4,30,0,6,5
+"Taylor, O.",BAL,4,29,7.2,12,0,6,5
+"Koch, D.",BAL,4,18,4.5,6,1,6,5
+"Christmas, C.",BAL,3,18,6,11,0,6,5

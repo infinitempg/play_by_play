@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Fillmore, M.",PHI,1,5,3,1
-"Brown, M.",PHI,1,5,1,0
-"Kalilmoku, I.",PHI,1,15,0,0
-"Hasselhoff, F.",PHI,1,10,0,0
-"Hayes, R.",PHI,0,0,9,0
-"Arthur, C.",PHI,0,0,7,0
-"Van Buren, M.",PHI,0,0,3,0
-"Tyler, J.",PHI,0,0,2,0
-"Earl, B.",AZ,2,26,0,0
-"Robotman, D.",AZ,1,15,4,0
-"Robotman, E.",AZ,1,5,1,0
-"Reese, A.",AZ,1,5,0,0
-"Robotman, C.",AZ,1,10,0,0
-"Sackerman, F.",AZ,1,5,0,0
-"Robotman, A.",AZ,0,0,5,0
-"Robotman, B.",AZ,0,0,2,0
-"Asipi III, A.",AZ,0,0,1,0
-"Moore, S.",AZ,0,0,1,0
-"Crindy, B.",AZ,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Fillmore, M.",PHI,1,5,3,1,11,12
+"Brown, M.",PHI,1,5,1,0,11,12
+"Kalilmoku, I.",PHI,1,15,0,0,11,12
+"Hasselhoff, F.",PHI,1,10,0,0,11,12
+"Hayes, R.",PHI,0,0,9,0,11,12
+"Arthur, C.",PHI,0,0,7,0,11,12
+"Van Buren, M.",PHI,0,0,3,0,11,12
+"Tyler, J.",PHI,0,0,2,0,11,12
+"Earl, B.",AZ,2,26,0,0,11,12
+"Robotman, D.",AZ,1,15,4,0,11,12
+"Robotman, E.",AZ,1,5,1,0,11,12
+"Reese, A.",AZ,1,5,0,0,11,12
+"Robotman, C.",AZ,1,10,0,0,11,12
+"Sackerman, F.",AZ,1,5,0,0,11,12
+"Robotman, A.",AZ,0,0,5,0,11,12
+"Robotman, B.",AZ,0,0,2,0,11,12
+"Asipi III, A.",AZ,0,0,1,0,11,12
+"Moore, S.",AZ,0,0,1,0,11,12
+"Crindy, B.",AZ,0,0,1,0,11,12

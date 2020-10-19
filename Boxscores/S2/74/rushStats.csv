@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,23,95,4.1,11,0
-"Wright, O.",PHI,17,57,3.4,12,1
-"Newman, M.",PHI,5,21,4.2,8,0
-"Christ, J.",PHI,1,-5,-5,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,23,95,4.1,11,0,12,2
+"Wright, O.",PHI,17,57,3.4,12,1,12,2
+"Newman, M.",PHI,5,21,4.2,8,0,12,2
+"Christ, J.",PHI,1,-5,-5,0,0,12,2

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,3,85,29,37,16,0,0,5
-"PickSix, H.",SJS,1,15,0,15,0,0,0,0
-"Donut, S.",AZ,1,30,0,30,0,0,0,0
-"Scarlett, D.",AZ,1,36,26,36,14,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,3,85,29,37,16,0,0,5,15,24
+"PickSix, H.",SJS,1,15,0,15,0,0,0,0,15,24
+"Donut, S.",AZ,1,30,0,30,0,0,0,0,15,24
+"Scarlett, D.",AZ,1,36,26,36,14,0,0,4,15,24

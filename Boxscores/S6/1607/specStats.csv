@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,2,75,0,39,0,0,0,0
-"Browning, B.",AZ,1,16,0,16,0,0,0,0
-"Hayden, A.",AZ,0,0,7,0,7,0,0,1
-"Delacour, A.",BAL,0,0,17,0,13,0,0,3
-"Willie, T.",BAL,4,71,0,36,0,0,0,0
-"LeClair, A.",BAL,2,62,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,2,75,0,39,0,0,0,0,8,6
+"Browning, B.",AZ,1,16,0,16,0,0,0,0,8,6
+"Hayden, A.",AZ,0,0,7,0,7,0,0,1,8,6
+"Delacour, A.",BAL,0,0,17,0,13,0,0,3,8,6
+"Willie, T.",BAL,4,71,0,36,0,0,0,0,8,6
+"LeClair, A.",BAL,2,62,0,39,0,0,0,0,8,6

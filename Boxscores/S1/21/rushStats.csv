@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Tweed, B.",COL,16,68,4.2,8,0
-"Tiernan, L.",COL,7,23,3.3,10,0
-"Noble, L.",COL,1,2,2,2,0
-"Nuck, B.",YKW,21,92,4.4,17,0
-"Orosz, C.",YKW,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Tweed, B.",COL,16,68,4.2,8,0,2,1
+"Tiernan, L.",COL,7,23,3.3,10,0,2,1
+"Noble, L.",COL,1,2,2,2,0,2,1
+"Nuck, B.",YKW,21,92,4.4,17,0,2,1
+"Orosz, C.",YKW,1,0,0,0,0,2,1

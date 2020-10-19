@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"DiMirio, P.",PHI,0,0,38,0,18,0,0,4
-"Oles, T.",PHI,1,37,0,37,0,0,0,0
-"Boggs, B.",COL,2,16,0,8,0,0,0,0
-"Bly Jr., A.",COL,4,54,35,19,18,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"DiMirio, P.",PHI,0,0,38,0,18,0,0,4,11,5
+"Oles, T.",PHI,1,37,0,37,0,0,0,0,11,5
+"Boggs, B.",COL,2,16,0,8,0,0,0,0,11,5
+"Bly Jr., A.",COL,4,54,35,19,18,0,0,2,11,5

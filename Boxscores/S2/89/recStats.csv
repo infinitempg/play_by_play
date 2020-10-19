@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"LeClair, A.",LV,7,83,11.9,21,0
-"Stormblessed, N.",LV,4,52,13,26,0
-"Rocket, J.",LV,3,47,15.7,35,0
-"Cobb, K.",LV,2,1,0.5,1,1
-"Savea, A.",LV,1,11,11,11,0
-"Larsendorf, R.",LV,1,0,0,0,0
-"Smallwood, D.",SJS,7,111,15.9,34,2
-"Weston, S.",SJS,5,138,27.6,52,0
-"Wheat, B.",SJS,5,34,6.8,12,0
-"Bottles, B.",SJS,3,26,8.7,13,0
-"Durden, J.",SJS,2,10,5,10,0
-"Stephen, W.",SJS,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"LeClair, A.",LV,7,83,11.9,21,0,13,2
+"Stormblessed, N.",LV,4,52,13,26,0,13,2
+"Rocket, J.",LV,3,47,15.7,35,0,13,2
+"Cobb, K.",LV,2,1,0.5,1,1,13,2
+"Savea, A.",LV,1,11,11,11,0,13,2
+"Larsendorf, R.",LV,1,0,0,0,0,13,2
+"Smallwood, D.",SJS,7,111,15.9,34,2,13,2
+"Weston, S.",SJS,5,138,27.6,52,0,13,2
+"Wheat, B.",SJS,5,34,6.8,12,0,13,2
+"Bottles, B.",SJS,3,26,8.7,13,0,13,2
+"Durden, J.",SJS,2,10,5,10,0,13,2
+"Stephen, W.",SJS,1,4,4,4,0,13,2

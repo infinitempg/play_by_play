@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Purchase, L.",COL,3,85,0,36,0,0,0,0
-"Williams, D.",COL,0,0,9,0,9,0,0,1
-"Chan, R.",SAR,3,91,1,37,7,0,0,3
-"Clemente, C.",SAR,2,59,0,35,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Purchase, L.",COL,3,85,0,36,0,0,0,0,1,25
+"Williams, D.",COL,0,0,9,0,9,0,0,1,1,25
+"Chan, R.",SAR,3,91,1,37,7,0,0,3,1,25
+"Clemente, C.",SAR,2,59,0,35,0,0,0,0,1,25

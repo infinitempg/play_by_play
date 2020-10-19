@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,0,0,77,0,61,0,1,2
-"Jones, B.",NO,2,37,0,34,0,0,0,0
-"Donut, S.",AZ,7,154,0,38,0,0,0,0
-"Oles, K.",AZ,4,67,12,38,14,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,0,0,77,0,61,0,1,2,3,19
+"Jones, B.",NO,2,37,0,34,0,0,0,0,3,19
+"Donut, S.",AZ,7,154,0,38,0,0,0,0,3,19
+"Oles, K.",AZ,4,67,12,38,14,0,0,3,3,19

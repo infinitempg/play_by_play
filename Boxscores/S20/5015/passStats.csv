@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bigsby, C.",YKW,"[24, 37]",323,13.5,3,1,108.3
-"Havran, C.",BAL,"[22, 38]",370,16.8,2,0,108.4
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bigsby, C.",YKW,323,13.5,3,1,108.3,24,22,9,20
+"Havran, C.",BAL,370,16.8,2,0,108.4,24,22,9,20

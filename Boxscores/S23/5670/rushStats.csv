@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Frost, D.",SAR,13,75,5.8,19,0
-"Back, R.",SAR,9,62,6.9,20,0
-"Banks II, D.",SAR,6,27,4.5,8,0
-"Hanyadi, M.",YKW,21,103,4.9,13,1
-"Skyline, A.",YKW,10,45,4.5,13,0
-"Bigsby, C.",YKW,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Frost, D.",SAR,13,75,5.8,19,0,13,23
+"Back, R.",SAR,9,62,6.9,20,0,13,23
+"Banks II, D.",SAR,6,27,4.5,8,0,13,23
+"Hanyadi, M.",YKW,21,103,4.9,13,1,13,23
+"Skyline, A.",YKW,10,45,4.5,13,0,13,23
+"Bigsby, C.",YKW,1,1,1,1,0,13,23

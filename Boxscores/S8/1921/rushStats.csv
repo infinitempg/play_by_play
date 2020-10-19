@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,25,96,3.8,14,0
-"Bronko, K.",AZ,3,13,4.3,6,1
-"Diaz, D.",SJS,17,51,3,7,0
-"Pennington, B.",SJS,2,-1,-0.5,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,25,96,3.8,14,0,11,8
+"Bronko, K.",AZ,3,13,4.3,6,1,11,8
+"Diaz, D.",SJS,17,51,3,7,0,11,8
+"Pennington, B.",SJS,2,-1,-0.5,0,0,11,8

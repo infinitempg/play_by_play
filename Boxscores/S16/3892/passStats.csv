@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Francisco, S.",NO,"[17, 32]",173,10.2,3,1,87.1
-"Showbiz, G.",OCO,"[27, 43]",391,14.5,6,3,102.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Francisco, S.",NO,173,10.2,3,1,87.1,17,27,5,16
+"Showbiz, G.",OCO,391,14.5,6,3,102.8,17,27,5,16

@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yoda, B.",AZ,29,111,3.8,15,2
-"Cue, J.",AZ,8,24,3,18,0
-"Mendonca, M.",AUS,14,84,6,22,0
-"Leaf Jr., R.",AUS,13,38,2.9,9,2
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yoda, B.",AZ,29,111,3.8,15,2,1,22
+"Cue, J.",AZ,8,24,3,18,0,1,22
+"Mendonca, M.",AUS,14,84,6,22,0,1,22
+"Leaf Jr., R.",AUS,13,38,2.9,9,2,1,22

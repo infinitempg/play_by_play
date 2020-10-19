@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,24,97,4,14,3
-"Maximus III, B.",NO,2,2,1,1,0
-"Mackworthy, R.",AZ,16,51,3.2,8,0
-"Fitzpatrick, K.",AZ,2,2,1,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,24,97,4,14,3,5,9
+"Maximus III, B.",NO,2,2,1,1,0,5,9
+"Mackworthy, R.",AZ,16,51,3.2,8,0,5,9
+"Fitzpatrick, K.",AZ,2,2,1,2,0,5,9

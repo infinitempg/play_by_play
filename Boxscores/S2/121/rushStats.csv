@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,14,39,2.8,9,0
-"Cobb, K.",LV,3,8,2.7,4,0
-"Bercovici, J.",LV,2,0,0,0,0
-"Wright, O.",PHI,20,71,3.6,10,0
-"Newman, M.",PHI,9,20,2.2,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,14,39,2.8,9,0,10,2
+"Cobb, K.",LV,3,8,2.7,4,0,10,2
+"Bercovici, J.",LV,2,0,0,0,0,10,2
+"Wright, O.",PHI,20,71,3.6,10,0,10,2
+"Newman, M.",PHI,9,20,2.2,6,0,10,2

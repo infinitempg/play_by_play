@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,22,93,4.2,10,1
-"Reese, A.",AZ,12,66,5.5,11,0
-"Quick, J.",AZ,3,22,7.3,11,0
-"Marshall, M.",YKW,15,56,3.7,9,1
-"Canton, J.",YKW,3,2,0.7,2,0
-"Bigsby, C.",YKW,1,9,9,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,22,93,4.2,10,1,13,18
+"Reese, A.",AZ,12,66,5.5,11,0,13,18
+"Quick, J.",AZ,3,22,7.3,11,0,13,18
+"Marshall, M.",YKW,15,56,3.7,9,1,13,18
+"Canton, J.",YKW,3,2,0.7,2,0,13,18
+"Bigsby, C.",YKW,1,9,9,9,0,13,18

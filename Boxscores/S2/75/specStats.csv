@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,3,81,0,33,0,0,0,1
-"Flock, R.",ARI,1,3,0,3,0,0,0,0
-"Jenkins, L.",OCO,4,89,0,23,0,0,0,0
-"Bowers Jr, V.",OCO,0,0,44,0,16,0,0,5
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,3,81,0,33,0,0,0,1,1,2
+"Flock, R.",ARI,1,3,0,3,0,0,0,0,1,2
+"Jenkins, L.",OCO,4,89,0,23,0,0,0,0,1,2
+"Bowers Jr, V.",OCO,0,0,44,0,16,0,0,5,1,2

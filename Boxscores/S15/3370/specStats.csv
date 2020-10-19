@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Valentine, V.",BAL,0,0,21,0,18,0,0,3
-"Hornbacher, A.",BAL,4,95,0,32,0,0,0,0
-"Grithead, D.",OCO,1,43,0,43,0,0,0,1
-"Sunnycursed, N.",OCO,6,134,0,41,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Valentine, V.",BAL,0,0,21,0,18,0,0,3,4,15
+"Hornbacher, A.",BAL,4,95,0,32,0,0,0,0,4,15
+"Grithead, D.",OCO,1,43,0,43,0,0,0,1,4,15
+"Sunnycursed, N.",OCO,6,134,0,41,0,0,0,0,4,15

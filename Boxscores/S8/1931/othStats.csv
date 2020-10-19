@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Pooky, S.",YKW,2,23,5,0
-"Rainey, R.",YKW,1,11,1,0
-"Amper, T.",YKW,0,0,4,0
-"Mushing, M.",YKW,0,0,3,0
-"Rchon, A.",YKW,0,0,3,0
-"Gore, B.",YKW,0,0,1,0
-"Harris Jr., F.",YKW,0,0,1,0
-"McPoyal, G.",YKW,0,0,1,0
-"Hayes, R.",PHI,2,15,1,1
-"Lamoreux, F.",PHI,1,15,0,0
-"North, F.",PHI,1,10,0,0
-"Tomlinson, A.",PHI,1,14,0,0
-"Filmore, M.",PHI,0,0,5,0
-"Van Buren, M.",PHI,0,0,5,0
-"Tyler, J.",PHI,0,0,4,1
-"Arthur, C.",PHI,0,0,2,0
-"Bush, C.",PHI,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Pooky, S.",YKW,2,23,5,0,14,8
+"Rainey, R.",YKW,1,11,1,0,14,8
+"Amper, T.",YKW,0,0,4,0,14,8
+"Mushing, M.",YKW,0,0,3,0,14,8
+"Rchon, A.",YKW,0,0,3,0,14,8
+"Gore, B.",YKW,0,0,1,0,14,8
+"Harris Jr., F.",YKW,0,0,1,0,14,8
+"McPoyal, G.",YKW,0,0,1,0,14,8
+"Hayes, R.",PHI,2,15,1,1,14,8
+"Lamoreux, F.",PHI,1,15,0,0,14,8
+"North, F.",PHI,1,10,0,0,14,8
+"Tomlinson, A.",PHI,1,14,0,0,14,8
+"Filmore, M.",PHI,0,0,5,0,14,8
+"Van Buren, M.",PHI,0,0,5,0,14,8
+"Tyler, J.",PHI,0,0,4,1,14,8
+"Arthur, C.",PHI,0,0,2,0,14,8
+"Bush, C.",PHI,0,0,2,0,14,8

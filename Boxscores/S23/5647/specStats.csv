@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,1,29,15,29,19,0,0,2
-"Blaylock, M.",NO,3,46,0,22,0,0,0,0
-"Rikiya, M.",NO,0,0,7,0,7,0,0,1
-"Green, W.",BAL,2,79,0,43,0,0,0,0
-"Quinn, A.",BAL,3,102,0,52,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,1,29,15,29,19,0,0,2,9,23
+"Blaylock, M.",NO,3,46,0,22,0,0,0,0,9,23
+"Rikiya, M.",NO,0,0,7,0,7,0,0,1,9,23
+"Green, W.",BAL,2,79,0,43,0,0,0,0,9,23
+"Quinn, A.",BAL,3,102,0,52,0,0,0,0,9,23

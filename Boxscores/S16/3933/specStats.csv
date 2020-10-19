@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garnett, L.",PHI,1,45,0,45,0,0,0,0
-"von Matt, J.",PHI,3,48,0,27,0,0,0,0
-"Emoji, E.",PHI,1,0,0,0,0,0,0,0
-"Lavelle Jr., D.",AUS,2,49,9,29,9,0,0,1
-"Hardwick, S.",AUS,4,95,0,36,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garnett, L.",PHI,1,45,0,45,0,0,0,0,13,16
+"von Matt, J.",PHI,3,48,0,27,0,0,0,0,13,16
+"Emoji, E.",PHI,1,0,0,0,0,0,0,0,13,16
+"Lavelle Jr., D.",AUS,2,49,9,29,9,0,0,1,13,16
+"Hardwick, S.",AUS,4,95,0,36,0,0,0,0,13,16

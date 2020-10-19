@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Corbett, K.",COL,3,137,45.7,51,1
-"Meoff, B.",NO,3,128,42.7,61,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Corbett, K.",COL,3,137,45.7,51,1,5,14
+"Meoff, B.",NO,3,128,42.7,61,1,5,14

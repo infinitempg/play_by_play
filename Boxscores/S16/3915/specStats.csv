@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bishop, J.",COL,3,74,0,45,0,0,0,0
-"Montgomery, B.",COL,2,65,0,37,0,0,0,0
-"Lejune, L.",COL,0,0,-3,0,0,0,0,1
-"Sunnycursed, N.",OCO,2,18,4,10,7,0,0,4
-"Valentine, V.",OCO,1,16,0,16,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bishop, J.",COL,3,74,0,45,0,0,0,0,10,16
+"Montgomery, B.",COL,2,65,0,37,0,0,0,0,10,16
+"Lejune, L.",COL,0,0,-3,0,0,0,0,1,10,16
+"Sunnycursed, N.",OCO,2,18,4,10,7,0,0,4,10,16
+"Valentine, V.",OCO,1,16,0,16,0,0,0,0,10,16

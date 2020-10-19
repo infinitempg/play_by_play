@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jones, V.",PHI,21,85,4,11,1
-"Hank, F.",PHI,12,59,4.9,15,0
-"Falconi, A.",PHI,1,13,13,13,0
-"Swift, T.",NO,21,79,3.8,14,0
-"Gump, F.",NO,16,76,4.8,14,0
-"Francisco, S.",NO,7,28,4,17,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jones, V.",PHI,21,85,4,11,1,7,16
+"Hank, F.",PHI,12,59,4.9,15,0,7,16
+"Falconi, A.",PHI,1,13,13,13,0,7,16
+"Swift, T.",NO,21,79,3.8,14,0,7,16
+"Gump, F.",NO,16,76,4.8,14,0,7,16
+"Francisco, S.",NO,7,28,4,17,0,7,16

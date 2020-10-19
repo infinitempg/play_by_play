@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Laces, K.",SJS,6,259,43.2,57,1
-"Booter, A.",YKW,4,213,53.2,65,2
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Laces, K.",SJS,6,259,43.2,57,1,6,2
+"Booter, A.",YKW,4,213,53.2,65,2,6,2

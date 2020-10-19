@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Banks II, D.",OCO,6,79,13.2,27,1
-"Blaze, J.",OCO,5,43,8.6,17,0
-"Mongo, H.",OCO,4,52,13,19,0
-"Reed, A.",OCO,4,14,3.5,11,0
-"Nagasawa, Y.",OCO,2,36,18,30,1
-"Pitcher, A.",OCO,2,20,10,15,0
-"Valentine, V.",AZ,8,109,13.6,23,2
-"Parker, J.",AZ,6,108,18,42,0
-"Donut, S.",AZ,6,91,15.2,26,0
-"Irving, J.",AZ,4,21,5.2,8,0
-"Shady, S.",AZ,2,11,5.5,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Banks II, D.",OCO,6,79,13.2,27,1,4,18
+"Blaze, J.",OCO,5,43,8.6,17,0,4,18
+"Mongo, H.",OCO,4,52,13,19,0,4,18
+"Reed, A.",OCO,4,14,3.5,11,0,4,18
+"Nagasawa, Y.",OCO,2,36,18,30,1,4,18
+"Pitcher, A.",OCO,2,20,10,15,0,4,18
+"Valentine, V.",AZ,8,109,13.6,23,2,4,18
+"Parker, J.",AZ,6,108,18,42,0,4,18
+"Donut, S.",AZ,6,91,15.2,26,0,4,18
+"Irving, J.",AZ,4,21,5.2,8,0,4,18
+"Shady, S.",AZ,2,11,5.5,6,0,4,18

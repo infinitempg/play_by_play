@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,23,113,4.9,12,2
-"Fitzpatrick, K.",AZ,4,36,9,21,0
-"Kroetch, D.",COL,12,57,4.8,12,0
-"Cox, J.",COL,7,35,5,9,0
-"Applehort, R.",COL,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,23,113,4.9,12,2,8,9
+"Fitzpatrick, K.",AZ,4,36,9,21,0,8,9
+"Kroetch, D.",COL,12,57,4.8,12,0,8,9
+"Cox, J.",COL,7,35,5,9,0,8,9
+"Applehort, R.",COL,1,-1,-1,0,0,8,9

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,17,52,3.1,9,0
-"Cobb, K.",LV,9,34,3.8,8,0
-"Larsendorf, R.",LV,1,0,0,0,0
-"Tweed, B.",COL,17,62,3.6,19,0
-"O'Connell, K.",COL,5,16,3.2,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,17,52,3.1,9,0,2,2
+"Cobb, K.",LV,9,34,3.8,8,0,2,2
+"Larsendorf, R.",LV,1,0,0,0,0,2,2
+"Tweed, B.",COL,17,62,3.6,19,0,2,2
+"O'Connell, K.",COL,5,16,3.2,5,0,2,2

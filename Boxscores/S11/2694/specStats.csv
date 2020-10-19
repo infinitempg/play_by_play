@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Brown, M.",PHI,2,29,0,15,0,0,0,0
-"Bly Jr., A.",PHI,1,39,0,39,0,0,0,0
-"Taylor, O.",BAL,3,79,0,35,0,0,0,0
-"Valentine, V.",BAL,4,95,4,39,4,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Brown, M.",PHI,2,29,0,15,0,0,0,0,6,11
+"Bly Jr., A.",PHI,1,39,0,39,0,0,0,0,6,11
+"Taylor, O.",BAL,3,79,0,35,0,0,0,0,6,11
+"Valentine, V.",BAL,4,95,4,39,4,0,0,1,6,11

@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",COL,6,178,0,35,0,0,0,0
-"Tweed, B.",COL,3,47,0,22,0,0,0,0
-"Oles, T.",PHI,1,35,0,35,0,0,0,0
-"Kroetch, D.",PHI,1,16,0,16,0,0,0,0
-"Cushing, K.",PHI,0,0,34,0,15,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",COL,6,178,0,35,0,0,0,0,12,4
+"Tweed, B.",COL,3,47,0,22,0,0,0,0,12,4
+"Oles, T.",PHI,1,35,0,35,0,0,0,0,12,4
+"Kroetch, D.",PHI,1,16,0,16,0,0,0,0,12,4
+"Cushing, K.",PHI,0,0,34,0,15,0,0,3,12,4

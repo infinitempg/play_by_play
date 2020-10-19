@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Hayes, R.",PHI,2,20,3,0
-"Brannigan, Z.",PHI,1,5,3,0
-"Jones, V.",PHI,1,15,2,0
-"D'Attoria V, R.",PHI,1,10,0,0
-"Saul, C.",PHI,1,15,0,0
-"Tyler, J.",PHI,0,0,6,0
-"Van Buren, M.",PHI,0,0,4,0
-"Fillmore, M.",PHI,0,0,3,0
-"Arthur, C.",PHI,0,0,2,0
-"Polk, J.",PHI,0,0,1,0
-"Spais, B.",NO,1,5,3,1
-"Francisco, S.",NO,1,5,1,0
-"Danielsson, A.",NO,1,10,0,0
-"Taylor, D.",NO,1,5,0,0
-"Sackless, S.",NO,0,0,5,0
-"Belongwithme, H.",NO,0,0,3,0
-"Sno, F.",NO,0,0,3,0
-"Watyumaidmedu, L.",NO,0,0,3,0
-"Swift, T.",NO,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Hayes, R.",PHI,2,20,3,0,8,15
+"Brannigan, Z.",PHI,1,5,3,0,8,15
+"Jones, V.",PHI,1,15,2,0,8,15
+"D'Attoria V, R.",PHI,1,10,0,0,8,15
+"Saul, C.",PHI,1,15,0,0,8,15
+"Tyler, J.",PHI,0,0,6,0,8,15
+"Van Buren, M.",PHI,0,0,4,0,8,15
+"Fillmore, M.",PHI,0,0,3,0,8,15
+"Arthur, C.",PHI,0,0,2,0,8,15
+"Polk, J.",PHI,0,0,1,0,8,15
+"Spais, B.",NO,1,5,3,1,8,15
+"Francisco, S.",NO,1,5,1,0,8,15
+"Danielsson, A.",NO,1,10,0,0,8,15
+"Taylor, D.",NO,1,5,0,0,8,15
+"Sackless, S.",NO,0,0,5,0,8,15
+"Belongwithme, H.",NO,0,0,3,0,8,15
+"Sno, F.",NO,0,0,3,0,8,15
+"Watyumaidmedu, L.",NO,0,0,3,0,8,15
+"Swift, T.",NO,0,0,1,0,8,15

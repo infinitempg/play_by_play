@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,25,80,3.2,17,1
-"Blaze, J.",OCO,2,5,2.5,3,0
-"Brown, M.",PHI,24,120,5,13,3
-"Falconi, A.",PHI,2,27,13.5,20,0
-"Hank, F.",PHI,1,7,7,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,25,80,3.2,17,1,8,17
+"Blaze, J.",OCO,2,5,2.5,3,0,8,17
+"Brown, M.",PHI,24,120,5,13,3,8,17
+"Falconi, A.",PHI,2,27,13.5,20,0,8,17
+"Hank, F.",PHI,1,7,7,7,0,8,17

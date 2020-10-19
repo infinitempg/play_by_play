@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,18,45,2.5,7,1
-"Akselsen, M.",YKW,12,167,13.9,80,1
-"Milan, C.",YKW,2,5,2.5,5,0
-"Wright, O.",AZ,12,59,4.9,22,0
-"Mackworthy, R.",AZ,11,46,4.2,8,0
-"Bronko, K.",AZ,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,18,45,2.5,7,1,8,7
+"Akselsen, M.",YKW,12,167,13.9,80,1,8,7
+"Milan, C.",YKW,2,5,2.5,5,0,8,7
+"Wright, O.",AZ,12,59,4.9,22,0,8,7
+"Mackworthy, R.",AZ,11,46,4.2,8,0,8,7
+"Bronko, K.",AZ,1,-1,-1,0,0,8,7

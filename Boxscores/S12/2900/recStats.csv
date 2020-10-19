@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Fyodorovich, V.",NO,8,119,14.9,37,2
-"Halvorsen, T.",NO,8,114,14.2,31,0
-"DiMirio, P.",NO,8,49,6.1,11,2
-"Storm, B.",NO,6,98,16.3,33,0
-"Gore, B.",NO,5,36,7.2,14,0
-"Yobanna-Kanayochukwu, C.",NO,2,10,5,6,0
-"Asipi III, A.",AZ,7,62,8.9,20,0
-"Moore, S.",AZ,7,45,6.4,11,0
-"Willie, T.",AZ,6,108,18,37,0
-"Squanch, V.",AZ,5,103,20.6,35,1
-"Crindy, B.",AZ,4,29,7.2,12,0
-"Shady, S.",AZ,3,22,7.3,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Fyodorovich, V.",NO,8,119,14.9,37,2,6,12
+"Halvorsen, T.",NO,8,114,14.2,31,0,6,12
+"DiMirio, P.",NO,8,49,6.1,11,2,6,12
+"Storm, B.",NO,6,98,16.3,33,0,6,12
+"Gore, B.",NO,5,36,7.2,14,0,6,12
+"Yobanna-Kanayochukwu, C.",NO,2,10,5,6,0,6,12
+"Asipi III, A.",AZ,7,62,8.9,20,0,6,12
+"Moore, S.",AZ,7,45,6.4,11,0,6,12
+"Willie, T.",AZ,6,108,18,37,0,6,12
+"Squanch, V.",AZ,5,103,20.6,35,1,6,12
+"Crindy, B.",AZ,4,29,7.2,12,0,6,12
+"Shady, S.",AZ,3,22,7.3,11,0,6,12

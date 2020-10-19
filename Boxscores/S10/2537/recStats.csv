@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"North, F.",COL,7,69,9.9,20,0
-"Aaron, D.",COL,6,99,16.5,33,2
-"Miller, H.",COL,6,83,13.8,23,1
-"Chipmunk, A.",COL,4,34,8.5,16,0
-"Grau, M.",COL,2,3,1.5,2,0
-"Savea, A.",NO,9,90,10,33,0
-"DiMirio, P.",NO,7,53,7.6,10,0
-"Law, C.",NO,6,89,14.8,29,2
-"LeClair, A.",NO,5,65,13,35,1
-"Jackson, M.",NO,5,38,7.6,11,1
-"Smallwood, D.",NO,2,15,7.5,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"North, F.",COL,7,69,9.9,20,0,4,10
+"Aaron, D.",COL,6,99,16.5,33,2,4,10
+"Miller, H.",COL,6,83,13.8,23,1,4,10
+"Chipmunk, A.",COL,4,34,8.5,16,0,4,10
+"Grau, M.",COL,2,3,1.5,2,0,4,10
+"Savea, A.",NO,9,90,10,33,0,4,10
+"DiMirio, P.",NO,7,53,7.6,10,0,4,10
+"Law, C.",NO,6,89,14.8,29,2,4,10
+"LeClair, A.",NO,5,65,13,35,1,4,10
+"Jackson, M.",NO,5,38,7.6,11,1,4,10
+"Smallwood, D.",NO,2,15,7.5,9,0,4,10

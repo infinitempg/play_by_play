@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Medved, E.",AZ,1,5,0,0
-"Robotman, A.",AZ,0,0,7,0
-"Robotman, D.",AZ,0,0,7,0
-"Robotman, C.",AZ,0,0,4,0
-"Robotman, E.",AZ,0,0,4,0
-"Robotman, B.",AZ,0,0,3,0
-"Crindy, B.",AZ,0,0,2,0
-"Riddick, D.",SJS,2,15,1,0
-"Tuck Jr., T.",SJS,1,5,1,0
-"Barnhardt, B.",SJS,1,5,0,0
-"Diaz, D.",SJS,1,5,0,0
-"Horne, B.",SJS,1,5,0,0
-"Joshua, C.",SJS,1,11,0,0
-"Jahelpme, H.",SJS,0,0,5,1
-"McKoutchie, M.",SJS,0,0,4,0
-"(R)Brannigan, Z.",SJS,0,0,3,0
-"Tacktheritrix, J.",SJS,0,0,1,1
-"Probincrux III, D.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Medved, E.",AZ,1,5,0,0,7,9
+"Robotman, A.",AZ,0,0,7,0,7,9
+"Robotman, D.",AZ,0,0,7,0,7,9
+"Robotman, C.",AZ,0,0,4,0,7,9
+"Robotman, E.",AZ,0,0,4,0,7,9
+"Robotman, B.",AZ,0,0,3,0,7,9
+"Crindy, B.",AZ,0,0,2,0,7,9
+"Riddick, D.",SJS,2,15,1,0,7,9
+"Tuck Jr., T.",SJS,1,5,1,0,7,9
+"Barnhardt, B.",SJS,1,5,0,0,7,9
+"Diaz, D.",SJS,1,5,0,0,7,9
+"Horne, B.",SJS,1,5,0,0,7,9
+"Joshua, C.",SJS,1,11,0,0,7,9
+"Jahelpme, H.",SJS,0,0,5,1,7,9
+"McKoutchie, M.",SJS,0,0,4,0,7,9
+"(R)Brannigan, Z.",SJS,0,0,3,0,7,9
+"Tacktheritrix, J.",SJS,0,0,1,1,7,9
+"Probincrux III, D.",SJS,0,0,1,0,7,9

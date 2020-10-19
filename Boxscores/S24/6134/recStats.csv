@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jeeta, E.",AUS,5,80,16,38,0
-"Mendonca, M.",AUS,3,28,9.3,10,0
-"Gaines, N.",AUS,3,22,7.3,10,0
-"Tidwell, R.",AUS,2,28,14,21,0
-"Jones, K.",AUS,2,9,4.5,6,0
-"Kingston, J.",COL,6,61,10.2,15,0
-"Lim, W.",COL,4,51,12.8,24,1
-"Owens, A.",COL,4,33,8.2,13,0
-"Sauce, E.",COL,4,23,5.8,13,1
-"Jenkins, L.",COL,2,33,16.5,18,0
-"Gilbert, R.",COL,2,17,8.5,14,0
-"Bumper, T.",COL,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jeeta, E.",AUS,5,80,16,38,0,9,24
+"Mendonca, M.",AUS,3,28,9.3,10,0,9,24
+"Gaines, N.",AUS,3,22,7.3,10,0,9,24
+"Tidwell, R.",AUS,2,28,14,21,0,9,24
+"Jones, K.",AUS,2,9,4.5,6,0,9,24
+"Kingston, J.",COL,6,61,10.2,15,0,9,24
+"Lim, W.",COL,4,51,12.8,24,1,9,24
+"Owens, A.",COL,4,33,8.2,13,0,9,24
+"Sauce, E.",COL,4,23,5.8,13,1,9,24
+"Jenkins, L.",COL,2,33,16.5,18,0,9,24
+"Gilbert, R.",COL,2,17,8.5,14,0,9,24
+"Bumper, T.",COL,1,3,3,3,0,9,24

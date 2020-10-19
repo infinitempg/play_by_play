@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Brown, M.",PHI,3,55,0,21,0,0,0,0
-"Garnett, L.",PHI,3,66,-3,33,0,0,0,1
-"Broxton, J.",OCO,2,46,0,44,0,0,0,0
-"Bly Jr., A.",OCO,2,24,23,16,18,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Brown, M.",PHI,3,55,0,21,0,0,0,0,9,12
+"Garnett, L.",PHI,3,66,-3,33,0,0,0,1,9,12
+"Broxton, J.",OCO,2,46,0,44,0,0,0,0,9,12
+"Bly Jr., A.",OCO,2,24,23,16,18,0,0,4,9,12

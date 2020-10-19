@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,15,47,3.1,12,0
-"Blocksdale, A.",BAL,2,19,9.5,19,0
-"Smallwood, D.",NO,16,86,5.4,24,0
-"Nuck, B.",NO,2,9,4.5,7,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,15,47,3.1,12,0,8,8
+"Blocksdale, A.",BAL,2,19,9.5,19,0,8,8
+"Smallwood, D.",NO,16,86,5.4,24,0,8,8
+"Nuck, B.",NO,2,9,4.5,7,1,8,8

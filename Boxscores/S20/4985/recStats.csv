@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gordon, R.",YKW,6,68,11.3,17,0
-"Hanyadi, M.",YKW,6,49,8.2,18,1
-"Helanen, T.",YKW,5,68,13.6,25,0
-"Swift, N.",YKW,3,38,12.7,16,1
-"Drake, O.",YKW,3,16,5.3,9,0
-"Vuxta, R.",PHI,5,72,14.4,37,0
-"Dotson, F.",PHI,4,41,10.2,25,0
-"Varga, N.",PHI,3,49,16.3,25,0
-"Blocksdale Jr., A.",PHI,2,16,8,15,0
-"Torenson, S.",PHI,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gordon, R.",YKW,6,68,11.3,17,0,3,20
+"Hanyadi, M.",YKW,6,49,8.2,18,1,3,20
+"Helanen, T.",YKW,5,68,13.6,25,0,3,20
+"Swift, N.",YKW,3,38,12.7,16,1,3,20
+"Drake, O.",YKW,3,16,5.3,9,0,3,20
+"Vuxta, R.",PHI,5,72,14.4,37,0,3,20
+"Dotson, F.",PHI,4,41,10.2,25,0,3,20
+"Varga, N.",PHI,3,49,16.3,25,0,3,20
+"Blocksdale Jr., A.",PHI,2,16,8,15,0,3,20
+"Torenson, S.",PHI,1,7,7,7,0,3,20

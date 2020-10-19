@@ -1,9 +1,9 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Maddox, E.",BAL,5,87,17.4,49,0
-"Nagasawa, Y.",BAL,4,119,29.8,48,1
-"Valentine, V.",BAL,4,37,9.2,11,0
-"Harp, D.",BAL,4,36,9,13,0
-"Brown, M.",PHI,6,90,15,48,1
-"Bush, C.",PHI,3,44,14.7,29,0
-"von Matt, J.",PHI,2,86,43,56,1
-"Batoff, R.",PHI,2,2,1,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Maddox, E.",BAL,5,87,17.4,49,0,1,13
+"Nagasawa, Y.",BAL,4,119,29.8,48,1,1,13
+"Valentine, V.",BAL,4,37,9.2,11,0,1,13
+"Harp, D.",BAL,4,36,9,13,0,1,13
+"Brown, M.",PHI,6,90,15,48,1,1,13
+"Bush, C.",PHI,3,44,14.7,29,0,1,13
+"von Matt, J.",PHI,2,86,43,56,1,1,13
+"Batoff, R.",PHI,2,2,1,2,0,1,13

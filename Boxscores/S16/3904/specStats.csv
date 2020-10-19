@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oles, K.",CHI,3,48,54,28,20,0,0,7
-"Maddox, E.",BAL,2,48,0,27,0,0,0,0
-"Hornbacher, A.",BAL,2,38,35,23,21,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oles, K.",CHI,3,48,54,28,20,0,0,7,8,16
+"Maddox, E.",BAL,2,48,0,27,0,0,0,0,8,16
+"Hornbacher, A.",BAL,2,38,35,23,21,0,0,3,8,16

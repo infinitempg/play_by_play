@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Christmas, C.",BAL,3,99,33,38,0
-"Robinson, M.",BAL,2,17,8.5,12,0
-"Baker, J.",BAL,2,16,8,9,0
-"Vincent, M.",BAL,2,11,5.5,7,0
-"Sanderson, J.",BAL,1,8,8,8,0
-"Gibson, C.",BAL,1,5,5,5,0
-"Bottles, B.",SJS,7,45,6.4,10,1
-"Cook, B.",SJS,6,110,18.3,29,1
-"Stephen, W.",SJS,6,60,10,21,0
-"Weston, S.",SJS,5,56,11.2,20,0
-"Durden, J.",SJS,2,18,9,12,0
-"Goose, J.",SJS,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Christmas, C.",BAL,3,99,33,38,0,5,2
+"Robinson, M.",BAL,2,17,8.5,12,0,5,2
+"Baker, J.",BAL,2,16,8,9,0,5,2
+"Vincent, M.",BAL,2,11,5.5,7,0,5,2
+"Sanderson, J.",BAL,1,8,8,8,0,5,2
+"Gibson, C.",BAL,1,5,5,5,0,5,2
+"Bottles, B.",SJS,7,45,6.4,10,1,5,2
+"Cook, B.",SJS,6,110,18.3,29,1,5,2
+"Stephen, W.",SJS,6,60,10,21,0,5,2
+"Weston, S.",SJS,5,56,11.2,20,0,5,2
+"Durden, J.",SJS,2,18,9,12,0,5,2
+"Goose, J.",SJS,1,3,3,3,0,5,2

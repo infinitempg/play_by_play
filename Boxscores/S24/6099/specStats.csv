@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Abernathy, K.",OCO,1,44,0,44,0,0,0,0
-"Beerus, L.",OCO,2,96,23,49,17,0,0,2
-"Kane-Maika'i, K.",HON,3,53,0,34,0,0,0,0
-"Dawkins, S.",HON,3,63,0,32,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Abernathy, K.",OCO,1,44,0,44,0,0,0,0,15,24
+"Beerus, L.",OCO,2,96,23,49,17,0,0,2,15,24
+"Kane-Maika'i, K.",HON,3,53,0,34,0,0,0,0,15,24
+"Dawkins, S.",HON,3,63,0,32,0,0,0,0,15,24

@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Lavelle, D.",YKW,5,75,15,42,0
-"McPoyal, G.",YKW,5,53,10.6,15,1
-"Kennedy, E.",YKW,4,103,25.8,36,2
-"Cook, B.",YKW,4,65,16.2,27,0
-"Rocket, J.",YKW,4,42,10.5,15,1
-"Rainey, R.",YKW,4,35,8.8,12,0
-"Harris Jr., F.",YKW,3,26,8.7,9,0
-"Jackson, M.",SJS,8,104,13,30,0
-"Tuck Jr., T.",SJS,5,31,6.2,9,0
-"Weston, S.",SJS,3,47,15.7,24,0
-"Legion, A.",SJS,1,19,19,19,0
-"Petrakis, A.",SJS,1,6,6,6,0
-"West, D.",SJS,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Lavelle, D.",YKW,5,75,15,42,0,9,8
+"McPoyal, G.",YKW,5,53,10.6,15,1,9,8
+"Kennedy, E.",YKW,4,103,25.8,36,2,9,8
+"Cook, B.",YKW,4,65,16.2,27,0,9,8
+"Rocket, J.",YKW,4,42,10.5,15,1,9,8
+"Rainey, R.",YKW,4,35,8.8,12,0,9,8
+"Harris Jr., F.",YKW,3,26,8.7,9,0,9,8
+"Jackson, M.",SJS,8,104,13,30,0,9,8
+"Tuck Jr., T.",SJS,5,31,6.2,9,0,9,8
+"Weston, S.",SJS,3,47,15.7,24,0,9,8
+"Legion, A.",SJS,1,19,19,19,0,9,8
+"Petrakis, A.",SJS,1,6,6,6,0,9,8
+"West, D.",SJS,1,5,5,5,0,9,8

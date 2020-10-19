@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wizardry, D.",YKW,30,97,3.2,14,1
-"Carrasco, T.",YKW,4,19,4.8,11,0
-"Applehort, R.",YKW,1,3,3,3,0
-"Shady, S.",AZ,23,85,3.7,13,1
-"Fitzpatrick, K.",AZ,2,0,0,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wizardry, D.",YKW,30,97,3.2,14,1,10,13
+"Carrasco, T.",YKW,4,19,4.8,11,0,10,13
+"Applehort, R.",YKW,1,3,3,3,0,10,13
+"Shady, S.",AZ,23,85,3.7,13,1,10,13
+"Fitzpatrick, K.",AZ,2,0,0,2,0,10,13

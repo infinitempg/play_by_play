@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",PHI,12,120,10,27,0
-"North, F.",PHI,7,71,10.1,28,0
-"Kroetch, D.",PHI,6,88,14.7,24,0
-"Wright, O.",PHI,4,40,10,14,0
-"Browning, B.",PHI,2,20,10,14,1
-"Rocket, J.",PHI,1,17,17,17,0
-"Wright Jr, G.",OCO,6,27,4.5,10,0
-"Phelps, R.",OCO,3,82,27.3,36,0
-"Westfield, B.",OCO,3,48,16,23,1
-"Atasuke, N.",OCO,3,27,9,11,0
-"Jenkins, L.",OCO,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",PHI,12,120,10,27,0,12,3
+"North, F.",PHI,7,71,10.1,28,0,12,3
+"Kroetch, D.",PHI,6,88,14.7,24,0,12,3
+"Wright, O.",PHI,4,40,10,14,0,12,3
+"Browning, B.",PHI,2,20,10,14,1,12,3
+"Rocket, J.",PHI,1,17,17,17,0,12,3
+"Wright Jr, G.",OCO,6,27,4.5,10,0,12,3
+"Phelps, R.",OCO,3,82,27.3,36,0,12,3
+"Westfield, B.",OCO,3,48,16,23,1,12,3
+"Atasuke, N.",OCO,3,27,9,11,0,12,3
+"Jenkins, L.",OCO,1,4,4,4,0,12,3

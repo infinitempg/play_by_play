@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Westfield, B.",OCO,7,127,18.1,41,2
-"Phelps, R.",OCO,6,107,17.8,40,0
-"Yates, J.",OCO,5,139,27.8,54,1
-"Crush, C.",OCO,5,55,11,30,1
-"Burnsman, E.",OCO,1,3,3,3,0
-"Garden, J.",PHI,7,73,10.4,20,0
-"North, F.",PHI,6,101,16.8,28,0
-"DiMirio, P.",PHI,4,40,10,25,0
-"Hendrix, K.",PHI,4,40,10,19,0
-"Kroetch, D.",PHI,2,14,7,8,0
-"Bush, C.",PHI,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Westfield, B.",OCO,7,127,18.1,41,2,13,7
+"Phelps, R.",OCO,6,107,17.8,40,0,13,7
+"Yates, J.",OCO,5,139,27.8,54,1,13,7
+"Crush, C.",OCO,5,55,11,30,1,13,7
+"Burnsman, E.",OCO,1,3,3,3,0,13,7
+"Garden, J.",PHI,7,73,10.4,20,0,13,7
+"North, F.",PHI,6,101,16.8,28,0,13,7
+"DiMirio, P.",PHI,4,40,10,25,0,13,7
+"Hendrix, K.",PHI,4,40,10,19,0,13,7
+"Kroetch, D.",PHI,2,14,7,8,0,13,7
+"Bush, C.",PHI,1,7,7,7,0,13,7

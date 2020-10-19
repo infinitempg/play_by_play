@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,21,81,3.9,11,1
-"Koch, D.",BAL,4,6,1.5,5,0
-"Blocksdale, A.",BAL,1,5,5,5,0
-"Savea, A.",LV,22,65,3,7,0
-"O'Sullivan, C.",LV,3,14,4.7,9,0
-"Noble, L.",LV,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,21,81,3.9,11,1,2,5
+"Koch, D.",BAL,4,6,1.5,5,0,2,5
+"Blocksdale, A.",BAL,1,5,5,5,0,2,5
+"Savea, A.",LV,22,65,3,7,0,2,5
+"O'Sullivan, C.",LV,3,14,4.7,9,0,2,5
+"Noble, L.",LV,1,1,1,1,0,2,5

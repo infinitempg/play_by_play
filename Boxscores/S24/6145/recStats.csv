@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Podolak, J.",HON,4,50,12.5,30,0
-"Clay, J.",HON,4,16,4,5,0
-"Ayers, N.",HON,3,31,10.3,23,1
-"Alexander, W.",HON,3,28,9.3,13,0
-"Sakura, K.",YKW,5,49,9.8,20,0
-"Cash Jr., S.",YKW,3,64,21.3,30,0
-"Lee, M.",YKW,3,18,6,7,0
-"Jackson, A.",YKW,2,30,15,22,0
-"Hanyadi, M.",YKW,2,16,8,13,0
-"Skyline, A.",YKW,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Podolak, J.",HON,4,50,12.5,30,0,7,24
+"Clay, J.",HON,4,16,4,5,0,7,24
+"Ayers, N.",HON,3,31,10.3,23,1,7,24
+"Alexander, W.",HON,3,28,9.3,13,0,7,24
+"Sakura, K.",YKW,5,49,9.8,20,0,7,24
+"Cash Jr., S.",YKW,3,64,21.3,30,0,7,24
+"Lee, M.",YKW,3,18,6,7,0,7,24
+"Jackson, A.",YKW,2,30,15,22,0,7,24
+"Hanyadi, M.",YKW,2,16,8,13,0,7,24
+"Skyline, A.",YKW,1,2,2,2,0,7,24

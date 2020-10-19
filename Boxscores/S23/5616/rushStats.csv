@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Frost, D.",SAR,20,91,4.6,16,2
-"Back, R.",SAR,10,49,4.9,12,0
-"Banks II, D.",SAR,7,34,4.9,15,0
-"Torenson, S.",PHI,15,67,4.5,12,1
-"Dotson, F.",PHI,11,30,2.7,6,0
-"Phoenix, B.",PHI,1,6,6,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Frost, D.",SAR,20,91,4.6,16,2,4,23
+"Back, R.",SAR,10,49,4.9,12,0,4,23
+"Banks II, D.",SAR,7,34,4.9,15,0,4,23
+"Torenson, S.",PHI,15,67,4.5,12,1,4,23
+"Dotson, F.",PHI,11,30,2.7,6,0,4,23
+"Phoenix, B.",PHI,1,6,6,6,0,4,23

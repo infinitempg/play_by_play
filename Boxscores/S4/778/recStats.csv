@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Willie, T.",BAL,6,59,9.8,22,0
-"Koch, D.",BAL,4,25,6.2,8,0
-"Christmas, C.",BAL,3,20,6.7,8,1
-"Taylor, O.",BAL,3,19,6.3,11,0
-"Wheat, B.",BAL,2,15,7.5,11,1
-"Stormblessed, N.",BAL,1,6,6,6,0
-"North, F.",PHI,7,120,17.1,29,1
-"DiMirio, P.",PHI,7,64,9.1,19,0
-"Milan, C.",PHI,3,26,8.7,13,0
-"Browning, B.",PHI,2,36,18,25,0
-"O'Connell, K.",PHI,1,3,3,3,0
-"Kroetch, D.",PHI,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Willie, T.",BAL,6,59,9.8,22,0,14,4
+"Koch, D.",BAL,4,25,6.2,8,0,14,4
+"Christmas, C.",BAL,3,20,6.7,8,1,14,4
+"Taylor, O.",BAL,3,19,6.3,11,0,14,4
+"Wheat, B.",BAL,2,15,7.5,11,1,14,4
+"Stormblessed, N.",BAL,1,6,6,6,0,14,4
+"North, F.",PHI,7,120,17.1,29,1,14,4
+"DiMirio, P.",PHI,7,64,9.1,19,0,14,4
+"Milan, C.",PHI,3,26,8.7,13,0,14,4
+"Browning, B.",PHI,2,36,18,25,0,14,4
+"O'Connell, K.",PHI,1,3,3,3,0,14,4
+"Kroetch, D.",PHI,1,2,2,2,0,14,4

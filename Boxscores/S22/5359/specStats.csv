@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,3,56,0,29,0,0,0,1
-"Kross, C.",BAL,1,6,0,6,0,0,0,0
-"Banks II, D.",SAR,2,21,0,17,0,0,0,0
-"Knight, L.",SAR,2,35,17,26,9,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,3,56,0,29,0,0,0,1,1,22
+"Kross, C.",BAL,1,6,0,6,0,0,0,0,1,22
+"Banks II, D.",SAR,2,21,0,17,0,0,0,0,1,22
+"Knight, L.",SAR,2,35,17,26,9,0,0,3,1,22

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,3,76,11,36,8,0,0,3
-"Blaylock, M.",NO,1,35,0,35,0,0,0,0
-"Kane-Maika'i, K.",HON,3,72,-1,31,2,0,0,2
-"Dawkins, S.",HON,2,50,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,3,76,11,36,8,0,0,3,4,23
+"Blaylock, M.",NO,1,35,0,35,0,0,0,0,4,23
+"Kane-Maika'i, K.",HON,3,72,-1,31,2,0,0,2,4,23
+"Dawkins, S.",HON,2,50,0,31,0,0,0,0,4,23

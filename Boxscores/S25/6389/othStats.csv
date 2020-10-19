@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Petrongolo, J.",BER,1,12,1,0
-"Richards, E.",BER,1,2,0,0
-"VonPebbles, M.",BER,1,10,0,0
-"Dolls, B.",BER,0,0,12,0
-"Wall, D.",BER,0,0,4,0
-"Wall, G.",BER,0,0,4,0
-"Wall, J.",BER,0,0,4,0
-"McCabe, J.",BER,0,0,2,0
-"Boyd, C.",BER,0,0,1,0
-"Skiuuup, C.",BER,0,0,1,0
-"Brooks, D.",CHI,1,15,0,0
-"Gelbman, T.",CHI,1,5,0,0
-"O'Donnell, G.",CHI,1,15,0,0
-"Ahstreet, C.",CHI,0,0,4,0
-"Bayley Jr., B.",CHI,0,0,4,0
-"LaFleur, F.",CHI,0,0,4,0
-"Riposte, I.",CHI,0,0,4,0
-"Tucker Jr., P.",CHI,0,0,3,0
-"Tirtawidjaja, J.",CHI,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Petrongolo, J.",BER,1,12,1,0,3,25
+"Richards, E.",BER,1,2,0,0,3,25
+"VonPebbles, M.",BER,1,10,0,0,3,25
+"Dolls, B.",BER,0,0,12,0,3,25
+"Wall, D.",BER,0,0,4,0,3,25
+"Wall, G.",BER,0,0,4,0,3,25
+"Wall, J.",BER,0,0,4,0,3,25
+"McCabe, J.",BER,0,0,2,0,3,25
+"Boyd, C.",BER,0,0,1,0,3,25
+"Skiuuup, C.",BER,0,0,1,0,3,25
+"Brooks, D.",CHI,1,15,0,0,3,25
+"Gelbman, T.",CHI,1,5,0,0,3,25
+"O'Donnell, G.",CHI,1,15,0,0,3,25
+"Ahstreet, C.",CHI,0,0,4,0,3,25
+"Bayley Jr., B.",CHI,0,0,4,0,3,25
+"LaFleur, F.",CHI,0,0,4,0,3,25
+"Riposte, I.",CHI,0,0,4,0,3,25
+"Tucker Jr., P.",CHI,0,0,3,0,3,25
+"Tirtawidjaja, J.",CHI,0,0,0,1,3,25

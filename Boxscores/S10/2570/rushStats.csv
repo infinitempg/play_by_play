@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",PHI,40,144,3.6,12,1
-"O'Sullivan, C.",PHI,8,27,3.4,7,0
-"O'Sullivan, S.",PHI,2,2,1,1,0
-"Taylor, O.",BAL,38,181,4.8,11,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",PHI,40,144,3.6,12,1,13,10
+"O'Sullivan, C.",PHI,8,27,3.4,7,0,13,10
+"O'Sullivan, S.",PHI,2,2,1,1,0,13,10
+"Taylor, O.",BAL,38,181,4.8,11,1,13,10

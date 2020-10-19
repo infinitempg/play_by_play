@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Fyodorovich, V.",NO,3,139,14,56,14,0,0,1
-"Swift, T.",NO,6,158,0,40,0,0,0,0
-"Valentine, V.",BAL,3,73,6,30,6,0,0,1
-"Trout, C.",BAL,1,0,0,0,0,0,0,0
-"Hornbacher, A.",BAL,1,29,0,29,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Fyodorovich, V.",NO,3,139,14,56,14,0,0,1,7,15
+"Swift, T.",NO,6,158,0,40,0,0,0,0,7,15
+"Valentine, V.",BAL,3,73,6,30,6,0,0,1,7,15
+"Trout, C.",BAL,1,0,0,0,0,0,0,0,7,15
+"Hornbacher, A.",BAL,1,29,0,29,0,0,0,0,7,15

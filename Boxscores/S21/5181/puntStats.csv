@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Espinosa, D.",CHI,6,300,50,63,0
-"Banana, S.",COL,7,319,45.6,51,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Espinosa, D.",CHI,6,300,50,63,0,6,21
+"Banana, S.",COL,7,319,45.6,51,1,6,21

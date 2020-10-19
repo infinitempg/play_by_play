@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hank, F.",CHI,5,52,10.4,19,0
-"Davis, J.",CHI,3,27,9,13,0
-"Hayes, V.",CHI,3,7,2.3,4,0
-"O'Leary, S.",CHI,2,33,16.5,23,0
-"Tirtawidjaja, J.",CHI,2,5,2.5,5,0
-"Bishop, J.",COL,7,67,9.6,28,1
-"Owens, A.",COL,6,45,7.5,12,0
-"Dropson, J.",COL,4,71,17.8,40,0
-"Arrow, R.",COL,2,15,7.5,14,1
-"Lim, W.",COL,2,14,7,9,0
-"Sauce, E.",COL,2,11,5.5,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hank, F.",CHI,5,52,10.4,19,0,4,22
+"Davis, J.",CHI,3,27,9,13,0,4,22
+"Hayes, V.",CHI,3,7,2.3,4,0,4,22
+"O'Leary, S.",CHI,2,33,16.5,23,0,4,22
+"Tirtawidjaja, J.",CHI,2,5,2.5,5,0,4,22
+"Bishop, J.",COL,7,67,9.6,28,1,4,22
+"Owens, A.",COL,6,45,7.5,12,0,4,22
+"Dropson, J.",COL,4,71,17.8,40,0,4,22
+"Arrow, R.",COL,2,15,7.5,14,1,4,22
+"Lim, W.",COL,2,14,7,9,0,4,22
+"Sauce, E.",COL,2,11,5.5,9,0,4,22

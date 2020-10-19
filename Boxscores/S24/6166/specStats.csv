@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mendonca, M.",AUS,1,10,0,10,0,0,0,0
-"Lavelle Jr., D.",AUS,1,38,19,38,19,0,0,1
-"Rector, D.",NO,1,42,21,42,21,0,0,1
-"Blaylock, M.",NO,5,184,0,48,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mendonca, M.",AUS,1,10,0,10,0,0,0,0,4,24
+"Lavelle Jr., D.",AUS,1,38,19,38,19,0,0,1,4,24
+"Rector, D.",NO,1,42,21,42,21,0,0,1,4,24
+"Blaylock, M.",NO,5,184,0,48,0,0,0,0,4,24

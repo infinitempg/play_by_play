@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Justice, T.",SJS,5,97,19.4,43,1
-"Oles, K.",SJS,4,71,17.8,49,1
-"Brannigan, Z.",SJS,3,28,9.3,15,0
-"Williams, R.",SJS,3,22,7.3,13,0
-"Flash, X.",SJS,2,34,17,20,0
-"Orosz, C.",SJS,2,9,4.5,5,0
-"von Matt, J.",PHI,5,108,21.6,56,1
-"Hardwick, S.",PHI,4,80,20,33,0
-"Brown, M.",PHI,4,19,4.8,10,0
-"Bush, C.",PHI,3,30,10,16,0
-"Batoff, R.",PHI,2,18,9,10,0
-"Strike, L.",PHI,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Justice, T.",SJS,5,97,19.4,43,1,14,13
+"Oles, K.",SJS,4,71,17.8,49,1,14,13
+"Brannigan, Z.",SJS,3,28,9.3,15,0,14,13
+"Williams, R.",SJS,3,22,7.3,13,0,14,13
+"Flash, X.",SJS,2,34,17,20,0,14,13
+"Orosz, C.",SJS,2,9,4.5,5,0,14,13
+"von Matt, J.",PHI,5,108,21.6,56,1,14,13
+"Hardwick, S.",PHI,4,80,20,33,0,14,13
+"Brown, M.",PHI,4,19,4.8,10,0,14,13
+"Bush, C.",PHI,3,30,10,16,0,14,13
+"Batoff, R.",PHI,2,18,9,10,0,14,13
+"Strike, L.",PHI,1,0,0,0,0,14,13

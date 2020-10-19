@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Meoff, B.",NO,9,422,46.9,57,3
-"Donaldson, N.",SJS,9,420,46.7,62,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Meoff, B.",NO,9,422,46.9,57,3,12,13
+"Donaldson, N.",SJS,9,420,46.7,62,0,12,13

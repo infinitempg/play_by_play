@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jones, K.",AUS,14,52,3.7,9,0
-"Mendonca, M.",AUS,11,40,3.6,9,0
-"Cole, E.",AUS,3,23,7.7,9,0
-"Lackson, J.",SJS,22,105,4.8,11,0
-"Cardrissian, R.",SJS,13,37,2.8,7,1
-"Jack, M.",SJS,4,9,2.2,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jones, K.",AUS,14,52,3.7,9,0,1,24
+"Mendonca, M.",AUS,11,40,3.6,9,0,1,24
+"Cole, E.",AUS,3,23,7.7,9,0,1,24
+"Lackson, J.",SJS,22,105,4.8,11,0,1,24
+"Cardrissian, R.",SJS,13,37,2.8,7,1,1,24
+"Jack, M.",SJS,4,9,2.2,7,0,1,24

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,21,85,4,19,1
-"Swift, T.",NO,7,34,4.9,13,0
-"Francisco, S.",NO,2,8,4,6,0
-"Mendonca, M.",AUS,16,58,3.6,12,0
-"Owens, A.",AUS,16,91,5.7,13,1
-"Cole, E.",AUS,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,21,85,4,19,1,8,17
+"Swift, T.",NO,7,34,4.9,13,0,8,17
+"Francisco, S.",NO,2,8,4,6,0,8,17
+"Mendonca, M.",AUS,16,58,3.6,12,0,8,17
+"Owens, A.",AUS,16,91,5.7,13,1,8,17
+"Cole, E.",AUS,1,2,2,2,0,8,17

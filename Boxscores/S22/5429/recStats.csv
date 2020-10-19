@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McCormick, A.",NO,6,87,14.5,45,0
-"Gump, F.",NO,5,64,12.8,34,0
-"Barker, E.",NO,3,28,9.3,16,0
-"Toriki, M.",NO,3,14,4.7,6,0
-"Wolfcastle, R.",NO,1,6,6,6,0
-"Leaf Jr., R.",AUS,6,43,7.2,17,1
-"Gaines, N.",AUS,5,61,12.2,22,1
-"Mendonca, M.",AUS,4,46,11.5,18,1
-"Tidwell, R.",AUS,3,65,21.7,50,0
-"Jeeta, E.",AUS,1,12,12,12,0
-"Larson, P.",AUS,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McCormick, A.",NO,6,87,14.5,45,0,12,22
+"Gump, F.",NO,5,64,12.8,34,0,12,22
+"Barker, E.",NO,3,28,9.3,16,0,12,22
+"Toriki, M.",NO,3,14,4.7,6,0,12,22
+"Wolfcastle, R.",NO,1,6,6,6,0,12,22
+"Leaf Jr., R.",AUS,6,43,7.2,17,1,12,22
+"Gaines, N.",AUS,5,61,12.2,22,1,12,22
+"Mendonca, M.",AUS,4,46,11.5,18,1,12,22
+"Tidwell, R.",AUS,3,65,21.7,50,0,12,22
+"Jeeta, E.",AUS,1,12,12,12,0,12,22
+"Larson, P.",AUS,1,6,6,6,0,12,22

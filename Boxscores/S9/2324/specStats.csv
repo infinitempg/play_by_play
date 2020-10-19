@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Smallwood, D.",NO,4,119,0,37,0,0,0,0
-"Bayley, B.",NO,2,48,16,47,16,0,0,3
-"Westfield, B.",OCO,0,0,24,0,14,0,0,2
-"Spector, M.",OCO,4,111,0,38,0,0,0,0
-"Atwell, T.",OCO,5,152,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Smallwood, D.",NO,4,119,0,37,0,0,0,0,2,9
+"Bayley, B.",NO,2,48,16,47,16,0,0,3,2,9
+"Westfield, B.",OCO,0,0,24,0,14,0,0,2,2,9
+"Spector, M.",OCO,4,111,0,38,0,0,0,0,2,9
+"Atwell, T.",OCO,5,152,0,42,0,0,0,0,2,9

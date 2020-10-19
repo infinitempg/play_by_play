@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nakamura, T.",OCO,19,87,4.6,13,1
-"Armstrong, F.",OCO,12,82,6.8,39,0
-"Bigby, L.",OCO,8,26,3.2,7,1
-"Mendonca, M.",AUS,15,66,4.4,10,2
-"Leaf Jr., R.",AUS,10,37,3.7,8,0
-"Cole, E.",AUS,8,97,12.1,63,2
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nakamura, T.",OCO,19,87,4.6,13,1,11,22
+"Armstrong, F.",OCO,12,82,6.8,39,0,11,22
+"Bigby, L.",OCO,8,26,3.2,7,1,11,22
+"Mendonca, M.",AUS,15,66,4.4,10,2,11,22
+"Leaf Jr., R.",AUS,10,37,3.7,8,0,11,22
+"Cole, E.",AUS,8,97,12.1,63,2,11,22

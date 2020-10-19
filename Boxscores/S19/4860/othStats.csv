@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Banks II, D.",OCO,1,5,0,0
-"Johns, A.",OCO,0,0,5,0
-"Tony, P.",OCO,0,0,4,0
-"Harrison, H.",OCO,0,0,3,0
-"Wokkenfuss, G.",OCO,0,0,3,0
-"Blaze, J.",OCO,0,0,2,0
-"Pak, Y.",OCO,0,0,2,0
-"Pitcher, A.",OCO,0,0,1,0
-"Arbage, G.",AZ,1,5,3,0
-"Block, T.",AZ,1,10,1,0
-"Morris, R.",AZ,1,15,0,0
-"Aste, W.",AZ,0,0,7,0
-"Unk, J.",AZ,0,0,5,0
-"Irving, J.",AZ,0,0,2,0
-"Rash, T.",AZ,0,0,2,0
-"Kwemen, K.",AZ,0,0,0,1
-"Ruff, R.",AZ,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Banks II, D.",OCO,1,5,0,0,11,19
+"Johns, A.",OCO,0,0,5,0,11,19
+"Tony, P.",OCO,0,0,4,0,11,19
+"Harrison, H.",OCO,0,0,3,0,11,19
+"Wokkenfuss, G.",OCO,0,0,3,0,11,19
+"Blaze, J.",OCO,0,0,2,0,11,19
+"Pak, Y.",OCO,0,0,2,0,11,19
+"Pitcher, A.",OCO,0,0,1,0,11,19
+"Arbage, G.",AZ,1,5,3,0,11,19
+"Block, T.",AZ,1,10,1,0,11,19
+"Morris, R.",AZ,1,15,0,0,11,19
+"Aste, W.",AZ,0,0,7,0,11,19
+"Unk, J.",AZ,0,0,5,0,11,19
+"Irving, J.",AZ,0,0,2,0,11,19
+"Rash, T.",AZ,0,0,2,0,11,19
+"Kwemen, K.",AZ,0,0,0,1,11,19
+"Ruff, R.",AZ,0,0,0,1,11,19

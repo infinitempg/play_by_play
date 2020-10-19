@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Willis, T.",SJS,2,10,8,0
-"Paracomida, G.",SJS,2,10,6,0
-"Jeffries, W.",SJS,2,10,3,1
-"Rowland, A.",SJS,1,5,0,0
-"Chains, J.",SJS,0,0,4,0
-"Johnson, R.",SJS,0,0,3,0
-"Olsen, C.",SJS,0,0,0,1
-"Leaf Jr., R.",YKW,2,20,0,0
-"Skinner, Z.",YKW,2,10,0,0
-"Rchonsucks, A.",YKW,1,5,2,1
-"Canton, J.",YKW,1,6,2,0
-"Kroustis, G.",YKW,1,15,0,0
-"Maulolo, C.",YKW,1,15,0,0
-"Mushing, M.",YKW,0,0,5,1
-"Amper, T.",YKW,0,0,4,0
-"Ones, B.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Willis, T.",SJS,2,10,8,0,3,16
+"Paracomida, G.",SJS,2,10,6,0,3,16
+"Jeffries, W.",SJS,2,10,3,1,3,16
+"Rowland, A.",SJS,1,5,0,0,3,16
+"Chains, J.",SJS,0,0,4,0,3,16
+"Johnson, R.",SJS,0,0,3,0,3,16
+"Olsen, C.",SJS,0,0,0,1,3,16
+"Leaf Jr., R.",YKW,2,20,0,0,3,16
+"Skinner, Z.",YKW,2,10,0,0,3,16
+"Rchonsucks, A.",YKW,1,5,2,1,3,16
+"Canton, J.",YKW,1,6,2,0,3,16
+"Kroustis, G.",YKW,1,15,0,0,3,16
+"Maulolo, C.",YKW,1,15,0,0,3,16
+"Mushing, M.",YKW,0,0,5,1,3,16
+"Amper, T.",YKW,0,0,4,0,3,16
+"Ones, B.",YKW,0,0,1,0,3,16

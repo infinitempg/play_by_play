@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bush, C.",PHI,7,76,10.9,19,0
-"O'Sullivan, S.",PHI,4,31,7.8,11,0
-"Stormblessed, N.",PHI,3,13,4.3,8,0
-"Squanch, V.",AZ,7,103,14.7,33,1
-"Crindy, B.",AZ,5,34,6.8,16,0
-"Morris, D.",AZ,4,90,22.5,33,0
-"Wachter, J.",AZ,4,31,7.8,13,0
-"Chess, C.",AZ,3,20,6.7,12,0
-"Booter, F.",AZ,2,20,10,10,0
-"Mackworthy, R.",AZ,1,12,12,12,0
-"Christmas, C.",AZ,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bush, C.",PHI,7,76,10.9,19,0,4,10
+"O'Sullivan, S.",PHI,4,31,7.8,11,0,4,10
+"Stormblessed, N.",PHI,3,13,4.3,8,0,4,10
+"Squanch, V.",AZ,7,103,14.7,33,1,4,10
+"Crindy, B.",AZ,5,34,6.8,16,0,4,10
+"Morris, D.",AZ,4,90,22.5,33,0,4,10
+"Wachter, J.",AZ,4,31,7.8,13,0,4,10
+"Chess, C.",AZ,3,20,6.7,12,0,4,10
+"Booter, F.",AZ,2,20,10,10,0,4,10
+"Mackworthy, R.",AZ,1,12,12,12,0,4,10
+"Christmas, C.",AZ,1,4,4,4,0,4,10

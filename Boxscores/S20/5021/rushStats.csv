@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Owens, A.",COL,24,109,4.5,9,0
-"McDummy, W.",COL,4,84,21,71,1
-"Vincent, M.",COL,4,19,4.8,9,0
-"Tyerucker, Q.",SJS,24,128,5.3,24,0
-"Wright, D.",SJS,8,17,2.1,5,0
-"Boija, F.",SJS,6,29,4.8,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Owens, A.",COL,24,109,4.5,9,0,11,20
+"McDummy, W.",COL,4,84,21,71,1,11,20
+"Vincent, M.",COL,4,19,4.8,9,0,11,20
+"Tyerucker, Q.",SJS,24,128,5.3,24,0,11,20
+"Wright, D.",SJS,8,17,2.1,5,0,11,20
+"Boija, F.",SJS,6,29,4.8,9,0,11,20

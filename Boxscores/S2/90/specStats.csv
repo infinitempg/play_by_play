@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Delacour, A.",BAL,2,42,0,24,0,0,0,0
-"Farlane, D.",BAL,1,11,35,11,14,0,0,5
-"Mackworthy, R.",ARI,2,50,24,33,14,0,0,2
-"Flock, R.",ARI,2,21,0,19,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Delacour, A.",BAL,2,42,0,24,0,0,0,0,8,2
+"Farlane, D.",BAL,1,11,35,11,14,0,0,5,8,2
+"Mackworthy, R.",ARI,2,50,24,33,14,0,0,2,8,2
+"Flock, R.",ARI,2,21,0,19,0,0,0,0,8,2

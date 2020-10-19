@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,26,91,3.5,11,0
-"Bercovici, J.",LV,1,0,0,0,0
-"Burnsman, E.",OCO,17,60,3.5,13,1
-"Jenkins, L.",OCO,7,38,5.4,10,0
-"Boss, M.",OCO,2,2,1,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,26,91,3.5,11,0,9,3
+"Bercovici, J.",LV,1,0,0,0,0,9,3
+"Burnsman, E.",OCO,17,60,3.5,13,1,9,3
+"Jenkins, L.",OCO,7,38,5.4,10,0,9,3
+"Boss, M.",OCO,2,2,1,2,0,9,3

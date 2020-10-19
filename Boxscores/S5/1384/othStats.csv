@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Windchesthair, A.",COL,1,15,2,0
-"Gustavsson, E.",COL,1,5,0,0
-"Reigns, J.",COL,1,5,0,0
-"Vibrations, F.",COL,0,0,7,0
-"Bastard, F.",COL,0,0,3,0
-"Knuckler, B.",COL,0,0,3,0
-"Crush, C.",COL,0,0,1,0
-"Down, D.",COL,0,0,1,0
-"Joyce, S.",COL,0,0,1,0
-"Chambers III, C.",SJS,2,10,0,0
-"Bayley, B.",SJS,1,15,0,0
-"Jackson, M.",SJS,1,10,0,0
-"Jefferson, L.",SJS,1,15,0,0
-"Rucker, F.",SJS,0,0,5,0
-"Tacktheritrix, J.",SJS,0,0,4,1
-"Jahelpme, H.",SJS,0,0,3,1
-"McKoutchie, M.",SJS,0,0,2,0
-"Tanner, C.",SJS,0,0,2,0
-"Probincrux III, D.",SJS,0,0,1,0
-"Smallwood, D.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Windchesthair, A.",COL,1,15,2,0,3,5
+"Gustavsson, E.",COL,1,5,0,0,3,5
+"Reigns, J.",COL,1,5,0,0,3,5
+"Vibrations, F.",COL,0,0,7,0,3,5
+"Bastard, F.",COL,0,0,3,0,3,5
+"Knuckler, B.",COL,0,0,3,0,3,5
+"Crush, C.",COL,0,0,1,0,3,5
+"Down, D.",COL,0,0,1,0,3,5
+"Joyce, S.",COL,0,0,1,0,3,5
+"Chambers III, C.",SJS,2,10,0,0,3,5
+"Bayley, B.",SJS,1,15,0,0,3,5
+"Jackson, M.",SJS,1,10,0,0,3,5
+"Jefferson, L.",SJS,1,15,0,0,3,5
+"Rucker, F.",SJS,0,0,5,0,3,5
+"Tacktheritrix, J.",SJS,0,0,4,1,3,5
+"Jahelpme, H.",SJS,0,0,3,1,3,5
+"McKoutchie, M.",SJS,0,0,2,0,3,5
+"Tanner, C.",SJS,0,0,2,0,3,5
+"Probincrux III, D.",SJS,0,0,1,0,3,5
+"Smallwood, D.",SJS,0,0,1,0,3,5

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,3,64,2,37,5,0,0,2
-"Quinn, A.",BAL,1,39,0,39,0,0,0,0
-"O'Leary, S.",CHI,4,77,0,39,0,0,0,0
-"Firestorm-Fjord, O.",CHI,3,99,26,34,16,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,3,64,2,37,5,0,0,2,15,23
+"Quinn, A.",BAL,1,39,0,39,0,0,0,0,15,23
+"O'Leary, S.",CHI,4,77,0,39,0,0,0,0,15,23
+"Firestorm-Fjord, O.",CHI,3,99,26,34,16,0,0,2,15,23

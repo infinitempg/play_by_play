@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"West, D.",YKW,7,102,14.6,34,0
-"Garden, J.",YKW,7,96,13.7,37,0
-"Smallwood, D.",YKW,5,67,13.4,18,0
-"Maddox, R.",YKW,5,35,7,12,0
-"Nuck, B.",YKW,3,8,2.7,3,1
-"Kamby, J.",YKW,1,3,3,3,0
-"Bottles, B.",SJS,4,33,8.2,16,0
-"Weston, S.",SJS,3,46,15.3,27,0
-"Durden, J.",SJS,2,30,15,19,0
-"Cook, B.",SJS,2,29,14.5,15,0
-"Stephen, W.",SJS,1,2,2,2,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"West, D.",YKW,7,102,14.6,34,0,2,2
+"Garden, J.",YKW,7,96,13.7,37,0,2,2
+"Smallwood, D.",YKW,5,67,13.4,18,0,2,2
+"Maddox, R.",YKW,5,35,7,12,0,2,2
+"Nuck, B.",YKW,3,8,2.7,3,1,2,2
+"Kamby, J.",YKW,1,3,3,3,0,2,2
+"Bottles, B.",SJS,4,33,8.2,16,0,2,2
+"Weston, S.",SJS,3,46,15.3,27,0,2,2
+"Durden, J.",SJS,2,30,15,19,0,2,2
+"Cook, B.",SJS,2,29,14.5,15,0,2,2
+"Stephen, W.",SJS,1,2,2,2,1,2,2

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Miller, H.",COL,2,70,0,37,0,0,0,0
-"Danger, D.",COL,0,0,-1,0,2,0,0,2
-"Grau, M.",COL,3,44,0,25,0,0,0,0
-"Oles, K.",SJS,4,67,17,28,17,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Miller, H.",COL,2,70,0,37,0,0,0,0,5,12
+"Danger, D.",COL,0,0,-1,0,2,0,0,2,5,12
+"Grau, M.",COL,3,44,0,25,0,0,0,0,5,12
+"Oles, K.",SJS,4,67,17,28,17,0,0,1,5,12

@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Dermot, F.",OCO,1,10,7,0
-"Dermot, F.",OCO,1,5,3,0
-"Wright Jr, G.",OCO,1,5,0,0
-"Dermot, F.",OCO,0,0,6,1
-"Dermot, F.",OCO,0,0,3,0
-"Dermot, F.",OCO,0,0,2,0
-"Rchon, A.",YKW,1,9,4,0
-"Rainey, R.",YKW,1,4,0,1
-"Brown, J.",YKW,1,15,0,0
-"Kennedy, E.",YKW,1,5,0,0
-"Taylor, C.",YKW,1,10,0,0
-"Tweed, B.",YKW,1,15,0,0
-"Mushing, M.",YKW,0,0,4,0
-"Gore, B.",YKW,0,0,2,0
-"Amper, T.",YKW,0,0,1,0
-"Milan, C.",YKW,0,0,1,0
-"Ones, B.",YKW,0,0,1,0
-"Pooky, S.",YKW,0,0,1,0
-"Harris Jr., F.",YKW,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Dermot, F.",OCO,1,10,7,0,12,9
+"Dermot, F.",OCO,1,5,3,0,12,9
+"Wright Jr, G.",OCO,1,5,0,0,12,9
+"Dermot, F.",OCO,0,0,6,1,12,9
+"Dermot, F.",OCO,0,0,3,0,12,9
+"Dermot, F.",OCO,0,0,2,0,12,9
+"Rchon, A.",YKW,1,9,4,0,12,9
+"Rainey, R.",YKW,1,4,0,1,12,9
+"Brown, J.",YKW,1,15,0,0,12,9
+"Kennedy, E.",YKW,1,5,0,0,12,9
+"Taylor, C.",YKW,1,10,0,0,12,9
+"Tweed, B.",YKW,1,15,0,0,12,9
+"Mushing, M.",YKW,0,0,4,0,12,9
+"Gore, B.",YKW,0,0,2,0,12,9
+"Amper, T.",YKW,0,0,1,0,12,9
+"Milan, C.",YKW,0,0,1,0,12,9
+"Ones, B.",YKW,0,0,1,0,12,9
+"Pooky, S.",YKW,0,0,1,0,12,9
+"Harris Jr., F.",YKW,0,0,0,1,12,9

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Novel, L.",BAL,13,48,3.7,7,0
-"Robinson, M.",BAL,13,46,3.5,10,0
-"Kyubee, S.",BAL,2,1,0.5,2,0
-"Wright, O.",OCO,21,95,4.5,11,0
-"Jenkins, L.",OCO,8,38,4.8,9,0
-"Boss, M.",OCO,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Novel, L.",BAL,13,48,3.7,7,0,2,1
+"Robinson, M.",BAL,13,46,3.5,10,0,2,1
+"Kyubee, S.",BAL,2,1,0.5,2,0,2,1
+"Wright, O.",OCO,21,95,4.5,11,0,2,1
+"Jenkins, L.",OCO,8,38,4.8,9,0,2,1
+"Boss, M.",OCO,1,5,5,5,0,2,1

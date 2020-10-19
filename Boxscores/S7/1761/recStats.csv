@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Harris Jr., F.",YKW,8,61,7.6,13,0
-"Kennedy, E.",YKW,6,74,12.3,36,1
-"McPoyal, G.",YKW,4,48,12,27,0
-"Cook, B.",YKW,3,30,10,19,2
-"Rainey, R.",YKW,3,11,3.7,6,0
-"North, F.",PHI,6,69,11.5,19,1
-"DiMirio, P.",PHI,6,57,9.5,26,0
-"Garden, J.",PHI,4,72,18,30,0
-"Bush, C.",PHI,3,29,9.7,14,0
-"Hendrix, K.",PHI,3,15,5,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Harris Jr., F.",YKW,8,61,7.6,13,0,9,7
+"Kennedy, E.",YKW,6,74,12.3,36,1,9,7
+"McPoyal, G.",YKW,4,48,12,27,0,9,7
+"Cook, B.",YKW,3,30,10,19,2,9,7
+"Rainey, R.",YKW,3,11,3.7,6,0,9,7
+"North, F.",PHI,6,69,11.5,19,1,9,7
+"DiMirio, P.",PHI,6,57,9.5,26,0,9,7
+"Garden, J.",PHI,4,72,18,30,0,9,7
+"Bush, C.",PHI,3,29,9.7,14,0,9,7
+"Hendrix, K.",PHI,3,15,5,7,0,9,7

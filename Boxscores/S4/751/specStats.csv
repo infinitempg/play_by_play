@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,1,11,0,11,0,0,0,0
-"Evans, D.",ARI,2,61,0,36,0,0,0,0
-"Garden, J.",ARI,0,0,5,0,3,0,0,3
-"Westfield, B.",OCO,2,52,5,31,5,0,0,4
-"Phelps, R.",OCO,3,50,0,25,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,1,11,0,11,0,0,0,0,7,4
+"Evans, D.",ARI,2,61,0,36,0,0,0,0,7,4
+"Garden, J.",ARI,0,0,5,0,3,0,0,3,7,4
+"Westfield, B.",OCO,2,52,5,31,5,0,0,4,7,4
+"Phelps, R.",OCO,3,50,0,25,0,0,0,0,7,4

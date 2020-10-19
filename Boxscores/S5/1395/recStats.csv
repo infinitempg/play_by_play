@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Tanner, C.",SJS,9,92,10.2,16,0
-"Jackson, M.",SJS,7,113,16.1,35,0
-"Weston, S.",SJS,6,122,20.3,47,1
-"Diaz, D.",SJS,4,42,10.5,23,0
-"Smallwood, D.",SJS,4,30,7.5,11,1
-"Bottles, B.",SJS,3,16,5.3,7,0
-"Garden, J.",PHI,6,106,17.7,50,1
-"DiMirio, P.",PHI,6,64,10.7,19,0
-"North, F.",PHI,4,70,17.5,36,0
-"Kroetch, D.",PHI,2,14,7,9,0
-"O'Connell, K.",PHI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Tanner, C.",SJS,9,92,10.2,16,0,6,5
+"Jackson, M.",SJS,7,113,16.1,35,0,6,5
+"Weston, S.",SJS,6,122,20.3,47,1,6,5
+"Diaz, D.",SJS,4,42,10.5,23,0,6,5
+"Smallwood, D.",SJS,4,30,7.5,11,1,6,5
+"Bottles, B.",SJS,3,16,5.3,7,0,6,5
+"Garden, J.",PHI,6,106,17.7,50,1,6,5
+"DiMirio, P.",PHI,6,64,10.7,19,0,6,5
+"North, F.",PHI,4,70,17.5,36,0,6,5
+"Kroetch, D.",PHI,2,14,7,9,0,6,5
+"O'Connell, K.",PHI,1,4,4,4,0,6,5

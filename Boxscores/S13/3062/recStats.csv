@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Miller, H.",COL,8,105,13.1,25,1
-"Bishop, J.",COL,6,58,9.7,14,0
-"L'Alto, V.",COL,4,52,13,26,1
-"Chipmunk, A.",COL,3,23,7.7,8,0
-"Cansino, D.",COL,3,1,0.3,1,0
-"LaMelllana, S.",COL,2,26,13,15,1
-"Grau, M.",COL,1,3,3,3,0
-"Squanch, V.",AZ,3,44,14.7,28,0
-"Willie, T.",AZ,3,40,13.3,24,1
-"Shady, S.",AZ,3,21,7,11,0
-"Moore, S.",AZ,2,8,4,5,0
-"Crindy, B.",AZ,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Miller, H.",COL,8,105,13.1,25,1,13,13
+"Bishop, J.",COL,6,58,9.7,14,0,13,13
+"L'Alto, V.",COL,4,52,13,26,1,13,13
+"Chipmunk, A.",COL,3,23,7.7,8,0,13,13
+"Cansino, D.",COL,3,1,0.3,1,0,13,13
+"LaMelllana, S.",COL,2,26,13,15,1,13,13
+"Grau, M.",COL,1,3,3,3,0,13,13
+"Squanch, V.",AZ,3,44,14.7,28,0,13,13
+"Willie, T.",AZ,3,40,13.3,24,1,13,13
+"Shady, S.",AZ,3,21,7,11,0,13,13
+"Moore, S.",AZ,2,8,4,5,0,13,13
+"Crindy, B.",AZ,1,9,9,9,0,13,13

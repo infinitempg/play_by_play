@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,18,68,3.8,9,1
-"Pitcher, A.",OCO,1,4,4,4,0
-"Showbiz, G.",OCO,1,0,0,0,0
-"Shady, S.",AZ,14,42,3,6,0
-"Murphy, J.",AZ,6,29,4.8,9,0
-"Zephyrous, S.",AZ,2,5,2.5,5,0
-"Reese, A.",AZ,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,18,68,3.8,9,1,7,16
+"Pitcher, A.",OCO,1,4,4,4,0,7,16
+"Showbiz, G.",OCO,1,0,0,0,0,7,16
+"Shady, S.",AZ,14,42,3,6,0,7,16
+"Murphy, J.",AZ,6,29,4.8,9,0,7,16
+"Zephyrous, S.",AZ,2,5,2.5,5,0,7,16
+"Reese, A.",AZ,1,0,0,0,0,7,16

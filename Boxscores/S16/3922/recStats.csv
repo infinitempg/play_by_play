@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Oles, K.",CHI,5,118,23.6,40,2
-"Harp, D.",CHI,5,55,11,27,0
-"Adams, R.",CHI,4,86,21.5,34,1
-"Torenson, S.",CHI,2,8,4,6,0
-"Hasselhoff, F.",CHI,1,9,9,9,0
-"Batoff, R.",CHI,1,2,2,2,0
-"Wright, D.",SJS,6,49,8.2,27,0
-"Olsen, C.",SJS,5,94,18.8,43,0
-"Justice, T.",SJS,4,55,13.8,25,0
-"Orosz, C.",SJS,2,15,7.5,10,0
-"Flash, X.",SJS,2,13,6.5,7,0
-"Bigby, L.",SJS,1,1,1,1,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Oles, K.",CHI,5,118,23.6,40,2,11,16
+"Harp, D.",CHI,5,55,11,27,0,11,16
+"Adams, R.",CHI,4,86,21.5,34,1,11,16
+"Torenson, S.",CHI,2,8,4,6,0,11,16
+"Hasselhoff, F.",CHI,1,9,9,9,0,11,16
+"Batoff, R.",CHI,1,2,2,2,0,11,16
+"Wright, D.",SJS,6,49,8.2,27,0,11,16
+"Olsen, C.",SJS,5,94,18.8,43,0,11,16
+"Justice, T.",SJS,4,55,13.8,25,0,11,16
+"Orosz, C.",SJS,2,15,7.5,10,0,11,16
+"Flash, X.",SJS,2,13,6.5,7,0,11,16
+"Bigby, L.",SJS,1,1,1,1,1,11,16

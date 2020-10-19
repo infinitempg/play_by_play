@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",BAL,17,62,3.6,12,0
-"Jimbo, D.",BAL,1,9,9,9,0
-"Hank, F.",PHI,16,46,2.9,10,1
-"Jones, V.",PHI,11,35,3.2,12,0
-"Boija, F.",PHI,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",BAL,17,62,3.6,12,0,3,16
+"Jimbo, D.",BAL,1,9,9,9,0,3,16
+"Hank, F.",PHI,16,46,2.9,10,1,3,16
+"Jones, V.",PHI,11,35,3.2,12,0,3,16
+"Boija, F.",PHI,1,1,1,1,0,3,16

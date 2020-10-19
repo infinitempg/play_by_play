@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Podolak, J.",HON,5,46,9.2,16,1
-"Alexander, W.",HON,4,46,11.5,28,0
-"Kane-Maika'i, K.",HON,4,35,8.8,22,0
-"Krashwagen, R.",HON,3,13,4.3,5,0
-"Ayers, N.",HON,3,6,2,6,0
-"Hex, T.",HON,2,7,3.5,4,0
-"J'Vathon, T.",HON,1,34,34,34,0
-"Lewandowski, J.",BAL,6,39,6.5,13,1
-"Campbell, J.",BAL,5,80,16,32,1
-"Howlett, D.",BAL,4,119,29.8,66,0
-"Brown, K.",BAL,3,101,33.7,37,1
-"Fukushu, M.",BAL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Podolak, J.",HON,5,46,9.2,16,1,3,25
+"Alexander, W.",HON,4,46,11.5,28,0,3,25
+"Kane-Maika'i, K.",HON,4,35,8.8,22,0,3,25
+"Krashwagen, R.",HON,3,13,4.3,5,0,3,25
+"Ayers, N.",HON,3,6,2,6,0,3,25
+"Hex, T.",HON,2,7,3.5,4,0,3,25
+"J'Vathon, T.",HON,1,34,34,34,0,3,25
+"Lewandowski, J.",BAL,6,39,6.5,13,1,3,25
+"Campbell, J.",BAL,5,80,16,32,1,3,25
+"Howlett, D.",BAL,4,119,29.8,66,0,3,25
+"Brown, K.",BAL,3,101,33.7,37,1,3,25
+"Fukushu, M.",BAL,1,8,8,8,0,3,25

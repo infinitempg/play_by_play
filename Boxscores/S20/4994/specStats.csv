@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,2,72,0,41,0,0,0,0
-"Staley, T.",SJS,3,88,0,42,0,0,0,0
-"Utler, J.",CHI,5,60,0,28,0,0,0,0
-"Espeeyeeseetee, A.",CHI,4,190,0,99,0,1,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,2,72,0,41,0,0,0,0,5,20
+"Staley, T.",SJS,3,88,0,42,0,0,0,0,5,20
+"Utler, J.",CHI,5,60,0,28,0,0,0,0,5,20
+"Espeeyeeseetee, A.",CHI,4,190,0,99,0,1,0,0,5,20

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Lackson, J.",SJS,17,58,3.4,9,1
-"Cardrissian, R.",SJS,16,57,3.6,8,0
-"Cue, J.",AZ,10,52,5.2,16,0
-"Keppler, Z.",AZ,6,21,3.5,6,0
-"Thorbjornsson, G.",AZ,3,11,3.7,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Lackson, J.",SJS,17,58,3.4,9,1,2,25
+"Cardrissian, R.",SJS,16,57,3.6,8,0,2,25
+"Cue, J.",AZ,10,52,5.2,16,0,2,25
+"Keppler, Z.",AZ,6,21,3.5,6,0,2,25
+"Thorbjornsson, G.",AZ,3,11,3.7,6,0,2,25

@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Bottles, B.",SJS,1,5,0,0
-"Tacktheritrix, J.",SJS,0,0,6,1
-"Rucker, F.",SJS,0,0,5,0
-"Smallwood, D.",SJS,0,0,3,1
-"Willey, M.",SJS,0,0,3,1
-"McKoutchie, M.",SJS,0,0,3,0
-"Probincrux III, D.",SJS,0,0,2,1
-"Diaz, D.",SJS,0,0,1,0
-"Danger, D.",COL,1,5,0,0
-"LeFevre, R.",COL,1,15,0,0
-"Joyce, S.",COL,1,15,0,0
-"Ruckus, B.",COL,1,15,0,0
-"Sandoval, R.",COL,1,15,0,0
-"Down, D.",COL,0,0,4,0
-"Bastard, F.",COL,0,0,3,0
-"Windchesthair, A.",COL,0,0,3,0
-"Knuckler, B.",COL,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Bottles, B.",SJS,1,5,0,0,6,7
+"Tacktheritrix, J.",SJS,0,0,6,1,6,7
+"Rucker, F.",SJS,0,0,5,0,6,7
+"Smallwood, D.",SJS,0,0,3,1,6,7
+"Willey, M.",SJS,0,0,3,1,6,7
+"McKoutchie, M.",SJS,0,0,3,0,6,7
+"Probincrux III, D.",SJS,0,0,2,1,6,7
+"Diaz, D.",SJS,0,0,1,0,6,7
+"Danger, D.",COL,1,5,0,0,6,7
+"LeFevre, R.",COL,1,15,0,0,6,7
+"Joyce, S.",COL,1,15,0,0,6,7
+"Ruckus, B.",COL,1,15,0,0,6,7
+"Sandoval, R.",COL,1,15,0,0,6,7
+"Down, D.",COL,0,0,4,0,6,7
+"Bastard, F.",COL,0,0,3,0,6,7
+"Windchesthair, A.",COL,0,0,3,0,6,7
+"Knuckler, B.",COL,0,0,1,1,6,7

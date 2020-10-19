@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",PHI,25,105,4.2,10,1
-"Falconi, A.",PHI,3,14,4.7,9,0
-"Flores, R.",PHI,2,10,5,10,0
-"Taylor, O.",BAL,15,68,4.5,12,3
-"Summer, A.",BAL,14,80,5.7,11,3
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",PHI,25,105,4.2,10,1,1,12
+"Falconi, A.",PHI,3,14,4.7,9,0,1,12
+"Flores, R.",PHI,2,10,5,10,0,1,12
+"Taylor, O.",BAL,15,68,4.5,12,3,1,12
+"Summer, A.",BAL,14,80,5.7,11,3,1,12

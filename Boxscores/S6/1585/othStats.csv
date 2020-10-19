@@ -1,22 +1,22 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Bottles, B.",SJS,1,12,2,0
-"Chambers III, C.",SJS,1,5,0,0
-"Okonkwo, C.",SJS,1,5,0,0
-"Tacktheritrix, J.",SJS,0,0,6,1
-"Probincrux III, D.",SJS,0,0,4,0
-"Rucker, F.",SJS,0,0,3,2
-"Diaz, D.",SJS,0,0,3,0
-"Jahelpme, H.",SJS,0,0,2,0
-"McKoutchie, M.",SJS,0,0,2,0
-"Smallwood, D.",SJS,0,0,1,0
-"Tomlinson, A.",NO,2,20,0,0
-"Andres, J.",NO,1,5,0,0
-"Mills, B.",NO,1,4,0,0
-"Roll, J.",NO,1,5,0,0
-"Tomatonose, P.",NO,1,5,0,0
-"Ory, K.",NO,0,0,7,0
-"Bolden, B.",NO,0,0,6,3
-"Ruffins, K.",NO,0,0,6,0
-"Savea, A.",NO,0,0,2,1
-"Armstrong, L.",NO,0,0,2,0
-"Tenzini, G.",NO,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Bottles, B.",SJS,1,12,2,0,2,6
+"Chambers III, C.",SJS,1,5,0,0,2,6
+"Okonkwo, C.",SJS,1,5,0,0,2,6
+"Tacktheritrix, J.",SJS,0,0,6,1,2,6
+"Probincrux III, D.",SJS,0,0,4,0,2,6
+"Rucker, F.",SJS,0,0,3,2,2,6
+"Diaz, D.",SJS,0,0,3,0,2,6
+"Jahelpme, H.",SJS,0,0,2,0,2,6
+"McKoutchie, M.",SJS,0,0,2,0,2,6
+"Smallwood, D.",SJS,0,0,1,0,2,6
+"Tomlinson, A.",NO,2,20,0,0,2,6
+"Andres, J.",NO,1,5,0,0,2,6
+"Mills, B.",NO,1,4,0,0,2,6
+"Roll, J.",NO,1,5,0,0,2,6
+"Tomatonose, P.",NO,1,5,0,0,2,6
+"Ory, K.",NO,0,0,7,0,2,6
+"Bolden, B.",NO,0,0,6,3,2,6
+"Ruffins, K.",NO,0,0,6,0,2,6
+"Savea, A.",NO,0,0,2,1,2,6
+"Armstrong, L.",NO,0,0,2,0,2,6
+"Tenzini, G.",NO,0,0,1,1,2,6

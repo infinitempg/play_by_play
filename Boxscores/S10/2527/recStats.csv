@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Squanch, V.",AZ,9,114,12.7,26,1
-"Morris, D.",AZ,6,102,17,43,1
-"Crindy, B.",AZ,5,46,9.2,16,1
-"Mackworthy, R.",AZ,3,23,7.7,12,0
-"Booter, F.",AZ,2,19,9.5,17,0
-"Kennedy, E.",YKW,7,94,13.4,34,1
-"McPoyal, G.",YKW,6,66,11,24,1
-"Atwell, T.",YKW,4,57,14.2,41,0
-"Harris Jr., F.",YKW,3,16,5.3,11,0
-"Lavelle, D.",YKW,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Squanch, V.",AZ,9,114,12.7,26,1,2,10
+"Morris, D.",AZ,6,102,17,43,1,2,10
+"Crindy, B.",AZ,5,46,9.2,16,1,2,10
+"Mackworthy, R.",AZ,3,23,7.7,12,0,2,10
+"Booter, F.",AZ,2,19,9.5,17,0,2,10
+"Kennedy, E.",YKW,7,94,13.4,34,1,2,10
+"McPoyal, G.",YKW,6,66,11,24,1,2,10
+"Atwell, T.",YKW,4,57,14.2,41,0,2,10
+"Harris Jr., F.",YKW,3,16,5.3,11,0,2,10
+"Lavelle, D.",YKW,1,6,6,6,0,2,10

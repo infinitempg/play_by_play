@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,3,88,0,48,0,0,0,0
-"Maddox, E.",BAL,2,54,25,36,13,0,0,4
-"Troyski, X.",BAL,0,0,6,0,6,0,0,1
-"Donut, S.",AZ,4,107,0,39,0,0,0,0
-"Oles, K.",AZ,3,59,12,36,13,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,3,88,0,48,0,0,0,0,2,19
+"Maddox, E.",BAL,2,54,25,36,13,0,0,4,2,19
+"Troyski, X.",BAL,0,0,6,0,6,0,0,1,2,19
+"Donut, S.",AZ,4,107,0,39,0,0,0,0,2,19
+"Oles, K.",AZ,3,59,12,36,13,0,0,2,2,19

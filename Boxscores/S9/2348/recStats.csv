@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Smallwood, D.",NO,7,65,9.3,12,0
-"Law, C.",NO,6,71,11.8,14,1
-"Jackson, M.",NO,5,84,16.8,60,0
-"Evans, D.",NO,5,61,12.2,24,1
-"DiMirio, P.",NO,2,16,8,13,1
-"Savea, A.",NO,1,5,5,5,0
-"Bush, C.",PHI,3,48,16,22,0
-"North, F.",PHI,2,53,26.5,35,0
-"Farlane, D.",PHI,2,9,4.5,7,0
-"O'Sullivan, S.",PHI,1,5,5,5,0
-"Garden, J.",PHI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Smallwood, D.",NO,7,65,9.3,12,0,8,9
+"Law, C.",NO,6,71,11.8,14,1,8,9
+"Jackson, M.",NO,5,84,16.8,60,0,8,9
+"Evans, D.",NO,5,61,12.2,24,1,8,9
+"DiMirio, P.",NO,2,16,8,13,1,8,9
+"Savea, A.",NO,1,5,5,5,0,8,9
+"Bush, C.",PHI,3,48,16,22,0,8,9
+"North, F.",PHI,2,53,26.5,35,0,8,9
+"Farlane, D.",PHI,2,9,4.5,7,0,8,9
+"O'Sullivan, S.",PHI,1,5,5,5,0,8,9
+"Garden, J.",PHI,1,4,4,4,0,8,9

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Armstrong, F.",OCO,"[22, 39]",234,10.6,0,0,74.1
-"Reese, A.",AZ,"[27, 43]",235,8.7,1,1,75.2
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Armstrong, F.",OCO,234,10.6,0,0,74.1,22,27,11,19
+"Reese, A.",AZ,235,8.7,1,1,75.2,22,27,11,19

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Wright Jr, G.",OCO,11,93,8.5,25,0
-"Westfield, B.",OCO,8,129,16.1,32,0
-"Phelps, R.",OCO,8,112,14,33,0
-"Jenkins, L.",OCO,4,20,5,6,1
-"Bowers Jr, V.",OCO,3,18,6,10,0
-"Willie, T.",OCO,1,11,11,11,0
-"Stormblessed, N.",LV,4,68,17,54,1
-"Tenzini, G.",LV,3,24,8,12,0
-"LeClair, A.",LV,2,14,7,7,0
-"Larsendorf, R.",LV,1,1,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Wright Jr, G.",OCO,11,93,8.5,25,0,5,2
+"Westfield, B.",OCO,8,129,16.1,32,0,5,2
+"Phelps, R.",OCO,8,112,14,33,0,5,2
+"Jenkins, L.",OCO,4,20,5,6,1,5,2
+"Bowers Jr, V.",OCO,3,18,6,10,0,5,2
+"Willie, T.",OCO,1,11,11,11,0,5,2
+"Stormblessed, N.",LV,4,68,17,54,1,5,2
+"Tenzini, G.",LV,3,24,8,12,0,5,2
+"LeClair, A.",LV,2,14,7,7,0,5,2
+"Larsendorf, R.",LV,1,1,1,1,0,5,2

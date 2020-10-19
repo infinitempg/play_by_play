@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Weston, S.",SJS,6,120,20,43,1
-"Riddick, D.",SJS,5,53,10.6,14,0
-"Tuck Jr., T.",SJS,3,45,15,20,0
-"Diaz, D.",SJS,3,13,4.3,7,0
-"(R)Brannigan, Z.",SJS,2,18,9,11,0
-"Legion, A.",SJS,2,13,6.5,9,0
-"Crush, C.",OCO,8,118,14.8,40,1
-"Yates, J.",OCO,4,77,19.2,31,0
-"Atwell, T.",OCO,4,70,17.5,39,0
-"Westfield, B.",OCO,4,55,13.8,40,1
-"Phelps, R.",OCO,2,9,4.5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Weston, S.",SJS,6,120,20,43,1,8,9
+"Riddick, D.",SJS,5,53,10.6,14,0,8,9
+"Tuck Jr., T.",SJS,3,45,15,20,0,8,9
+"Diaz, D.",SJS,3,13,4.3,7,0,8,9
+"(R)Brannigan, Z.",SJS,2,18,9,11,0,8,9
+"Legion, A.",SJS,2,13,6.5,9,0,8,9
+"Crush, C.",OCO,8,118,14.8,40,1,8,9
+"Yates, J.",OCO,4,77,19.2,31,0,8,9
+"Atwell, T.",OCO,4,70,17.5,39,0,8,9
+"Westfield, B.",OCO,4,55,13.8,40,1,8,9
+"Phelps, R.",OCO,2,9,4.5,5,0,8,9

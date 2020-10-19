@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Vibrations, F.",COL,2,11,4,0
-"Crush, C.",COL,1,10,2,1
-"Windchesthair, A.",COL,1,5,1,0
-"Erikson, V.",COL,1,10,0,0
-"Farlane, D.",COL,1,5,0,0
-"Tweed, B.",COL,1,5,0,0
-"Down, D.",COL,0,0,4,1
-"Knuckler, B.",COL,0,0,4,1
-"Bastard, F.",COL,0,0,4,0
-"Mushing, M.",YKW,1,10,5,0
-"Harris Jr., F.",YKW,1,9,2,0
-"Kennedy, E.",YKW,1,5,1,0
-"Maddox, R.",YKW,1,5,0,0
-"Pooky, S.",YKW,0,0,4,0
-"Amper, T.",YKW,0,0,3,0
-"Ones, B.",YKW,0,0,3,0
-"Rchon, A.",YKW,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Vibrations, F.",COL,2,11,4,0,14,5
+"Crush, C.",COL,1,10,2,1,14,5
+"Windchesthair, A.",COL,1,5,1,0,14,5
+"Erikson, V.",COL,1,10,0,0,14,5
+"Farlane, D.",COL,1,5,0,0,14,5
+"Tweed, B.",COL,1,5,0,0,14,5
+"Down, D.",COL,0,0,4,1,14,5
+"Knuckler, B.",COL,0,0,4,1,14,5
+"Bastard, F.",COL,0,0,4,0,14,5
+"Mushing, M.",YKW,1,10,5,0,14,5
+"Harris Jr., F.",YKW,1,9,2,0,14,5
+"Kennedy, E.",YKW,1,5,1,0,14,5
+"Maddox, R.",YKW,1,5,0,0,14,5
+"Pooky, S.",YKW,0,0,4,0,14,5
+"Amper, T.",YKW,0,0,3,0,14,5
+"Ones, B.",YKW,0,0,3,0,14,5
+"Rchon, A.",YKW,0,0,3,0,14,5

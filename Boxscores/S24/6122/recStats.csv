@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Barker, E.",NO,4,48,12,28,1
-"McCormick, A.",NO,4,23,5.8,9,0
-"Bodenhamer, B.",NO,2,47,23.5,34,0
-"Toriki, M.",NO,2,10,5,8,0
-"Wolfcastle, R.",NO,2,9,4.5,5,0
-"Gump, F.",NO,2,4,2,5,0
-"Snyder, S.",NO,1,37,37,37,0
-"Vuxta, R.",PHI,4,78,19.5,38,0
-"Varga, N.",PHI,2,19,9.5,13,0
-"Blocksdale Jr., A.",PHI,2,11,5.5,7,0
-"Panda, F.",PHI,1,18,18,18,1
-"Dotson, F.",PHI,1,16,16,16,0
-"Torenson, S.",PHI,1,10,10,10,0
-"Arrabiata, D.",PHI,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Barker, E.",NO,4,48,12,28,1,11,24
+"McCormick, A.",NO,4,23,5.8,9,0,11,24
+"Bodenhamer, B.",NO,2,47,23.5,34,0,11,24
+"Toriki, M.",NO,2,10,5,8,0,11,24
+"Wolfcastle, R.",NO,2,9,4.5,5,0,11,24
+"Gump, F.",NO,2,4,2,5,0,11,24
+"Snyder, S.",NO,1,37,37,37,0,11,24
+"Vuxta, R.",PHI,4,78,19.5,38,0,11,24
+"Varga, N.",PHI,2,19,9.5,13,0,11,24
+"Blocksdale Jr., A.",PHI,2,11,5.5,7,0,11,24
+"Panda, F.",PHI,1,18,18,18,1,11,24
+"Dotson, F.",PHI,1,16,16,16,0,11,24
+"Torenson, S.",PHI,1,10,10,10,0,11,24
+"Arrabiata, D.",PHI,1,5,5,5,0,11,24

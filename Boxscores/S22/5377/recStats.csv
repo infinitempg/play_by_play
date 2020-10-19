@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Lee, M.",BAL,4,23,5.8,7,0
-"Maddox, E.",BAL,3,37,12.3,19,0
-"Quinn, A.",BAL,3,15,5,8,0
-"Kross, C.",BAL,2,36,18,28,0
-"Reed, A.",BAL,2,5,2.5,4,0
-"Skuff, R.",BAL,2,4,2,4,0
-"Lewandowski, J.",BAL,1,5,5,5,0
-"Williams, D.",BAL,1,1,1,1,0
-"Swift, N.",YKW,6,120,20,37,0
-"Skyline, A.",YKW,6,67,11.2,37,0
-"Hanyadi, M.",YKW,6,50,8.3,16,0
-"Rodriguez, B.",YKW,5,48,9.6,16,0
-"Hardagain, W.",YKW,2,26,13,15,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Lee, M.",BAL,4,23,5.8,7,0,4,22
+"Maddox, E.",BAL,3,37,12.3,19,0,4,22
+"Quinn, A.",BAL,3,15,5,8,0,4,22
+"Kross, C.",BAL,2,36,18,28,0,4,22
+"Reed, A.",BAL,2,5,2.5,4,0,4,22
+"Skuff, R.",BAL,2,4,2,4,0,4,22
+"Lewandowski, J.",BAL,1,5,5,5,0,4,22
+"Williams, D.",BAL,1,1,1,1,0,4,22
+"Swift, N.",YKW,6,120,20,37,0,4,22
+"Skyline, A.",YKW,6,67,11.2,37,0,4,22
+"Hanyadi, M.",YKW,6,50,8.3,16,0,4,22
+"Rodriguez, B.",YKW,5,48,9.6,16,0,4,22
+"Hardagain, W.",YKW,2,26,13,15,0,4,22

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Howlett, D.",BAL,7,129,18.4,43,0
-"Campbell, J.",BAL,7,55,7.9,11,1
-"Lewandowski, J.",BAL,5,43,8.6,11,0
-"Brown, K.",BAL,3,36,12,17,1
-"Rogers, C.",BAL,2,10,5,9,0
-"Fukushu, M.",BAL,2,5,2.5,5,0
-"Vuxta, R.",PHI,4,115,28.8,79,1
-"Chambers, K.",PHI,4,48,12,29,1
-"Dotson, F.",PHI,2,20,10,10,0
-"Panda, F.",PHI,2,13,6.5,7,0
-"Blocksdale Jr., A.",PHI,1,16,16,16,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Howlett, D.",BAL,7,129,18.4,43,0,1,25
+"Campbell, J.",BAL,7,55,7.9,11,1,1,25
+"Lewandowski, J.",BAL,5,43,8.6,11,0,1,25
+"Brown, K.",BAL,3,36,12,17,1,1,25
+"Rogers, C.",BAL,2,10,5,9,0,1,25
+"Fukushu, M.",BAL,2,5,2.5,5,0,1,25
+"Vuxta, R.",PHI,4,115,28.8,79,1,1,25
+"Chambers, K.",PHI,4,48,12,29,1,1,25
+"Dotson, F.",PHI,2,20,10,10,0,1,25
+"Panda, F.",PHI,2,13,6.5,7,0,1,25
+"Blocksdale Jr., A.",PHI,1,16,16,16,0,1,25

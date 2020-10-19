@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Owens, A.",COL,13,42,3.2,10,1
-"McDummy, W.",COL,8,43,5.4,22,1
-"Vincent, M.",COL,7,25,3.6,6,0
-"Gump, F.",NO,26,130,5,17,0
-"Toriki, M.",NO,24,121,5,14,2
-"Francisco, S.",NO,2,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Owens, A.",COL,13,42,3.2,10,1,9,19
+"McDummy, W.",COL,8,43,5.4,22,1,9,19
+"Vincent, M.",COL,7,25,3.6,6,0,9,19
+"Gump, F.",NO,26,130,5,17,0,9,19
+"Toriki, M.",NO,24,121,5,14,2,9,19
+"Francisco, S.",NO,2,0,0,0,0,9,19

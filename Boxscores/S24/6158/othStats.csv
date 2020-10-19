@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Smith, J.",SAR,1,10,7,0
-"Doe, B.",SAR,1,5,6,0
-"Angler, J.",SAR,1,15,2,0
-"d'Alcott, R.",SAR,1,5,0,0
-"Witheblock, M.",SAR,1,10,0,0
-"Bakhtiari, S.",SAR,0,0,6,0
-"McCabe, J.",SAR,0,0,5,0
-"Woakneoa, S.",SAR,0,0,2,1
-"LaFleur, F.",CHI,1,5,0,0
-"Richards, E.",CHI,1,5,0,0
-"Works, S.",CHI,1,5,0,0
-"Lesnar, B.",CHI,0,0,6,1
-"Ahstreet, C.",CHI,0,0,4,0
-"Gelbman, T.",CHI,0,0,2,1
-"Bayley Jr., B.",CHI,0,0,2,0
-"Tirtawidjaja, J.",CHI,0,0,2,0
-"Tucker Jr., P.",CHI,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Smith, J.",SAR,1,10,7,0,5,24
+"Doe, B.",SAR,1,5,6,0,5,24
+"Angler, J.",SAR,1,15,2,0,5,24
+"d'Alcott, R.",SAR,1,5,0,0,5,24
+"Witheblock, M.",SAR,1,10,0,0,5,24
+"Bakhtiari, S.",SAR,0,0,6,0,5,24
+"McCabe, J.",SAR,0,0,5,0,5,24
+"Woakneoa, S.",SAR,0,0,2,1,5,24
+"LaFleur, F.",CHI,1,5,0,0,5,24
+"Richards, E.",CHI,1,5,0,0,5,24
+"Works, S.",CHI,1,5,0,0,5,24
+"Lesnar, B.",CHI,0,0,6,1,5,24
+"Ahstreet, C.",CHI,0,0,4,0,5,24
+"Gelbman, T.",CHI,0,0,2,1,5,24
+"Bayley Jr., B.",CHI,0,0,2,0,5,24
+"Tirtawidjaja, J.",CHI,0,0,2,0,5,24
+"Tucker Jr., P.",CHI,0,0,1,1,5,24

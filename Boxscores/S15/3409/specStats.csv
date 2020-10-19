@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garnett, L.",PHI,5,114,0,45,0,0,0,0
-"von Matt, J.",PHI,1,40,0,40,0,0,0,0
-"Parker, J.",YKW,3,46,0,27,0,0,0,0
-"Applehort, R.",YKW,1,38,0,38,0,0,0,0
-"Marshall, M.",YKW,0,0,23,0,16,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garnett, L.",PHI,5,114,0,45,0,0,0,0,14,15
+"von Matt, J.",PHI,1,40,0,40,0,0,0,0,14,15
+"Parker, J.",YKW,3,46,0,27,0,0,0,0,14,15
+"Applehort, R.",YKW,1,38,0,38,0,0,0,0,14,15
+"Marshall, M.",YKW,0,0,23,0,16,0,0,2,14,15

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Aaron, D.",COL,5,63,12.6,27,0
-"Crush, C.",COL,4,27,6.8,10,0
-"Tweed, B.",COL,2,38,19,33,0
-"Hendrix, K.",COL,2,11,5.5,7,0
-"Wheat, B.",COL,1,5,5,5,0
-"North, F.",PHI,9,117,13,38,1
-"DiMirio, P.",PHI,8,101,12.6,33,2
-"Garden, J.",PHI,7,125,17.9,34,0
-"Storm, B.",PHI,5,45,9,16,0
-"O'Connell, K.",PHI,1,4,4,4,0
-"Kroetch, D.",PHI,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Aaron, D.",COL,5,63,12.6,27,0,14,6
+"Crush, C.",COL,4,27,6.8,10,0,14,6
+"Tweed, B.",COL,2,38,19,33,0,14,6
+"Hendrix, K.",COL,2,11,5.5,7,0,14,6
+"Wheat, B.",COL,1,5,5,5,0,14,6
+"North, F.",PHI,9,117,13,38,1,14,6
+"DiMirio, P.",PHI,8,101,12.6,33,2,14,6
+"Garden, J.",PHI,7,125,17.9,34,0,14,6
+"Storm, B.",PHI,5,45,9,16,0,14,6
+"O'Connell, K.",PHI,1,4,4,4,0,14,6
+"Kroetch, D.",PHI,1,2,2,2,0,14,6

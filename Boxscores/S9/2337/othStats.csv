@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Knuckler, B.",COL,0,0,5,0
-"Down, D.",COL,0,0,3,1
-"Vibrations, F.",COL,0,0,3,1
-"Bastard, F.",COL,0,0,3,0
-"Cox, J.",COL,0,0,2,0
-"Windchesthair, A.",COL,0,0,2,0
-"Amper, T.",YKW,1,15,4,0
-"McPoyal, G.",YKW,1,10,3,0
-"Rainey, R.",YKW,1,5,1,0
-"Mushing, M.",YKW,0,0,4,0
-"Ones, B.",YKW,0,0,4,0
-"Pooky, S.",YKW,0,0,4,0
-"Milan, C.",YKW,0,0,3,0
-"Harris Jr., F.",YKW,0,0,2,0
-"Rchon, A.",YKW,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Knuckler, B.",COL,0,0,5,0,6,9
+"Down, D.",COL,0,0,3,1,6,9
+"Vibrations, F.",COL,0,0,3,1,6,9
+"Bastard, F.",COL,0,0,3,0,6,9
+"Cox, J.",COL,0,0,2,0,6,9
+"Windchesthair, A.",COL,0,0,2,0,6,9
+"Amper, T.",YKW,1,15,4,0,6,9
+"McPoyal, G.",YKW,1,10,3,0,6,9
+"Rainey, R.",YKW,1,5,1,0,6,9
+"Mushing, M.",YKW,0,0,4,0,6,9
+"Ones, B.",YKW,0,0,4,0,6,9
+"Pooky, S.",YKW,0,0,4,0,6,9
+"Milan, C.",YKW,0,0,3,0,6,9
+"Harris Jr., F.",YKW,0,0,2,0,6,9
+"Rchon, A.",YKW,0,0,1,1,6,9

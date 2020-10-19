@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Trunks, F.",OCO,7,86,12.3,37,0
-"George, D.",OCO,5,35,7,10,0
-"Phillips, J.",OCO,4,52,13,30,0
-"Mongo, H.",OCO,4,51,12.8,33,1
-"Nakamura, T.",OCO,3,12,4,5,0
-"Z, D.",OCO,1,5,5,5,0
-"Lim, W.",COL,5,116,23.2,52,0
-"Gilbert, R.",COL,5,29,5.8,8,0
-"Sauce, E.",COL,5,27,5.4,8,1
-"Kingston, J.",COL,4,49,12.2,16,0
-"Owens, A.",COL,4,27,6.8,12,0
-"Bishop, J.",COL,1,13,13,13,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Trunks, F.",OCO,7,86,12.3,37,0,11,23
+"George, D.",OCO,5,35,7,10,0,11,23
+"Phillips, J.",OCO,4,52,13,30,0,11,23
+"Mongo, H.",OCO,4,51,12.8,33,1,11,23
+"Nakamura, T.",OCO,3,12,4,5,0,11,23
+"Z, D.",OCO,1,5,5,5,0,11,23
+"Lim, W.",COL,5,116,23.2,52,0,11,23
+"Gilbert, R.",COL,5,29,5.8,8,0,11,23
+"Sauce, E.",COL,5,27,5.4,8,1,11,23
+"Kingston, J.",COL,4,49,12.2,16,0,11,23
+"Owens, A.",COL,4,27,6.8,12,0,11,23
+"Bishop, J.",COL,1,13,13,13,0,11,23

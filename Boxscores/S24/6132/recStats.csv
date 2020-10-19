@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, N.",SJS,5,50,10,17,0
-"Thomas-Fox, D.",SJS,4,50,12.5,21,0
-"Lackson, J.",SJS,3,27,9,11,0
-"Hood, T.",SJS,2,35,17.5,29,0
-"Cardrissian, R.",SJS,2,25,12.5,18,1
-"Lewandowski, J.",BAL,6,34,5.7,8,0
-"Kaepercolin, N.",BAL,4,97,24.2,53,0
-"Quinn, A.",BAL,3,76,25.3,42,0
-"Kross, C.",BAL,1,14,14,14,0
-"Skuff, R.",BAL,1,7,7,7,0
-"Fukushu, M.",BAL,1,5,5,5,0
-"Williams, D.",BAL,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, N.",SJS,5,50,10,17,0,9,24
+"Thomas-Fox, D.",SJS,4,50,12.5,21,0,9,24
+"Lackson, J.",SJS,3,27,9,11,0,9,24
+"Hood, T.",SJS,2,35,17.5,29,0,9,24
+"Cardrissian, R.",SJS,2,25,12.5,18,1,9,24
+"Lewandowski, J.",BAL,6,34,5.7,8,0,9,24
+"Kaepercolin, N.",BAL,4,97,24.2,53,0,9,24
+"Quinn, A.",BAL,3,76,25.3,42,0,9,24
+"Kross, C.",BAL,1,14,14,14,0,9,24
+"Skuff, R.",BAL,1,7,7,7,0,9,24
+"Fukushu, M.",BAL,1,5,5,5,0,9,24
+"Williams, D.",BAL,1,0,0,0,0,9,24

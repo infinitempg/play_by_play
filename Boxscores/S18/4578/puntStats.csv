@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Fulture, K.",CHI,3,169,56.3,61,1
-"Frost, B.",PHI,5,246,49.2,72,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Fulture, K.",CHI,3,169,56.3,61,1,5,18
+"Frost, B.",PHI,5,246,49.2,72,0,5,18

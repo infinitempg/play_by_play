@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gaines, N.",AUS,7,93,13.3,29,1
-"Larson, P.",AUS,7,54,7.7,13,0
-"Jeeta, E.",AUS,5,68,13.6,29,1
-"Tidwell, R.",AUS,5,31,6.2,8,1
-"Mendonca, M.",AUS,2,11,5.5,9,0
-"Jones, K.",AUS,2,3,1.5,3,0
-"O'Leary, S.",CHI,7,106,15.1,29,1
-"Okusi, R.",CHI,4,55,13.8,35,0
-"Oberwald, G.",CHI,3,30,10,11,0
-"Tirtawidjaja, J.",CHI,3,18,6,8,0
-"Gelbman, T.",CHI,2,14,7,10,0
-"Hank, F.",CHI,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gaines, N.",AUS,7,93,13.3,29,1,6,23
+"Larson, P.",AUS,7,54,7.7,13,0,6,23
+"Jeeta, E.",AUS,5,68,13.6,29,1,6,23
+"Tidwell, R.",AUS,5,31,6.2,8,1,6,23
+"Mendonca, M.",AUS,2,11,5.5,9,0,6,23
+"Jones, K.",AUS,2,3,1.5,3,0,6,23
+"O'Leary, S.",CHI,7,106,15.1,29,1,6,23
+"Okusi, R.",CHI,4,55,13.8,35,0,6,23
+"Oberwald, G.",CHI,3,30,10,11,0,6,23
+"Tirtawidjaja, J.",CHI,3,18,6,8,0,6,23
+"Gelbman, T.",CHI,2,14,7,10,0,6,23
+"Hank, F.",CHI,1,3,3,3,0,6,23

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Gaines, N.",AUS,7,116,16.6,40,1
-"Tidwell, R.",AUS,5,145,29,44,1
-"Blockit, I.",AUS,3,27,9,15,0
-"Clay, J.",AUS,3,22,7.3,11,0
-"Larson, P.",AUS,2,43,21.5,40,0
-"Mendonca, M.",AUS,1,2,2,2,0
-"Owens, A.",COL,5,44,8.8,26,1
-"Bishop, J.",COL,4,74,18.5,30,0
-"King, A.",COL,2,35,17.5,21,1
-"Forty-Two, L.",COL,2,28,14,23,0
-"Vincent, M.",COL,2,4,2,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Gaines, N.",AUS,7,116,16.6,40,1,10,20
+"Tidwell, R.",AUS,5,145,29,44,1,10,20
+"Blockit, I.",AUS,3,27,9,15,0,10,20
+"Clay, J.",AUS,3,22,7.3,11,0,10,20
+"Larson, P.",AUS,2,43,21.5,40,0,10,20
+"Mendonca, M.",AUS,1,2,2,2,0,10,20
+"Owens, A.",COL,5,44,8.8,26,1,10,20
+"Bishop, J.",COL,4,74,18.5,30,0,10,20
+"King, A.",COL,2,35,17.5,21,1,10,20
+"Forty-Two, L.",COL,2,28,14,23,0,10,20
+"Vincent, M.",COL,2,4,2,3,0,10,20

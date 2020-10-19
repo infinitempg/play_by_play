@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bishop, J.",COL,3,60,0,28,0,0,0,0
-"Montgomery, B.",COL,3,52,0,32,0,0,0,0
-"Shady, S.",AZ,1,31,0,31,0,0,0,0
-"Murphy, J.",AZ,3,74,0,30,0,0,0,0
-"Adams, R.",AZ,0,0,7,0,6,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bishop, J.",COL,3,60,0,28,0,0,0,0,8,15
+"Montgomery, B.",COL,3,52,0,32,0,0,0,0,8,15
+"Shady, S.",AZ,1,31,0,31,0,0,0,0,8,15
+"Murphy, J.",AZ,3,74,0,30,0,0,0,0,8,15
+"Adams, R.",AZ,0,0,7,0,6,0,0,2,8,15

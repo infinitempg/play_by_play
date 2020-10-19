@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,2,18,8,9,5,0,0,4
-"Wiley, D.",SJS,2,33,0,31,0,0,0,0
-"Cutter, D.",YKW,3,56,0,29,0,0,0,0
-"LeClair, A.",YKW,3,56,46,28,14,0,0,5
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,2,18,8,9,5,0,0,4,13,1
+"Wiley, D.",SJS,2,33,0,31,0,0,0,0,13,1
+"Cutter, D.",YKW,3,56,0,29,0,0,0,0,13,1
+"LeClair, A.",YKW,3,56,46,28,14,0,0,5,13,1

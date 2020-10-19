@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hank, F.",PHI,15,63,4.2,11,0
-"Boija, F.",PHI,10,38,3.8,10,1
-"Falconi, A.",PHI,4,17,4.2,8,0
-"Jones, V.",PHI,4,30,7.5,19,0
-"Torenson, S.",CHI,25,120,4.8,15,0
-"Danielsson, A.",CHI,9,32,3.6,7,0
-"Jenkins, R.",CHI,4,12,3,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hank, F.",PHI,15,63,4.2,11,0,5,16
+"Boija, F.",PHI,10,38,3.8,10,1,5,16
+"Falconi, A.",PHI,4,17,4.2,8,0,5,16
+"Jones, V.",PHI,4,30,7.5,19,0,5,16
+"Torenson, S.",CHI,25,120,4.8,15,0,5,16
+"Danielsson, A.",CHI,9,32,3.6,7,0,5,16
+"Jenkins, R.",CHI,4,12,3,8,0,5,16

@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,0,0,13,0,13,0,0,3
-"Bronko, K.",ARI,6,83,0,31,0,0,0,0
-"Stormblessed, N.",ARI,1,32,0,32,0,0,0,0
-"West, D.",BAL,3,43,78,33,73,0,1,4
-"Smith, M.",BAL,3,35,0,19,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,0,0,13,0,13,0,0,3,8,1
+"Bronko, K.",ARI,6,83,0,31,0,0,0,0,8,1
+"Stormblessed, N.",ARI,1,32,0,32,0,0,0,0,8,1
+"West, D.",BAL,3,43,78,33,73,0,1,4,8,1
+"Smith, M.",BAL,3,35,0,19,0,0,0,0,8,1

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Donut, S.",AZ,4,89,0,39,0,0,0,0
-"Scarlett, D.",AZ,2,56,7,46,4,0,0,2
-"Abernathy, K.",OCO,4,103,0,38,0,0,0,0
-"Beerus, L.",OCO,3,100,40,48,19,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Donut, S.",AZ,4,89,0,39,0,0,0,0,4,25
+"Scarlett, D.",AZ,2,56,7,46,4,0,0,2,4,25
+"Abernathy, K.",OCO,4,103,0,38,0,0,0,0,4,25
+"Beerus, L.",OCO,3,100,40,48,19,0,0,4,4,25

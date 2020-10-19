@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Rubbe, G.",NO,1,5,5,0
-"Toriki, M.",NO,1,5,2,0
-"Room, W.",NO,0,0,10,0
-"Brew, S.",NO,0,0,4,1
-"Ulysses, B.",NO,0,0,3,0
-"Gump, F.",NO,0,0,2,0
-"Ofyourlove, S.",NO,0,0,2,0
-"ILove, G.",PHI,2,25,0,0
-"Dotson, F.",PHI,1,5,2,0
-"Blocksdale Jr., A.",PHI,1,10,1,0
-"Franchet, M.",PHI,1,10,0,0
-"Personsacker, J.",PHI,1,5,0,0
-"Vuxta, R.",PHI,1,15,0,0
-"Arthur, C.",PHI,0,0,6,1
-"Fillmore, M.",PHI,0,0,6,1
-"Tyler, J.",PHI,0,0,5,1
-"Van Buren, M.",PHI,0,0,4,0
-"Hayes, R.",PHI,0,0,3,0
-"Torenson, S.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Rubbe, G.",NO,1,5,5,0,7,21
+"Toriki, M.",NO,1,5,2,0,7,21
+"Room, W.",NO,0,0,10,0,7,21
+"Brew, S.",NO,0,0,4,1,7,21
+"Ulysses, B.",NO,0,0,3,0,7,21
+"Gump, F.",NO,0,0,2,0,7,21
+"Ofyourlove, S.",NO,0,0,2,0,7,21
+"ILove, G.",PHI,2,25,0,0,7,21
+"Dotson, F.",PHI,1,5,2,0,7,21
+"Blocksdale Jr., A.",PHI,1,10,1,0,7,21
+"Franchet, M.",PHI,1,10,0,0,7,21
+"Personsacker, J.",PHI,1,5,0,0,7,21
+"Vuxta, R.",PHI,1,15,0,0,7,21
+"Arthur, C.",PHI,0,0,6,1,7,21
+"Fillmore, M.",PHI,0,0,6,1,7,21
+"Tyler, J.",PHI,0,0,5,1,7,21
+"Van Buren, M.",PHI,0,0,4,0,7,21
+"Hayes, R.",PHI,0,0,3,0,7,21
+"Torenson, S.",PHI,0,0,1,0,7,21

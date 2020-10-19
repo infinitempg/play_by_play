@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mendonca, M.",AUS,1,31,0,31,0,0,0,0
-"Lavelle Jr., D.",AUS,4,132,0,41,0,0,0,0
-"O'Leary, S.",CHI,5,149,0,40,0,0,0,0
-"Firestorm-Fjord, O.",CHI,1,42,11,42,9,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mendonca, M.",AUS,1,31,0,31,0,0,0,0,6,23
+"Lavelle Jr., D.",AUS,4,132,0,41,0,0,0,0,6,23
+"O'Leary, S.",CHI,5,149,0,40,0,0,0,0,6,23
+"Firestorm-Fjord, O.",CHI,1,42,11,42,9,0,0,2,6,23

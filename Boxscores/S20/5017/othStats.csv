@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Toriki, M.",NO,1,11,0,0
-"Ulysses, B.",NO,0,0,10,0
-"Rubbe, G.",NO,0,0,8,0
-"Ofyourlove, S.",NO,0,0,7,0
-"Room, W.",NO,0,0,4,0
-"Brew, S.",NO,0,0,3,0
-"McCormick, A.",NO,0,0,3,0
-"Gump, F.",NO,0,0,2,0
-"Cricket, R.",CHI,1,10,1,0
-"Utler, J.",CHI,1,5,1,0
-"Leaf Jr., R.",CHI,1,5,0,0
-"Vassallo, S.",CHI,1,5,0,0
-"Ford Lalatina, D.",CHI,0,0,4,1
-"Leaf III, R.",CHI,0,0,3,0
-"MacDennis, C.",CHI,0,0,3,0
-"Danielsson, A.",CHI,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Toriki, M.",NO,1,11,0,0,10,20
+"Ulysses, B.",NO,0,0,10,0,10,20
+"Rubbe, G.",NO,0,0,8,0,10,20
+"Ofyourlove, S.",NO,0,0,7,0,10,20
+"Room, W.",NO,0,0,4,0,10,20
+"Brew, S.",NO,0,0,3,0,10,20
+"McCormick, A.",NO,0,0,3,0,10,20
+"Gump, F.",NO,0,0,2,0,10,20
+"Cricket, R.",CHI,1,10,1,0,10,20
+"Utler, J.",CHI,1,5,1,0,10,20
+"Leaf Jr., R.",CHI,1,5,0,0,10,20
+"Vassallo, S.",CHI,1,5,0,0,10,20
+"Ford Lalatina, D.",CHI,0,0,4,1,10,20
+"Leaf III, R.",CHI,0,0,3,0,10,20
+"MacDennis, C.",CHI,0,0,3,0,10,20
+"Danielsson, A.",CHI,0,0,0,1,10,20

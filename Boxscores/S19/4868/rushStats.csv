@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,22,98,4.5,13,0
-"Blockit, I.",AUS,1,0,0,0,0
-"Torenson, S.",PHI,21,104,5,21,0
-"Hank, F.",PHI,9,23,2.6,7,0
-"Falconi, A.",PHI,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,22,98,4.5,13,0,13,19
+"Blockit, I.",AUS,1,0,0,0,0,13,19
+"Torenson, S.",PHI,21,104,5,21,0,13,19
+"Hank, F.",PHI,9,23,2.6,7,0,13,19
+"Falconi, A.",PHI,1,4,4,4,0,13,19

@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Pest, T.",ARI,1,10,2,0
-"Bessel, F.",ARI,1,5,0,0
-"Bronko, K.",ARI,1,5,0,0
-"Dam, D.",ARI,1,5,0,0
-"Flock, R.",ARI,1,10,0,0
-"Lee, J.",ARI,1,10,0,0
-"Rashad, I.",ARI,1,5,0,0
-"Timlin, S.",ARI,0,0,4,0
-"Tkachuk, J.",ARI,0,0,2,0
-"Mackworthy, R.",ARI,0,0,1,0
-"Tobin, T.",ARI,0,0,1,0
-"Ferguson, D.",OCO,2,10,4,1
-"Tomlinson, A.",OCO,2,15,0,0
-"Hamilton, C.",OCO,1,5,0,1
-"Wright Jr, G.",OCO,0,0,4,1
-"Jenkins, L.",OCO,0,0,4,0
-"Winchester, A.",OCO,0,0,2,2
-"Bowers Jr, V.",OCO,0,0,1,0
-"Clegane, G.",OCO,0,0,1,0
-"Davidson, J.",OCO,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Pest, T.",ARI,1,10,2,0,1,2
+"Bessel, F.",ARI,1,5,0,0,1,2
+"Bronko, K.",ARI,1,5,0,0,1,2
+"Dam, D.",ARI,1,5,0,0,1,2
+"Flock, R.",ARI,1,10,0,0,1,2
+"Lee, J.",ARI,1,10,0,0,1,2
+"Rashad, I.",ARI,1,5,0,0,1,2
+"Timlin, S.",ARI,0,0,4,0,1,2
+"Tkachuk, J.",ARI,0,0,2,0,1,2
+"Mackworthy, R.",ARI,0,0,1,0,1,2
+"Tobin, T.",ARI,0,0,1,0,1,2
+"Ferguson, D.",OCO,2,10,4,1,1,2
+"Tomlinson, A.",OCO,2,15,0,0,1,2
+"Hamilton, C.",OCO,1,5,0,1,1,2
+"Wright Jr, G.",OCO,0,0,4,1,1,2
+"Jenkins, L.",OCO,0,0,4,0,1,2
+"Winchester, A.",OCO,0,0,2,2,1,2
+"Bowers Jr, V.",OCO,0,0,1,0,1,2
+"Clegane, G.",OCO,0,0,1,0,1,2
+"Davidson, J.",OCO,0,0,1,0,1,2

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"McDummy, W.",COL,"[15, 26]",161,10.7,0,1,59.9
-"Armstrong, F.",OCO,"[24, 45]",219,9.1,0,0,66.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"McDummy, W.",COL,161,10.7,0,1,59.9,15,24,6,24
+"Armstrong, F.",OCO,219,9.1,0,0,66.8,15,24,6,24

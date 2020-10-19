@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Taylor, O.",BAL,6,32,5.3,7,0
-"L'Alto, V.",BAL,6,27,4.5,11,0
-"Harp, D.",BAL,5,61,12.2,17,0
-"Willie, T.",BAL,4,99,24.8,28,0
-"Valentine, V.",BAL,4,44,11,24,1
-"Bush, C.",PHI,7,112,16,26,0
-"von Matt, J.",PHI,3,23,7.7,9,0
-"O'Sullivan, S.",PHI,2,9,4.5,7,0
-"Hasselhoff, F.",PHI,2,8,4,5,0
-"Brown, M.",PHI,1,6,6,6,0
-"Hondo, A.",PHI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Taylor, O.",BAL,6,32,5.3,7,0,13,11
+"L'Alto, V.",BAL,6,27,4.5,11,0,13,11
+"Harp, D.",BAL,5,61,12.2,17,0,13,11
+"Willie, T.",BAL,4,99,24.8,28,0,13,11
+"Valentine, V.",BAL,4,44,11,24,1,13,11
+"Bush, C.",PHI,7,112,16,26,0,13,11
+"von Matt, J.",PHI,3,23,7.7,9,0,13,11
+"O'Sullivan, S.",PHI,2,9,4.5,7,0,13,11
+"Hasselhoff, F.",PHI,2,8,4,5,0,13,11
+"Brown, M.",PHI,1,6,6,6,0,13,11
+"Hondo, A.",PHI,1,4,4,4,0,13,11

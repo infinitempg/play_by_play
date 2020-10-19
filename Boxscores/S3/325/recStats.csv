@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Wright Jr, G.",OCO,8,43,5.4,13,0
-"Westfield, B.",OCO,7,140,20,38,1
-"Phelps, R.",OCO,6,108,18,36,0
-"Atasuke, N.",OCO,4,25,6.2,9,0
-"Jenkins, L.",OCO,2,26,13,26,0
-"Willie, T.",BAL,4,110,27.5,46,0
-"Stormblessed, N.",BAL,4,98,24.5,42,0
-"Vincent, M.",BAL,4,27,6.8,14,1
-"Robinson, M.",BAL,4,24,6,11,0
-"Christmas, C.",BAL,3,43,14.3,37,0
-"Farlane, D.",BAL,1,10,10,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Wright Jr, G.",OCO,8,43,5.4,13,0,13,3
+"Westfield, B.",OCO,7,140,20,38,1,13,3
+"Phelps, R.",OCO,6,108,18,36,0,13,3
+"Atasuke, N.",OCO,4,25,6.2,9,0,13,3
+"Jenkins, L.",OCO,2,26,13,26,0,13,3
+"Willie, T.",BAL,4,110,27.5,46,0,13,3
+"Stormblessed, N.",BAL,4,98,24.5,42,0,13,3
+"Vincent, M.",BAL,4,27,6.8,14,1,13,3
+"Robinson, M.",BAL,4,24,6,11,0,13,3
+"Christmas, C.",BAL,3,43,14.3,37,0,13,3
+"Farlane, D.",BAL,1,10,10,10,0,13,3

@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Kaepercolin, N.",BAL,5,68,13.6,37,0
-"Williams, D.",BAL,5,16,3.2,10,0
-"Quinn, A.",BAL,4,40,10,21,1
-"Lewandowski, J.",BAL,4,33,8.2,11,0
-"Kross, C.",BAL,3,49,16.3,27,1
-"Skuff, R.",BAL,2,12,6,9,0
-"McCormick, A.",NO,6,73,12.2,16,0
-"Barker, E.",NO,5,88,17.6,22,0
-"Bodenhamer, B.",NO,4,90,22.5,33,1
-"Toriki, M.",NO,3,0,0,2,0
-"Wolfcastle, R.",NO,2,10,5,5,0
-"Snyder, S.",NO,1,9,9,9,0
-"Gump, F.",NO,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Kaepercolin, N.",BAL,5,68,13.6,37,0,8,24
+"Williams, D.",BAL,5,16,3.2,10,0,8,24
+"Quinn, A.",BAL,4,40,10,21,1,8,24
+"Lewandowski, J.",BAL,4,33,8.2,11,0,8,24
+"Kross, C.",BAL,3,49,16.3,27,1,8,24
+"Skuff, R.",BAL,2,12,6,9,0,8,24
+"McCormick, A.",NO,6,73,12.2,16,0,8,24
+"Barker, E.",NO,5,88,17.6,22,0,8,24
+"Bodenhamer, B.",NO,4,90,22.5,33,1,8,24
+"Toriki, M.",NO,3,0,0,2,0,8,24
+"Wolfcastle, R.",NO,2,10,5,5,0,8,24
+"Snyder, S.",NO,1,9,9,9,0,8,24
+"Gump, F.",NO,1,3,3,3,0,8,24

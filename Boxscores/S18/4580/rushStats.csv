@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",OCO,15,41,2.7,11,0
-"Armstrong, F.",OCO,10,72,7.2,31,1
-"Allan, C.",OCO,9,29,3.2,11,0
-"Gump, F.",NO,11,29,2.6,7,0
-"Francisco, S.",NO,3,40,13.3,25,0
-"Kwemen, K.",NO,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",OCO,15,41,2.7,11,0,5,18
+"Armstrong, F.",OCO,10,72,7.2,31,1,5,18
+"Allan, C.",OCO,9,29,3.2,11,0,5,18
+"Gump, F.",NO,11,29,2.6,7,0,5,18
+"Francisco, S.",NO,3,40,13.3,25,0,5,18
+"Kwemen, K.",NO,1,1,1,1,0,5,18

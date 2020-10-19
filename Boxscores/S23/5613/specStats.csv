@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kane-Maika'i, K.",HON,1,36,93,36,78,0,0,3
-"Thomas-Fox, D.",SJS,4,97,0,40,0,0,0,0
-"PickSix, H.",SJS,2,57,29,42,12,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kane-Maika'i, K.",HON,1,36,93,36,78,0,0,3,3,23
+"Thomas-Fox, D.",SJS,4,97,0,40,0,0,0,0,3,23
+"PickSix, H.",SJS,2,57,29,42,12,0,0,3,3,23

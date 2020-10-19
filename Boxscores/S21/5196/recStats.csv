@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Leary, S.",CHI,7,89,12.7,40,2
-"Davis, J.",CHI,6,74,12.3,24,0
-"Leaf Jr., R.",CHI,6,52,8.7,17,0
-"Hank, F.",CHI,4,21,5.2,7,0
-"Firestorm-Fjord, O.",CHI,3,25,8.3,10,0
-"Gaines, N.",AUS,6,129,21.5,41,1
-"Tidwell, R.",AUS,6,118,19.7,39,1
-"Larson, P.",AUS,6,69,11.5,36,0
-"Clay, J.",AUS,3,37,12.3,23,0
-"Blockit, I.",AUS,2,15,7.5,9,1
-"Mendonca, M.",AUS,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Leary, S.",CHI,7,89,12.7,40,2,9,21
+"Davis, J.",CHI,6,74,12.3,24,0,9,21
+"Leaf Jr., R.",CHI,6,52,8.7,17,0,9,21
+"Hank, F.",CHI,4,21,5.2,7,0,9,21
+"Firestorm-Fjord, O.",CHI,3,25,8.3,10,0,9,21
+"Gaines, N.",AUS,6,129,21.5,41,1,9,21
+"Tidwell, R.",AUS,6,118,19.7,39,1,9,21
+"Larson, P.",AUS,6,69,11.5,36,0,9,21
+"Clay, J.",AUS,3,37,12.3,23,0,9,21
+"Blockit, I.",AUS,2,15,7.5,9,1,9,21
+"Mendonca, M.",AUS,1,0,0,0,0,9,21

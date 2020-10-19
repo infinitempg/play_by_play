@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,32,139,4.3,15,1
-"O'Sullivan, C.",NO,4,18,4.5,9,0
-"Maximus III, B.",NO,1,1,1,1,0
-"Rainey, R.",YKW,20,68,3.4,10,2
-"Akselsen, M.",YKW,7,25,3.6,13,0
-"Harris Jr., F.",YKW,4,16,4,9,0
-"Milan, C.",YKW,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,32,139,4.3,15,1,1,8
+"O'Sullivan, C.",NO,4,18,4.5,9,0,1,8
+"Maximus III, B.",NO,1,1,1,1,0,1,8
+"Rainey, R.",YKW,20,68,3.4,10,2,1,8
+"Akselsen, M.",YKW,7,25,3.6,13,0,1,8
+"Harris Jr., F.",YKW,4,16,4,9,0,1,8
+"Milan, C.",YKW,1,0,0,0,0,1,8

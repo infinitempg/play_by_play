@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Small, J.",SAR,4,217,54.2,64,0
-"Sidekick, S.",CHI,5,270,54,67,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Small, J.",SAR,4,217,54.2,64,0,12,23
+"Sidekick, S.",CHI,5,270,54,67,1,12,23

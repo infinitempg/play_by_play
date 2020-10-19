@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,31,136,4.4,13,1
-"Swift, T.",NO,19,104,5.5,18,4
-"Francisco, S.",NO,6,17,2.8,8,0
-"Murphy, J.",AZ,10,32,3.2,10,1
-"Shady, S.",AZ,7,24,3.4,11,0
-"Reese, A.",AZ,3,10,3.3,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,31,136,4.4,13,1,9,16
+"Swift, T.",NO,19,104,5.5,18,4,9,16
+"Francisco, S.",NO,6,17,2.8,8,0,9,16
+"Murphy, J.",AZ,10,32,3.2,10,1,9,16
+"Shady, S.",AZ,7,24,3.4,11,0,9,16
+"Reese, A.",AZ,3,10,3.3,7,0,9,16

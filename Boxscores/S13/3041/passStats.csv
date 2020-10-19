@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Gambino, C.",BAL,"[42, 69]",459,10.9,2,2,78.1
-"Showbiz, G.",OCO,"[22, 37]",319,14.5,2,0,105.6
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Gambino, C.",BAL,459,10.9,2,2,78.1,42,22,8,13
+"Showbiz, G.",OCO,319,14.5,2,0,105.6,42,22,8,13

@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Chipmunk, A.",COL,7,53,7.6,10,0
-"Miller, H.",COL,6,116,19.3,48,0
-"Wheat, B.",COL,6,72,12,27,0
-"Aaron, D.",COL,4,67,16.8,26,0
-"Grau, M.",COL,4,43,10.8,16,1
-"Cox, J.",COL,1,12,12,12,0
-"Kroetch, D.",COL,1,11,11,11,0
-"Catchem11, Z.",COL,1,9,9,9,1
-"Bush, C.",PHI,5,75,15,28,0
-"North, F.",PHI,3,26,8.7,13,0
-"O'Sullivan, S.",PHI,3,22,7.3,11,0
-"Garden, J.",PHI,1,7,7,7,0
-"Farlane, D.",PHI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Chipmunk, A.",COL,7,53,7.6,10,0,5,9
+"Miller, H.",COL,6,116,19.3,48,0,5,9
+"Wheat, B.",COL,6,72,12,27,0,5,9
+"Aaron, D.",COL,4,67,16.8,26,0,5,9
+"Grau, M.",COL,4,43,10.8,16,1,5,9
+"Cox, J.",COL,1,12,12,12,0,5,9
+"Kroetch, D.",COL,1,11,11,11,0,5,9
+"Catchem11, Z.",COL,1,9,9,9,1,5,9
+"Bush, C.",PHI,5,75,15,28,0,5,9
+"North, F.",PHI,3,26,8.7,13,0,5,9
+"O'Sullivan, S.",PHI,3,22,7.3,11,0,5,9
+"Garden, J.",PHI,1,7,7,7,0,5,9
+"Farlane, D.",PHI,1,4,4,4,0,5,9

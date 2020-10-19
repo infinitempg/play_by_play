@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Brown, M.",PHI,35,122,3.5,11,0
-"Flores, R.",PHI,18,88,4.9,19,0
-"Hondo, A.",PHI,1,0,0,0,0
-"Shady, S.",AZ,12,44,3.7,9,0
-"Asipi III, A.",AZ,7,28,4,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Brown, M.",PHI,35,122,3.5,11,0,11,12
+"Flores, R.",PHI,18,88,4.9,19,0,11,12
+"Hondo, A.",PHI,1,0,0,0,0,11,12
+"Shady, S.",AZ,12,44,3.7,9,0,11,12
+"Asipi III, A.",AZ,7,28,4,11,0,11,12

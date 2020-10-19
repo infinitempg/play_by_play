@@ -1,24 +1,24 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Williams, D.",BAL,2,10,0,0
-"Harris, B.",BAL,1,5,0,0
-"Landers, B.",BAL,1,15,0,0
-"Quinn, A.",BAL,1,9,0,0
-"Diggler, D.",BAL,0,0,5,0
-"Sauce, E.",BAL,0,0,4,0
-"Grey, S.",BAL,0,0,2,0
-"Jeremy, R.",BAL,0,0,2,0
-"Star, L.",BAL,0,0,2,0
-"Steele, R.",BAL,0,0,2,0
-"Bigby, L.",BAL,0,0,1,0
-"Tyler, J.",PHI,2,20,5,0
-"Harding, J.",PHI,1,5,0,0
-"Howyanow, W.",PHI,1,10,0,0
-"Little IV, S.",PHI,1,13,0,0
-"Blocksdale Jr., A.",PHI,0,0,4,0
-"Van Buren, M.",PHI,0,0,4,0
-"Arthur, C.",PHI,0,0,3,0
-"Hayes, R.",PHI,0,0,3,0
-"Dotson, F.",PHI,0,0,2,0
-"Hank, F.",PHI,0,0,2,0
-"Fillmore, M.",PHI,0,0,1,0
-"Torenson, S.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Williams, D.",BAL,2,10,0,0,7,20
+"Harris, B.",BAL,1,5,0,0,7,20
+"Landers, B.",BAL,1,15,0,0,7,20
+"Quinn, A.",BAL,1,9,0,0,7,20
+"Diggler, D.",BAL,0,0,5,0,7,20
+"Sauce, E.",BAL,0,0,4,0,7,20
+"Grey, S.",BAL,0,0,2,0,7,20
+"Jeremy, R.",BAL,0,0,2,0,7,20
+"Star, L.",BAL,0,0,2,0,7,20
+"Steele, R.",BAL,0,0,2,0,7,20
+"Bigby, L.",BAL,0,0,1,0,7,20
+"Tyler, J.",PHI,2,20,5,0,7,20
+"Harding, J.",PHI,1,5,0,0,7,20
+"Howyanow, W.",PHI,1,10,0,0,7,20
+"Little IV, S.",PHI,1,13,0,0,7,20
+"Blocksdale Jr., A.",PHI,0,0,4,0,7,20
+"Van Buren, M.",PHI,0,0,4,0,7,20
+"Arthur, C.",PHI,0,0,3,0,7,20
+"Hayes, R.",PHI,0,0,3,0,7,20
+"Dotson, F.",PHI,0,0,2,0,7,20
+"Hank, F.",PHI,0,0,2,0,7,20
+"Fillmore, M.",PHI,0,0,1,0,7,20
+"Torenson, S.",PHI,0,0,1,0,7,20

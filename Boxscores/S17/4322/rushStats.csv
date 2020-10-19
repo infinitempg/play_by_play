@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bigby, L.",SJS,11,57,5.2,19,1
-"Christ, J.",SJS,7,31,4.4,11,0
-"Orosz, C.",SJS,7,25,3.6,10,0
-"Boija, F.",SJS,3,13,4.3,5,0
-"Mendonca, M.",AUS,17,68,4,11,0
-"Owens, A.",AUS,13,32,2.5,5,0
-"Cole, E.",AUS,3,3,1,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bigby, L.",SJS,11,57,5.2,19,1,7,17
+"Christ, J.",SJS,7,31,4.4,11,0,7,17
+"Orosz, C.",SJS,7,25,3.6,10,0,7,17
+"Boija, F.",SJS,3,13,4.3,5,0,7,17
+"Mendonca, M.",AUS,17,68,4,11,0,7,17
+"Owens, A.",AUS,13,32,2.5,5,0,7,17
+"Cole, E.",AUS,3,3,1,5,0,7,17

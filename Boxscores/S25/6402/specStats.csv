@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hanyadi, M.",YKW,0,0,34,0,19,0,0,2
-"Sakura, K.",YKW,6,128,0,37,0,0,0,0
-"Chan, R.",SAR,1,43,41,43,20,0,0,4
-"Clemente, C.",SAR,4,82,0,29,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Sakura, K.",YKW,6,128,0,37,0,0,0,0,5,25
+"Hanyadi, M.",YKW,0,0,34,0,19,0,0,2,5,25
+"Chan, R.",SAR,1,43,41,43,20,0,0,4,5,25
+"Clemente, C.",SAR,4,82,0,29,0,0,0,0,5,25

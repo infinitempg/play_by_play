@@ -1,24 +1,24 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Jenkins, L.",OCO,2,15,1,0
-"Winchester, A.",OCO,1,15,4,0
-"Hamilton, C.",OCO,1,5,2,0
-"Bowers Jr, V.",OCO,1,15,0,0
-"Harris, F.",OCO,1,5,0,0
-"Petrakis, A.",OCO,1,5,0,0
-"Finkenlarkin, S.",OCO,0,0,4,0
-"Wright Jr, G.",OCO,0,0,3,0
-"Clegane, G.",OCO,0,0,2,0
-"Jefferspin, S.",LV,1,5,3,0
-"Bullard, T.",LV,1,5,0,0
-"Morgan, L.",LV,1,5,0,0
-"Ramrio, M.",LV,1,15,0,0
-"Shoate, T.",LV,1,5,0,0
-"Speed, D.",LV,1,15,0,0
-"Long, L.",LV,0,0,2,1
-"Tebow, T.",LV,0,0,2,1
-"Tenzini, G.",LV,0,0,2,0
-"Weal, J.",LV,0,0,2,0
-"Larsendorf, R.",LV,0,0,1,2
-"Bigboy19, Z.",LV,0,0,1,1
-"Bigboy7, Z.",LV,0,0,1,0
-"Savea, A.",LV,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Jenkins, L.",OCO,2,15,1,0,5,2
+"Winchester, A.",OCO,1,15,4,0,5,2
+"Hamilton, C.",OCO,1,5,2,0,5,2
+"Bowers Jr, V.",OCO,1,15,0,0,5,2
+"Harris, F.",OCO,1,5,0,0,5,2
+"Petrakis, A.",OCO,1,5,0,0,5,2
+"Finkenlarkin, S.",OCO,0,0,4,0,5,2
+"Wright Jr, G.",OCO,0,0,3,0,5,2
+"Clegane, G.",OCO,0,0,2,0,5,2
+"Jefferspin, S.",LV,1,5,3,0,5,2
+"Bullard, T.",LV,1,5,0,0,5,2
+"Morgan, L.",LV,1,5,0,0,5,2
+"Ramrio, M.",LV,1,15,0,0,5,2
+"Shoate, T.",LV,1,5,0,0,5,2
+"Speed, D.",LV,1,15,0,0,5,2
+"Long, L.",LV,0,0,2,1,5,2
+"Tebow, T.",LV,0,0,2,1,5,2
+"Tenzini, G.",LV,0,0,2,0,5,2
+"Weal, J.",LV,0,0,2,0,5,2
+"Larsendorf, R.",LV,0,0,1,2,5,2
+"Bigboy19, Z.",LV,0,0,1,1,5,2
+"Bigboy7, Z.",LV,0,0,1,0,5,2
+"Savea, A.",LV,0,0,0,1,5,2

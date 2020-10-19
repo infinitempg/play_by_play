@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, M.",SJS,11,108,9.8,30,3
-"Weston, S.",SJS,6,104,17.3,37,0
-"Smallwood, D.",SJS,6,61,10.2,25,0
-"Bottles, B.",SJS,6,23,3.8,13,0
-"Yates, J.",SJS,4,66,16.5,27,0
-"Diaz, D.",SJS,2,14,7,9,1
-"Ross, J.",LV,2,44,22,29,0
-"LeClair, A.",LV,2,33,16.5,19,1
-"Tanner, C.",LV,2,13,6.5,8,0
-"Baker, J.",LV,1,10,10,10,0
-"Tenzini, G.",LV,1,8,8,8,0
-"Savea, A.",LV,1,4,4,4,0
-"Larsendorf, R.",LV,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, M.",SJS,11,108,9.8,30,3,8,4
+"Weston, S.",SJS,6,104,17.3,37,0,8,4
+"Smallwood, D.",SJS,6,61,10.2,25,0,8,4
+"Bottles, B.",SJS,6,23,3.8,13,0,8,4
+"Yates, J.",SJS,4,66,16.5,27,0,8,4
+"Diaz, D.",SJS,2,14,7,9,1,8,4
+"Ross, J.",LV,2,44,22,29,0,8,4
+"LeClair, A.",LV,2,33,16.5,19,1,8,4
+"Tanner, C.",LV,2,13,6.5,8,0,8,4
+"Baker, J.",LV,1,10,10,10,0,8,4
+"Tenzini, G.",LV,1,8,8,8,0,8,4
+"Savea, A.",LV,1,4,4,4,0,8,4
+"Larsendorf, R.",LV,1,2,2,2,0,8,4

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hendrix, K.",COL,4,85,21.2,29,1
-"Tweed, B.",COL,3,45,15,30,0
-"West, D.",COL,3,36,12,16,0
-"Young, J.",COL,2,31,15.5,17,0
-"Newman, M.",COL,1,9,9,9,0
-"Westfield, B.",OCO,8,101,12.6,36,2
-"Wright Jr, G.",OCO,8,86,10.8,27,1
-"Phelps, R.",OCO,5,73,14.6,42,0
-"Atasuke, N.",OCO,3,25,8.3,11,0
-"Jenkins, L.",OCO,3,12,4,7,0
-"Burnsman, E.",OCO,1,1,1,1,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hendrix, K.",COL,4,85,21.2,29,1,11,3
+"Tweed, B.",COL,3,45,15,30,0,11,3
+"West, D.",COL,3,36,12,16,0,11,3
+"Young, J.",COL,2,31,15.5,17,0,11,3
+"Newman, M.",COL,1,9,9,9,0,11,3
+"Westfield, B.",OCO,8,101,12.6,36,2,11,3
+"Wright Jr, G.",OCO,8,86,10.8,27,1,11,3
+"Phelps, R.",OCO,5,73,14.6,42,0,11,3
+"Atasuke, N.",OCO,3,25,8.3,11,0,11,3
+"Jenkins, L.",OCO,3,12,4,7,0,11,3
+"Burnsman, E.",OCO,1,1,1,1,1,11,3

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,20,83,4.2,10,0
-"Blocksdale, A.",BAL,1,-2,-2,0,0
-"Koch, D.",BAL,1,5,5,5,1
-"Nuck, B.",YKW,10,30,3,6,0
-"Kennedy, E.",YKW,4,17,4.2,9,0
-"Akselsen, M.",YKW,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,20,83,4.2,10,0,8,5
+"Blocksdale, A.",BAL,1,-2,-2,0,0,8,5
+"Koch, D.",BAL,1,5,5,5,1,8,5
+"Nuck, B.",YKW,10,30,3,6,0,8,5
+"Kennedy, E.",YKW,4,17,4.2,9,0,8,5
+"Akselsen, M.",YKW,1,1,1,1,0,8,5

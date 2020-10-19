@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Burnsman, E.",OCO,2,14,3,0
-"Wright Jr, G.",OCO,2,8,0,0
-"Yeung, B.",OCO,1,10,8,0
-"Clegane, G.",OCO,1,15,0,0
-"Lee, J.",OCO,0,0,9,0
-"Chan, J.",OCO,0,0,5,1
-"Lee, B.",OCO,0,0,2,0
-"O'Sullivan, S.",OCO,0,0,2,0
-"Yen, D.",OCO,0,0,1,0
-"Ramrio, M.",AZ,2,9,0,0
-"Dunedain, H.",AZ,1,5,4,1
-"Waiters, A.",AZ,1,5,0,0
-"Bombadil, T.",AZ,0,0,4,1
-"Took, B.",AZ,0,0,4,0
-"Halfelven, E.",AZ,0,0,2,0
-"Mackworthy, R.",AZ,0,0,2,0
-"Beard, T.",AZ,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Burnsman, E.",OCO,2,14,3,0,12,6
+"Wright Jr, G.",OCO,2,8,0,0,12,6
+"Yeung, B.",OCO,1,10,8,0,12,6
+"Clegane, G.",OCO,1,15,0,0,12,6
+"Lee, J.",OCO,0,0,9,0,12,6
+"Chan, J.",OCO,0,0,5,1,12,6
+"Lee, B.",OCO,0,0,2,0,12,6
+"O'Sullivan, S.",OCO,0,0,2,0,12,6
+"Yen, D.",OCO,0,0,1,0,12,6
+"Ramrio, M.",AZ,2,9,0,0,12,6
+"Dunedain, H.",AZ,1,5,4,1,12,6
+"Waiters, A.",AZ,1,5,0,0,12,6
+"Bombadil, T.",AZ,0,0,4,1,12,6
+"Took, B.",AZ,0,0,4,0,12,6
+"Halfelven, E.",AZ,0,0,2,0,12,6
+"Mackworthy, R.",AZ,0,0,2,0,12,6
+"Beard, T.",AZ,0,0,1,1,12,6

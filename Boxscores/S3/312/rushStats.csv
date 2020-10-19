@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",ARI,24,103,4.3,15,1
-"Tuck, J.",ARI,5,6,1.2,3,0
-"Bronko, K.",ARI,1,0,0,0,0
-"Law, C.",ARI,1,0,0,0,0
-"Burnsman, E.",OCO,13,47,3.6,12,1
-"Jenkins, L.",OCO,9,27,3,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",ARI,24,103,4.3,15,1,10,3
+"Tuck, J.",ARI,5,6,1.2,3,0,10,3
+"Bronko, K.",ARI,1,0,0,0,0,10,3
+"Law, C.",ARI,1,0,0,0,0,10,3
+"Burnsman, E.",OCO,13,47,3.6,12,1,10,3
+"Jenkins, L.",OCO,9,27,3,11,0,10,3

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,4,80,0,40,0,0,0,0
-"Bly Jr., A.",YKW,1,2,9,2,7,0,0,3
-"Flash, X.",SJS,2,57,0,34,0,0,0,0
-"Oles, K.",SJS,2,31,17,22,17,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,4,80,0,40,0,0,0,0,3,12
+"Bly Jr., A.",YKW,1,2,9,2,7,0,0,3,3,12
+"Flash, X.",SJS,2,57,0,34,0,0,0,0,3,12
+"Oles, K.",SJS,2,31,17,22,17,0,0,3,3,12

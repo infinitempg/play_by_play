@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,17,98,5.8,12,1
-"Toriki, M.",NO,16,55,3.4,12,1
-"Francisco, S.",NO,1,7,7,7,0
-"Torenson, S.",PHI,24,93,3.9,11,0
-"Dotson, F.",PHI,5,12,2.4,6,0
-"Phoenix, B.",PHI,1,3,3,3,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,17,98,5.8,12,1,7,21
+"Toriki, M.",NO,16,55,3.4,12,1,7,21
+"Francisco, S.",NO,1,7,7,7,0,7,21
+"Torenson, S.",PHI,24,93,3.9,11,0,7,21
+"Dotson, F.",PHI,5,12,2.4,6,0,7,21
+"Phoenix, B.",PHI,1,3,3,3,0,7,21

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Maddox, E.",BAL,2,15,0,13,0,0,0,0
-"Hornbacher, A.",BAL,1,7,41,7,20,0,0,3
-"Flash, X.",SJS,4,139,17,71,13,0,0,2
-"Tuck, J.",SJS,1,24,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Maddox, E.",BAL,2,15,0,13,0,0,0,0,10,16
+"Hornbacher, A.",BAL,1,7,41,7,20,0,0,3,10,16
+"Flash, X.",SJS,4,139,17,71,13,0,0,2,10,16
+"Tuck, J.",SJS,1,24,0,24,0,0,0,0,10,16

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Snuggles, J.",YKW,2,50,25,36,16,0,0,2
-"Grithead, D.",YKW,2,50,0,41,0,0,0,0
-"Gump, F.",NO,2,42,12,28,7,0,0,4
-"Fyodorovich, V.",NO,6,126,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Snuggles, J.",YKW,2,50,25,36,16,0,0,2,7,17
+"Grithead, D.",YKW,2,50,0,41,0,0,0,0,7,17
+"Gump, F.",NO,2,42,12,28,7,0,0,4,7,17
+"Fyodorovich, V.",NO,6,126,0,34,0,0,0,0,7,17

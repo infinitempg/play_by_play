@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Irving, J.",AZ,5,78,15.6,46,0
-"Valentine, V.",AZ,4,117,29.2,51,1
-"Shady, S.",AZ,4,51,12.8,39,0
-"Landers, B.",AZ,2,17,8.5,10,1
-"Murphy, J.",AZ,1,9,9,9,0
-"Zephyrous, S.",AZ,1,5,5,5,0
-"Espeeyeeseetee, A.",BAL,8,104,13,36,1
-"L'Alto, V.",BAL,5,48,9.6,13,0
-"Maddox, E.",BAL,4,107,26.8,47,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Irving, J.",AZ,5,78,15.6,46,0,1,17
+"Valentine, V.",AZ,4,117,29.2,51,1,1,17
+"Shady, S.",AZ,4,51,12.8,39,0,1,17
+"Landers, B.",AZ,2,17,8.5,10,1,1,17
+"Murphy, J.",AZ,1,9,9,9,0,1,17
+"Zephyrous, S.",AZ,1,5,5,5,0,1,17
+"Espeeyeeseetee, A.",BAL,8,104,13,36,1,1,17
+"L'Alto, V.",BAL,5,48,9.6,13,0,1,17
+"Maddox, E.",BAL,4,107,26.8,47,1,1,17

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Burnsman, E.",OCO,11,34,3.1,11,0
-"Jenkins, L.",OCO,5,21,4.2,8,0
-"Boss, M.",OCO,1,1,1,1,1
-"Kennedy, E.",YKW,8,10,1.2,5,0
-"Nuck, B.",YKW,8,33,4.1,10,0
-"Akselsen, M.",YKW,5,9,1.8,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Burnsman, E.",OCO,11,34,3.1,11,0,2,4
+"Jenkins, L.",OCO,5,21,4.2,8,0,2,4
+"Boss, M.",OCO,1,1,1,1,1,2,4
+"Kennedy, E.",YKW,8,10,1.2,5,0,2,4
+"Nuck, B.",YKW,8,33,4.1,10,0,2,4
+"Akselsen, M.",YKW,5,9,1.8,7,0,2,4

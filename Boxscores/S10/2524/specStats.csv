@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Flash, X.",SJS,3,67,0,38,0,0,0,0
-"Poopsie, D.",SJS,1,22,47,22,16,0,0,5
-"Broxton, J.",OCO,3,34,0,32,0,0,0,0
-"Crush, C.",OCO,1,35,20,35,20,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Flash, X.",SJS,3,67,0,38,0,0,0,0,1,10
+"Poopsie, D.",SJS,1,22,47,22,16,0,0,5,1,10
+"Broxton, J.",OCO,3,34,0,32,0,0,0,0,1,10
+"Crush, C.",OCO,1,35,20,35,20,0,0,1,1,10

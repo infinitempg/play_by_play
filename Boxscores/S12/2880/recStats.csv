@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Flash, X.",SJS,7,97,13.9,24,3
-"Brannigan, Z.",SJS,6,36,6,9,0
-"Oles, K.",SJS,5,88,17.6,39,0
-"Orosz, C.",SJS,4,20,5,11,0
-"Justice, T.",SJS,3,74,24.7,35,0
-"Gore, B.",NO,7,55,7.9,16,0
-"Fyodorovich, V.",NO,6,107,17.8,37,0
-"Halvorsen, T.",NO,5,65,13,25,1
-"DiMirio, P.",NO,4,36,9,10,0
-"Storm, B.",NO,4,34,8.5,15,0
-"Yobanna-Kanayochukwu, C.",NO,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Flash, X.",SJS,7,97,13.9,24,3,1,12
+"Brannigan, Z.",SJS,6,36,6,9,0,1,12
+"Oles, K.",SJS,5,88,17.6,39,0,1,12
+"Orosz, C.",SJS,4,20,5,11,0,1,12
+"Justice, T.",SJS,3,74,24.7,35,0,1,12
+"Gore, B.",NO,7,55,7.9,16,0,1,12
+"Fyodorovich, V.",NO,6,107,17.8,37,0,1,12
+"Halvorsen, T.",NO,5,65,13,25,1,1,12
+"DiMirio, P.",NO,4,36,9,10,0,1,12
+"Storm, B.",NO,4,34,8.5,15,0,1,12
+"Yobanna-Kanayochukwu, C.",NO,1,9,9,9,0,1,12

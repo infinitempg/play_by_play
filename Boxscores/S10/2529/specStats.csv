@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Broxton, J.",OCO,1,35,0,35,0,0,0,0
-"Crush, C.",OCO,2,41,41,29,18,0,0,4
-"Fyodorovich, V.",NO,3,61,0,25,0,0,0,0
-"Bayley, B.",NO,2,32,18,21,11,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Broxton, J.",OCO,1,35,0,35,0,0,0,0,2,10
+"Crush, C.",OCO,2,41,41,29,18,0,0,4,2,10
+"Fyodorovich, V.",NO,3,61,0,25,0,0,0,0,2,10
+"Bayley, B.",NO,2,32,18,21,11,0,0,2,2,10

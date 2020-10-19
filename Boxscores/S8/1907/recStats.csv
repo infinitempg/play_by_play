@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Booter, F.",AZ,7,37,5.3,13,1
-"Chess, C.",AZ,6,84,14,26,1
-"Squanch, V.",AZ,5,109,21.8,42,0
-"Wachter, J.",AZ,5,82,16.4,30,0
-"Mackworthy, R.",AZ,4,27,6.8,12,1
-"Crindy, B.",AZ,4,21,5.2,8,0
-"Bush, C.",PHI,11,141,12.8,40,1
-"DiMirio, P.",PHI,6,102,17,31,0
-"North, F.",PHI,6,101,16.8,39,1
-"Garden, J.",PHI,3,45,15,23,0
-"Farlane, D.",PHI,3,23,7.7,12,0
-"O'Connell, K.",PHI,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Booter, F.",AZ,7,37,5.3,13,1,8,8
+"Chess, C.",AZ,6,84,14,26,1,8,8
+"Squanch, V.",AZ,5,109,21.8,42,0,8,8
+"Wachter, J.",AZ,5,82,16.4,30,0,8,8
+"Mackworthy, R.",AZ,4,27,6.8,12,1,8,8
+"Crindy, B.",AZ,4,21,5.2,8,0,8,8
+"Bush, C.",PHI,11,141,12.8,40,1,8,8
+"DiMirio, P.",PHI,6,102,17,31,0,8,8
+"North, F.",PHI,6,101,16.8,39,1,8,8
+"Garden, J.",PHI,3,45,15,23,0,8,8
+"Farlane, D.",PHI,3,23,7.7,12,0,8,8
+"O'Connell, K.",PHI,1,3,3,3,0,8,8

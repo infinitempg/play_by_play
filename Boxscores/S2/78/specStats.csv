@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,1,13,33,13,15,0,0,5
-"Phelps, R.",OCO,2,54,0,31,0,0,0,0
-"Mackworthy, R.",ARI,4,83,31,31,14,0,0,4
-"Flock, R.",ARI,2,19,0,18,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,1,13,33,13,15,0,0,5,7,2
+"Phelps, R.",OCO,2,54,0,31,0,0,0,0,7,2
+"Mackworthy, R.",ARI,4,83,31,31,14,0,0,4,7,2
+"Flock, R.",ARI,2,19,0,18,0,0,0,0,7,2

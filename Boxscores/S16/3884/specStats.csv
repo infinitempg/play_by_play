@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Snuggles, J.",YKW,3,54,18,33,10,0,0,3
-"Grithead, D.",YKW,2,53,0,34,0,0,0,0
-"Garnett, L.",PHI,4,101,32,41,20,0,0,4
-"von Matt, J.",PHI,3,138,0,67,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Snuggles, J.",YKW,3,54,18,33,10,0,0,3,4,16
+"Grithead, D.",YKW,2,53,0,34,0,0,0,0,4,16
+"Garnett, L.",PHI,4,101,32,41,20,0,0,4,4,16
+"von Matt, J.",PHI,3,138,0,67,0,0,0,0,4,16

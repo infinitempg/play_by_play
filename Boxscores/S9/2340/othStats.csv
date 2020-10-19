@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Farlane, D.",PHI,1,5,0,0
-"Verns, D.",PHI,1,4,0,0
-"Wright, J.",PHI,1,1,0,0
-"Van Buren, M.",PHI,0,0,5,0
-"Arthur, C.",PHI,0,0,4,1
-"Tyler, J.",PHI,0,0,4,1
-"Hayes, R.",PHI,0,0,4,0
-"O'Sullivan, S.",PHI,0,0,2,0
-"Filmore, M.",PHI,0,0,1,1
-"Asipi Jr., A.",BAL,1,5,0,0
-"Broadway, E.",BAL,1,5,0,0
-"Browning, B.",BAL,1,10,0,0
-"Steele, R.",BAL,0,0,6,0
-"L'Alto, V.",BAL,0,0,3,0
-"Jeremy, R.",BAL,0,0,2,1
-"Taylor, O.",BAL,0,0,2,0
-"Grey, S.",BAL,0,0,1,1
-"Diggler, D.",BAL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Farlane, D.",PHI,1,5,0,0,6,9
+"Verns, D.",PHI,1,4,0,0,6,9
+"Wright, J.",PHI,1,1,0,0,6,9
+"Van Buren, M.",PHI,0,0,5,0,6,9
+"Arthur, C.",PHI,0,0,4,1,6,9
+"Tyler, J.",PHI,0,0,4,1,6,9
+"Hayes, R.",PHI,0,0,4,0,6,9
+"O'Sullivan, S.",PHI,0,0,2,0,6,9
+"Filmore, M.",PHI,0,0,1,1,6,9
+"Asipi Jr., A.",BAL,1,5,0,0,6,9
+"Broadway, E.",BAL,1,5,0,0,6,9
+"Browning, B.",BAL,1,10,0,0,6,9
+"Steele, R.",BAL,0,0,6,0,6,9
+"L'Alto, V.",BAL,0,0,3,0,6,9
+"Jeremy, R.",BAL,0,0,2,1,6,9
+"Taylor, O.",BAL,0,0,2,0,6,9
+"Grey, S.",BAL,0,0,1,1,6,9
+"Diggler, D.",BAL,0,0,1,0,6,9

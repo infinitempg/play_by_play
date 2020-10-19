@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crindy, B.",COL,10,144,14.4,47,2
-"LaMelllana, S.",COL,8,100,12.5,32,0
-"Bishop, J.",COL,4,109,27.2,41,1
-"Grau, M.",COL,4,58,14.5,36,0
-"Cansino, D.",COL,4,23,5.8,7,0
-"Hardwick, S.",AZ,4,72,18,26,0
-"Moore, S.",AZ,4,41,10.2,19,0
-"Willie, T.",AZ,3,30,10,12,1
-"Shady, S.",AZ,3,19,6.3,10,1
-"Rudd, E.",AZ,1,14,14,14,0
-"Goomba, M.",AZ,1,4,4,4,0
-"Hasselhoff, F.",AZ,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crindy, B.",COL,10,144,14.4,47,2,10,14
+"LaMelllana, S.",COL,8,100,12.5,32,0,10,14
+"Bishop, J.",COL,4,109,27.2,41,1,10,14
+"Grau, M.",COL,4,58,14.5,36,0,10,14
+"Cansino, D.",COL,4,23,5.8,7,0,10,14
+"Hardwick, S.",AZ,4,72,18,26,0,10,14
+"Moore, S.",AZ,4,41,10.2,19,0,10,14
+"Willie, T.",AZ,3,30,10,12,1,10,14
+"Shady, S.",AZ,3,19,6.3,10,1,10,14
+"Rudd, E.",AZ,1,14,14,14,0,10,14
+"Goomba, M.",AZ,1,4,4,4,0,10,14
+"Hasselhoff, F.",AZ,1,3,3,3,0,10,14

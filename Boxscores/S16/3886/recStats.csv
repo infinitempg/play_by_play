@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Landers, B.",AZ,7,105,15,41,0
-"Murphy, J.",AZ,6,49,8.2,14,2
-"Moore, S.",AZ,5,52,10.4,19,1
-"Irving, J.",AZ,4,26,6.5,13,0
-"Zephyrous, S.",AZ,3,19,6.3,9,0
-"Shady, S.",AZ,2,10,5,8,0
-"Valentine, V.",OCO,7,102,14.6,29,0
-"Blaze, J.",OCO,6,66,11,16,0
-"Sunnycursed, N.",OCO,4,59,14.8,35,0
-"Pitcher, A.",OCO,3,13,4.3,5,0
-"Reed, A.",OCO,2,13,6.5,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Landers, B.",AZ,7,105,15,41,0,4,16
+"Murphy, J.",AZ,6,49,8.2,14,2,4,16
+"Moore, S.",AZ,5,52,10.4,19,1,4,16
+"Irving, J.",AZ,4,26,6.5,13,0,4,16
+"Zephyrous, S.",AZ,3,19,6.3,9,0,4,16
+"Shady, S.",AZ,2,10,5,8,0,4,16
+"Valentine, V.",OCO,7,102,14.6,29,0,4,16
+"Blaze, J.",OCO,6,66,11,16,0,4,16
+"Sunnycursed, N.",OCO,4,59,14.8,35,0,4,16
+"Pitcher, A.",OCO,3,13,4.3,5,0,4,16
+"Reed, A.",OCO,2,13,6.5,8,0,4,16

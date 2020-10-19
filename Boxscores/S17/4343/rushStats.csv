@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Swift, T.",NO,18,71,3.9,9,2
-"Gump, F.",NO,15,61,4.1,10,0
-"Torenson, S.",CHI,29,135,4.7,21,0
-"Danielsson, A.",CHI,12,47,3.9,7,0
-"Jenkins, R.",CHI,2,4,2,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Swift, T.",NO,18,71,3.9,9,2,12,17
+"Gump, F.",NO,15,61,4.1,10,0,12,17
+"Torenson, S.",CHI,29,135,4.7,21,0,12,17
+"Danielsson, A.",CHI,12,47,3.9,7,0,12,17
+"Jenkins, R.",CHI,2,4,2,4,0,12,17

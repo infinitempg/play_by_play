@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",OCO,16,80,5,33,0
-"Boss, M.",OCO,1,1,1,1,0
-"Smallwood, D.",NO,23,85,3.7,18,1
-"Maximus III, B.",NO,1,8,8,8,0
-"Savea, A.",NO,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",OCO,16,80,5,33,0,9,9
+"Boss, M.",OCO,1,1,1,1,0,9,9
+"Smallwood, D.",NO,23,85,3.7,18,1,9,9
+"Maximus III, B.",NO,1,8,8,8,0,9,9
+"Savea, A.",NO,1,1,1,1,0,9,9

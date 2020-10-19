@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Emoji, E.",PHI,0,0,107,0,59,0,0,5
-"von Matt, J.",PHI,3,89,0,44,0,0,0,0
-"Garnett, L.",PHI,2,35,0,19,0,0,0,0
-"Gump, F.",NO,3,61,11,28,10,0,0,2
-"Fyodorovich, V.",NO,5,115,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Emoji, E.",PHI,0,0,107,0,59,0,0,5,10,17
+"von Matt, J.",PHI,3,89,0,44,0,0,0,0,10,17
+"Garnett, L.",PHI,2,35,0,19,0,0,0,0,10,17
+"Gump, F.",NO,3,61,11,28,10,0,0,2,10,17
+"Fyodorovich, V.",NO,5,115,0,31,0,0,0,0,10,17

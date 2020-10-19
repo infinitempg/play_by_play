@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lewis, L.",CHI,2,37,0,19,0,0,0,0
-"Oles, K.",CHI,2,22,40,13,21,0,0,2
-"Snuggles, J.",YKW,3,117,22,45,17,0,0,2
-"Grithead, D.",YKW,1,24,0,24,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lewis, L.",CHI,2,37,0,19,0,0,0,0,3,17
+"Oles, K.",CHI,2,22,40,13,21,0,0,2,3,17
+"Snuggles, J.",YKW,3,117,22,45,17,0,0,2,3,17
+"Grithead, D.",YKW,1,24,0,24,0,0,0,0,3,17

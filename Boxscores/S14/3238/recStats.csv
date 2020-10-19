@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crush, C.",OCO,5,111,22.2,31,1
-"Anoa'i, D.",OCO,5,54,10.8,22,1
-"Adams, R.",OCO,3,48,16,22,0
-"Blaze, J.",OCO,3,27,9,9,0
-"McPoyal, G.",OCO,1,16,16,16,0
-"Sunnycursed, N.",OCO,1,10,10,10,0
-"Zephyrous, S.",OCO,1,10,10,10,0
-"Valentine, V.",BAL,8,108,13.5,23,1
-"L'Alto, V.",BAL,7,49,7,15,0
-"Squanch, V.",BAL,6,96,16,28,1
-"Maddox, E.",BAL,5,95,19,34,0
-"Brown, M.",BAL,3,15,5,7,0
-"Harp, D.",BAL,2,8,4,6,1
-"Miller, H.",BAL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crush, C.",OCO,5,111,22.2,31,1,9,14
+"Anoa'i, D.",OCO,5,54,10.8,22,1,9,14
+"Adams, R.",OCO,3,48,16,22,0,9,14
+"Blaze, J.",OCO,3,27,9,9,0,9,14
+"McPoyal, G.",OCO,1,16,16,16,0,9,14
+"Sunnycursed, N.",OCO,1,10,10,10,0,9,14
+"Zephyrous, S.",OCO,1,10,10,10,0,9,14
+"Valentine, V.",BAL,8,108,13.5,23,1,9,14
+"L'Alto, V.",BAL,7,49,7,15,0,9,14
+"Squanch, V.",BAL,6,96,16,28,1,9,14
+"Maddox, E.",BAL,5,95,19,34,0,9,14
+"Brown, M.",BAL,3,15,5,7,0,9,14
+"Harp, D.",BAL,2,8,4,6,1,9,14
+"Miller, H.",BAL,1,8,8,8,0,9,14

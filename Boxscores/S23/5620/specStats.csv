@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,0,0,15,0,15,0,0,1
-"Quinn, A.",BAL,2,47,0,37,0,0,0,0
-"Gordon, R.",SAR,3,65,-3,34,0,0,0,1
-"Frost, D.",SAR,5,92,0,43,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,0,0,15,0,15,0,0,1,5,23
+"Quinn, A.",BAL,2,47,0,37,0,0,0,0,5,23
+"Gordon, R.",SAR,3,65,-3,34,0,0,0,1,5,23
+"Frost, D.",SAR,5,92,0,43,0,0,0,0,5,23

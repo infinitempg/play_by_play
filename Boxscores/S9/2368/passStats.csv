@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Maximus III, B.",NO,"[23, 34]",380,16.5,4,0,144.2
-"Pennington, B.",SJS,"[20, 42]",162,8.1,0,2,38
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Maximus III, B.",NO,380,16.5,4,0,144.2,23,20,13,9
+"Pennington, B.",SJS,162,8.1,0,2,38,23,20,13,9

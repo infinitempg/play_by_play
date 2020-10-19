@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Kroetch, D.",PHI,11,35,3.2,10,0
-"Oles, T.",PHI,2,-1,-0.5,1,0
-"Burnsman, E.",OCO,26,101,3.9,17,0
-"Boss, M.",OCO,1,11,11,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Kroetch, D.",PHI,11,35,3.2,10,0,11,6
+"Oles, T.",PHI,2,-1,-0.5,1,0,11,6
+"Burnsman, E.",OCO,26,101,3.9,17,0,11,6
+"Boss, M.",OCO,1,11,11,11,0,11,6

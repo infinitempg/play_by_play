@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,4,201,0,94,0,1,0,0
-"Kross, C.",BAL,3,80,0,36,0,0,0,0
-"Owens, A.",COL,1,16,10,16,10,0,0,1
-"Purchase, L.",COL,4,66,0,28,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,4,201,0,94,0,1,0,0,13,22
+"Kross, C.",BAL,3,80,0,36,0,0,0,0,13,22
+"Owens, A.",COL,1,16,10,16,10,0,0,1,13,22
+"Purchase, L.",COL,4,66,0,28,0,0,0,0,13,22

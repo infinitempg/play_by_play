@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"LeClair, A.",NO,6,48,8,11,1
-"Fyodorovich, V.",NO,5,86,17.2,37,0
-"DiMirio, P.",NO,4,61,15.2,29,0
-"Law, C.",NO,4,44,11,23,1
-"Smallwood, D.",NO,4,10,2.5,5,0
-"Yobanna-Kanayochukwu, C.",NO,1,5,5,5,0
-"McPoyal, G.",YKW,7,49,7,10,0
-"Summer, A.",YKW,6,103,17.2,45,0
-"Cook, B.",YKW,4,50,12.5,28,0
-"Parker, J.",YKW,4,30,7.5,16,0
-"Harris Jr., F.",YKW,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"LeClair, A.",NO,6,48,8,11,1,10,11
+"Fyodorovich, V.",NO,5,86,17.2,37,0,10,11
+"DiMirio, P.",NO,4,61,15.2,29,0,10,11
+"Law, C.",NO,4,44,11,23,1,10,11
+"Smallwood, D.",NO,4,10,2.5,5,0,10,11
+"Yobanna-Kanayochukwu, C.",NO,1,5,5,5,0,10,11
+"McPoyal, G.",YKW,7,49,7,10,0,10,11
+"Summer, A.",YKW,6,103,17.2,45,0,10,11
+"Cook, B.",YKW,4,50,12.5,28,0,10,11
+"Parker, J.",YKW,4,30,7.5,16,0,10,11
+"Harris Jr., F.",YKW,1,5,5,5,0,10,11

@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",SJS,17,67,3.9,18,0
-"Diaz, D.",SJS,1,1,1,1,0
-"Taylor, O.",BAL,27,76,2.8,7,1
-"Farlane, D.",BAL,3,21,7,13,0
-"Blocksdale, A.",BAL,1,-1,-1,0,0
-"Koch, D.",BAL,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",SJS,17,67,3.9,18,0,4,4
+"Diaz, D.",SJS,1,1,1,1,0,4,4
+"Taylor, O.",BAL,27,76,2.8,7,1,4,4
+"Farlane, D.",BAL,3,21,7,13,0,4,4
+"Blocksdale, A.",BAL,1,-1,-1,0,0,4,4
+"Koch, D.",BAL,1,1,1,1,0,4,4

@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Chipmunk, A.",COL,1,5,2,0
-"Grau, M.",COL,1,5,0,0
-"Kamaka, E.",COL,1,10,0,0
-"Sandoval, A.",COL,1,15,0,0
-"Bastard, F.",COL,0,0,6,1
-"Knuckler, B.",COL,0,0,6,0
-"Windchesthair, A.",COL,0,0,5,0
-"Down, D.",COL,0,0,4,0
-"Vibrations, F.",COL,0,0,4,0
-"Hayes, R.",PHI,1,5,5,0
-"Brown, M.",PHI,1,5,2,0
-"O'Sullivan, S.",PHI,1,5,2,0
-"Hayden, A.",PHI,1,5,0,0
-"Lee, J.",PHI,1,5,0,0
-"Weathers III, B.",PHI,1,14,0,0
-"Van Buren, M.",PHI,0,0,3,0
-"Arthur, C.",PHI,0,0,2,0
-"Tyler, J.",PHI,0,0,1,1
-"Fillmore, M.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Chipmunk, A.",COL,1,5,2,0,12,10
+"Grau, M.",COL,1,5,0,0,12,10
+"Kamaka, E.",COL,1,10,0,0,12,10
+"Sandoval, A.",COL,1,15,0,0,12,10
+"Bastard, F.",COL,0,0,6,1,12,10
+"Knuckler, B.",COL,0,0,6,0,12,10
+"Windchesthair, A.",COL,0,0,5,0,12,10
+"Down, D.",COL,0,0,4,0,12,10
+"Vibrations, F.",COL,0,0,4,0,12,10
+"Hayes, R.",PHI,1,5,5,0,12,10
+"Brown, M.",PHI,1,5,2,0,12,10
+"O'Sullivan, S.",PHI,1,5,2,0,12,10
+"Hayden, A.",PHI,1,5,0,0,12,10
+"Lee, J.",PHI,1,5,0,0,12,10
+"Weathers III, B.",PHI,1,14,0,0,12,10
+"Van Buren, M.",PHI,0,0,3,0,12,10
+"Arthur, C.",PHI,0,0,2,0,12,10
+"Tyler, J.",PHI,0,0,1,1,12,10
+"Fillmore, M.",PHI,0,0,1,0,12,10

@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Kroetch, D.",PHI,5,118,0,28,0,0,0,0
-"North, F.",PHI,0,0,30,0,13,0,0,3
-"Garden, J.",PHI,1,89,0,89,0,0,0,0
-"Lavelle, D.",YKW,1,13,0,13,0,0,0,0
-"Kennedy, E.",YKW,4,99,0,32,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Kroetch, D.",PHI,5,118,0,28,0,0,0,0,5,8
+"North, F.",PHI,0,0,30,0,13,0,0,3,5,8
+"Garden, J.",PHI,1,89,0,89,0,0,0,0,5,8
+"Lavelle, D.",YKW,1,13,0,13,0,0,0,0,5,8
+"Kennedy, E.",YKW,4,99,0,32,0,0,0,0,5,8

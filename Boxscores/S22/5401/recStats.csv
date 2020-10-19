@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Reed, A.",BAL,5,60,12,25,0
-"Kross, C.",BAL,5,43,8.6,17,0
-"Lewandowski, J.",BAL,2,14,7,7,0
-"Maddox, E.",BAL,2,13,6.5,7,0
-"Williams, D.",BAL,2,13,6.5,7,0
-"Quinn, A.",BAL,1,11,11,11,0
-"Skuff, R.",BAL,1,2,2,2,0
-"Mendonca, M.",AUS,5,54,10.8,18,0
-"Larson, P.",AUS,3,57,19,31,0
-"Tidwell, R.",AUS,3,56,18.7,33,0
-"Gaines, N.",AUS,3,40,13.3,28,1
-"Leaf Jr., R.",AUS,3,13,4.3,6,0
-"Jeeta, E.",AUS,1,17,17,17,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Reed, A.",BAL,5,60,12,25,0,8,22
+"Kross, C.",BAL,5,43,8.6,17,0,8,22
+"Lewandowski, J.",BAL,2,14,7,7,0,8,22
+"Maddox, E.",BAL,2,13,6.5,7,0,8,22
+"Williams, D.",BAL,2,13,6.5,7,0,8,22
+"Quinn, A.",BAL,1,11,11,11,0,8,22
+"Skuff, R.",BAL,1,2,2,2,0,8,22
+"Mendonca, M.",AUS,5,54,10.8,18,0,8,22
+"Larson, P.",AUS,3,57,19,31,0,8,22
+"Tidwell, R.",AUS,3,56,18.7,33,0,8,22
+"Gaines, N.",AUS,3,40,13.3,28,1,8,22
+"Leaf Jr., R.",AUS,3,13,4.3,6,0,8,22
+"Jeeta, E.",AUS,1,17,17,17,0,8,22

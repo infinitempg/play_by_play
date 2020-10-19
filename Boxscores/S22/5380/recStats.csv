@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Phillips, J.",OCO,6,77,12.8,29,0
-"Mongo, H.",OCO,3,25,8.3,14,0
-"Irving, J.",OCO,2,16,8,11,0
-"Thomas-Fox, D.",SJS,8,112,14,34,1
-"McDavid, L.",SJS,6,45,7.5,16,0
-"Jackson, A.",SJS,5,63,12.6,20,1
-"Bot, B.",SJS,2,9,4.5,9,0
-"Z, D.",SJS,1,6,6,6,0
-"Cardrissian, R.",SJS,1,4,4,4,0
-"Tyerucker, Q.",SJS,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Phillips, J.",OCO,6,77,12.8,29,0,4,22
+"Mongo, H.",OCO,3,25,8.3,14,0,4,22
+"Irving, J.",OCO,2,16,8,11,0,4,22
+"Thomas-Fox, D.",SJS,8,112,14,34,1,4,22
+"McDavid, L.",SJS,6,45,7.5,16,0,4,22
+"Jackson, A.",SJS,5,63,12.6,20,1,4,22
+"Bot, B.",SJS,2,9,4.5,9,0,4,22
+"Z, D.",SJS,1,6,6,6,0,4,22
+"Cardrissian, R.",SJS,1,4,4,4,0,4,22
+"Tyerucker, Q.",SJS,1,0,0,0,0,4,22

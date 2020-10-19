@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Evans, D.",NO,7,94,13.4,32,0
-"Tomatonose, P.",NO,7,35,5,8,0
-"Booter, F.",NO,6,95,15.8,21,0
-"Savea, A.",NO,4,11,2.8,8,0
-"Omega, K.",NO,2,36,18,19,0
-"LeClair, A.",BAL,7,91,13,48,0
-"Taylor, O.",BAL,6,29,4.8,9,0
-"Willie, T.",BAL,5,124,24.8,49,2
-"Wachter, J.",BAL,5,58,11.6,16,0
-"Stormblessed, N.",BAL,2,2,1,1,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Evans, D.",NO,7,94,13.4,32,0,9,6
+"Tomatonose, P.",NO,7,35,5,8,0,9,6
+"Booter, F.",NO,6,95,15.8,21,0,9,6
+"Savea, A.",NO,4,11,2.8,8,0,9,6
+"Omega, K.",NO,2,36,18,19,0,9,6
+"LeClair, A.",BAL,7,91,13,48,0,9,6
+"Taylor, O.",BAL,6,29,4.8,9,0,9,6
+"Willie, T.",BAL,5,124,24.8,49,2,9,6
+"Wachter, J.",BAL,5,58,11.6,16,0,9,6
+"Stormblessed, N.",BAL,2,2,1,1,0,9,6

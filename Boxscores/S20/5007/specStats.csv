@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Swift, N.",YKW,2,38,0,37,0,0,0,0
-"Snuggles, J.",YKW,2,75,25,46,21,0,0,3
-"Owens, A.",COL,5,125,0,43,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Swift, N.",YKW,2,38,0,37,0,0,0,0,8,20
+"Snuggles, J.",YKW,2,75,25,46,21,0,0,3,8,20
+"Owens, A.",COL,5,125,0,43,0,0,0,0,8,20

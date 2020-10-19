@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Canton, J.",YKW,9,96,10.7,33,1
-"Parker, J.",YKW,4,54,13.5,17,0
-"Marshall, M.",YKW,3,37,12.3,30,0
-"Swift, N.",YKW,2,21,10.5,11,0
-"Helanen, T.",YKW,2,12,6,7,0
-"Wizardry, D.",YKW,1,8,8,8,0
-"Blaze, J.",OCO,4,57,14.2,20,0
-"Zephyrous, S.",OCO,4,32,8,10,0
-"Anoa'i, D.",OCO,3,19,6.3,7,0
-"Crush, C.",OCO,2,38,19,31,0
-"Sunnycursed, N.",OCO,2,25,12.5,13,1
-"Reed, A.",OCO,2,5,2.5,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Canton, J.",YKW,9,96,10.7,33,1,12,15
+"Parker, J.",YKW,4,54,13.5,17,0,12,15
+"Marshall, M.",YKW,3,37,12.3,30,0,12,15
+"Swift, N.",YKW,2,21,10.5,11,0,12,15
+"Helanen, T.",YKW,2,12,6,7,0,12,15
+"Wizardry, D.",YKW,1,8,8,8,0,12,15
+"Blaze, J.",OCO,4,57,14.2,20,0,12,15
+"Zephyrous, S.",OCO,4,32,8,10,0,12,15
+"Anoa'i, D.",OCO,3,19,6.3,7,0,12,15
+"Crush, C.",OCO,2,38,19,31,0,12,15
+"Sunnycursed, N.",OCO,2,25,12.5,13,1,12,15
+"Reed, A.",OCO,2,5,2.5,3,0,12,15

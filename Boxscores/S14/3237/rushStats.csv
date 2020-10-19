@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wizardry, D.",YKW,14,87,6.2,20,0
-"Carrasco, T.",YKW,7,27,3.9,9,1
-"Applehort, R.",YKW,2,7,3.5,7,0
-"Danielsson, A.",NO,17,62,3.6,14,1
-"Maximus III, B.",NO,7,40,5.7,22,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wizardry, D.",YKW,14,87,6.2,20,0,9,14
+"Carrasco, T.",YKW,7,27,3.9,9,1,9,14
+"Applehort, R.",YKW,2,7,3.5,7,0,9,14
+"Danielsson, A.",NO,17,62,3.6,14,1,9,14
+"Maximus III, B.",NO,7,40,5.7,22,0,9,14

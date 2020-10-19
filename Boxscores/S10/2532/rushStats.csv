@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,20,98,4.9,13,3
-"Blocksdale, A.",BAL,2,21,10.5,22,0
-"Mackworthy, R.",AZ,25,117,4.7,18,0
-"Fitzpatrick, K.",AZ,2,7,3.5,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,20,98,4.9,13,3,3,10
+"Blocksdale, A.",BAL,2,21,10.5,22,0,3,10
+"Mackworthy, R.",AZ,25,117,4.7,18,0,3,10
+"Fitzpatrick, K.",AZ,2,7,3.5,7,0,3,10

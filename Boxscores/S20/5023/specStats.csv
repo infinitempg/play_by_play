@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,2,62,0,46,0,0,0,0
-"Jones, B.",NO,2,52,0,32,0,0,0,0
-"Green, W.",BAL,2,45,0,24,0,0,0,0
-"Maddox, E.",BAL,5,169,0,43,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,2,62,0,46,0,0,0,0,11,20
+"Jones, B.",NO,2,52,0,32,0,0,0,0,11,20
+"Green, W.",BAL,2,45,0,24,0,0,0,0,11,20
+"Maddox, E.",BAL,5,169,0,43,0,0,0,0,11,20

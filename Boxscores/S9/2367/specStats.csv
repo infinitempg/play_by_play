@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,3,81,0,38,0,0,0,0
-"Morris, D.",AZ,2,59,5,39,5,0,0,1
-"Westfield, B.",OCO,0,0,11,0,6,0,0,5
-"Spector, M.",OCO,1,95,0,95,0,0,0,0
-"Atwell, T.",OCO,1,10,0,10,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,3,81,0,38,0,0,0,0,13,9
+"Morris, D.",AZ,2,59,5,39,5,0,0,1,13,9
+"Westfield, B.",OCO,0,0,11,0,6,0,0,5,13,9
+"Spector, M.",OCO,1,95,0,95,0,0,0,0,13,9
+"Atwell, T.",OCO,1,10,0,10,0,0,0,0,13,9

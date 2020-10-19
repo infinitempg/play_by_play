@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,17,62,3.6,11,1
-"O'Sullivan, C.",LV,5,10,2,4,0
-"Noble, L.",LV,1,8,8,8,0
-"Smallwood, D.",SJS,16,70,4.4,11,1
-"Diaz, D.",SJS,9,22,2.4,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,17,62,3.6,11,1,7,5
+"O'Sullivan, C.",LV,5,10,2,4,0,7,5
+"Noble, L.",LV,1,8,8,8,0,7,5
+"Smallwood, D.",SJS,16,70,4.4,11,1,7,5
+"Diaz, D.",SJS,9,22,2.4,6,0,7,5

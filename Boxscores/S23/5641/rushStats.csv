@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Hank, F.",CHI,24,106,4.4,11,0
-"Tirtawidjaja, J.",CHI,19,81,4.3,9,1
-"O'Donnell, G.",CHI,4,22,5.5,12,0
-"Yoda, B.",AZ,14,31,2.2,9,0
-"Cue, J.",AZ,8,28,3.5,8,0
-"Evans, H.",AZ,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Hank, F.",CHI,24,106,4.4,11,0,8,23
+"Tirtawidjaja, J.",CHI,19,81,4.3,9,1,8,23
+"O'Donnell, G.",CHI,4,22,5.5,12,0,8,23
+"Yoda, B.",AZ,14,31,2.2,9,0,8,23
+"Cue, J.",AZ,8,28,3.5,8,0,8,23
+"Evans, H.",AZ,1,2,2,2,0,8,23

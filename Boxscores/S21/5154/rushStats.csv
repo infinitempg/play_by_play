@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",BAL,20,73,3.6,11,0
-"Williams, D.",BAL,16,54,3.4,10,0
-"Havran, C.",BAL,2,12,6,12,0
-"Hanyadi, M.",YKW,23,111,4.8,13,2
-"Drake, O.",YKW,11,42,3.8,15,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",BAL,20,73,3.6,11,0,1,21
+"Williams, D.",BAL,16,54,3.4,10,0,1,21
+"Havran, C.",BAL,2,12,6,12,0,1,21
+"Hanyadi, M.",YKW,23,111,4.8,13,2,1,21
+"Drake, O.",YKW,11,42,3.8,15,1,1,21

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"L'Alto, V.",BAL,7,70,10,45,0
-"LeClair, A.",BAL,4,104,26,43,0
-"Willie, T.",BAL,4,83,20.8,54,2
-"Wachter, J.",BAL,4,72,18,30,1
-"Taylor, O.",BAL,4,32,8,11,1
-"Reigns, J.",NO,9,91,10.1,25,1
-"Law, C.",NO,5,71,14.2,24,0
-"Stormblessed, N.",NO,5,43,8.6,22,0
-"Evans, D.",NO,4,115,28.8,63,0
-"Savea, A.",NO,2,17,8.5,11,0
-"O'Sullivan, C.",NO,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"L'Alto, V.",BAL,7,70,10,45,0,2,7
+"LeClair, A.",BAL,4,104,26,43,0,2,7
+"Willie, T.",BAL,4,83,20.8,54,2,2,7
+"Wachter, J.",BAL,4,72,18,30,1,2,7
+"Taylor, O.",BAL,4,32,8,11,1,2,7
+"Reigns, J.",NO,9,91,10.1,25,1,2,7
+"Law, C.",NO,5,71,14.2,24,0,2,7
+"Stormblessed, N.",NO,5,43,8.6,22,0,2,7
+"Evans, D.",NO,4,115,28.8,63,0,2,7
+"Savea, A.",NO,2,17,8.5,11,0,2,7
+"O'Sullivan, C.",NO,1,4,4,4,0,2,7

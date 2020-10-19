@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Tacktheritrix, J.",SJS,1,10,5,0
-"Pennington, T.",SJS,1,5,0,0
-"Rucker, F.",SJS,0,0,7,0
-"McKoutchie, M.",SJS,0,0,5,0
-"Probincrux III, D.",SJS,0,0,4,0
-"Orosz, C.",SJS,0,0,3,0
-"Jahelpme, H.",SJS,0,0,1,1
-"Davenport, C.",SJS,0,0,1,0
-"Olsen, C.",SJS,0,0,1,0
-"Bigsby, C.",YKW,2,20,0,0
-"Leaf Jr., R.",YKW,2,10,0,0
-"Skinner, Z.",YKW,2,12,0,0
-"Ones, B.",YKW,1,10,7,0
-"Amper, T.",YKW,1,10,6,0
-"Alexander, N.",YKW,1,5,0,0
-"Pooky, S.",YKW,0,0,4,1
-"Wizardry, D.",YKW,0,0,3,0
-"Rchon, A.",YKW,0,0,2,1
-"Marshall, M.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Tacktheritrix, J.",SJS,1,10,5,0,11,15
+"Pennington, T.",SJS,1,5,0,0,11,15
+"Rucker, F.",SJS,0,0,7,0,11,15
+"McKoutchie, M.",SJS,0,0,5,0,11,15
+"Probincrux III, D.",SJS,0,0,4,0,11,15
+"Orosz, C.",SJS,0,0,3,0,11,15
+"Jahelpme, H.",SJS,0,0,1,1,11,15
+"Davenport, C.",SJS,0,0,1,0,11,15
+"Olsen, C.",SJS,0,0,1,0,11,15
+"Bigsby, C.",YKW,2,20,0,0,11,15
+"Leaf Jr., R.",YKW,2,10,0,0,11,15
+"Skinner, Z.",YKW,2,12,0,0,11,15
+"Ones, B.",YKW,1,10,7,0,11,15
+"Amper, T.",YKW,1,10,6,0,11,15
+"Alexander, N.",YKW,1,5,0,0,11,15
+"Pooky, S.",YKW,0,0,4,1,11,15
+"Wizardry, D.",YKW,0,0,3,0,11,15
+"Rchon, A.",YKW,0,0,2,1,11,15
+"Marshall, M.",YKW,0,0,1,0,11,15

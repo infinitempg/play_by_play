@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Diaz, D.",SJS,30,115,3.8,14,0
-"Riddick, D.",SJS,2,14,7,9,0
-"Pennington, B.",SJS,2,-2,-1,0,0
-"Farlane, D.",PHI,27,118,4.4,19,3
-"O'Sullivan, C.",PHI,10,45,4.5,9,0
-"Noble, L.",PHI,1,4,4,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Diaz, D.",SJS,30,115,3.8,14,0,2,9
+"Riddick, D.",SJS,2,14,7,9,0,2,9
+"Pennington, B.",SJS,2,-2,-1,0,0,2,9
+"Farlane, D.",PHI,27,118,4.4,19,3,2,9
+"O'Sullivan, C.",PHI,10,45,4.5,9,0,2,9
+"Noble, L.",PHI,1,4,4,4,0,2,9

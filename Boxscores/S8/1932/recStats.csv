@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"L'Alto, V.",BAL,12,75,6.2,13,0
-"Willie, T.",BAL,6,102,17,36,0
-"LeClair, A.",BAL,5,55,11,16,1
-"Browning, B.",BAL,4,103,25.8,35,1
-"Taylor, O.",BAL,3,19,6.3,8,0
-"O'Sullivan, S.",COL,8,47,5.9,16,0
-"Aaron, D.",COL,6,99,16.5,24,0
-"Wheat, B.",COL,3,44,14.7,21,0
-"Miller, H.",COL,2,39,19.5,32,1
-"Joyce, S.",COL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"L'Alto, V.",BAL,12,75,6.2,13,0,14,8
+"Willie, T.",BAL,6,102,17,36,0,14,8
+"LeClair, A.",BAL,5,55,11,16,1,14,8
+"Browning, B.",BAL,4,103,25.8,35,1,14,8
+"Taylor, O.",BAL,3,19,6.3,8,0,14,8
+"O'Sullivan, S.",COL,8,47,5.9,16,0,14,8
+"Aaron, D.",COL,6,99,16.5,24,0,14,8
+"Wheat, B.",COL,3,44,14.7,21,0,14,8
+"Miller, H.",COL,2,39,19.5,32,1,14,8
+"Joyce, S.",COL,1,8,8,8,0,14,8

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bishop, J.",COL,4,177,12,108,13,1,0,2
-"Montgomery, B.",COL,2,54,0,33,0,0,0,0
-"Flash, X.",SJS,2,48,0,38,0,0,0,0
-"Oles, K.",SJS,4,95,1,41,1,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bishop, J.",COL,4,177,12,108,13,1,0,2,10,15
+"Montgomery, B.",COL,2,54,0,33,0,0,0,0,10,15
+"Flash, X.",SJS,2,48,0,38,0,0,0,0,10,15
+"Oles, K.",SJS,4,95,1,41,1,0,0,1,10,15

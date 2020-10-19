@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,14,34,2.4,5,0
-"Moore, S.",AZ,1,1,1,1,0
-"Canton, J.",SJS,27,124,4.6,11,1
-"Orosz, C.",SJS,12,57,4.8,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,14,34,2.4,5,0,1,13
+"Moore, S.",AZ,1,1,1,1,0,1,13
+"Canton, J.",SJS,27,124,4.6,11,1,1,13
+"Orosz, C.",SJS,12,57,4.8,11,0,1,13

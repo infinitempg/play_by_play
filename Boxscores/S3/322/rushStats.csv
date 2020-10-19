@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wright, O.",PHI,23,68,3,15,0
-"O'Connell, K.",PHI,1,0,0,0,0
-"Burnsman, E.",OCO,6,18,3,5,0
-"Jenkins, L.",OCO,4,9,2.2,5,0
-"Boss, M.",OCO,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wright, O.",PHI,23,68,3,15,0,12,3
+"O'Connell, K.",PHI,1,0,0,0,0,12,3
+"Burnsman, E.",OCO,6,18,3,5,0,12,3
+"Jenkins, L.",OCO,4,9,2.2,5,0,12,3
+"Boss, M.",OCO,1,0,0,0,0,12,3

@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bur'Berry, J.",AZ,5,111,22.2,38,0
-"Donut, S.",AZ,5,70,14,33,0
-"Evans, H.",AZ,4,34,8.5,14,0
-"Yoda, B.",AZ,4,23,5.8,7,0
-"Passmann, T.",AZ,3,58,19.3,36,1
-"Skyline, A.",YKW,5,30,6,14,0
-"Rodriguez, B.",YKW,4,49,12.2,26,0
-"Jackson, A.",YKW,4,46,11.5,24,0
-"Swift, N.",YKW,3,11,3.7,6,0
-"Lee, M.",YKW,2,44,22,37,0
-"Hardagain, W.",YKW,2,31,15.5,27,0
-"Hanyadi, M.",YKW,2,14,7,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bur'Berry, J.",AZ,5,111,22.2,38,0,11,23
+"Donut, S.",AZ,5,70,14,33,0,11,23
+"Evans, H.",AZ,4,34,8.5,14,0,11,23
+"Yoda, B.",AZ,4,23,5.8,7,0,11,23
+"Passmann, T.",AZ,3,58,19.3,36,1,11,23
+"Skyline, A.",YKW,5,30,6,14,0,11,23
+"Rodriguez, B.",YKW,4,49,12.2,26,0,11,23
+"Jackson, A.",YKW,4,46,11.5,24,0,11,23
+"Swift, N.",YKW,3,11,3.7,6,0,11,23
+"Lee, M.",YKW,2,44,22,37,0,11,23
+"Hardagain, W.",YKW,2,31,15.5,27,0,11,23
+"Hanyadi, M.",YKW,2,14,7,10,0,11,23

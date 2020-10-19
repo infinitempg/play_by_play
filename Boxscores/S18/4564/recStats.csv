@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Hank, F.",PHI,9,110,12.2,30,1
-"Torenson, S.",PHI,4,50,12.5,39,0
-"von Matt, J.",PHI,4,36,9,11,0
-"Zephyrous, S.",PHI,4,26,6.5,9,0
-"Varga, N.",PHI,3,23,7.7,20,0
-"Blaze, J.",OCO,5,76,15.2,24,2
-"Mongo, H.",OCO,4,46,11.5,16,1
-"Banks II, D.",OCO,3,42,14,30,1
-"Pitcher, A.",OCO,2,14,7,8,0
-"Reed, A.",OCO,2,14,7,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Hank, F.",PHI,9,110,12.2,30,1,2,18
+"Torenson, S.",PHI,4,50,12.5,39,0,2,18
+"von Matt, J.",PHI,4,36,9,11,0,2,18
+"Zephyrous, S.",PHI,4,26,6.5,9,0,2,18
+"Varga, N.",PHI,3,23,7.7,20,0,2,18
+"Blaze, J.",OCO,5,76,15.2,24,2,2,18
+"Mongo, H.",OCO,4,46,11.5,16,1,2,18
+"Banks II, D.",OCO,3,42,14,30,1,2,18
+"Pitcher, A.",OCO,2,14,7,8,0,2,18
+"Reed, A.",OCO,2,14,7,8,0,2,18

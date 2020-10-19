@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Akselsen, M.",YKW,15,112,7.5,29,1
-"Rainey, R.",YKW,12,76,6.3,13,0
-"Milan, C.",YKW,5,16,3.2,5,1
-"Nuck, B.",COL,8,23,2.9,10,0
-"Joyce, S.",COL,6,20,3.3,5,0
-"Applehort, R.",COL,2,-5,-2.5,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Akselsen, M.",YKW,15,112,7.5,29,1,12,7
+"Rainey, R.",YKW,12,76,6.3,13,0,12,7
+"Milan, C.",YKW,5,16,3.2,5,1,12,7
+"Nuck, B.",COL,8,23,2.9,10,0,12,7
+"Joyce, S.",COL,6,20,3.3,5,0,12,7
+"Applehort, R.",COL,2,-5,-2.5,0,0,12,7

@@ -1,23 +1,23 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Diggler, D.",BAL,1,15,2,0
-"Sauce, E.",BAL,1,5,2,0
-"Espeeyeeseetee, A.",BAL,1,10,0,0
-"Jeremy, R.",BAL,0,0,4,0
-"Bigby, L.",BAL,0,0,2,0
-"L'Alto, V.",BAL,0,0,2,0
-"Star, L.",BAL,0,0,2,0
-"Grey, S.",BAL,0,0,1,0
-"Pancakes, P.",BAL,0,0,1,0
-"Watkins, R.",CHI,3,25,0,0
-"Smith, G.",CHI,1,5,2,0
-"Hockhertz, M.",CHI,1,5,0,0
-"Hondo, A.",CHI,1,10,0,0
-"Leaf Jr., R.",CHI,1,5,0,0
-"Nikko, G.",CHI,1,5,0,0
-"Bright, C.",CHI,0,0,10,0
-"Gordon, B.",CHI,0,0,3,0
-"Harp, D.",CHI,0,0,3,0
-"Sandburg, C.",CHI,0,0,3,0
-"Ford Lalatina, D.",CHI,0,0,2,0
-"Danielsson, A.",CHI,0,0,1,1
-"Utler, J.",CHI,0,0,1,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Diggler, D.",BAL,1,15,2,0,8,19
+"Sauce, E.",BAL,1,5,2,0,8,19
+"Espeeyeeseetee, A.",BAL,1,10,0,0,8,19
+"Jeremy, R.",BAL,0,0,4,0,8,19
+"Bigby, L.",BAL,0,0,2,0,8,19
+"L'Alto, V.",BAL,0,0,2,0,8,19
+"Star, L.",BAL,0,0,2,0,8,19
+"Grey, S.",BAL,0,0,1,0,8,19
+"Pancakes, P.",BAL,0,0,1,0,8,19
+"Watkins, R.",CHI,3,25,0,0,8,19
+"Smith, G.",CHI,1,5,2,0,8,19
+"Hockhertz, M.",CHI,1,5,0,0,8,19
+"Hondo, A.",CHI,1,10,0,0,8,19
+"Leaf Jr., R.",CHI,1,5,0,0,8,19
+"Nikko, G.",CHI,1,5,0,0,8,19
+"Bright, C.",CHI,0,0,10,0,8,19
+"Gordon, B.",CHI,0,0,3,0,8,19
+"Harp, D.",CHI,0,0,3,0,8,19
+"Sandburg, C.",CHI,0,0,3,0,8,19
+"Ford Lalatina, D.",CHI,0,0,2,0,8,19
+"Danielsson, A.",CHI,0,0,1,1,8,19
+"Utler, J.",CHI,0,0,1,1,8,19

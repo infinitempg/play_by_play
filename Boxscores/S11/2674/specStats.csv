@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Brown, M.",PHI,3,91,0,42,0,0,0,0
-"Bly Jr., A.",PHI,4,54,19,26,19,0,0,2
-"Fyodorovich, V.",NO,2,84,17,44,14,0,0,5
-"Bayley, B.",NO,2,30,0,19,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Brown, M.",PHI,3,91,0,42,0,0,0,0,1,11
+"Bly Jr., A.",PHI,4,54,19,26,19,0,0,2,1,11
+"Fyodorovich, V.",NO,2,84,17,44,14,0,0,5,1,11
+"Bayley, B.",NO,2,30,0,19,0,0,0,0,1,11

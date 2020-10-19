@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Falconi, A.",PHI,"[12, 25]",173,14.4,2,2,64.2
-"McCormick, M.",COL,"[22, 35]",305,13.9,3,0,119.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Falconi, A.",PHI,173,14.4,2,2,64.2,12,22,6,12
+"McCormick, M.",COL,305,13.9,3,0,119.3,12,22,6,12

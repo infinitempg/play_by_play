@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",ARI,0,0,25,0,16,0,0,5
-"Stormblessed, N.",ARI,1,4,0,4,0,0,0,0
-"Hayden, A.",COL,3,59,0,30,0,0,0,0
-"Law, D.",COL,2,23,27,12,16,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",ARI,0,0,25,0,16,0,0,5,13,1
+"Stormblessed, N.",ARI,1,4,0,4,0,0,0,0,13,1
+"Hayden, A.",COL,3,59,0,30,0,0,0,0,13,1
+"Law, D.",COL,2,23,27,12,16,0,0,4,13,1

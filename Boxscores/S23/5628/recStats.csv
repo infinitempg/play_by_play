@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blocksdale Jr., A.",PHI,5,33,6.6,12,1
-"Torenson, S.",PHI,4,30,7.5,16,0
-"Vuxta, R.",PHI,3,46,15.3,30,0
-"Arrabiata, D.",PHI,3,42,14,31,0
-"Varga, N.",PHI,2,24,12,19,0
-"Panda, F.",PHI,1,18,18,18,1
-"Toriki, M.",NO,4,47,11.8,32,1
-"Gump, F.",NO,4,37,9.2,12,0
-"McCormick, A.",NO,3,56,18.7,21,0
-"Barker, E.",NO,3,26,8.7,12,1
-"Wolfcastle, R.",NO,3,15,5,6,0
-"Alexander, B.",NO,1,11,11,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blocksdale Jr., A.",PHI,5,33,6.6,12,1,6,23
+"Torenson, S.",PHI,4,30,7.5,16,0,6,23
+"Vuxta, R.",PHI,3,46,15.3,30,0,6,23
+"Arrabiata, D.",PHI,3,42,14,31,0,6,23
+"Varga, N.",PHI,2,24,12,19,0,6,23
+"Panda, F.",PHI,1,18,18,18,1,6,23
+"Toriki, M.",NO,4,47,11.8,32,1,6,23
+"Gump, F.",NO,4,37,9.2,12,0,6,23
+"McCormick, A.",NO,3,56,18.7,21,0,6,23
+"Barker, E.",NO,3,26,8.7,12,1,6,23
+"Wolfcastle, R.",NO,3,15,5,6,0,6,23
+"Alexander, B.",NO,1,11,11,11,0,6,23

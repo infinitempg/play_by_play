@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bercovici, J.",LV,"[20, 40]",272,13.6,1,1,70
-"Kyubee, S.",BAL,"[18, 31]",221,12.3,2,0,101.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bercovici, J.",LV,272,13.6,1,1,70,20,18,2,3
+"Kyubee, S.",BAL,221,12.3,2,0,101.7,20,18,2,3

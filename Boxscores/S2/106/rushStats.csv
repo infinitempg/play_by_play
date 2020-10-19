@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bowers Jr, V.",OCO,14,44,3.1,8,0
-"Jenkins, L.",OCO,14,48,3.4,8,0
-"Boss, M.",OCO,1,-4,-4,0,0
-"Farlane, D.",BAL,35,100,2.9,9,0
-"Robinson, M.",BAL,12,66,5.5,14,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bowers Jr, V.",OCO,14,44,3.1,8,0,13,2
+"Jenkins, L.",OCO,14,48,3.4,8,0,13,2
+"Boss, M.",OCO,1,-4,-4,0,0,13,2
+"Farlane, D.",BAL,35,100,2.9,9,0,13,2
+"Robinson, M.",BAL,12,66,5.5,14,1,13,2

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Flash, X.",SJS,5,95,0,34,0,0,0,0
-"Poopsie, D.",SJS,3,103,20,91,13,1,0,3
-"Fyodorovich, V.",NO,2,41,34,30,15,0,0,4
-"Bayley, B.",NO,2,8,0,6,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Flash, X.",SJS,5,95,0,34,0,0,0,0,13,10
+"Poopsie, D.",SJS,3,103,20,91,13,1,0,3,13,10
+"Fyodorovich, V.",NO,2,41,34,30,15,0,0,4,13,10
+"Bayley, B.",NO,2,8,0,6,0,0,0,0,13,10

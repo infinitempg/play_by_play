@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"LeClair, A.",NO,6,77,12.8,37,0
-"Smallwood, D.",NO,6,56,9.3,23,0
-"Law, C.",NO,4,43,10.8,19,0
-"Fyodorovich, V.",NO,3,58,19.3,32,0
-"DiMirio, P.",NO,3,28,9.3,13,0
-"Yobanna-Kanayochukwu, C.",NO,1,1,1,1,0
-"Atwell, T.",OCO,7,99,14.1,53,1
-"Adams, R.",OCO,6,74,12.3,28,0
-"Zephyrous, S.",OCO,6,29,4.8,8,0
-"Crush, C.",OCO,4,77,19.2,42,0
-"Garden, J.",OCO,4,64,16,24,0
-"Broxton, J.",OCO,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"LeClair, A.",NO,6,77,12.8,37,0,2,11
+"Smallwood, D.",NO,6,56,9.3,23,0,2,11
+"Law, C.",NO,4,43,10.8,19,0,2,11
+"Fyodorovich, V.",NO,3,58,19.3,32,0,2,11
+"DiMirio, P.",NO,3,28,9.3,13,0,2,11
+"Yobanna-Kanayochukwu, C.",NO,1,1,1,1,0,2,11
+"Atwell, T.",OCO,7,99,14.1,53,1,2,11
+"Adams, R.",OCO,6,74,12.3,28,0,2,11
+"Zephyrous, S.",OCO,6,29,4.8,8,0,2,11
+"Crush, C.",OCO,4,77,19.2,42,0,2,11
+"Garden, J.",OCO,4,64,16,24,0,2,11
+"Broxton, J.",OCO,1,9,9,9,0,2,11

@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Utler, J.",CHI,2,44,0,26,0,0,0,0
-"Espeeyeeseetee, A.",CHI,5,138,4,42,11,0,0,4
-"Banks II, D.",OCO,0,0,27,0,29,0,0,3
-"Lattimer, A.",OCO,3,79,0,32,0,0,0,0
-"Dream, K.",OCO,1,33,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Utler, J.",CHI,2,44,0,26,0,0,0,0,11,20
+"Espeeyeeseetee, A.",CHI,5,138,4,42,11,0,0,4,11,20
+"Banks II, D.",OCO,0,0,27,0,29,0,0,3,11,20
+"Lattimer, A.",OCO,3,79,0,32,0,0,0,0,11,20
+"Dream, K.",OCO,1,33,0,33,0,0,0,0,11,20

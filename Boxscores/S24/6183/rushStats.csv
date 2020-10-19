@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cue, J.",AZ,12,65,5.4,19,1
-"Petrongolo, J.",AZ,11,49,4.5,10,0
-"Keppler, Z.",AZ,6,17,2.8,6,0
-"Ayers, N.",HON,14,64,4.6,13,1
-"Kane-Maika'i, K.",HON,9,27,3,5,1
-"Skywalker, L.",HON,2,10,5,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cue, J.",AZ,12,65,5.4,19,1,1,24
+"Petrongolo, J.",AZ,11,49,4.5,10,0,1,24
+"Keppler, Z.",AZ,6,17,2.8,6,0,1,24
+"Ayers, N.",HON,14,64,4.6,13,1,1,24
+"Kane-Maika'i, K.",HON,9,27,3,5,1,1,24
+"Skywalker, L.",HON,2,10,5,10,0,1,24

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Aaron, D.",COL,2,20,0,17,0,0,0,0
-"Miller, H.",COL,2,63,-1,37,0,0,0,1
-"Fyodorovich, V.",NO,5,138,1,42,1,0,0,2
-"Bayley, B.",NO,1,25,0,25,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Aaron, D.",COL,2,20,0,17,0,0,0,0,11,11
+"Miller, H.",COL,2,63,-1,37,0,0,0,1,11,11
+"Fyodorovich, V.",NO,5,138,1,42,1,0,0,2,11,11
+"Bayley, B.",NO,1,25,0,25,0,0,0,0,11,11

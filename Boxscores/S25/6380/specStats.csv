@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"O'Leary, S.",CHI,1,14,0,14,0,0,0,0
-"Firestorm-Fjord, O.",CHI,2,19,26,12,15,0,0,2
-"Purchase, L.",COL,2,41,0,31,0,0,0,0
-"Williams, D.",COL,2,77,26,45,17,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"O'Leary, S.",CHI,1,14,0,14,0,0,0,0,2,25
+"Firestorm-Fjord, O.",CHI,2,19,26,12,15,0,0,2,2,25
+"Purchase, L.",COL,2,41,0,31,0,0,0,0,2,25
+"Williams, D.",COL,2,77,26,45,17,0,0,3,2,25

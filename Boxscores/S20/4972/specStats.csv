@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,2,21,0,15,0,0,0,0
-"Maddox, E.",BAL,4,119,15,38,15,0,0,1
-"Donut, S.",AZ,2,30,0,19,0,0,0,0
-"Knight, L.",AZ,2,25,6,23,7,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,2,21,0,15,0,0,0,0,1,20
+"Maddox, E.",BAL,4,119,15,38,15,0,0,1,1,20
+"Donut, S.",AZ,2,30,0,19,0,0,0,0,1,20
+"Knight, L.",AZ,2,25,6,23,7,0,0,2,1,20

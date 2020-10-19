@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bush, C.",PHI,1,10,0,10,0,0,0,0
-"Garden, J.",PHI,4,67,10,20,5,0,0,2
-"Bly Jr., A.",COL,6,130,27,45,18,0,0,4
-"Miller, H.",COL,1,29,0,29,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bush, C.",PHI,1,10,0,10,0,0,0,0,5,10
+"Garden, J.",PHI,4,67,10,20,5,0,0,2,5,10
+"Bly Jr., A.",COL,6,130,27,45,18,0,0,4,5,10
+"Miller, H.",COL,1,29,0,29,0,0,0,0,5,10

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mackworthy, R.",AZ,15,54,3.6,8,0
-"Wright, O.",AZ,2,10,5,9,0
-"Nuck, B.",YKW,10,41,4.1,12,0
-"Akselsen, M.",YKW,5,2,0.4,1,1
-"Kennedy, E.",YKW,3,11,3.7,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mackworthy, R.",AZ,15,54,3.6,8,0,10,5
+"Wright, O.",AZ,2,10,5,9,0,10,5
+"Nuck, B.",YKW,10,41,4.1,12,0,10,5
+"Akselsen, M.",YKW,5,2,0.4,1,1,10,5
+"Kennedy, E.",YKW,3,11,3.7,7,0,10,5

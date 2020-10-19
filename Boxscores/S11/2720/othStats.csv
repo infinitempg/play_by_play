@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Ones, B.",YKW,1,5,5,0
-"Carrasco, T.",YKW,1,10,0,0
-"Foster, W.",YKW,1,5,0,0
-"Amper, T.",YKW,0,0,3,0
-"Pooky, S.",YKW,0,0,3,0
-"Mushing, M.",YKW,0,0,2,0
-"Rchon, A.",YKW,0,0,2,0
-"Harris Jr., F.",YKW,0,0,1,0
-"Guard, R.",COL,2,10,3,0
-"Centre, S.",COL,0,0,7,0
-"Tackle, L.",COL,0,0,4,0
-"Tackle, R.",COL,0,0,4,0
-"Grau, M.",COL,0,0,3,0
-"Guard, L.",COL,0,0,3,0
-"Chipmunk, A.",COL,0,0,2,0
-"Nyquist, W.",COL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Ones, B.",YKW,1,5,5,0,13,11
+"Carrasco, T.",YKW,1,10,0,0,13,11
+"Foster, W.",YKW,1,5,0,0,13,11
+"Amper, T.",YKW,0,0,3,0,13,11
+"Pooky, S.",YKW,0,0,3,0,13,11
+"Mushing, M.",YKW,0,0,2,0,13,11
+"Rchon, A.",YKW,0,0,2,0,13,11
+"Harris Jr., F.",YKW,0,0,1,0,13,11
+"Guard, R.",COL,2,10,3,0,13,11
+"Centre, S.",COL,0,0,7,0,13,11
+"Tackle, L.",COL,0,0,4,0,13,11
+"Tackle, R.",COL,0,0,4,0,13,11
+"Grau, M.",COL,0,0,3,0,13,11
+"Guard, L.",COL,0,0,3,0,13,11
+"Chipmunk, A.",COL,0,0,2,0,13,11
+"Nyquist, W.",COL,0,0,1,0,13,11

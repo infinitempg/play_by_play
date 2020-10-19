@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Trunks, F.",OCO,5,115,23,39,0
-"Phillips, J.",OCO,5,102,20.4,39,1
-"Mongo, H.",OCO,3,37,12.3,22,0
-"George, D.",OCO,3,17,5.7,11,1
-"Nakamura, T.",OCO,2,19,9.5,11,0
-"McZeal, K.",OCO,2,3,1.5,4,0
-"McDavid, L.",SJS,7,53,7.6,11,0
-"Thomas-Fox, D.",SJS,5,110,22,38,0
-"Hood, T.",SJS,4,53,13.2,31,0
-"Swift, N.",SJS,4,42,10.5,13,0
-"Lackson, J.",SJS,2,12,6,8,0
-"Cardrissian, R.",SJS,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Trunks, F.",OCO,5,115,23,39,0,13,24
+"Phillips, J.",OCO,5,102,20.4,39,1,13,24
+"Mongo, H.",OCO,3,37,12.3,22,0,13,24
+"George, D.",OCO,3,17,5.7,11,1,13,24
+"Nakamura, T.",OCO,2,19,9.5,11,0,13,24
+"McZeal, K.",OCO,2,3,1.5,4,0,13,24
+"McDavid, L.",SJS,7,53,7.6,11,0,13,24
+"Thomas-Fox, D.",SJS,5,110,22,38,0,13,24
+"Hood, T.",SJS,4,53,13.2,31,0,13,24
+"Swift, N.",SJS,4,42,10.5,13,0,13,24
+"Lackson, J.",SJS,2,12,6,8,0,13,24
+"Cardrissian, R.",SJS,1,6,6,6,0,13,24

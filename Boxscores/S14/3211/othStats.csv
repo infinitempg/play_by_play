@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Cansino, D.",COL,1,5,0,0
-"Tackle, L.",COL,0,0,7,0
-"Crindy, B.",COL,0,0,5,0
-"Guard, L.",COL,0,0,4,0
-"Guard, R.",COL,0,0,4,0
-"Centre, S.",COL,0,0,3,0
-"Tackle, R.",COL,0,0,2,0
-"McCargue, B.",PHI,1,5,2,0
-"Fort, F.",PHI,1,8,0,0
-"von Matt, J.",PHI,1,10,0,0
-"Tyler, J.",PHI,0,0,7,0
-"Van Buren, M.",PHI,0,0,5,0
-"Fillmore, M.",PHI,0,0,4,0
-"Hayes, R.",PHI,0,0,3,0
-"Arthur, C.",PHI,0,0,2,1
-"Davenport, C.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Cansino, D.",COL,1,5,0,0,2,14
+"Tackle, L.",COL,0,0,7,0,2,14
+"Crindy, B.",COL,0,0,5,0,2,14
+"Guard, L.",COL,0,0,4,0,2,14
+"Guard, R.",COL,0,0,4,0,2,14
+"Centre, S.",COL,0,0,3,0,2,14
+"Tackle, R.",COL,0,0,2,0,2,14
+"McCargue, B.",PHI,1,5,2,0,2,14
+"Fort, F.",PHI,1,8,0,0,2,14
+"von Matt, J.",PHI,1,10,0,0,2,14
+"Tyler, J.",PHI,0,0,7,0,2,14
+"Van Buren, M.",PHI,0,0,5,0,2,14
+"Fillmore, M.",PHI,0,0,4,0,2,14
+"Hayes, R.",PHI,0,0,3,0,2,14
+"Arthur, C.",PHI,0,0,2,1,2,14
+"Davenport, C.",PHI,0,0,1,0,2,14

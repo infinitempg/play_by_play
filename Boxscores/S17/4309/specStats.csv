@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Snuggles, J.",YKW,3,92,9,36,8,0,0,4
-"Grithead, D.",YKW,2,16,0,9,0,0,0,0
-"Jimbo, D.",BAL,1,7,0,7,0,0,0,0
-"Maddox, E.",BAL,5,100,37,39,17,0,0,4
-"Troyski, X.",BAL,2,55,0,32,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Snuggles, J.",YKW,3,92,9,36,8,0,0,4,5,17
+"Grithead, D.",YKW,2,16,0,9,0,0,0,0,5,17
+"Jimbo, D.",BAL,1,7,0,7,0,0,0,0,5,17
+"Maddox, E.",BAL,5,100,37,39,17,0,0,4,5,17
+"Troyski, X.",BAL,2,55,0,32,0,0,0,0,5,17

@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Tuck Jr., T.",SJS,6,23,3.8,9,0
-"Weston, S.",SJS,5,63,12.6,36,0
-"Jackson, M.",SJS,5,52,10.4,26,1
-"West, D.",SJS,3,38,12.7,22,0
-"Crush, C.",OCO,7,107,15.3,37,1
-"Yates, J.",OCO,7,73,10.4,35,1
-"Westfield, B.",OCO,6,84,14,28,0
-"Atwell, T.",OCO,5,87,17.4,33,2
-"Phelps, R.",OCO,4,40,10,15,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Tuck Jr., T.",SJS,6,23,3.8,9,0,2,8
+"Weston, S.",SJS,5,63,12.6,36,0,2,8
+"Jackson, M.",SJS,5,52,10.4,26,1,2,8
+"West, D.",SJS,3,38,12.7,22,0,2,8
+"Crush, C.",OCO,7,107,15.3,37,1,2,8
+"Yates, J.",OCO,7,73,10.4,35,1,2,8
+"Westfield, B.",OCO,6,84,14,28,0,2,8
+"Atwell, T.",OCO,5,87,17.4,33,2,2,8
+"Phelps, R.",OCO,4,40,10,15,0,2,8

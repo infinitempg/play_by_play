@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Maximus III, B.",NO,"[29, 44]",407,14,3,2,99.3
-"Fitzpatrick, K.",AZ,"[15, 34]",188,12.5,0,1,49.6
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Maximus III, B.",NO,407,14,3,2,99.3,29,15,12,10
+"Fitzpatrick, K.",AZ,188,12.5,0,1,49.6,29,15,12,10

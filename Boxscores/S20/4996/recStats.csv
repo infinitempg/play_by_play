@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Swift, N.",YKW,8,114,14.2,28,1
-"Helanen, T.",YKW,5,81,16.2,31,1
-"Gordon, R.",YKW,5,68,13.6,23,0
-"Hanyadi, M.",YKW,4,22,5.5,9,0
-"Drake, O.",YKW,3,14,4.7,8,0
-"Irving, J.",AZ,7,89,12.7,22,0
-"Bur'Berry, J.",AZ,5,58,11.6,33,1
-"Ruff, R.",AZ,5,26,5.2,11,0
-"Donut, S.",AZ,3,72,24,31,0
-"Hardagain, W.",AZ,3,31,10.3,15,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Swift, N.",YKW,8,114,14.2,28,1,6,20
+"Helanen, T.",YKW,5,81,16.2,31,1,6,20
+"Gordon, R.",YKW,5,68,13.6,23,0,6,20
+"Hanyadi, M.",YKW,4,22,5.5,9,0,6,20
+"Drake, O.",YKW,3,14,4.7,8,0,6,20
+"Irving, J.",AZ,7,89,12.7,22,0,6,20
+"Bur'Berry, J.",AZ,5,58,11.6,33,1,6,20
+"Ruff, R.",AZ,5,26,5.2,11,0,6,20
+"Donut, S.",AZ,3,72,24,31,0,6,20
+"Hardagain, W.",AZ,3,31,10.3,15,0,6,20

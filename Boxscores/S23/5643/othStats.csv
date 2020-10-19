@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Blake, D.",HON,1,5,5,0
-"Kackpoo, H.",HON,1,5,0,0
-"Keiki-KÄne, M.",HON,1,5,0,0
-"Noble Jr., L.",HON,1,5,0,0
-"Z, D.",HON,1,5,0,0
-"Rogers, S.",HON,0,0,7,0
-"Dinkley, V.",HON,0,0,5,1
-"Doo, S.",HON,0,0,1,0
-"Jones, F.",HON,0,0,1,0
-"Fillmore, M.",PHI,1,5,3,0
-"Gimmy, I.",PHI,1,15,0,0
-"Suzuki, S.",PHI,1,15,0,0
-"Tremblay, S.",PHI,0,0,5,0
-"Van Buren, M.",PHI,0,0,4,0
-"Dotson, F.",PHI,0,0,2,0
-"Hayes, R.",PHI,0,0,2,0
-"Arthur, C.",PHI,0,0,1,1
-"Torenson, S.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Blake, D.",HON,1,5,5,0,8,23
+"Kackpoo, H.",HON,1,5,0,0,8,23
+"Keiki-KÄne, M.",HON,1,5,0,0,8,23
+"Noble Jr., L.",HON,1,5,0,0,8,23
+"Z, D.",HON,1,5,0,0,8,23
+"Rogers, S.",HON,0,0,7,0,8,23
+"Dinkley, V.",HON,0,0,5,1,8,23
+"Doo, S.",HON,0,0,1,0,8,23
+"Jones, F.",HON,0,0,1,0,8,23
+"Fillmore, M.",PHI,1,5,3,0,8,23
+"Gimmy, I.",PHI,1,15,0,0,8,23
+"Suzuki, S.",PHI,1,15,0,0,8,23
+"Tremblay, S.",PHI,0,0,5,0,8,23
+"Van Buren, M.",PHI,0,0,4,0,8,23
+"Dotson, F.",PHI,0,0,2,0,8,23
+"Hayes, R.",PHI,0,0,2,0,8,23
+"Arthur, C.",PHI,0,0,1,1,8,23
+"Torenson, S.",PHI,0,0,1,0,8,23

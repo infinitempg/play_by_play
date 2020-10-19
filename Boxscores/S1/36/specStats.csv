@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garden, J.",YKW,2,15,22,13,12,0,0,2
-"LeClair, A.",YKW,3,57,0,25,0,0,0,0
-"Law, D.",COL,5,108,-3,33,0,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garden, J.",YKW,2,15,22,13,12,0,0,2,3,1
+"LeClair, A.",YKW,3,57,0,25,0,0,0,0,3,1
+"Law, D.",COL,5,108,-3,33,0,0,0,1,3,1

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Havran, C.",BAL,"[23, 36]",275,12,4,1,112.6
-"Cole, E.",AUS,"[20, 30]",201,10,0,1,71.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Havran, C.",BAL,275,12,4,1,112.6,23,20,6,19
+"Cole, E.",AUS,201,10,0,1,71.7,23,20,6,19

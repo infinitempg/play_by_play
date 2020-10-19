@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Atwell, T.",OCO,7,102,14.6,35,0
-"Adams, R.",OCO,7,59,8.4,12,0
-"Broxton, J.",OCO,5,47,9.4,17,0
-"Zephyrous, S.",OCO,5,37,7.4,11,0
-"Garden, J.",OCO,3,32,10.7,21,1
-"Crush, C.",OCO,1,11,11,11,0
-"Grau, M.",COL,8,42,5.2,9,0
-"North, F.",COL,7,65,9.3,19,0
-"Miller, H.",COL,5,111,22.2,37,0
-"Aaron, D.",COL,5,104,20.8,37,1
-"Chipmunk, A.",COL,5,34,6.8,14,0
-"Wheat, B.",COL,1,18,18,18,0
-"Cansino, D.",COL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Atwell, T.",OCO,7,102,14.6,35,0,7,11
+"Adams, R.",OCO,7,59,8.4,12,0,7,11
+"Broxton, J.",OCO,5,47,9.4,17,0,7,11
+"Zephyrous, S.",OCO,5,37,7.4,11,0,7,11
+"Garden, J.",OCO,3,32,10.7,21,1,7,11
+"Crush, C.",OCO,1,11,11,11,0,7,11
+"Grau, M.",COL,8,42,5.2,9,0,7,11
+"North, F.",COL,7,65,9.3,19,0,7,11
+"Miller, H.",COL,5,111,22.2,37,0,7,11
+"Aaron, D.",COL,5,104,20.8,37,1,7,11
+"Chipmunk, A.",COL,5,34,6.8,14,0,7,11
+"Wheat, B.",COL,1,18,18,18,0,7,11
+"Cansino, D.",COL,1,5,5,5,0,7,11

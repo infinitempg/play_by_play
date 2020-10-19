@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hanyadi, M.",YKW,1,6,-4,6,0,0,0,1
-"Leonard, M.",YKW,4,65,0,29,0,0,0,0
-"O'Leary, S.",CHI,3,78,0,34,0,0,0,0
-"Firestorm-Fjord, O.",CHI,0,0,7,0,7,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hanyadi, M.",YKW,1,6,-4,6,0,0,0,1,14,24
+"Leonard, M.",YKW,4,65,0,29,0,0,0,0,14,24
+"O'Leary, S.",CHI,3,78,0,34,0,0,0,0,14,24
+"Firestorm-Fjord, O.",CHI,0,0,7,0,7,0,0,1,14,24

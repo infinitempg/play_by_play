@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Grau, M.",COL,18,88,4.9,24,0
-"Kroetch, D.",COL,1,5,5,5,0
-"Rainey, R.",YKW,25,91,3.6,14,0
-"Gore, B.",YKW,2,21,10.5,11,0
-"Pennington, B.",YKW,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Grau, M.",COL,18,88,4.9,24,0,13,10
+"Kroetch, D.",COL,1,5,5,5,0,13,10
+"Rainey, R.",YKW,25,91,3.6,14,0,13,10
+"Gore, B.",YKW,2,21,10.5,11,0,13,10
+"Pennington, B.",YKW,1,2,2,2,0,13,10

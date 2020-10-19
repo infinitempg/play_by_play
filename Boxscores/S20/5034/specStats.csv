@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,4,53,0,34,0,0,0,0
-"Staley, T.",SJS,5,185,6,47,12,0,0,3
-"Snuggles, J.",YKW,2,81,13,46,13,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,4,53,0,34,0,0,0,0,13,20
+"Staley, T.",SJS,5,185,6,47,12,0,0,3,13,20
+"Snuggles, J.",YKW,2,81,13,46,13,0,0,2,13,20

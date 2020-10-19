@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Barker, E.",NO,6,77,12.8,25,2
-"Wolfcastle, R.",NO,5,31,6.2,10,0
-"Gump, F.",NO,4,88,22,45,0
-"Alexander, B.",NO,3,33,11,14,0
-"Podolak, J.",HON,4,111,27.8,50,1
-"Kane-Maika'i, K.",HON,4,50,12.5,19,0
-"Clay, J.",HON,4,44,11,15,0
-"Alexander, W.",HON,3,37,12.3,28,0
-"Ruff, R.",HON,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Barker, E.",NO,6,77,12.8,25,2,4,23
+"Wolfcastle, R.",NO,5,31,6.2,10,0,4,23
+"Gump, F.",NO,4,88,22,45,0,4,23
+"Alexander, B.",NO,3,33,11,14,0,4,23
+"Podolak, J.",HON,4,111,27.8,50,1,4,23
+"Kane-Maika'i, K.",HON,4,50,12.5,19,0,4,23
+"Clay, J.",HON,4,44,11,15,0,4,23
+"Alexander, W.",HON,3,37,12.3,28,0,4,23
+"Ruff, R.",HON,1,8,8,8,0,4,23

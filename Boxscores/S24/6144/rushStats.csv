@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jones, K.",AUS,28,121,4.3,12,1
-"Mendonca, M.",AUS,21,95,4.5,16,1
-"Cole, E.",AUS,2,22,11,13,1
-"Williams, D.",BAL,12,42,3.5,16,0
-"Fukushu, M.",BAL,7,28,4,8,0
-"Fujiwara, C.",BAL,5,33,6.6,13,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jones, K.",AUS,28,121,4.3,12,1,7,24
+"Mendonca, M.",AUS,21,95,4.5,16,1,7,24
+"Cole, E.",AUS,2,22,11,13,1,7,24
+"Williams, D.",BAL,12,42,3.5,16,0,7,24
+"Fukushu, M.",BAL,7,28,4,8,0,7,24
+"Fujiwara, C.",BAL,5,33,6.6,13,0,7,24

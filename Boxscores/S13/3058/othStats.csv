@@ -1,22 +1,22 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Brown, M.",PHI,2,10,0,1
-"Van Buren, M.",PHI,1,5,7,0
-"Hardwick, S.",PHI,1,10,0,0
-"Hayes, R.",PHI,0,0,10,0
-"Arthur, C.",PHI,0,0,9,0
-"Tyler, J.",PHI,0,0,6,0
-"Fillmore, M.",PHI,0,0,3,0
-"Strike, L.",PHI,0,0,2,0
-"Robotman, A.",AZ,1,15,2,0
-"Crindy, B.",AZ,1,5,1,0
-"Arnold, D.",AZ,1,5,0,0
-"Asipi III, A.",AZ,1,15,0,0
-"Barnes, B.",AZ,1,10,0,0
-"Hobbs, S.",AZ,1,4,0,0
-"Robertson, A.",AZ,1,2,0,0
-"Shady, S.",AZ,1,15,0,0
-"Vans, R.",AZ,1,15,0,0
-"Robotman, B.",AZ,0,0,4,0
-"Moore, S.",AZ,0,0,3,0
-"Robotman, D.",AZ,0,0,3,0
-"Robotman, C.",AZ,0,0,2,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Brown, M.",PHI,2,10,0,1,12,13
+"Van Buren, M.",PHI,1,5,7,0,12,13
+"Hardwick, S.",PHI,1,10,0,0,12,13
+"Hayes, R.",PHI,0,0,10,0,12,13
+"Arthur, C.",PHI,0,0,9,0,12,13
+"Tyler, J.",PHI,0,0,6,0,12,13
+"Fillmore, M.",PHI,0,0,3,0,12,13
+"Strike, L.",PHI,0,0,2,0,12,13
+"Robotman, A.",AZ,1,15,2,0,12,13
+"Crindy, B.",AZ,1,5,1,0,12,13
+"Arnold, D.",AZ,1,5,0,0,12,13
+"Asipi III, A.",AZ,1,15,0,0,12,13
+"Barnes, B.",AZ,1,10,0,0,12,13
+"Hobbs, S.",AZ,1,4,0,0,12,13
+"Robertson, A.",AZ,1,2,0,0,12,13
+"Shady, S.",AZ,1,15,0,0,12,13
+"Vans, R.",AZ,1,15,0,0,12,13
+"Robotman, B.",AZ,0,0,4,0,12,13
+"Moore, S.",AZ,0,0,3,0,12,13
+"Robotman, D.",AZ,0,0,3,0,12,13
+"Robotman, C.",AZ,0,0,2,1,12,13

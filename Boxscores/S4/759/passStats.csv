@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Boss, M.",OCO,"[36, 49]",460,12.8,3,2,105.8
-"Orosz, C.",SJS,"[22, 36]",204,9.3,1,2,62.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Boss, M.",OCO,460,12.8,3,2,105.8,36,22,9,4
+"Orosz, C.",SJS,204,9.3,1,2,62.7,36,22,9,4

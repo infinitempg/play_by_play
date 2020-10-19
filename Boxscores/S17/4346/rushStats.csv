@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jones, V.",BAL,12,55,4.6,10,0
-"Jimbo, D.",BAL,5,36,7.2,11,0
-"Reed, A.",OCO,17,81,4.8,11,0
-"Trevor, C.",OCO,10,29,2.9,13,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jones, V.",BAL,12,55,4.6,10,0,12,17
+"Jimbo, D.",BAL,5,36,7.2,11,0,12,17
+"Reed, A.",OCO,17,81,4.8,11,0,12,17
+"Trevor, C.",OCO,10,29,2.9,13,0,12,17

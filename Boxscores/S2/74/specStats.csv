@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hayden, A.",COL,3,85,17,36,17,0,0,1
-"Hendrix, K.",COL,2,52,0,37,0,0,0,0
-"Wright, O.",PHI,2,60,11,40,11,0,0,1
-"Jefferson, L.",PHI,4,91,0,31,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hayden, A.",COL,3,85,17,36,17,0,0,1,12,2
+"Hendrix, K.",COL,2,52,0,37,0,0,0,0,12,2
+"Wright, O.",PHI,2,60,11,40,11,0,0,1,12,2
+"Jefferson, L.",PHI,4,91,0,31,0,0,0,0,12,2

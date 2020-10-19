@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Reed, A.",BAL,14,56,4,14,0
-"Williams, D.",BAL,12,36,3,6,0
-"Fujiwara, C.",BAL,3,9,3,6,0
-"Lackson, J.",SJS,18,81,4.5,10,0
-"Cardrissian, R.",SJS,15,42,2.8,8,1
-"Jack, "".",SJS,2,-1,-0.5,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Reed, A.",BAL,14,56,4,14,0,8,23
+"Williams, D.",BAL,12,36,3,6,0,8,23
+"Fujiwara, C.",BAL,3,9,3,6,0,8,23
+"Lackson, J.",SJS,18,81,4.5,10,0,8,23
+"Cardrissian, R.",SJS,15,42,2.8,8,1,8,23
+"Jack, "".",SJS,2,-1,-0.5,0,0,8,23

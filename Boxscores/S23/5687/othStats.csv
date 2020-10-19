@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Blocksdale Jr., A.",PHI,0,0,7,0
-"Tremblay, S.",PHI,0,0,6,0
-"Arthur, C.",PHI,0,0,3,0
-"Van Buren, M.",PHI,0,0,3,0
-"Hayes, R.",PHI,0,0,2,1
-"Fillmore, M.",PHI,0,0,1,0
-"Skyline, A.",YKW,2,10,0,0
-"Amper, T.",YKW,1,5,4,1
-"Pooky, S.",YKW,1,5,2,0
-"Hanyadi, M.",YKW,1,15,1,0
-"Jensen, C.",YKW,1,13,0,0
-"Valdyr, M.",YKW,1,15,0,0
-"Virtanen, M.",YKW,1,5,0,0
-"Forty-Two, L.",YKW,0,0,9,0
-"Ones, B.",YKW,0,0,5,0
-"Rchonsucks, A.",YKW,0,0,4,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Blocksdale Jr., A.",PHI,0,0,7,0,16,23
+"Tremblay, S.",PHI,0,0,6,0,16,23
+"Arthur, C.",PHI,0,0,3,0,16,23
+"Van Buren, M.",PHI,0,0,3,0,16,23
+"Hayes, R.",PHI,0,0,2,1,16,23
+"Fillmore, M.",PHI,0,0,1,0,16,23
+"Skyline, A.",YKW,2,10,0,0,16,23
+"Amper, T.",YKW,1,5,4,1,16,23
+"Pooky, S.",YKW,1,5,2,0,16,23
+"Hanyadi, M.",YKW,1,15,1,0,16,23
+"Jensen, C.",YKW,1,13,0,0,16,23
+"Valdyr, M.",YKW,1,15,0,0,16,23
+"Virtanen, M.",YKW,1,5,0,0,16,23
+"Forty-Two, L.",YKW,0,0,9,0,16,23
+"Ones, B.",YKW,0,0,5,0,16,23
+"Rchonsucks, A.",YKW,0,0,4,0,16,23

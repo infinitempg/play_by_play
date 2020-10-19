@@ -1,19 +1,19 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Tyler, J.",PHI,1,15,3,0
-"Arrabiata, D.",PHI,1,5,1,0
-"Fillmore, M.",PHI,0,0,4,0
-"Tremblay, S.",PHI,0,0,4,0
-"Van Buren, M.",PHI,0,0,4,0
-"Hayes, R.",PHI,0,0,2,0
-"Blocksdale Jr., A.",PHI,0,0,1,0
-"Dotson, F.",PHI,0,0,1,0
-"Torenson, S.",PHI,0,0,0,1
-"Kackpoo, H.",HON,1,5,0,0
-"Waters, J.",HON,1,5,0,0
-"Dinkley, V.",HON,0,0,8,0
-"Rogers, S.",HON,0,0,7,0
-"Doo, S.",HON,0,0,6,0
-"Blake, D.",HON,0,0,4,0
-"Ayers, N.",HON,0,0,2,0
-"Jones, F.",HON,0,0,2,0
-"Kane-Maika'i, K.",HON,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Tyler, J.",PHI,1,15,3,0,9,24
+"Arrabiata, D.",PHI,1,5,1,0,9,24
+"Fillmore, M.",PHI,0,0,4,0,9,24
+"Tremblay, S.",PHI,0,0,4,0,9,24
+"Van Buren, M.",PHI,0,0,4,0,9,24
+"Hayes, R.",PHI,0,0,2,0,9,24
+"Blocksdale Jr., A.",PHI,0,0,1,0,9,24
+"Dotson, F.",PHI,0,0,1,0,9,24
+"Torenson, S.",PHI,0,0,0,1,9,24
+"Kackpoo, H.",HON,1,5,0,0,9,24
+"Waters, J.",HON,1,5,0,0,9,24
+"Dinkley, V.",HON,0,0,8,0,9,24
+"Rogers, S.",HON,0,0,7,0,9,24
+"Doo, S.",HON,0,0,6,0,9,24
+"Blake, D.",HON,0,0,4,0,9,24
+"Ayers, N.",HON,0,0,2,0,9,24
+"Jones, F.",HON,0,0,2,0,9,24
+"Kane-Maika'i, K.",HON,0,0,1,0,9,24

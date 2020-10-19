@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,1,2,49,2,18,0,0,4
-"Purchase, L.",COL,1,19,0,19,0,0,0,0
-"Beerus, L.",OCO,0,0,28,0,17,0,0,2
-"Trunks, F.",OCO,2,57,0,43,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,1,2,49,2,18,0,0,4,6,24
+"Purchase, L.",COL,1,19,0,19,0,0,0,0,6,24
+"Beerus, L.",OCO,0,0,28,0,17,0,0,2,6,24
+"Trunks, F.",OCO,2,57,0,43,0,0,0,0,6,24

@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Vincent, M.",COL,18,70,3.9,13,0
-"Taffy, T.",COL,17,66,3.9,9,0
-"Danielsson, A.",CHI,11,36,3.3,7,0
-"Brown, M.",CHI,10,53,5.3,10,0
-"Jenkins, R.",CHI,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Vincent, M.",COL,18,70,3.9,13,0,3,18
+"Taffy, T.",COL,17,66,3.9,9,0,3,18
+"Danielsson, A.",CHI,11,36,3.3,7,0,3,18
+"Brown, M.",CHI,10,53,5.3,10,0,3,18
+"Jenkins, R.",CHI,1,0,0,0,0,3,18

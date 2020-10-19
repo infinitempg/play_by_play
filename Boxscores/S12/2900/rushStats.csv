@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gore, B.",NO,10,30,3,9,0
-"Maximus III, B.",NO,3,15,5,6,0
-"Asipi III, A.",AZ,12,36,3,7,0
-"Shady, S.",AZ,12,40,3.3,9,0
-"Fitzpatrick, K.",AZ,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gore, B.",NO,10,30,3,9,0,6,12
+"Maximus III, B.",NO,3,15,5,6,0,6,12
+"Asipi III, A.",AZ,12,36,3,7,0,6,12
+"Shady, S.",AZ,12,40,3.3,9,0,6,12
+"Fitzpatrick, K.",AZ,1,0,0,0,0,6,12

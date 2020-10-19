@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,11,45,4.1,8,0
-"Akselsen, M.",YKW,6,52,8.7,20,0
-"Milan, C.",YKW,1,4,4,4,0
-"Kroetch, D.",PHI,18,79,4.4,13,1
-"Bush, C.",PHI,2,7,3.5,7,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,11,45,4.1,8,0,9,7
+"Akselsen, M.",YKW,6,52,8.7,20,0,9,7
+"Milan, C.",YKW,1,4,4,4,0,9,7
+"Kroetch, D.",PHI,18,79,4.4,13,1,9,7
+"Bush, C.",PHI,2,7,3.5,7,1,9,7

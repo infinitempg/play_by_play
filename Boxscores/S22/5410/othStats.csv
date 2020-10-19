@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Blockley, C.",CHI,1,5,2,0
-"Tirtawidjaja, J.",CHI,1,5,2,0
-"Bacon, C.",CHI,0,0,6,0
-"Foxtrot, B.",CHI,0,0,5,1
-"Hayes, V.",CHI,0,0,3,0
-"Lesnar, B.",CHI,0,0,3,0
-"Allan, C.",CHI,0,0,1,0
-"Hank, F.",CHI,0,0,1,0
-"Ahstreet, C.",CHI,0,0,0,3
-"Arthur, C.",PHI,1,5,3,1
-"Van Buren, M.",PHI,1,10,2,1
-"Gronlie, T.",PHI,1,5,0,0
-"McKinnie, L.",PHI,1,7,0,0
-"Morris, R.",PHI,1,5,0,0
-"Suzuki, S.",PHI,1,5,0,0
-"Blocksdale Jr., A.",PHI,0,0,4,0
-"Tyler, J.",PHI,0,0,3,0
-"Fillmore, M.",PHI,0,0,1,1
-"Torenson, S.",PHI,0,0,1,0
-"Dotson, F.",PHI,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Blockley, C.",CHI,1,5,2,0,9,22
+"Tirtawidjaja, J.",CHI,1,5,2,0,9,22
+"Bacon, C.",CHI,0,0,6,0,9,22
+"Foxtrot, B.",CHI,0,0,5,1,9,22
+"Hayes, V.",CHI,0,0,3,0,9,22
+"Lesnar, B.",CHI,0,0,3,0,9,22
+"Allan, C.",CHI,0,0,1,0,9,22
+"Hank, F.",CHI,0,0,1,0,9,22
+"Ahstreet, C.",CHI,0,0,0,3,9,22
+"Arthur, C.",PHI,1,5,3,1,9,22
+"Van Buren, M.",PHI,1,10,2,1,9,22
+"Gronlie, T.",PHI,1,5,0,0,9,22
+"McKinnie, L.",PHI,1,7,0,0,9,22
+"Morris, R.",PHI,1,5,0,0,9,22
+"Suzuki, S.",PHI,1,5,0,0,9,22
+"Blocksdale Jr., A.",PHI,0,0,4,0,9,22
+"Tyler, J.",PHI,0,0,3,0,9,22
+"Fillmore, M.",PHI,0,0,1,1,9,22
+"Torenson, S.",PHI,0,0,1,0,9,22
+"Dotson, F.",PHI,0,0,0,1,9,22

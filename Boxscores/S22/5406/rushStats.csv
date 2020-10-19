@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nakamura, T.",OCO,22,70,3.2,9,1
-"Bigby, L.",OCO,10,60,6,13,0
-"Armstrong, F.",OCO,7,62,8.9,22,0
-"Phillips, J.",OCO,2,14,7,8,0
-"Frost, D.",SAR,21,88,4.2,17,1
-"McTaco, P.",SAR,8,41,5.1,10,0
-"Vega, Z.",SAR,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nakamura, T.",OCO,22,70,3.2,9,1,8,22
+"Bigby, L.",OCO,10,60,6,13,0,8,22
+"Armstrong, F.",OCO,7,62,8.9,22,0,8,22
+"Phillips, J.",OCO,2,14,7,8,0,8,22
+"Frost, D.",SAR,21,88,4.2,17,1,8,22
+"McTaco, P.",SAR,8,41,5.1,10,0,8,22
+"Vega, Z.",SAR,1,0,0,0,0,8,22

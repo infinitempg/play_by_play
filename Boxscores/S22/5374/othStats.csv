@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Pest, T.",SJS,1,5,7,0
-"Johnson, R.",SJS,1,5,0,0
-"McDavid, L.",SJS,0,0,5,0
-"Bot, B.",SJS,0,0,4,1
-"Dodggy, B.",SJS,0,0,3,0
-"Pancake, P.",SJS,0,0,3,0
-"Lee, B.",SJS,0,0,2,0
-"Cardrissian, R.",SJS,0,0,1,0
-"Tyerucker, Q.",SJS,0,0,1,0
-"Blake, D.",HON,1,5,1,0
-"Noble Jr., L.",HON,1,10,0,0
-"Doo, S.",HON,0,0,5,0
-"Jones, F.",HON,0,0,5,0
-"Rogers, S.",HON,0,0,2,1
-"Dinkley, V.",HON,0,0,1,0
-"Ruff, R.",HON,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Pest, T.",SJS,1,5,7,0,3,22
+"Johnson, R.",SJS,1,5,0,0,3,22
+"McDavid, L.",SJS,0,0,5,0,3,22
+"Bot, B.",SJS,0,0,4,1,3,22
+"Dodggy, B.",SJS,0,0,3,0,3,22
+"Pancake, P.",SJS,0,0,3,0,3,22
+"Lee, B.",SJS,0,0,2,0,3,22
+"Cardrissian, R.",SJS,0,0,1,0,3,22
+"Tyerucker, Q.",SJS,0,0,1,0,3,22
+"Blake, D.",HON,1,5,1,0,3,22
+"Noble Jr., L.",HON,1,10,0,0,3,22
+"Doo, S.",HON,0,0,5,0,3,22
+"Jones, F.",HON,0,0,5,0,3,22
+"Rogers, S.",HON,0,0,2,1,3,22
+"Dinkley, V.",HON,0,0,1,0,3,22
+"Ruff, R.",HON,0,0,1,0,3,22

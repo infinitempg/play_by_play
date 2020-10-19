@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nuck, B.",YKW,30,96,3.2,8,0
-"Kennedy, E.",YKW,4,11,2.8,5,0
-"Tweed, B.",COL,27,125,4.6,14,1
-"O'Connell, K.",COL,10,36,3.6,10,0
-"Noble, L.",COL,1,-1,-1,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nuck, B.",YKW,30,96,3.2,8,0,1,2
+"Kennedy, E.",YKW,4,11,2.8,5,0,1,2
+"Tweed, B.",COL,27,125,4.6,14,1,1,2
+"O'Connell, K.",COL,10,36,3.6,10,0,1,2
+"Noble, L.",COL,1,-1,-1,0,0,1,2

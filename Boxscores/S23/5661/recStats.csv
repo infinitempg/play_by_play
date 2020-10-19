@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Podolak, J.",HON,4,33,8.2,19,0
-"Kane-Maika'i, K.",HON,3,28,9.3,14,1
-"Alexander, W.",HON,3,25,8.3,10,0
-"Ruff, R.",HON,2,8,4,5,0
-"Clay, J.",HON,2,7,3.5,4,0
-"Z, D.",HON,1,9,9,9,0
-"Quinn, A.",BAL,5,72,14.4,33,0
-"Lewandowski, J.",BAL,4,25,6.2,8,0
-"Reed, A.",BAL,3,30,10,13,0
-"Skuff, R.",BAL,3,23,7.7,10,0
-"Williams, D.",BAL,2,5,2.5,3,1
-"Kross, C.",BAL,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Podolak, J.",HON,4,33,8.2,19,0,11,23
+"Kane-Maika'i, K.",HON,3,28,9.3,14,1,11,23
+"Alexander, W.",HON,3,25,8.3,10,0,11,23
+"Ruff, R.",HON,2,8,4,5,0,11,23
+"Clay, J.",HON,2,7,3.5,4,0,11,23
+"Z, D.",HON,1,9,9,9,0,11,23
+"Quinn, A.",BAL,5,72,14.4,33,0,11,23
+"Lewandowski, J.",BAL,4,25,6.2,8,0,11,23
+"Reed, A.",BAL,3,30,10,13,0,11,23
+"Skuff, R.",BAL,3,23,7.7,10,0,11,23
+"Williams, D.",BAL,2,5,2.5,3,1,11,23
+"Kross, C.",BAL,1,8,8,8,0,11,23

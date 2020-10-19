@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Thomas-Fox, D.",SJS,6,85,14.2,43,0
-"McDavid, L.",SJS,6,25,4.2,10,0
-"Hood, T.",SJS,4,75,18.8,37,0
-"Swift, N.",SJS,4,41,10.2,18,1
-"Lackson, J.",SJS,4,23,5.8,10,0
-"Cardrissian, R.",SJS,1,8,8,8,0
-"Lim, W.",COL,5,51,10.2,18,0
-"Sauce, E.",COL,3,37,12.3,23,0
-"Gilbert, R.",COL,3,21,7,15,0
-"Owens, A.",COL,2,32,16,27,0
-"Jenkins, L.",COL,1,14,14,14,1
-"Kingston, J.",COL,1,7,7,7,0
-"Bumper, T.",COL,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Thomas-Fox, D.",SJS,6,85,14.2,43,0,11,24
+"McDavid, L.",SJS,6,25,4.2,10,0,11,24
+"Hood, T.",SJS,4,75,18.8,37,0,11,24
+"Swift, N.",SJS,4,41,10.2,18,1,11,24
+"Lackson, J.",SJS,4,23,5.8,10,0,11,24
+"Cardrissian, R.",SJS,1,8,8,8,0,11,24
+"Lim, W.",COL,5,51,10.2,18,0,11,24
+"Sauce, E.",COL,3,37,12.3,23,0,11,24
+"Gilbert, R.",COL,3,21,7,15,0,11,24
+"Owens, A.",COL,2,32,16,27,0,11,24
+"Jenkins, L.",COL,1,14,14,14,1,11,24
+"Kingston, J.",COL,1,7,7,7,0,11,24
+"Bumper, T.",COL,1,5,5,5,0,11,24

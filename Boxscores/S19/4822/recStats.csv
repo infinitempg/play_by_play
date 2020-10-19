@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McMahon, J.",COL,6,86,14.3,29,0
-"Bishop, J.",COL,5,108,21.6,45,1
-"Forty-Two, L.",COL,4,44,11,17,0
-"Owens, A.",COL,3,21,7,13,1
-"King, A.",COL,2,7,3.5,4,0
-"Swift, N.",YKW,6,109,18.2,37,0
-"Helanen, T.",YKW,5,57,11.4,28,0
-"Drake, O.",YKW,5,23,4.6,10,0
-"Sunnycursed, N.",YKW,4,35,8.8,13,0
-"Hanyadi, M.",YKW,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McMahon, J.",COL,6,86,14.3,29,0,4,19
+"Bishop, J.",COL,5,108,21.6,45,1,4,19
+"Forty-Two, L.",COL,4,44,11,17,0,4,19
+"Owens, A.",COL,3,21,7,13,1,4,19
+"King, A.",COL,2,7,3.5,4,0,4,19
+"Swift, N.",YKW,6,109,18.2,37,0,4,19
+"Helanen, T.",YKW,5,57,11.4,28,0,4,19
+"Drake, O.",YKW,5,23,4.6,10,0,4,19
+"Sunnycursed, N.",YKW,4,35,8.8,13,0,4,19
+"Hanyadi, M.",YKW,1,9,9,9,0,4,19

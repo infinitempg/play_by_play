@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Evans, D.",ARI,7,100,14.3,34,1
-"Garden, J.",ARI,6,119,19.8,34,1
-"Chess, C.",ARI,5,32,6.4,11,0
-"Law, C.",ARI,5,26,5.2,7,0
-"Tuck, J.",ARI,5,14,2.8,4,0
-"Mackworthy, R.",ARI,2,12,6,6,0
-"Tanner, C.",LV,5,69,13.8,24,1
-"LeClair, A.",LV,4,65,16.2,42,0
-"Cobb, K.",LV,3,28,9.3,11,0
-"Ross, J.",LV,2,28,14,19,0
-"Savea, A.",LV,2,13,6.5,9,0
-"Tenzini, G.",LV,2,7,3.5,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Evans, D.",ARI,7,100,14.3,34,1,14,4
+"Garden, J.",ARI,6,119,19.8,34,1,14,4
+"Chess, C.",ARI,5,32,6.4,11,0,14,4
+"Law, C.",ARI,5,26,5.2,7,0,14,4
+"Tuck, J.",ARI,5,14,2.8,4,0,14,4
+"Mackworthy, R.",ARI,2,12,6,6,0,14,4
+"Tanner, C.",LV,5,69,13.8,24,1,14,4
+"LeClair, A.",LV,4,65,16.2,42,0,14,4
+"Cobb, K.",LV,3,28,9.3,11,0,14,4
+"Ross, J.",LV,2,28,14,19,0,14,4
+"Savea, A.",LV,2,13,6.5,9,0,14,4
+"Tenzini, G.",LV,2,7,3.5,7,0,14,4

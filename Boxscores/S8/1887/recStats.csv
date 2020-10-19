@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Tuck Jr., T.",SJS,9,60,6.7,11,1
-"Jackson, M.",SJS,7,103,14.7,45,0
-"Weston, S.",SJS,6,91,15.2,24,1
-"Diaz, D.",SJS,4,10,2.5,7,0
-"West, D.",SJS,3,43,14.3,26,0
-"Bush, C.",PHI,6,82,13.7,22,0
-"North, F.",PHI,6,80,13.3,25,1
-"Garden, J.",PHI,4,59,14.8,27,1
-"DiMirio, P.",PHI,2,16,8,8,0
-"O'Connell, K.",PHI,1,7,7,7,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Tuck Jr., T.",SJS,9,60,6.7,11,1,3,8
+"Jackson, M.",SJS,7,103,14.7,45,0,3,8
+"Weston, S.",SJS,6,91,15.2,24,1,3,8
+"Diaz, D.",SJS,4,10,2.5,7,0,3,8
+"West, D.",SJS,3,43,14.3,26,0,3,8
+"Bush, C.",PHI,6,82,13.7,22,0,3,8
+"North, F.",PHI,6,80,13.3,25,1,3,8
+"Garden, J.",PHI,4,59,14.8,27,1,3,8
+"DiMirio, P.",PHI,2,16,8,8,0,3,8
+"O'Connell, K.",PHI,1,7,7,7,1,3,8

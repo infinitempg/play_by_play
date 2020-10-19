@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Cardrissian, R.",SJS,18,39,2.2,7,1
-"Lackson, J.",SJS,11,36,3.3,8,1
-"Williams, D.",BAL,20,67,3.4,13,0
-"Fukushu, M.",BAL,9,36,4,10,0
-"Fujiwara, C.",BAL,4,-1,-0.2,0,0
-"Skuff, R.",BAL,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Cardrissian, R.",SJS,18,39,2.2,7,1,9,24
+"Lackson, J.",SJS,11,36,3.3,8,1,9,24
+"Williams, D.",BAL,20,67,3.4,13,0,9,24
+"Fukushu, M.",BAL,9,36,4,10,0,9,24
+"Fujiwara, C.",BAL,4,-1,-0.2,0,0,9,24
+"Skuff, R.",BAL,1,5,5,5,0,9,24

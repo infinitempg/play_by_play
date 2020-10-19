@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Eriksen, W.",PHI,2,20,0,0
-"Personsacker, J.",PHI,2,10,0,0
-"Dotson, F.",PHI,1,5,1,1
-"Suzuki, S.",PHI,1,15,0,0
-"Tyler, J.",PHI,0,0,8,0
-"Arthur, C.",PHI,0,0,4,0
-"Blocksdale Jr., A.",PHI,0,0,3,0
-"Van Buren, M.",PHI,0,0,3,0
-"Fillmore, M.",PHI,0,0,2,0
-"Hayes, R.",PHI,0,0,1,0
-"Torenson, S.",PHI,0,0,0,1
-"Skyline, A.",YKW,1,5,1,2
-"Grithead, D.",YKW,1,5,0,0
-"Hellzapoppin, J.",YKW,1,11,0,0
-"Forty-Two, L.",YKW,0,0,10,0
-"Ones, B.",YKW,0,0,8,0
-"Pooky, S.",YKW,0,0,5,0
-"Rchonsucks, A.",YKW,0,0,2,0
-"Amper, T.",YKW,0,0,1,0
-"Hanyadi, M.",YKW,0,0,0,1
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Eriksen, W.",PHI,2,20,0,0,5,22
+"Personsacker, J.",PHI,2,10,0,0,5,22
+"Dotson, F.",PHI,1,5,1,1,5,22
+"Suzuki, S.",PHI,1,15,0,0,5,22
+"Tyler, J.",PHI,0,0,8,0,5,22
+"Arthur, C.",PHI,0,0,4,0,5,22
+"Blocksdale Jr., A.",PHI,0,0,3,0,5,22
+"Van Buren, M.",PHI,0,0,3,0,5,22
+"Fillmore, M.",PHI,0,0,2,0,5,22
+"Hayes, R.",PHI,0,0,1,0,5,22
+"Torenson, S.",PHI,0,0,0,1,5,22
+"Skyline, A.",YKW,1,5,1,2,5,22
+"Grithead, D.",YKW,1,5,0,0,5,22
+"Hellzapoppin, J.",YKW,1,11,0,0,5,22
+"Forty-Two, L.",YKW,0,0,10,0,5,22
+"Ones, B.",YKW,0,0,8,0,5,22
+"Pooky, S.",YKW,0,0,5,0,5,22
+"Rchonsucks, A.",YKW,0,0,2,0,5,22
+"Amper, T.",YKW,0,0,1,0,5,22
+"Hanyadi, M.",YKW,0,0,0,1,5,22

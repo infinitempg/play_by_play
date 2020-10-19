@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Cook, B.",SJS,8,85,10.6,21,2
-"Weston, S.",SJS,6,94,15.7,34,0
-"Bottles, B.",SJS,6,54,9,15,0
-"Stephen, W.",SJS,5,47,9.4,14,0
-"Durden, J.",SJS,1,4,4,4,0
-"Phelps, R.",OCO,7,84,12,24,1
-"Westfield, B.",OCO,5,90,18,33,0
-"Wright Jr, G.",OCO,4,36,9,18,0
-"Willie, T.",OCO,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Cook, B.",SJS,8,85,10.6,21,2,4,2
+"Weston, S.",SJS,6,94,15.7,34,0,4,2
+"Bottles, B.",SJS,6,54,9,15,0,4,2
+"Stephen, W.",SJS,5,47,9.4,14,0,4,2
+"Durden, J.",SJS,1,4,4,4,0,4,2
+"Phelps, R.",OCO,7,84,12,24,1,4,2
+"Westfield, B.",OCO,5,90,18,33,0,4,2
+"Wright Jr, G.",OCO,4,36,9,18,0,4,2
+"Willie, T.",OCO,1,8,8,8,0,4,2

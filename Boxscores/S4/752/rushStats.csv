@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yates, J.",SJS,16,100,6.2,31,2
-"Diaz, D.",SJS,4,6,1.5,5,0
-"Orosz, C.",SJS,2,7,3.5,7,0
-"Savea, A.",LV,38,111,2.9,9,0
-"Cobb, K.",LV,7,25,3.6,10,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yates, J.",SJS,16,100,6.2,31,2,8,4
+"Diaz, D.",SJS,4,6,1.5,5,0,8,4
+"Orosz, C.",SJS,2,7,3.5,7,0,8,4
+"Savea, A.",LV,38,111,2.9,9,0,8,4
+"Cobb, K.",LV,7,25,3.6,10,0,8,4

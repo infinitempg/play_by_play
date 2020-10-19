@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Gump, F.",NO,3,89,-3,39,1,0,0,4
-"Jones, B.",NO,2,32,0,20,0,0,0,0
-"Lejune, L.",COL,2,66,6,34,4,0,0,2
-"Bishop, J.",COL,3,115,0,46,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Gump, F.",NO,3,89,-3,39,1,0,0,4,4,18
+"Jones, B.",NO,2,32,0,20,0,0,0,0,4,18
+"Lejune, L.",COL,2,66,6,34,4,0,0,2,4,18
+"Bishop, J.",COL,3,115,0,46,0,0,0,0,4,18

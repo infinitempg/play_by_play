@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Leg, P.",NO,7,268,38.3,54,2
-"Turkleton, T.",BAL,8,361,45.1,64,1
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Leg, P.",NO,7,268,38.3,54,2,7,10
+"Turkleton, T.",BAL,8,361,45.1,64,1,7,10

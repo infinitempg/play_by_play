@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"McKoutchie, M.",SJS,1,10,1,0
-"Probincrux III, D.",SJS,0,0,5,0
-"Rucker, F.",SJS,0,0,4,1
-"Bot, B.",SJS,0,0,3,0
-"Canton, J.",SJS,0,0,1,0
-"Jahelpme, H.",SJS,0,0,1,0
-"Guard, R.",COL,1,10,5,0
-"Tackle, R.",COL,1,5,5,0
-"Crindy, B.",COL,1,2,3,1
-"Centre, S.",COL,1,5,2,0
-"Miller, H.",COL,1,15,0,0
-"Guard, L.",COL,0,0,6,0
-"Tackle, L.",COL,0,0,5,0
-"Chipmunk, A.",COL,0,0,2,0
-"Grau, M.",COL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"McKoutchie, M.",SJS,1,10,1,0,1,14
+"Probincrux III, D.",SJS,0,0,5,0,1,14
+"Rucker, F.",SJS,0,0,4,1,1,14
+"Bot, B.",SJS,0,0,3,0,1,14
+"Canton, J.",SJS,0,0,1,0,1,14
+"Jahelpme, H.",SJS,0,0,1,0,1,14
+"Guard, R.",COL,1,10,5,0,1,14
+"Tackle, R.",COL,1,5,5,0,1,14
+"Crindy, B.",COL,1,2,3,1,1,14
+"Centre, S.",COL,1,5,2,0,1,14
+"Miller, H.",COL,1,15,0,0,1,14
+"Guard, L.",COL,0,0,6,0,1,14
+"Tackle, L.",COL,0,0,5,0,1,14
+"Chipmunk, A.",COL,0,0,2,0,1,14
+"Grau, M.",COL,0,0,1,0,1,14

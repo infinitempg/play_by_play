@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Jenkins, L.",OCO,14,39,2.8,7,1
-"Bowers Jr, V.",OCO,12,46,3.8,16,0
-"Boss, M.",OCO,1,-1,-1,0,0
-"Nuck, B.",YKW,26,48,1.8,6,0
-"Kennedy, E.",YKW,5,4,0.8,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Jenkins, L.",OCO,14,39,2.8,7,1,12,2
+"Bowers Jr, V.",OCO,12,46,3.8,16,0,12,2
+"Boss, M.",OCO,1,-1,-1,0,0,12,2
+"Nuck, B.",YKW,26,48,1.8,6,0,12,2
+"Kennedy, E.",YKW,5,4,0.8,2,0,12,2

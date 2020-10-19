@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, M.",SJS,5,106,21.2,41,2
-"Weston, S.",SJS,4,90,22.5,38,0
-"Bottles, B.",SJS,4,41,10.2,17,0
-"Smallwood, D.",SJS,4,38,9.5,14,0
-"West, D.",SJS,2,45,22.5,36,1
-"Chess, C.",AZ,7,53,7.6,14,0
-"Browning, B.",AZ,6,59,9.8,18,0
-"Mackworthy, R.",AZ,4,64,16,36,0
-"Booter, F.",AZ,4,42,10.5,22,1
-"Christmas, C.",AZ,4,34,8.5,11,0
-"Wright, O.",AZ,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, M.",SJS,5,106,21.2,41,2,10,7
+"Weston, S.",SJS,4,90,22.5,38,0,10,7
+"Bottles, B.",SJS,4,41,10.2,17,0,10,7
+"Smallwood, D.",SJS,4,38,9.5,14,0,10,7
+"West, D.",SJS,2,45,22.5,36,1,10,7
+"Chess, C.",AZ,7,53,7.6,14,0,10,7
+"Browning, B.",AZ,6,59,9.8,18,0,10,7
+"Mackworthy, R.",AZ,4,64,16,36,0,10,7
+"Booter, F.",AZ,4,42,10.5,22,1,10,7
+"Christmas, C.",AZ,4,34,8.5,11,0,10,7
+"Wright, O.",AZ,1,5,5,5,0,10,7

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"McPoyal, G.",YKW,6,67,11.2,30,0
-"Kennedy, E.",YKW,5,134,26.8,38,1
-"Cook, B.",YKW,4,70,17.5,43,1
-"Lavelle, D.",YKW,2,24,12,16,0
-"Harris Jr., F.",YKW,2,14,7,7,0
-"L'Alto, V.",BAL,6,21,3.5,8,0
-"Browning, B.",BAL,4,101,25.2,57,0
-"Willie, T.",BAL,4,86,21.5,28,1
-"LeClair, A.",BAL,4,67,16.8,30,1
-"Taylor, O.",BAL,2,4,2,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"McPoyal, G.",YKW,6,67,11.2,30,0,6,8
+"Kennedy, E.",YKW,5,134,26.8,38,1,6,8
+"Cook, B.",YKW,4,70,17.5,43,1,6,8
+"Lavelle, D.",YKW,2,24,12,16,0,6,8
+"Harris Jr., F.",YKW,2,14,7,7,0,6,8
+"L'Alto, V.",BAL,6,21,3.5,8,0,6,8
+"Browning, B.",BAL,4,101,25.2,57,0,6,8
+"Willie, T.",BAL,4,86,21.5,28,1,6,8
+"LeClair, A.",BAL,4,67,16.8,30,1,6,8
+"Taylor, O.",BAL,2,4,2,3,0,6,8

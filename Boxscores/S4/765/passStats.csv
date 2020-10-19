@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Boss, M.",OCO,"[34, 51]",388,11.4,3,1,100.8
-"Pierno, N.",COL,"[12, 21]",112,9.3,0,2,32.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Boss, M.",OCO,388,11.4,3,1,100.8,34,12,11,4
+"Pierno, N.",COL,112,9.3,0,2,32.3,34,12,11,4

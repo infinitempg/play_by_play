@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Wizardry, D.",AUS,17,75,4.4,13,1
-"Mendonca, M.",AUS,12,32,2.7,6,1
-"Cole, E.",AUS,1,0,0,0,0
-"Taffy, T.",COL,20,117,5.8,12,1
-"Carrasco, T.",COL,10,61,6.1,15,1
-"Grau, M.",COL,1,8,8,8,0
-"McDummy, W.",COL,1,0,0,0,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Wizardry, D.",AUS,17,75,4.4,13,1,11,16
+"Mendonca, M.",AUS,12,32,2.7,6,1,11,16
+"Cole, E.",AUS,1,0,0,0,0,11,16
+"Taffy, T.",COL,20,117,5.8,12,1,11,16
+"Carrasco, T.",COL,10,61,6.1,15,1,11,16
+"Grau, M.",COL,1,8,8,8,0,11,16
+"McDummy, W.",COL,1,0,0,0,0,11,16

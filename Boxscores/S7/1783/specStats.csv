@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Evans, D.",NO,1,9,0,9,0,0,0,0
-"Broxton, J.",NO,4,113,50,42,19,0,0,7
-"Mackworthy, R.",AZ,2,39,-2,23,0,0,0,1
-"Browning, B.",AZ,4,84,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Evans, D.",NO,1,9,0,9,0,0,0,0,14,7
+"Broxton, J.",NO,4,113,50,42,19,0,0,7,14,7
+"Mackworthy, R.",AZ,2,39,-2,23,0,0,0,1,14,7
+"Browning, B.",AZ,4,84,0,33,0,0,0,0,14,7

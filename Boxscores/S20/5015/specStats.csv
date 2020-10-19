@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lewis, L.",YKW,1,-1,0,0,0,0,0,0
-"Swift, N.",YKW,1,6,0,6,0,0,0,0
-"Snuggles, J.",YKW,4,147,24,55,17,0,0,2
-"Green, W.",BAL,6,177,0,89,0,0,0,0
-"Maddox, E.",BAL,3,52,14,38,11,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lewis, L.",YKW,1,-1,0,0,0,0,0,0,9,20
+"Swift, N.",YKW,1,6,0,6,0,0,0,0,9,20
+"Snuggles, J.",YKW,4,147,24,55,17,0,0,2,9,20
+"Green, W.",BAL,6,177,0,89,0,0,0,0,9,20
+"Maddox, E.",BAL,3,52,14,38,11,0,0,2,9,20

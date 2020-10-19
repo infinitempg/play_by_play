@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Robotman, D.",AZ,1,11,5,1
-"David, M.",AZ,1,15,0,0
-"Robotman, A.",AZ,0,0,8,0
-"Robotman, E.",AZ,0,0,3,0
-"Robotman, C.",AZ,0,0,2,0
-"Crindy, B.",AZ,0,0,1,0
-"Robotman, B.",AZ,0,0,1,0
-"Shady, S.",AZ,0,0,0,1
-"Brannigan, Z.",SJS,2,15,1,0
-"Bayley, B.",SJS,1,5,0,0
-"Probincrux III, D.",SJS,0,0,5,1
-"McKoutchie, M.",SJS,0,0,4,0
-"Rucker, F.",SJS,0,0,4,0
-"Tacktheritrix, J.",SJS,0,0,3,0
-"Canton, J.",SJS,0,0,1,0
-"Jahelpme, H.",SJS,0,0,1,0
-"Orosz, C.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Robotman, D.",AZ,1,11,5,1,2,12
+"David, M.",AZ,1,15,0,0,2,12
+"Robotman, A.",AZ,0,0,8,0,2,12
+"Robotman, E.",AZ,0,0,3,0,2,12
+"Robotman, C.",AZ,0,0,2,0,2,12
+"Crindy, B.",AZ,0,0,1,0,2,12
+"Robotman, B.",AZ,0,0,1,0,2,12
+"Shady, S.",AZ,0,0,0,1,2,12
+"Brannigan, Z.",SJS,2,15,1,0,2,12
+"Bayley, B.",SJS,1,5,0,0,2,12
+"Probincrux III, D.",SJS,0,0,5,1,2,12
+"McKoutchie, M.",SJS,0,0,4,0,2,12
+"Rucker, F.",SJS,0,0,4,0,2,12
+"Tacktheritrix, J.",SJS,0,0,3,0,2,12
+"Canton, J.",SJS,0,0,1,0,2,12
+"Jahelpme, H.",SJS,0,0,1,0,2,12
+"Orosz, C.",SJS,0,0,1,0,2,12

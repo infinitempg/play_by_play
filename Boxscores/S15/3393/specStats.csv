@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Shady, S.",AZ,2,20,0,17,0,0,0,0
-"Murphy, J.",AZ,4,57,0,19,0,0,0,0
-"Adams, R.",AZ,0,0,19,0,16,0,0,3
-"Valentine, V.",BAL,4,101,9,37,8,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Shady, S.",AZ,2,20,0,17,0,0,0,0,10,15
+"Murphy, J.",AZ,4,57,0,19,0,0,0,0,10,15
+"Adams, R.",AZ,0,0,19,0,16,0,0,3,10,15
+"Valentine, V.",BAL,4,101,9,37,8,0,0,2,10,15

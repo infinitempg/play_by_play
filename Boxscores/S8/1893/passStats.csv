@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Bronko, K.",AZ,"[26, 33]",225,8.7,2,0,115.3
-"Applehort, R.",COL,"[20, 31]",239,12,1,1,85.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Bronko, K.",AZ,225,8.7,2,0,115.3,26,20,4,8
+"Applehort, R.",COL,239,12,1,1,85.3,26,20,4,8

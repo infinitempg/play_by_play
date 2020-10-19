@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bishop, J.",COL,5,105,21,35,1
-"LaMelllana, S.",COL,3,25,8.3,10,0
-"Crindy, B.",COL,3,11,3.7,6,0
-"Palmer, J.",COL,2,17,8.5,13,0
-"Taffy, T.",COL,1,16,16,16,0
-"Wright, R.",COL,1,6,6,6,0
-"Grau, M.",COL,1,0,0,0,0
-"Justice, T.",SJS,6,100,16.7,28,0
-"Olsen, C.",SJS,5,48,9.6,13,0
-"Flash, X.",SJS,4,60,15,34,1
-"Wright, D.",SJS,3,17,5.7,8,0
-"Bigby, L.",SJS,2,10,5,6,0
-"Orosz, C.",SJS,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bishop, J.",COL,5,105,21,35,1,13,16
+"LaMelllana, S.",COL,3,25,8.3,10,0,13,16
+"Crindy, B.",COL,3,11,3.7,6,0,13,16
+"Palmer, J.",COL,2,17,8.5,13,0,13,16
+"Taffy, T.",COL,1,16,16,16,0,13,16
+"Wright, R.",COL,1,6,6,6,0,13,16
+"Grau, M.",COL,1,0,0,0,0,13,16
+"Justice, T.",SJS,6,100,16.7,28,0,13,16
+"Olsen, C.",SJS,5,48,9.6,13,0,13,16
+"Flash, X.",SJS,4,60,15,34,1,13,16
+"Wright, D.",SJS,3,17,5.7,8,0,13,16
+"Bigby, L.",SJS,2,10,5,6,0,13,16
+"Orosz, C.",SJS,1,5,5,5,0,13,16

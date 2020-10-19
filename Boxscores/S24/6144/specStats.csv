@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mendonca, M.",AUS,1,47,0,47,0,0,0,0
-"Lavelle Jr., D.",AUS,1,14,10,14,13,0,0,2
-"Quinn, A.",BAL,6,71,0,25,0,0,0,0
-"Williams, D.",BAL,3,109,20,41,20,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mendonca, M.",AUS,1,47,0,47,0,0,0,0,7,24
+"Lavelle Jr., D.",AUS,1,14,10,14,13,0,0,2,7,24
+"Quinn, A.",BAL,6,71,0,25,0,0,0,0,7,24
+"Williams, D.",BAL,3,109,20,41,20,0,0,1,7,24

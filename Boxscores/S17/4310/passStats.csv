@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Christ, J.",SJS,"[32, 51]",355,11.1,1,0,89.9
-"Reese, A.",AZ,"[26, 48]",308,11.8,3,0,94.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Christ, J.",SJS,355,11.1,1,0,89.9,32,26,5,17
+"Reese, A.",AZ,308,11.8,3,0,94.8,32,26,5,17

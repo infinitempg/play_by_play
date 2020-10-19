@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Wright, D.",SJS,"[20, 34]",242,12.1,2,0,100.4
-"Havran, C.",BAL,"[20, 38]",292,14.6,1,0,86.7
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Wright, D.",SJS,242,12.1,2,0,100.4,20,20,10,18
+"Havran, C.",BAL,292,14.6,1,0,86.7,20,20,10,18

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,2,85,0,43,0,0,0,0
-"Morris, D.",AZ,2,70,25,36,12,0,0,4
-"Weston, S.",SJS,3,111,0,57,0,0,0,0
-"Canton, J.",SJS,3,43,0,17,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,2,85,0,43,0,0,0,0,7,9
+"Morris, D.",AZ,2,70,25,36,12,0,0,4,7,9
+"Weston, S.",SJS,3,111,0,57,0,0,0,0,7,9
+"Canton, J.",SJS,3,43,0,17,0,0,0,0,7,9

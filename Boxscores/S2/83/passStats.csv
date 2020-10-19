@@ -1,4 +1,4 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Hunt, E.",SJS,"[23, 44]",284,12.3,1,1,70.6
-"Bercovici, J.",LV,"[16, 26]",198,12.4,2,0,110.7
-"Ryder, L.",LV,"[2, 5]",29,14.5,0,1,20
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Hunt, E.",SJS,284,12.3,1,1,70.6,23,16,8,2
+"Bercovici, J.",LV,198,12.4,2,0,110.7,23,16,8,2
+"Ryder, L.",LV,29,14.5,0,1,20,23,16,8,2

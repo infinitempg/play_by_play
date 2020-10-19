@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,3,92,0,40,0,0,0,0
-"Hayden, A.",AZ,2,42,33,28,17,0,0,4
-"Oles, T.",PHI,6,145,0,39,0,0,0,0
-"Kroetch, D.",PHI,1,15,0,15,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,3,92,0,40,0,0,0,0,12,5
+"Hayden, A.",AZ,2,42,33,28,17,0,0,4,12,5
+"Oles, T.",PHI,6,145,0,39,0,0,0,0,12,5
+"Kroetch, D.",PHI,1,15,0,15,0,0,0,0,12,5

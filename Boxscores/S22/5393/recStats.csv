@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Evans, H.",AZ,5,58,11.6,34,1
-"Passman, T.",AZ,5,45,9,16,0
-"Yoda, B.",AZ,4,28,7,12,0
-"Donut, S.",AZ,3,85,28.3,54,1
-"Bur'Berry, J.",AZ,3,39,13,17,0
-"Owens, A.",COL,6,94,15.7,51,0
-"Bishop, J.",COL,5,66,13.2,29,0
-"Arrow, R.",COL,2,73,36.5,61,0
-"Vincent, M.",COL,1,13,13,13,0
-"Lim, W.",COL,1,11,11,11,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Evans, H.",AZ,5,58,11.6,34,1,6,22
+"Passman, T.",AZ,5,45,9,16,0,6,22
+"Yoda, B.",AZ,4,28,7,12,0,6,22
+"Donut, S.",AZ,3,85,28.3,54,1,6,22
+"Bur'Berry, J.",AZ,3,39,13,17,0,6,22
+"Owens, A.",COL,6,94,15.7,51,0,6,22
+"Bishop, J.",COL,5,66,13.2,29,0,6,22
+"Arrow, R.",COL,2,73,36.5,61,0,6,22
+"Vincent, M.",COL,1,13,13,13,0,6,22
+"Lim, W.",COL,1,11,11,11,0,6,22

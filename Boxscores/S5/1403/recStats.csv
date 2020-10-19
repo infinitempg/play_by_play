@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Sullivan, S.",OCO,9,54,6,10,0
-"Yates, J.",OCO,8,161,20.1,37,3
-"Westfield, B.",OCO,6,138,23,31,2
-"Phelps, R.",OCO,6,75,12.5,32,1
-"Petrakis, A.",OCO,5,55,11,17,0
-"Tanner, C.",SJS,9,88,9.8,15,0
-"Jackson, M.",SJS,6,81,13.5,37,0
-"Weston, S.",SJS,5,115,23,71,0
-"Smallwood, D.",SJS,5,45,9,25,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Sullivan, S.",OCO,9,54,6,10,0,8,5
+"Yates, J.",OCO,8,161,20.1,37,3,8,5
+"Westfield, B.",OCO,6,138,23,31,2,8,5
+"Phelps, R.",OCO,6,75,12.5,32,1,8,5
+"Petrakis, A.",OCO,5,55,11,17,0,8,5
+"Tanner, C.",SJS,9,88,9.8,15,0,8,5
+"Jackson, M.",SJS,6,81,13.5,37,0,8,5
+"Weston, S.",SJS,5,115,23,71,0,8,5
+"Smallwood, D.",SJS,5,45,9,25,0,8,5

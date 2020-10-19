@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Maddox, E.",BAL,3,82,9,43,9,0,0,1
-"Emoji, E.",PHI,3,79,19,45,21,0,0,3
-"Garnett, L.",PHI,4,86,0,32,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Maddox, E.",BAL,3,82,9,43,9,0,0,1,7,20
+"Emoji, E.",PHI,3,79,19,45,21,0,0,3,7,20
+"Garnett, L.",PHI,4,86,0,32,0,0,0,0,7,20

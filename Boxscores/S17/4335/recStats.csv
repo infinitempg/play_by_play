@@ -1,10 +1,10 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Harp, D.",CHI,4,41,10.2,15,1
-"Batoff, R.",CHI,3,69,23,36,1
-"Oles, K.",CHI,3,53,17.7,37,0
-"Danielsson, A.",CHI,3,43,14.3,30,0
-"Adams, R.",CHI,2,32,16,23,0
-"Flash, X.",SJS,4,103,25.8,35,1
-"Olsen, C.",SJS,3,21,7,11,0
-"Justice, T.",SJS,1,29,29,29,0
-"Wright, D.",SJS,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Harp, D.",CHI,4,41,10.2,15,1,10,17
+"Batoff, R.",CHI,3,69,23,36,1,10,17
+"Oles, K.",CHI,3,53,17.7,37,0,10,17
+"Danielsson, A.",CHI,3,43,14.3,30,0,10,17
+"Adams, R.",CHI,2,32,16,23,0,10,17
+"Flash, X.",SJS,4,103,25.8,35,1,10,17
+"Olsen, C.",SJS,3,21,7,11,0,10,17
+"Justice, T.",SJS,1,29,29,29,0,10,17
+"Wright, D.",SJS,1,4,4,4,0,10,17

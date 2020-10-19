@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Jenkins, R.",SAR,"[25, 43]",318,12.7,1,2,69.7
-"Bigsby, C.",YKW,"[19, 34]",184,9.7,4,0,110.4
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Jenkins, R.",SAR,318,12.7,1,2,69.7,25,19,10,22
+"Bigsby, C.",YKW,184,9.7,4,0,110.4,25,19,10,22

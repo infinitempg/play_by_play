@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Fujiwara, C.",BAL,"[20, 31]",227,11.4,2,0,107.9
-"Skywalker, L.",HON,"[25, 51]",230,9.2,2,0,74.8
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Fujiwara, C.",BAL,227,11.4,2,0,107.9,20,25,6,24
+"Skywalker, L.",HON,230,9.2,2,0,74.8,20,25,6,24

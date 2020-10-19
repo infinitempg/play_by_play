@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Jackson, A.",YKW,5,78,15.6,32,2
-"Hanyadi, M.",YKW,5,36,7.2,13,0
-"Rodriguez, B.",YKW,4,105,26.2,35,0
-"Swift, N.",YKW,3,29,9.7,16,0
-"Lee, M.",YKW,2,26,13,17,0
-"Skyline, A.",YKW,2,8,4,7,0
-"Hardagain, W.",YKW,1,17,17,17,0
-"Okusi, R.",CHI,3,47,15.7,31,0
-"Hayes, V.",CHI,3,42,14,25,0
-"O'Leary, S.",CHI,2,20,10,14,0
-"Tirtawidjaja, J.",CHI,2,14,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Jackson, A.",YKW,5,78,15.6,32,2,3,23
+"Hanyadi, M.",YKW,5,36,7.2,13,0,3,23
+"Rodriguez, B.",YKW,4,105,26.2,35,0,3,23
+"Swift, N.",YKW,3,29,9.7,16,0,3,23
+"Lee, M.",YKW,2,26,13,17,0,3,23
+"Skyline, A.",YKW,2,8,4,7,0,3,23
+"Hardagain, W.",YKW,1,17,17,17,0,3,23
+"Okusi, R.",CHI,3,47,15.7,31,0,3,23
+"Hayes, V.",CHI,3,42,14,25,0,3,23
+"O'Leary, S.",CHI,2,20,10,14,0,3,23
+"Tirtawidjaja, J.",CHI,2,14,7,7,0,3,23

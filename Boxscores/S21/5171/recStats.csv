@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blaze, J.",OCO,8,148,18.5,40,1
-"Mongo, H.",OCO,6,117,19.5,41,2
-"Banks II, D.",OCO,3,43,14.3,29,0
-"Kurisuto, R.",OCO,2,9,4.5,5,0
-"Bigby, L.",OCO,1,4,4,4,0
-"Irving, J.",AZ,5,74,14.8,38,0
-"Bur'Berry, J.",AZ,5,51,10.2,16,1
-"Hardagain, W.",AZ,5,23,4.6,8,0
-"Ruff, R.",AZ,4,12,3,5,0
-"Donut, S.",AZ,2,16,8,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blaze, J.",OCO,8,148,18.5,40,1,4,21
+"Mongo, H.",OCO,6,117,19.5,41,2,4,21
+"Banks II, D.",OCO,3,43,14.3,29,0,4,21
+"Kurisuto, R.",OCO,2,9,4.5,5,0,4,21
+"Bigby, L.",OCO,1,4,4,4,0,4,21
+"Irving, J.",AZ,5,74,14.8,38,0,4,21
+"Bur'Berry, J.",AZ,5,51,10.2,16,1,4,21
+"Hardagain, W.",AZ,5,23,4.6,8,0,4,21
+"Ruff, R.",AZ,4,12,3,5,0,4,21
+"Donut, S.",AZ,2,16,8,10,0,4,21

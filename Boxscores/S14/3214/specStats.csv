@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garnett, L.",PHI,4,80,37,36,20,0,0,2
-"Barnes, B.",PHI,1,21,0,21,0,0,0,0
-"Fyodorovich, V.",NO,2,90,2,45,2,0,0,1
-"Danielsson, A.",NO,4,105,0,42,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garnett, L.",PHI,4,80,37,36,20,0,0,2,3,14
+"Barnes, B.",PHI,1,21,0,21,0,0,0,0,3,14
+"Fyodorovich, V.",NO,2,90,2,45,2,0,0,1,3,14
+"Danielsson, A.",NO,4,105,0,42,0,0,0,0,3,14

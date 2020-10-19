@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Fukushu, M.",BAL,4,88,0,42,0,0,0,0
-"Campbell, J.",BAL,0,0,23,0,14,0,0,4
-"Purchase, L.",COL,2,34,0,20,0,0,0,0
-"Williams, D.",COL,2,89,34,60,20,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Fukushu, M.",BAL,4,88,0,42,0,0,0,0,4,25
+"Campbell, J.",BAL,0,0,23,0,14,0,0,4,4,25
+"Purchase, L.",COL,2,34,0,20,0,0,0,0,4,25
+"Williams, D.",COL,2,89,34,60,20,0,0,2,4,25

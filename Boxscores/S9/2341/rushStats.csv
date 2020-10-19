@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Taylor, O.",BAL,28,122,4.4,14,2
-"Blocksdale, A.",BAL,1,-1,-1,0,0
-"Nuck, B.",BAL,1,6,6,6,0
-"Smallwood, D.",NO,31,126,4.1,13,2
-"Savea, A.",NO,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Taylor, O.",BAL,28,122,4.4,14,2,7,9
+"Blocksdale, A.",BAL,1,-1,-1,0,0,7,9
+"Nuck, B.",BAL,1,6,6,6,0,7,9
+"Smallwood, D.",NO,31,126,4.1,13,2,7,9
+"Savea, A.",NO,1,1,1,1,0,7,9

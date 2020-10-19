@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Oles, T.",PHI,"[26, 52]",368,14.2,3,1,84.5
-"Blocksdale, A.",BAL,"[21, 41]",240,11.4,2,1,75.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Oles, T.",PHI,368,14.2,3,1,84.5,26,21,4,7
+"Blocksdale, A.",BAL,240,11.4,2,1,75.3,26,21,4,7

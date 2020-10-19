@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Fyodorovich, V.",NO,3,78,15,45,16,0,0,2
-"Hornbacher, A.",NO,2,33,0,20,0,0,0,0
-"Broxton, J.",OCO,2,59,0,32,0,0,0,0
-"Bly Jr., A.",OCO,2,46,39,25,14,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Fyodorovich, V.",NO,3,78,15,45,16,0,0,2,12,12
+"Hornbacher, A.",NO,2,33,0,20,0,0,0,0,12,12
+"Broxton, J.",OCO,2,59,0,32,0,0,0,0,12,12
+"Bly Jr., A.",OCO,2,46,39,25,14,0,0,4,12,12

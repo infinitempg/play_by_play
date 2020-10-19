@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Miller, H.",COL,8,84,10.5,31,0
-"Bishop, J.",COL,6,78,13,26,1
-"Grau, M.",COL,5,34,6.8,10,0
-"Wachter, J.",COL,3,30,10,13,0
-"Cansino, D.",COL,2,25,12.5,16,0
-"Strike, L.",COL,2,6,3,6,0
-"Fyodorovich, V.",NO,6,133,22.2,50,0
-"DiMirio, P.",NO,5,47,9.4,12,0
-"Halvorsen, T.",NO,5,46,9.2,16,1
-"Storm, B.",NO,4,67,16.8,34,0
-"Gore, B.",NO,4,14,3.5,12,0
-"Yobanna-Kanayochukwu, C.",NO,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Miller, H.",COL,8,84,10.5,31,0,11,12
+"Bishop, J.",COL,6,78,13,26,1,11,12
+"Grau, M.",COL,5,34,6.8,10,0,11,12
+"Wachter, J.",COL,3,30,10,13,0,11,12
+"Cansino, D.",COL,2,25,12.5,16,0,11,12
+"Strike, L.",COL,2,6,3,6,0,11,12
+"Fyodorovich, V.",NO,6,133,22.2,50,0,11,12
+"DiMirio, P.",NO,5,47,9.4,12,0,11,12
+"Halvorsen, T.",NO,5,46,9.2,16,1,11,12
+"Storm, B.",NO,4,67,16.8,34,0,11,12
+"Gore, B.",NO,4,14,3.5,12,0,11,12
+"Yobanna-Kanayochukwu, C.",NO,1,2,2,2,0,11,12

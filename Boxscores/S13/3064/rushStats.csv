@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Danielsson, A.",NO,15,58,3.9,11,1
-"Swift, T.",NO,12,36,3,7,0
-"Maximus III, B.",NO,4,14,3.5,7,1
-"Zephyrous, S.",OCO,6,16,2.7,14,0
-"Adams, R.",OCO,4,17,4.2,10,0
-"Showbiz, G.",OCO,2,11,5.5,11,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Danielsson, A.",NO,15,58,3.9,11,1,14,13
+"Swift, T.",NO,12,36,3,7,0,14,13
+"Maximus III, B.",NO,4,14,3.5,7,1,14,13
+"Zephyrous, S.",OCO,6,16,2.7,14,0,14,13
+"Adams, R.",OCO,4,17,4.2,10,0,14,13
+"Showbiz, G.",OCO,2,11,5.5,11,0,14,13

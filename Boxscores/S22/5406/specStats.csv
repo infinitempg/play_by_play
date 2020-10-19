@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Abernathy, K.",OCO,4,98,0,35,0,0,0,0
-"Dream, K.",OCO,1,5,19,5,11,0,0,3
-"Gordon, R.",SAR,5,221,0,105,0,1,0,0
-"Knight, L.",SAR,2,26,16,17,16,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Abernathy, K.",OCO,4,98,0,35,0,0,0,0,8,22
+"Dream, K.",OCO,1,5,19,5,11,0,0,3,8,22
+"Gordon, R.",SAR,5,221,0,105,0,1,0,0,8,22
+"Knight, L.",SAR,2,26,16,17,16,0,0,1,8,22

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,2,44,62,23,55,0,1,3
-"Diaz, D.",SJS,3,50,0,24,0,0,0,0
-"Delacour, A.",BAL,4,93,0,35,0,0,0,0
-"Farlane, D.",BAL,1,30,11,30,6,0,0,4
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,2,44,62,23,55,0,1,3,3,2
+"Diaz, D.",SJS,3,50,0,24,0,0,0,0,3,2
+"Delacour, A.",BAL,4,93,0,35,0,0,0,0,3,2
+"Farlane, D.",BAL,1,30,11,30,6,0,0,4,3,2

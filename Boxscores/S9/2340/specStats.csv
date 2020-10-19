@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garden, J.",PHI,7,202,12,42,14,0,0,3
-"Delacour, A.",BAL,3,82,16,44,17,0,0,3
-"Willie, T.",BAL,2,37,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garden, J.",PHI,7,202,12,42,14,0,0,3,6,9
+"Delacour, A.",BAL,3,82,16,44,17,0,0,3,6,9
+"Willie, T.",BAL,2,37,0,33,0,0,0,0,6,9

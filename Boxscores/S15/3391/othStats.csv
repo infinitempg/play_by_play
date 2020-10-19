@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Saul, C.",PHI,1,10,0,0
-"Hayes, R.",PHI,0,0,4,0
-"Tyler, J.",PHI,0,0,4,0
-"Fillmore, M.",PHI,0,0,3,0
-"Jones, V.",PHI,0,0,2,1
-"Brannigan, Z.",PHI,0,0,2,0
-"Van Buren, M.",PHI,0,0,2,0
-"Hank, F.",PHI,0,0,1,1
-"Arthur, C.",PHI,0,0,1,0
-"Polk, J.",PHI,0,0,1,0
-"Tacktheritrix, J.",SJS,1,9,4,0
-"Rucker, F.",SJS,0,0,4,1
-"Probincrux III, D.",SJS,0,0,4,0
-"Jahelpme, H.",SJS,0,0,3,2
-"McKoutchie, M.",SJS,0,0,3,0
-"Olsen, C.",SJS,0,0,3,0
-"Orosz, C.",SJS,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Saul, C.",PHI,1,10,0,0,9,15
+"Hayes, R.",PHI,0,0,4,0,9,15
+"Tyler, J.",PHI,0,0,4,0,9,15
+"Fillmore, M.",PHI,0,0,3,0,9,15
+"Jones, V.",PHI,0,0,2,1,9,15
+"Brannigan, Z.",PHI,0,0,2,0,9,15
+"Van Buren, M.",PHI,0,0,2,0,9,15
+"Hank, F.",PHI,0,0,1,1,9,15
+"Arthur, C.",PHI,0,0,1,0,9,15
+"Polk, J.",PHI,0,0,1,0,9,15
+"Tacktheritrix, J.",SJS,1,9,4,0,9,15
+"Rucker, F.",SJS,0,0,4,1,9,15
+"Probincrux III, D.",SJS,0,0,4,0,9,15
+"Jahelpme, H.",SJS,0,0,3,2,9,15
+"McKoutchie, M.",SJS,0,0,3,0,9,15
+"Olsen, C.",SJS,0,0,3,0,9,15
+"Orosz, C.",SJS,0,0,1,0,9,15

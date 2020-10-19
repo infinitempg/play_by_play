@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Becker, K.",PHI,2,29,0,20,0,0,0,0
-"Bush, C.",PHI,2,60,0,35,0,0,0,0
-"Lavelle, D.",YKW,1,21,0,21,0,0,0,0
-"Wizardry, D.",YKW,6,161,9,61,9,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Becker, K.",PHI,2,29,0,20,0,0,0,0,9,13
+"Bush, C.",PHI,2,60,0,35,0,0,0,0,9,13
+"Lavelle, D.",YKW,1,21,0,21,0,0,0,0,9,13
+"Wizardry, D.",YKW,6,161,9,61,9,0,0,1,9,13

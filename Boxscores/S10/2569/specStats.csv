@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bly Jr., A.",COL,2,58,2,40,2,0,0,2
-"Miller, H.",COL,1,21,0,21,0,0,0,0
-"Hayden, A.",PHI,3,86,25,37,17,0,0,2
-"Felix, L.",PHI,2,40,0,29,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bly Jr., A.",COL,2,58,2,40,2,0,0,2,12,10
+"Miller, H.",COL,1,21,0,21,0,0,0,0,12,10
+"Hayden, A.",PHI,3,86,25,37,17,0,0,2,12,10
+"Felix, L.",PHI,2,40,0,29,0,0,0,0,12,10

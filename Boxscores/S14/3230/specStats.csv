@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Garnett, L.",PHI,3,81,8,43,8,0,0,1
-"Barnes, B.",PHI,2,73,0,40,0,0,0,0
-"Valentine, V.",BAL,3,90,0,37,0,0,0,0
-"Bly Jr., A.",BAL,4,113,9,39,9,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Garnett, L.",PHI,3,81,8,43,8,0,0,1,7,14
+"Barnes, B.",PHI,2,73,0,40,0,0,0,0,7,14
+"Valentine, V.",BAL,3,90,0,37,0,0,0,0,7,14
+"Bly Jr., A.",BAL,4,113,9,39,9,0,0,1,7,14

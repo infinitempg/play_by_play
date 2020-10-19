@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Harp, D.",CHI,4,54,13.5,21,0
-"Adams, R.",CHI,3,54,18,32,0
-"Hasselhoff, F.",CHI,3,54,18,30,1
-"Oles, K.",CHI,3,47,15.7,25,0
-"Torenson, S.",CHI,1,4,4,4,0
-"Maddox, E.",BAL,6,128,21.3,38,0
-"L'Alto, V.",BAL,4,35,8.8,15,0
-"Nagasawa, Y.",BAL,3,19,6.3,8,0
-"Jimbo, D.",BAL,2,19,9.5,10,0
-"Brown, M.",BAL,2,5,2.5,3,0
-"Bigby, L.",BAL,1,0,0,0,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Harp, D.",CHI,4,54,13.5,21,0,8,16
+"Adams, R.",CHI,3,54,18,32,0,8,16
+"Hasselhoff, F.",CHI,3,54,18,30,1,8,16
+"Oles, K.",CHI,3,47,15.7,25,0,8,16
+"Torenson, S.",CHI,1,4,4,4,0,8,16
+"Maddox, E.",BAL,6,128,21.3,38,0,8,16
+"L'Alto, V.",BAL,4,35,8.8,15,0,8,16
+"Nagasawa, Y.",BAL,3,19,6.3,8,0,8,16
+"Jimbo, D.",BAL,2,19,9.5,10,0,8,16
+"Brown, M.",BAL,2,5,2.5,3,0,8,16
+"Bigby, L.",BAL,1,0,0,0,0,8,16

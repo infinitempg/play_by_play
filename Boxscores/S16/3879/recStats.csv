@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Olsen, C.",SJS,6,91,15.2,38,1
-"Wright, D.",SJS,4,36,9,18,0
-"Espeeyeeseetee, A.",SJS,2,18,9,10,0
-"Flash, X.",SJS,2,13,6.5,7,0
-"Orosz, C.",SJS,1,5,5,5,0
-"Davenport, C.",SJS,1,0,0,0,0
-"Parker, J.",YKW,7,143,20.4,70,0
-"Helanen, T.",YKW,7,64,9.1,12,2
-"Pennington, B.",YKW,4,36,9,16,0
-"Canton, J.",YKW,2,43,21.5,23,0
-"Swift, N.",YKW,2,33,16.5,17,0
-"Marshall, M.",YKW,2,5,2.5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Olsen, C.",SJS,6,91,15.2,38,1,3,16
+"Wright, D.",SJS,4,36,9,18,0,3,16
+"Espeeyeeseetee, A.",SJS,2,18,9,10,0,3,16
+"Flash, X.",SJS,2,13,6.5,7,0,3,16
+"Orosz, C.",SJS,1,5,5,5,0,3,16
+"Davenport, C.",SJS,1,0,0,0,0,3,16
+"Parker, J.",YKW,7,143,20.4,70,0,3,16
+"Helanen, T.",YKW,7,64,9.1,12,2,3,16
+"Pennington, B.",YKW,4,36,9,16,0,3,16
+"Canton, J.",YKW,2,43,21.5,23,0,3,16
+"Swift, N.",YKW,2,33,16.5,17,0,3,16
+"Marshall, M.",YKW,2,5,2.5,5,0,3,16

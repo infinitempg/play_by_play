@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Willie, T.",BAL,1,34,0,34,0,0,0,0
-"LeClair, A.",BAL,3,95,0,42,0,0,0,0
-"Kroetch, D.",PHI,4,112,0,40,0,0,0,0
-"Garden, J.",PHI,2,61,3,39,6,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Willie, T.",BAL,1,34,0,34,0,0,0,0,2,6
+"LeClair, A.",BAL,3,95,0,42,0,0,0,0,2,6
+"Kroetch, D.",PHI,4,112,0,40,0,0,0,0,2,6
+"Garden, J.",PHI,2,61,3,39,6,0,0,2,2,6

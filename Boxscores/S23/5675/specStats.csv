@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Owens, A.",COL,1,19,3,19,4,0,0,2
-"Purchase, L.",COL,2,55,0,46,0,0,0,0
-"Gordon, R.",SAR,3,55,34,29,17,0,0,3
-"Frost, D.",SAR,2,67,0,45,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Owens, A.",COL,1,19,3,19,4,0,0,2,14,23
+"Purchase, L.",COL,2,55,0,46,0,0,0,0,14,23
+"Gordon, R.",SAR,3,55,34,29,17,0,0,3,14,23
+"Frost, D.",SAR,2,67,0,45,0,0,0,0,14,23

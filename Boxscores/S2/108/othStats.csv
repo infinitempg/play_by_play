@@ -1,22 +1,22 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Hamilton, C.",OCO,2,20,9,1
-"Jenkins, L.",OCO,1,5,1,0
-"Phelps, R.",OCO,1,15,0,0
-"Finkenlarkin, S.",OCO,0,0,8,1
-"Clegane, G.",OCO,0,0,7,0
-"Ferguson, D.",OCO,0,0,4,1
-"Winchester, A.",OCO,0,0,4,0
-"Wright Jr, G.",OCO,0,0,3,0
-"Bowers Jr, V.",OCO,0,0,2,0
-"Lewith, T.",COL,2,10,0,0
-"Blade, B.",COL,1,5,0,0
-"Bot, B.",COL,1,15,0,0
-"Gucci, R.",COL,1,5,0,0
-"O'Connell, K.",COL,1,10,0,0
-"Wozy, F.",COL,1,5,0,0
-"Tech, G.",COL,0,0,3,4
-"Robicheaux, D.",COL,0,0,3,1
-"Forthward, B.",COL,0,0,2,1
-"Sandoval, A.",COL,0,0,1,1
-"Rodriguez, B.",COL,0,0,1,0
-"Tweed, B.",COL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Hamilton, C.",OCO,2,20,9,1,8,2
+"Jenkins, L.",OCO,1,5,1,0,8,2
+"Phelps, R.",OCO,1,15,0,0,8,2
+"Finkenlarkin, S.",OCO,0,0,8,1,8,2
+"Clegane, G.",OCO,0,0,7,0,8,2
+"Ferguson, D.",OCO,0,0,4,1,8,2
+"Winchester, A.",OCO,0,0,4,0,8,2
+"Wright Jr, G.",OCO,0,0,3,0,8,2
+"Bowers Jr, V.",OCO,0,0,2,0,8,2
+"Lewith, T.",COL,2,10,0,0,8,2
+"Blade, B.",COL,1,5,0,0,8,2
+"Bot, B.",COL,1,15,0,0,8,2
+"Gucci, R.",COL,1,5,0,0,8,2
+"O'Connell, K.",COL,1,10,0,0,8,2
+"Wozy, F.",COL,1,5,0,0,8,2
+"Tech, G.",COL,0,0,3,4,8,2
+"Robicheaux, D.",COL,0,0,3,1,8,2
+"Forthward, B.",COL,0,0,2,1,8,2
+"Sandoval, A.",COL,0,0,1,1,8,2
+"Rodriguez, B.",COL,0,0,1,0,8,2
+"Tweed, B.",COL,0,0,1,0,8,2

@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"L'Alto, V.",BAL,8,86,10.8,30,0
-"Taylor, O.",BAL,8,43,5.4,9,0
-"Willie, T.",BAL,5,82,16.4,31,0
-"Harp, D.",BAL,4,26,6.5,10,0
-"Valentine, V.",BAL,3,29,9.7,11,0
-"Adams, R.",OCO,6,65,10.8,23,0
-"Atwell, T.",OCO,5,94,18.8,36,0
-"Crush, C.",OCO,3,34,11.3,19,0
-"Broxton, J.",OCO,2,21,10.5,11,0
-"Zephyrous, S.",OCO,2,11,5.5,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"L'Alto, V.",BAL,8,86,10.8,30,0,11,11
+"Taylor, O.",BAL,8,43,5.4,9,0,11,11
+"Willie, T.",BAL,5,82,16.4,31,0,11,11
+"Harp, D.",BAL,4,26,6.5,10,0,11,11
+"Valentine, V.",BAL,3,29,9.7,11,0,11,11
+"Adams, R.",OCO,6,65,10.8,23,0,11,11
+"Atwell, T.",OCO,5,94,18.8,36,0,11,11
+"Crush, C.",OCO,3,34,11.3,19,0,11,11
+"Broxton, J.",OCO,2,21,10.5,11,0,11,11
+"Zephyrous, S.",OCO,2,11,5.5,7,0,11,11

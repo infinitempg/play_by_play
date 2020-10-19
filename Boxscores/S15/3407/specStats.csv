@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Grithead, D.",OCO,3,101,59,40,17,0,0,6
-"Sunnycursed, N.",OCO,1,36,0,36,0,0,0,0
-"Shady, S.",AZ,7,128,0,35,0,0,0,0
-"Murphy, J.",AZ,2,37,0,33,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Grithead, D.",OCO,3,101,59,40,17,0,0,6,13,15
+"Sunnycursed, N.",OCO,1,36,0,36,0,0,0,0,13,15
+"Shady, S.",AZ,7,128,0,35,0,0,0,0,13,15
+"Murphy, J.",AZ,2,37,0,33,0,0,0,0,13,15

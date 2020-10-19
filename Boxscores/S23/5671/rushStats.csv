@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Yoda, B.",AZ,30,106,3.5,9,1
-"Cue, J.",AZ,7,59,8.4,16,1
-"Z, D.",AZ,1,0,0,0,0
-"Lackson, J.",SJS,13,41,3.2,7,0
-"Cardrissian, R.",SJS,9,15,1.7,9,0
-"Jack, "".",SJS,1,14,14,14,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Yoda, B.",AZ,30,106,3.5,9,1,13,23
+"Cue, J.",AZ,7,59,8.4,16,1,13,23
+"Z, D.",AZ,1,0,0,0,0,13,23
+"Lackson, J.",SJS,13,41,3.2,7,0,13,23
+"Cardrissian, R.",SJS,9,15,1.7,9,0,13,23
+"Jack, "".",SJS,1,14,14,14,0,13,23

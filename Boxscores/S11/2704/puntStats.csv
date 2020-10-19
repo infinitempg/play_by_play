@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Jackson, D.",AZ,3,140,46.7,69,0
-"Forfeit, N.",YKW,4,155,38.8,45,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Jackson, D.",AZ,3,140,46.7,69,0,9,11
+"Forfeit, N.",YKW,4,155,38.8,45,0,9,11

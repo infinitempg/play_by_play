@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Askins, J.",LV,8,49,6.1,9,0
-"Booter, F.",LV,7,51,7.3,12,1
-"Evans, D.",LV,6,105,17.5,33,0
-"Savea, A.",LV,6,17,2.8,6,0
-"Omega, K.",LV,4,68,17,31,1
-"O'Sullivan, C.",LV,4,34,8.5,11,0
-"Baker, J.",LV,3,32,10.7,16,0
-"Kennedy, E.",YKW,10,68,6.8,11,2
-"Cook, B.",YKW,8,120,15,33,1
-"Harris Jr., F.",YKW,4,11,2.8,4,0
-"Jarden, G.",YKW,3,27,9,13,0
-"Nuck, B.",YKW,2,17,8.5,13,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Askins, J.",LV,8,49,6.1,9,0,13,5
+"Booter, F.",LV,7,51,7.3,12,1,13,5
+"Evans, D.",LV,6,105,17.5,33,0,13,5
+"Savea, A.",LV,6,17,2.8,6,0,13,5
+"Omega, K.",LV,4,68,17,31,1,13,5
+"O'Sullivan, C.",LV,4,34,8.5,11,0,13,5
+"Baker, J.",LV,3,32,10.7,16,0,13,5
+"Kennedy, E.",YKW,10,68,6.8,11,2,13,5
+"Cook, B.",YKW,8,120,15,33,1,13,5
+"Harris Jr., F.",YKW,4,11,2.8,4,0,13,5
+"Jarden, G.",YKW,3,27,9,13,0,13,5
+"Nuck, B.",YKW,2,17,8.5,13,0,13,5

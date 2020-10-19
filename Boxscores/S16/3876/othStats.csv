@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Gott, J.",OCO,1,5,0,0
-"Lattimer, A.",OCO,1,15,0,0
-"Johns, A.",OCO,0,0,2,0
-"Thompson, P.",OCO,0,0,2,0
-"Pitcher, A.",OCO,0,0,1,1
-"Blaze, J.",OCO,0,0,1,0
-"Reed, A.",OCO,0,0,1,0
-"Harrison, H.",OCO,0,0,0,1
-"Brannigan, Z.",PHI,1,5,3,1
-"Fillmore, M.",PHI,1,12,2,0
-"D'Attoria V, R.",PHI,1,5,0,0
-"Smyles, L.",PHI,1,5,0,0
-"Hayes, R.",PHI,0,0,7,1
-"Arthur, C.",PHI,0,0,5,0
-"Hank, F.",PHI,0,0,5,0
-"Van Buren, M.",PHI,0,0,3,0
-"Tyler, J.",PHI,0,0,2,0
-"Boija, F.",PHI,0,0,1,0
-"Jones, V.",PHI,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Gott, J.",OCO,1,5,0,0,2,16
+"Lattimer, A.",OCO,1,15,0,0,2,16
+"Johns, A.",OCO,0,0,2,0,2,16
+"Thompson, P.",OCO,0,0,2,0,2,16
+"Pitcher, A.",OCO,0,0,1,1,2,16
+"Blaze, J.",OCO,0,0,1,0,2,16
+"Reed, A.",OCO,0,0,1,0,2,16
+"Harrison, H.",OCO,0,0,0,1,2,16
+"Brannigan, Z.",PHI,1,5,3,1,2,16
+"Fillmore, M.",PHI,1,12,2,0,2,16
+"D'Attoria V, R.",PHI,1,5,0,0,2,16
+"Smyles, L.",PHI,1,5,0,0,2,16
+"Hayes, R.",PHI,0,0,7,1,2,16
+"Arthur, C.",PHI,0,0,5,0,2,16
+"Hank, F.",PHI,0,0,5,0,2,16
+"Van Buren, M.",PHI,0,0,3,0,2,16
+"Tyler, J.",PHI,0,0,2,0,2,16
+"Boija, F.",PHI,0,0,1,0,2,16
+"Jones, V.",PHI,0,0,1,0,2,16

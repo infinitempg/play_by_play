@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,13,62,4.8,10,0
-"Dotson, F.",PHI,12,50,4.2,13,0
-"Phoenix, B.",PHI,2,4,2,2,0
-"Ruff, R.",AZ,19,63,3.3,11,0
-"Cue, J.",AZ,5,-9,-1.8,4,0
-"Irving, J.",AZ,1,6,6,6,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,13,62,4.8,10,0,6,21
+"Dotson, F.",PHI,12,50,4.2,13,0,6,21
+"Phoenix, B.",PHI,2,4,2,2,0,6,21
+"Ruff, R.",AZ,19,63,3.3,11,0,6,21
+"Cue, J.",AZ,5,-9,-1.8,4,0,6,21
+"Irving, J.",AZ,1,6,6,6,0,6,21

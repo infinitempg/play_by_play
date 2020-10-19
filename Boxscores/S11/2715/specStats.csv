@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Barnes, B.",AZ,1,21,0,21,0,0,0,0
-"Hobbs, S.",AZ,2,30,-2,20,2,0,0,3
-"Fyodorovich, V.",NO,1,2,0,2,0,0,0,0
-"Bayley, B.",NO,2,46,0,34,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Barnes, B.",AZ,1,21,0,21,0,0,0,0,12,11
+"Hobbs, S.",AZ,2,30,-2,20,2,0,0,3,12,11
+"Fyodorovich, V.",NO,1,2,0,2,0,0,0,0,12,11
+"Bayley, B.",NO,2,46,0,34,0,0,0,0,12,11

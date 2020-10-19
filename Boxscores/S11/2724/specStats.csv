@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Aaron, D.",COL,5,154,0,40,0,0,0,0
-"Miller, H.",COL,1,20,107,20,87,0,0,2
-"Broxton, J.",OCO,2,49,43,41,17,0,0,3
-"Atwell, T.",OCO,4,74,0,29,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Aaron, D.",COL,5,154,0,40,0,0,0,0,14,11
+"Miller, H.",COL,1,20,107,20,87,0,0,2,14,11
+"Broxton, J.",OCO,2,49,43,41,17,0,0,3,14,11
+"Atwell, T.",OCO,4,74,0,29,0,0,0,0,14,11

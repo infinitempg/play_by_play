@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Cook, B.",SJS,8,107,13.4,24,1
-"Weston, S.",SJS,6,67,11.2,22,0
-"Bottles, B.",SJS,5,44,8.8,22,0
-"Maddox, R.",YKW,9,56,6.2,10,1
-"Smallwood, D.",YKW,6,41,6.8,14,1
-"Garden, J.",YKW,5,108,21.6,45,0
-"West, D.",YKW,4,59,14.8,26,0
-"Novel, L.",YKW,1,10,10,10,1
-"Kennedy, E.",YKW,1,7,7,7,0
-"Nuck, B.",YKW,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Cook, B.",SJS,8,107,13.4,24,1,6,2
+"Weston, S.",SJS,6,67,11.2,22,0,6,2
+"Bottles, B.",SJS,5,44,8.8,22,0,6,2
+"Maddox, R.",YKW,9,56,6.2,10,1,6,2
+"Smallwood, D.",YKW,6,41,6.8,14,1,6,2
+"Garden, J.",YKW,5,108,21.6,45,0,6,2
+"West, D.",YKW,4,59,14.8,26,0,6,2
+"Novel, L.",YKW,1,10,10,10,1,6,2
+"Kennedy, E.",YKW,1,7,7,7,0,6,2
+"Nuck, B.",YKW,1,2,2,2,0,6,2

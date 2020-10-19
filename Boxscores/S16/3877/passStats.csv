@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Cole, E.",AUS,"[14, 23]",165,11.8,0,0,82.7
-"Reese, A.",AZ,"[12, 27]",189,15.8,0,1,52.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Cole, E.",AUS,165,11.8,0,0,82.7,14,12,2,16
+"Reese, A.",AZ,189,15.8,0,1,52.9,14,12,2,16

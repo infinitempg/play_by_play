@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Fukushu, M.",BAL,14,46,3.3,9,0
-"Williams, D.",BAL,12,50,4.2,10,1
-"Fujiwara, C.",BAL,3,0,0,0,0
-"Tirtawidjaja, J.",CHI,15,65,4.3,11,0
-"Yoda, B.",CHI,9,40,4.4,11,0
-"Hayes, V.",CHI,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Fukushu, M.",BAL,14,46,3.3,9,0,2,24
+"Williams, D.",BAL,12,50,4.2,10,1,2,24
+"Fujiwara, C.",BAL,3,0,0,0,0,2,24
+"Tirtawidjaja, J.",CHI,15,65,4.3,11,0,2,24
+"Yoda, B.",CHI,9,40,4.4,11,0,2,24
+"Hayes, V.",CHI,1,1,1,1,0,2,24

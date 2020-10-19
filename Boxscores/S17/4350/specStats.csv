@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Emoji, E.",PHI,0,0,39,0,20,0,0,2
-"von Matt, J.",PHI,3,51,0,24,0,0,0,0
-"Garnett, L.",PHI,5,174,0,45,0,0,0,0
-"Mughes, H.",AZ,2,46,0,24,0,0,0,0
-"Valentine, V.",AZ,1,18,132,18,54,0,2,6
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Emoji, E.",PHI,0,0,39,0,20,0,0,2,13,17
+"von Matt, J.",PHI,3,51,0,24,0,0,0,0,13,17
+"Garnett, L.",PHI,5,174,0,45,0,0,0,0,13,17
+"Mughes, H.",AZ,2,46,0,24,0,0,0,0,13,17
+"Valentine, V.",AZ,1,18,132,18,54,0,2,6,13,17

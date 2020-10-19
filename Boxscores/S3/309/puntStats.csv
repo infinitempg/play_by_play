@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Walsh, B.",LV,5,210,42,55,0
-"Sims, A.",OCO,4,181,45.2,54,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Walsh, B.",LV,5,210,42,55,0,9,3
+"Sims, A.",OCO,4,181,45.2,54,0,9,3

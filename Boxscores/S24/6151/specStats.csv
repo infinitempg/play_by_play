@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mendonca, M.",AUS,3,84,0,36,0,0,0,0
-"Lavelle Jr., D.",AUS,3,91,21,44,21,0,0,1
-"Chan, R.",SAR,3,31,18,15,10,0,0,3
-"Adams, X.",SAR,2,51,0,29,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mendonca, M.",AUS,3,84,0,36,0,0,0,0,6,24
+"Lavelle Jr., D.",AUS,3,91,21,44,21,0,0,1,6,24
+"Chan, R.",SAR,3,31,18,15,10,0,0,3,6,24
+"Adams, X.",SAR,2,51,0,29,0,0,0,0,6,24

@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,3,82,56,42,50,0,0,2
-"Wachter, J.",AZ,2,39,0,30,0,0,0,0
-"Delacour, A.",BAL,0,0,25,0,18,0,0,2
-"Willie, T.",BAL,3,108,0,46,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,3,82,56,42,50,0,0,2,7,8
+"Wachter, J.",AZ,2,39,0,30,0,0,0,0,7,8
+"Delacour, A.",BAL,0,0,25,0,18,0,0,2,7,8
+"Willie, T.",BAL,3,108,0,46,0,0,0,0,7,8

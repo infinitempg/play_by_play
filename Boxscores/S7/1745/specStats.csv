@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,2,67,41,34,20,0,0,5
-"Westfield, B.",OCO,5,149,3,46,3,0,0,1
-"Yates, J.",OCO,3,84,0,36,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,2,67,41,34,20,0,0,5,5,7
+"Westfield, B.",OCO,5,149,3,46,3,0,0,1,5,7
+"Yates, J.",OCO,3,84,0,36,0,0,0,0,5,7

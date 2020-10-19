@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Sunnycursed, N.",OCO,1,25,15,25,15,0,0,2
-"Mughes, H.",AZ,3,34,0,19,0,0,0,0
-"Barnes, B.",AZ,4,100,12,31,15,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Sunnycursed, N.",OCO,1,25,15,25,15,0,0,2,7,16
+"Mughes, H.",AZ,3,34,0,19,0,0,0,0,7,16
+"Barnes, B.",AZ,4,100,12,31,15,0,0,2,7,16

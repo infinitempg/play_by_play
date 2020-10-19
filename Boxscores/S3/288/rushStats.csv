@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Savea, A.",LV,19,84,4.4,13,0
-"Bercovici, J.",LV,1,0,0,0,0
-"Cobb, K.",LV,1,1,1,1,0
-"Larsendorf, R.",LV,1,0,0,0,0
-"Nuck, B.",YKW,27,103,3.8,11,1
-"Kennedy, E.",YKW,3,5,1.7,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Savea, A.",LV,19,84,4.4,13,0,4,3
+"Bercovici, J.",LV,1,0,0,0,0,4,3
+"Cobb, K.",LV,1,1,1,1,0,4,3
+"Larsendorf, R.",LV,1,0,0,0,0,4,3
+"Nuck, B.",YKW,27,103,3.8,11,1,4,3
+"Kennedy, E.",YKW,3,5,1.7,4,0,4,3

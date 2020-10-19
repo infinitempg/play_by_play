@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"West, D.",BAL,3,42,9,31,9,0,0,1
-"Smith, M.",BAL,1,23,0,23,0,0,0,0
-"Weston, S.",SJS,4,47,17,23,15,0,0,3
-"Wiley, D.",SJS,3,41,0,18,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"West, D.",BAL,3,42,9,31,9,0,0,1,5,1
+"Smith, M.",BAL,1,23,0,23,0,0,0,0,5,1
+"Weston, S.",SJS,4,47,17,23,15,0,0,3,5,1
+"Wiley, D.",SJS,3,41,0,18,0,0,0,0,5,1

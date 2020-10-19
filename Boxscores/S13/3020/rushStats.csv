@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,31,116,3.7,11,0
-"Fitzpatrick, K.",AZ,1,2,2,2,0
-"Cansino, D.",COL,9,49,5.4,9,0
-"Grau, M.",COL,8,25,3.1,8,1
-"McCormick, M.",COL,4,23,5.8,15,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,31,116,3.7,11,0,3,13
+"Fitzpatrick, K.",AZ,1,2,2,2,0,3,13
+"Cansino, D.",COL,9,49,5.4,9,0,3,13
+"Grau, M.",COL,8,25,3.1,8,1,3,13
+"McCormick, M.",COL,4,23,5.8,15,1,3,13

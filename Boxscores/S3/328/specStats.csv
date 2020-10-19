@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"LeClair, A.",LV,3,82,0,35,0,0,0,0
-"Ross, J.",LV,2,66,10,36,12,0,0,3
-"Flock, R.",ARI,1,33,33,33,18,0,0,5
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"LeClair, A.",LV,3,82,0,35,0,0,0,0,14,3
+"Ross, J.",LV,2,66,10,36,12,0,0,3,14,3
+"Flock, R.",ARI,1,33,33,33,18,0,0,5,14,3

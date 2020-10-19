@@ -1,17 +1,17 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Tremblay, S.",PHI,1,5,6,0
-"Gronlie, T.",PHI,1,5,0,0
-"Varga, N.",PHI,1,5,0,0
-"Van Buren, M.",PHI,0,0,3,1
-"Dotson, F.",PHI,0,0,1,1
-"Arrabiata, D.",PHI,0,0,1,0
-"Arthur, C.",PHI,0,0,1,0
-"Hayes, R.",PHI,0,0,1,0
-"Nakamura, T.",OCO,1,10,1,1
-"Vegeta, P.",OCO,1,5,0,0
-"George, D.",OCO,0,0,6,0
-"Quail, D.",OCO,0,0,6,0
-"Pak, Y.",OCO,0,0,5,0
-"Harrison, H.",OCO,0,0,4,0
-"Johns, A.",OCO,0,0,4,0
-"Iridian, G.",OCO,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Tremblay, S.",PHI,1,5,6,0,10,23
+"Gronlie, T.",PHI,1,5,0,0,10,23
+"Varga, N.",PHI,1,5,0,0,10,23
+"Van Buren, M.",PHI,0,0,3,1,10,23
+"Dotson, F.",PHI,0,0,1,1,10,23
+"Arrabiata, D.",PHI,0,0,1,0,10,23
+"Arthur, C.",PHI,0,0,1,0,10,23
+"Hayes, R.",PHI,0,0,1,0,10,23
+"Nakamura, T.",OCO,1,10,1,1,10,23
+"Vegeta, P.",OCO,1,5,0,0,10,23
+"George, D.",OCO,0,0,6,0,10,23
+"Quail, D.",OCO,0,0,6,0,10,23
+"Pak, Y.",OCO,0,0,5,0,10,23
+"Harrison, H.",OCO,0,0,4,0,10,23
+"Johns, A.",OCO,0,0,4,0,10,23
+"Iridian, G.",OCO,0,0,3,0,10,23

@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,21,97,4.6,20,2
-"Maximus III, B.",NO,5,48,9.6,26,0
-"Taylor, O.",BAL,33,155,4.7,11,1
-"Applehort, R.",BAL,2,4,2,4,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,21,97,4.6,20,2,14,11
+"Maximus III, B.",NO,5,48,9.6,26,0,14,11
+"Taylor, O.",BAL,33,155,4.7,11,1,14,11
+"Applehort, R.",BAL,2,4,2,4,0,14,11

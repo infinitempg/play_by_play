@@ -1,3 +1,3 @@
-Player,Team,Punts,Yds,Avg,Lng,Inside 20
-"Jackson, D.",AZ,5,238,47.6,65,0
-"Corbett, K.",COL,3,119,39.7,49,0
+Player,Team,Punts,Yds,Avg,Lng,Inside 20,W,S
+"Jackson, D.",AZ,5,238,47.6,65,0,3,14
+"Corbett, K.",COL,3,119,39.7,49,0,3,14

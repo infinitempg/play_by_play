@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Rainey, R.",YKW,16,42,2.6,9,0
-"Akselsen, M.",YKW,11,58,5.3,19,0
-"Gore, B.",YKW,7,21,3,7,0
-"Yates, J.",OCO,21,119,5.7,19,1
-"Burnsman, E.",OCO,5,7,1.4,4,1
-"Boss, M.",OCO,2,1,0.5,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Rainey, R.",YKW,16,42,2.6,9,0,7,8
+"Akselsen, M.",YKW,11,58,5.3,19,0,7,8
+"Gore, B.",YKW,7,21,3,7,0,7,8
+"Yates, J.",OCO,21,119,5.7,19,1,7,8
+"Burnsman, E.",OCO,5,7,1.4,4,1,7,8
+"Boss, M.",OCO,2,1,0.5,1,0,7,8

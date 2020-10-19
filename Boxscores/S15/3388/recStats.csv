@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"von Matt, J.",PHI,6,77,12.8,23,0
-"Brannigan, Z.",PHI,6,56,9.3,15,1
-"Bush, C.",PHI,5,117,23.4,36,3
-"Jones, V.",PHI,4,19,4.8,10,0
-"Hank, F.",PHI,3,32,10.7,21,0
-"Batoff, R.",PHI,1,5,5,5,0
-"Polk, J.",PHI,1,1,1,1,0
-"Fyodorovich, V.",NO,7,102,14.6,30,0
-"Swift, T.",NO,5,46,9.2,13,1
-"Halvorsen, T.",NO,2,10,5,7,0
-"Jones, B.",NO,1,26,26,26,0
-"Danielsson, A.",NO,1,10,10,10,0
-"Francisco, S.",NO,1,5,5,5,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"von Matt, J.",PHI,6,77,12.8,23,0,8,15
+"Brannigan, Z.",PHI,6,56,9.3,15,1,8,15
+"Bush, C.",PHI,5,117,23.4,36,3,8,15
+"Jones, V.",PHI,4,19,4.8,10,0,8,15
+"Hank, F.",PHI,3,32,10.7,21,0,8,15
+"Batoff, R.",PHI,1,5,5,5,0,8,15
+"Polk, J.",PHI,1,1,1,1,0,8,15
+"Fyodorovich, V.",NO,7,102,14.6,30,0,8,15
+"Swift, T.",NO,5,46,9.2,13,1,8,15
+"Halvorsen, T.",NO,2,10,5,7,0,8,15
+"Jones, B.",NO,1,26,26,26,0,8,15
+"Danielsson, A.",NO,1,10,10,10,0,8,15
+"Francisco, S.",NO,1,5,5,5,0,8,15

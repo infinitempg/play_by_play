@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oakes, B.",NO,4,84,0,35,0,0,0,0
-"Evans, D.",NO,2,70,58,43,21,0,0,5
-"Westfield, B.",OCO,3,107,4,46,8,0,0,2
-"Yates, J.",OCO,2,47,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oakes, B.",NO,4,84,0,35,0,0,0,0,11,7
+"Evans, D.",NO,2,70,58,43,21,0,0,5,11,7
+"Westfield, B.",OCO,3,107,4,46,8,0,0,2,11,7
+"Yates, J.",OCO,2,47,0,38,0,0,0,0,11,7

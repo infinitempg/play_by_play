@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Bishop, J.",COL,3,74,0,38,0,0,0,0
-"Montgomery, B.",COL,5,124,0,39,0,0,0,0
-"von Matt, J.",PHI,2,57,0,45,0,0,0,0
-"Smyles, L.",PHI,1,2,0,2,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Bishop, J.",COL,3,74,0,38,0,0,0,0,12,15
+"Montgomery, B.",COL,5,124,0,39,0,0,0,0,12,15
+"von Matt, J.",PHI,2,57,0,45,0,0,0,0,12,15
+"Smyles, L.",PHI,1,2,0,2,0,0,0,0,12,15

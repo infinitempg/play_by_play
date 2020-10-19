@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Van Buren, M.",PHI,1,15,4,0
-"Hank, F.",PHI,1,5,2,0
-"Fillmore, M.",PHI,1,5,1,0
-"McGwire, A.",PHI,1,5,0,0
-"Tyler, J.",PHI,0,0,5,0
-"Hayes, R.",PHI,0,0,4,0
-"Arthur, C.",PHI,0,0,3,1
-"Brown, M.",PHI,0,0,2,0
-"Larson, P.",AUS,2,25,4,0
-"Beaver-Dantes, E.",AUS,1,5,2,1
-"Owens, A.",AUS,1,9,1,0
-"Okura, T.",AUS,1,15,0,0
-"Snider, N.",AUS,1,5,0,0
-"A'Barelyanything, L.",AUS,0,0,7,0
-"A'Ton, L.",AUS,0,0,5,1
-"A'Moderateamount, L.",AUS,0,0,5,0
-"A'Little, L.",AUS,0,0,3,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Van Buren, M.",PHI,1,15,4,0,12,17
+"Hank, F.",PHI,1,5,2,0,12,17
+"Fillmore, M.",PHI,1,5,1,0,12,17
+"McGwire, A.",PHI,1,5,0,0,12,17
+"Tyler, J.",PHI,0,0,5,0,12,17
+"Hayes, R.",PHI,0,0,4,0,12,17
+"Arthur, C.",PHI,0,0,3,1,12,17
+"Brown, M.",PHI,0,0,2,0,12,17
+"Larson, P.",AUS,2,25,4,0,12,17
+"Beaver-Dantes, E.",AUS,1,5,2,1,12,17
+"Owens, A.",AUS,1,9,1,0,12,17
+"Okura, T.",AUS,1,15,0,0,12,17
+"Snider, N.",AUS,1,5,0,0,12,17
+"A'Barelyanything, L.",AUS,0,0,7,0,12,17
+"A'Ton, L.",AUS,0,0,5,1,12,17
+"A'Moderateamount, L.",AUS,0,0,5,0,12,17
+"A'Little, L.",AUS,0,0,3,0,12,17

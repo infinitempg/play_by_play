@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"O'Leary, S.",CHI,4,88,0,36,0,0,0,0
-"Firestorm-Fjord, O.",CHI,2,26,8,16,8,0,0,2
-"Donut, S.",AZ,2,64,0,34,0,0,0,0
-"Scarlett, D.",AZ,3,50,37,31,14,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"O'Leary, S.",CHI,4,88,0,36,0,0,0,0,8,22
+"Firestorm-Fjord, O.",CHI,2,26,8,16,8,0,0,2,8,22
+"Donut, S.",AZ,2,64,0,34,0,0,0,0,8,22
+"Scarlett, D.",AZ,3,50,37,31,14,0,0,3,8,22

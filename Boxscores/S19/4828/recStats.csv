@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Larson, P.",AUS,5,55,11,22,2
-"Tidwell, R.",AUS,5,45,9,11,0
-"Anoa'i, D.",AUS,4,49,12.2,23,0
-"Mendonca, M.",AUS,4,34,8.5,12,0
-"Blockerman, F.",AUS,4,26,6.5,9,0
-"Olsen, C.",SJS,5,101,20.2,37,2
-"Bot, B.",SJS,4,22,5.5,9,0
-"Jackson, A.",SJS,3,64,21.3,29,0
-"Thomas-Fox, D.",SJS,2,33,16.5,19,0
-"Orosz, C.",SJS,1,8,8,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Larson, P.",AUS,5,55,11,22,2,5,19
+"Tidwell, R.",AUS,5,45,9,11,0,5,19
+"Anoa'i, D.",AUS,4,49,12.2,23,0,5,19
+"Mendonca, M.",AUS,4,34,8.5,12,0,5,19
+"Blockerman, F.",AUS,4,26,6.5,9,0,5,19
+"Olsen, C.",SJS,5,101,20.2,37,2,5,19
+"Bot, B.",SJS,4,22,5.5,9,0,5,19
+"Jackson, A.",SJS,3,64,21.3,29,0,5,19
+"Thomas-Fox, D.",SJS,2,33,16.5,19,0,5,19
+"Orosz, C.",SJS,1,8,8,8,0,5,19

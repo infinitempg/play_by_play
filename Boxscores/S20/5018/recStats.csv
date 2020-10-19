@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blaze, J.",OCO,6,42,7,11,0
-"Banks II, D.",OCO,5,83,16.6,25,0
-"Mongo, H.",OCO,4,48,12,18,0
-"Oles, K.",OCO,2,7,3.5,6,0
-"Varga, N.",PHI,5,45,9,12,1
-"Torenson, S.",PHI,4,31,7.8,18,0
-"Dotson, F.",PHI,3,28,9.3,15,0
-"Blocksdale Jr., A.",PHI,3,27,9,14,0
-"Vuxta, R.",PHI,2,18,9,13,0
-"Hank, F.",PHI,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blaze, J.",OCO,6,42,7,11,0,10,20
+"Banks II, D.",OCO,5,83,16.6,25,0,10,20
+"Mongo, H.",OCO,4,48,12,18,0,10,20
+"Oles, K.",OCO,2,7,3.5,6,0,10,20
+"Varga, N.",PHI,5,45,9,12,1,10,20
+"Torenson, S.",PHI,4,31,7.8,18,0,10,20
+"Dotson, F.",PHI,3,28,9.3,15,0,10,20
+"Blocksdale Jr., A.",PHI,3,27,9,14,0,10,20
+"Vuxta, R.",PHI,2,18,9,13,0,10,20
+"Hank, F.",PHI,1,4,4,4,0,10,20

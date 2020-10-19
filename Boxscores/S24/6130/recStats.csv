@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Lim, W.",COL,6,109,18.2,30,0
-"Owens, A.",COL,4,65,16.2,26,0
-"Sauce, E.",COL,4,21,5.2,8,0
-"Kingston, J.",COL,3,40,13.3,25,0
-"Jenkins, L.",COL,3,35,11.7,15,0
-"Gilbert, R.",COL,3,20,6.7,7,0
-"Bumper, T.",COL,1,11,11,11,0
-"McCormick, A.",NO,6,75,12.5,26,0
-"Barker, E.",NO,6,49,8.2,18,1
-"Bodenhamer, B.",NO,4,39,9.8,16,0
-"Snyder, S.",NO,4,30,7.5,12,1
-"Toriki, M.",NO,3,11,3.7,5,0
-"Wolfcastle, R.",NO,2,24,12,15,0
-"Gump, F.",NO,1,6,6,6,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Lim, W.",COL,6,109,18.2,30,0,10,24
+"Owens, A.",COL,4,65,16.2,26,0,10,24
+"Sauce, E.",COL,4,21,5.2,8,0,10,24
+"Kingston, J.",COL,3,40,13.3,25,0,10,24
+"Jenkins, L.",COL,3,35,11.7,15,0,10,24
+"Gilbert, R.",COL,3,20,6.7,7,0,10,24
+"Bumper, T.",COL,1,11,11,11,0,10,24
+"McCormick, A.",NO,6,75,12.5,26,0,10,24
+"Barker, E.",NO,6,49,8.2,18,1,10,24
+"Bodenhamer, B.",NO,4,39,9.8,16,0,10,24
+"Snyder, S.",NO,4,30,7.5,12,1,10,24
+"Toriki, M.",NO,3,11,3.7,5,0,10,24
+"Wolfcastle, R.",NO,2,24,12,15,0,10,24
+"Gump, F.",NO,1,6,6,6,0,10,24

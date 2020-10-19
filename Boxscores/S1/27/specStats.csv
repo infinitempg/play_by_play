@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",OCO,3,26,-1,14,0,0,0,1
-"Westfield, B.",OCO,1,0,0,0,0,0,0,0
-"West, D.",BAL,1,20,28,20,14,0,0,3
-"Smith, M.",BAL,4,155,0,90,0,1,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",OCO,3,26,-1,14,0,0,0,1,13,1
+"Westfield, B.",OCO,1,0,0,0,0,0,0,0,13,1
+"West, D.",BAL,1,20,28,20,14,0,0,3,13,1
+"Smith, M.",BAL,4,155,0,90,0,1,0,0,13,1

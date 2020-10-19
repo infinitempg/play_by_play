@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Havran, C.",HON,"[21, 30]",243,11.6,1,0,105.3
-"Francisco, S.",NO,"[14, 25]",149,10.6,1,1,70.3
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Havran, C.",HON,243,11.6,1,0,105.3,21,14,5,22
+"Francisco, S.",NO,149,10.6,1,1,70.3,21,14,5,22

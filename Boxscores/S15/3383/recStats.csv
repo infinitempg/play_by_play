@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crindy, B.",COL,9,106,11.8,30,1
-"Bishop, J.",COL,6,116,19.3,31,1
-"LaMelllana, S.",COL,6,70,11.7,24,0
-"Grau, M.",COL,3,13,4.3,7,0
-"Blaze, J.",OCO,9,73,8.1,12,1
-"Sunnycursed, N.",OCO,7,137,19.6,63,0
-"Crush, C.",OCO,5,73,14.6,26,2
-"Anoa'i, D.",OCO,5,42,8.4,12,0
-"Zephyrous, S.",OCO,4,43,10.8,31,0
-"McPoyal, G.",OCO,1,3,3,3,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crindy, B.",COL,9,106,11.8,30,1,7,15
+"Bishop, J.",COL,6,116,19.3,31,1,7,15
+"LaMelllana, S.",COL,6,70,11.7,24,0,7,15
+"Grau, M.",COL,3,13,4.3,7,0,7,15
+"Blaze, J.",OCO,9,73,8.1,12,1,7,15
+"Sunnycursed, N.",OCO,7,137,19.6,63,0,7,15
+"Crush, C.",OCO,5,73,14.6,26,2,7,15
+"Anoa'i, D.",OCO,5,42,8.4,12,0,7,15
+"Zephyrous, S.",OCO,4,43,10.8,31,0,7,15
+"McPoyal, G.",OCO,1,3,3,3,0,7,15

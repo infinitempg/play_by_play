@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",SJS,21,71,3.4,8,0
-"Diaz, D.",SJS,6,23,3.8,9,1
-"Savea, A.",NO,13,53,4.1,9,0
-"Maximus III, B.",NO,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",SJS,21,71,3.4,8,0,9,7
+"Diaz, D.",SJS,6,23,3.8,9,1,9,7
+"Savea, A.",NO,13,53,4.1,9,0,9,7
+"Maximus III, B.",NO,1,1,1,1,0,9,7

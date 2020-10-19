@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Leary, S.",CHI,8,130,16.2,29,0
-"James-Jones, S.",CHI,6,65,10.8,20,0
-"Parker, J.",CHI,6,42,7,13,0
-"Espeeyeeseetee, A.",CHI,4,116,29,45,1
-"Utler, J.",CHI,4,51,12.8,28,1
-"BigCatchMachine4, Z.",CHI,3,19,6.3,8,0
-"Danielsson, A.",CHI,3,12,4,8,0
-"Owens, A.",COL,7,43,6.1,25,0
-"Forty-Two, L.",COL,6,108,18,41,0
-"Bishop, J.",COL,6,95,15.8,25,0
-"King, A.",COL,3,25,8.3,10,0
-"McMahon, J.",COL,1,23,23,23,0
-"Vincent, M.",COL,1,18,18,18,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Leary, S.",CHI,8,130,16.2,29,0,1,20
+"James-Jones, S.",CHI,6,65,10.8,20,0,1,20
+"Parker, J.",CHI,6,42,7,13,0,1,20
+"Espeeyeeseetee, A.",CHI,4,116,29,45,1,1,20
+"Utler, J.",CHI,4,51,12.8,28,1,1,20
+"BigCatchMachine4, Z.",CHI,3,19,6.3,8,0,1,20
+"Danielsson, A.",CHI,3,12,4,8,0,1,20
+"Owens, A.",COL,7,43,6.1,25,0,1,20
+"Forty-Two, L.",COL,6,108,18,41,0,1,20
+"Bishop, J.",COL,6,95,15.8,25,0,1,20
+"King, A.",COL,3,25,8.3,10,0,1,20
+"McMahon, J.",COL,1,23,23,23,0,1,20
+"Vincent, M.",COL,1,18,18,18,0,1,20

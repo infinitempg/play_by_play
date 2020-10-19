@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"O'Leary, S.",CHI,5,66,13.2,33,0
-"Hank, F.",CHI,5,53,10.6,32,0
-"Hayes, V.",CHI,4,30,7.5,9,0
-"Davis, J.",CHI,2,17,8.5,10,0
-"Kross, C.",BAL,5,53,10.6,24,2
-"Lewandowski, J.",BAL,5,36,7.2,15,0
-"Maddox, E.",BAL,3,40,13.3,19,0
-"Williams, D.",BAL,3,20,6.7,8,0
-"Quinn, A.",BAL,2,25,12.5,16,0
-"Skuff, R.",BAL,1,9,9,9,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"O'Leary, S.",CHI,5,66,13.2,33,0,2,22
+"Hank, F.",CHI,5,53,10.6,32,0,2,22
+"Hayes, V.",CHI,4,30,7.5,9,0,2,22
+"Davis, J.",CHI,2,17,8.5,10,0,2,22
+"Kross, C.",BAL,5,53,10.6,24,2,2,22
+"Lewandowski, J.",BAL,5,36,7.2,15,0,2,22
+"Maddox, E.",BAL,3,40,13.3,19,0,2,22
+"Williams, D.",BAL,3,20,6.7,8,0,2,22
+"Quinn, A.",BAL,2,25,12.5,16,0,2,22
+"Skuff, R.",BAL,1,9,9,9,0,2,22

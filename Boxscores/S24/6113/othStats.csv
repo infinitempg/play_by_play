@@ -1,18 +1,18 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Fassingit, H.",AUS,2,30,9,0
-"Saurus, B.",AUS,1,5,4,0
-"Porter, G.",AUS,1,15,0,0
-"Saurus, S.",AUS,0,0,7,1
-"Saurus, A.",AUS,0,0,5,0
-"Mendonca, M.",AUS,0,0,4,0
-"Beaver-Dantes, E.",AUS,0,0,3,0
-"Larson, P.",AUS,0,0,1,0
-"Petrongolo, J.",AZ,2,15,0,1
-"Unk, J.",AZ,1,5,3,0
-"Keppler, Z.",AZ,1,5,0,1
-"Miller II, C.",AZ,1,5,0,0
-"Block, T.",AZ,0,0,5,0
-"Buckley, B.",AZ,0,0,4,0
-"Golladay, C.",AZ,0,0,3,1
-"Evans, H.",AZ,0,0,3,0
-"Jones, J.",AZ,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Fassingit, H.",AUS,2,30,9,0,13,24
+"Saurus, B.",AUS,1,5,4,0,13,24
+"Porter, G.",AUS,1,15,0,0,13,24
+"Saurus, S.",AUS,0,0,7,1,13,24
+"Saurus, A.",AUS,0,0,5,0,13,24
+"Mendonca, M.",AUS,0,0,4,0,13,24
+"Beaver-Dantes, E.",AUS,0,0,3,0,13,24
+"Larson, P.",AUS,0,0,1,0,13,24
+"Petrongolo, J.",AZ,2,15,0,1,13,24
+"Unk, J.",AZ,1,5,3,0,13,24
+"Keppler, Z.",AZ,1,5,0,1,13,24
+"Miller II, C.",AZ,1,5,0,0,13,24
+"Block, T.",AZ,0,0,5,0,13,24
+"Buckley, B.",AZ,0,0,4,0,13,24
+"Golladay, C.",AZ,0,0,3,1,13,24
+"Evans, H.",AZ,0,0,3,0,13,24
+"Jones, J.",AZ,0,0,1,0,13,24

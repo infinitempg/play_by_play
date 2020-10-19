@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Rice, J.",CHI,0,0,5,0,5,0,0,1
-"Brown, M.",CHI,3,53,0,27,0,0,0,0
-"Parker, J.",CHI,5,131,0,43,0,0,0,0
-"Snuggles, J.",YKW,3,82,35,42,20,0,0,3
-"Hornbacher, A.",YKW,2,54,0,39,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Rice, J.",CHI,0,0,5,0,5,0,0,1,7,18
+"Brown, M.",CHI,3,53,0,27,0,0,0,0,7,18
+"Parker, J.",CHI,5,131,0,43,0,0,0,0,7,18
+"Snuggles, J.",YKW,3,82,35,42,20,0,0,3,7,18
+"Hornbacher, A.",YKW,2,54,0,39,0,0,0,0,7,18

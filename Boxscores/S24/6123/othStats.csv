@@ -1,15 +1,15 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Oberwald, G.",CHI,1,5,0,0
-"Bayley Jr., B.",CHI,0,0,8,0
-"Tucker Jr., P.",CHI,0,0,5,1
-"Gelbman, T.",CHI,0,0,5,0
-"LaFleur, F.",CHI,0,0,2,0
-"Hayes, V.",CHI,0,0,1,0
-"Yoda, B.",CHI,0,0,0,1
-"Fassingit, H.",AUS,2,15,5,0
-"Mendonca, M.",AUS,1,15,1,0
-"Saurus, S.",AUS,1,5,1,0
-"McGullager, T.",AUS,1,5,0,0
-"Beaver-Dantes, E.",AUS,0,0,4,0
-"Saurus, A.",AUS,0,0,2,0
-"Saurus, B.",AUS,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Oberwald, G.",CHI,1,5,0,0,11,24
+"Bayley Jr., B.",CHI,0,0,8,0,11,24
+"Tucker Jr., P.",CHI,0,0,5,1,11,24
+"Gelbman, T.",CHI,0,0,5,0,11,24
+"LaFleur, F.",CHI,0,0,2,0,11,24
+"Hayes, V.",CHI,0,0,1,0,11,24
+"Yoda, B.",CHI,0,0,0,1,11,24
+"Fassingit, H.",AUS,2,15,5,0,11,24
+"Mendonca, M.",AUS,1,15,1,0,11,24
+"Saurus, S.",AUS,1,5,1,0,11,24
+"McGullager, T.",AUS,1,5,0,0,11,24
+"Beaver-Dantes, E.",AUS,0,0,4,0,11,24
+"Saurus, A.",AUS,0,0,2,0,11,24
+"Saurus, B.",AUS,0,0,2,0,11,24

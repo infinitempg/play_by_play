@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"177013, G.",CHI,1,11,4,0
-"Brown, M.",CHI,1,7,1,0
-"Henry, J.",CHI,1,5,0,0
-"Bright, C.",CHI,0,0,5,0
-"Sandburg, C.",CHI,0,0,4,1
-"Ford Lalatina, D.",CHI,0,0,2,0
-"Harp, D.",CHI,0,0,2,0
-"Mushing, M.",YKW,1,15,4,0
-"Amper, T.",YKW,1,5,3,0
-"Canton, J.",YKW,1,5,1,0
-"Alexander, N.",YKW,1,5,0,0
-"Swift, N.",YKW,1,5,0,0
-"Ones, B.",YKW,0,0,5,0
-"Pooky, S.",YKW,0,0,5,0
-"Rchonsucks, A.",YKW,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"177013, G.",CHI,1,11,4,0,7,18
+"Brown, M.",CHI,1,7,1,0,7,18
+"Henry, J.",CHI,1,5,0,0,7,18
+"Bright, C.",CHI,0,0,5,0,7,18
+"Sandburg, C.",CHI,0,0,4,1,7,18
+"Ford Lalatina, D.",CHI,0,0,2,0,7,18
+"Harp, D.",CHI,0,0,2,0,7,18
+"Mushing, M.",YKW,1,15,4,0,7,18
+"Amper, T.",YKW,1,5,3,0,7,18
+"Canton, J.",YKW,1,5,1,0,7,18
+"Alexander, N.",YKW,1,5,0,0,7,18
+"Swift, N.",YKW,1,5,0,0,7,18
+"Ones, B.",YKW,0,0,5,0,7,18
+"Pooky, S.",YKW,0,0,5,0,7,18
+"Rchonsucks, A.",YKW,0,0,1,0,7,18

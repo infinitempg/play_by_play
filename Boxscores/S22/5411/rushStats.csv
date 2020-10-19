@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Frost, D.",SAR,26,94,3.6,14,1
-"McTaco, P.",SAR,8,27,3.4,8,1
-"Jenkins, R.",SAR,4,7,1.8,4,0
-"Williams, D.",BAL,20,96,4.8,14,0
-"Reed, A.",BAL,12,59,4.9,11,0
-"Skuff, R.",BAL,3,13,4.3,8,0
-"Fujiwara, C.",BAL,1,5,5,5,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Frost, D.",SAR,26,94,3.6,14,1,9,22
+"McTaco, P.",SAR,8,27,3.4,8,1,9,22
+"Jenkins, R.",SAR,4,7,1.8,4,0,9,22
+"Williams, D.",BAL,20,96,4.8,14,0,9,22
+"Reed, A.",BAL,12,59,4.9,11,0,9,22
+"Skuff, R.",BAL,3,13,4.3,8,0,9,22
+"Fujiwara, C.",BAL,1,5,5,5,0,9,22

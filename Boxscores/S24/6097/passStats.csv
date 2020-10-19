@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Jack, C.",YKW,"[17, 29]",308,18.1,3,2,100.9
-"Banks II, D.",SAR,"[20, 36]",295,14.8,4,0,119.6
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Jack, C.",YKW,308,18.1,3,2,100.9,17,20,15,24
+"Banks II, D.",SAR,295,14.8,4,0,119.6,17,20,15,24

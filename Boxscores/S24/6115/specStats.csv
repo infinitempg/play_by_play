@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Hanyadi, M.",YKW,2,91,7,47,7,0,0,1
-"Leonard, M.",YKW,3,78,0,38,0,0,0,0
-"Torenson, S.",PHI,3,89,0,42,0,0,0,0
-"Panda, F.",PHI,3,87,13,42,8,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Hanyadi, M.",YKW,2,91,7,47,7,0,0,1,12,24
+"Leonard, M.",YKW,3,78,0,38,0,0,0,0,12,24
+"Torenson, S.",PHI,3,89,0,42,0,0,0,0,12,24
+"Panda, F.",PHI,3,87,13,42,8,0,0,3,12,24

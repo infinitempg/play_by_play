@@ -1,16 +1,16 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"McKoutchie, M.",SJS,1,5,10,0
-"Probincrux III, D.",SJS,0,0,6,0
-"Tacktheritrix, J.",SJS,0,0,5,1
-"Rucker, F.",SJS,0,0,5,0
-"(R)Brannigan, Z.",SJS,0,0,2,1
-"Diaz, D.",SJS,0,0,1,0
-"Jahelpme, H.",SJS,0,0,1,0
-"Tuck Jr., T.",SJS,0,0,1,0
-"Dermot, F.",OCO,1,5,4,1
-"Crush, C.",OCO,1,5,0,0
-"Dermot, F.",OCO,1,5,0,0
-"Westfield, B.",OCO,1,5,0,0
-"Dermot, F.",OCO,0,0,4,0
-"Yates, J.",OCO,0,0,3,0
-"Dermot, F.",OCO,0,0,2,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"McKoutchie, M.",SJS,1,5,10,0,8,9
+"Probincrux III, D.",SJS,0,0,6,0,8,9
+"Tacktheritrix, J.",SJS,0,0,5,1,8,9
+"Rucker, F.",SJS,0,0,5,0,8,9
+"(R)Brannigan, Z.",SJS,0,0,2,1,8,9
+"Diaz, D.",SJS,0,0,1,0,8,9
+"Jahelpme, H.",SJS,0,0,1,0,8,9
+"Tuck Jr., T.",SJS,0,0,1,0,8,9
+"Dermot, F.",OCO,1,5,4,1,8,9
+"Crush, C.",OCO,1,5,0,0,8,9
+"Dermot, F.",OCO,1,5,0,0,8,9
+"Westfield, B.",OCO,1,5,0,0,8,9
+"Dermot, F.",OCO,0,0,4,0,8,9
+"Yates, J.",OCO,0,0,3,0,8,9
+"Dermot, F.",OCO,0,0,2,0,8,9

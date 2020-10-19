@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Farlane, D.",PHI,15,64,4.3,8,0
-"O'Sullivan, C.",PHI,10,18,1.8,9,0
-"Nyquist, W.",PHI,3,4,1.3,4,0
-"Noble, L.",PHI,1,-3,-3,0,0
-"Smallwood, D.",NO,22,107,4.9,13,3
-"Maximus III, B.",NO,9,16,1.8,12,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Farlane, D.",PHI,15,64,4.3,8,0,1,9
+"O'Sullivan, C.",PHI,10,18,1.8,9,0,1,9
+"Nyquist, W.",PHI,3,4,1.3,4,0,1,9
+"Noble, L.",PHI,1,-3,-3,0,0,1,9
+"Smallwood, D.",NO,22,107,4.9,13,3,1,9
+"Maximus III, B.",NO,9,16,1.8,12,0,1,9

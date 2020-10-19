@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Green, W.",BAL,2,65,0,38,0,0,0,0
-"Maddox, E.",BAL,4,77,18,39,18,0,0,1
-"Snuggles, J.",YKW,3,95,18,40,18,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Green, W.",BAL,2,65,0,38,0,0,0,0,5,20
+"Maddox, E.",BAL,4,77,18,39,18,0,0,1,5,20
+"Snuggles, J.",YKW,3,95,18,40,18,0,0,1,5,20

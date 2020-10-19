@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Ayers, N.",HON,16,50,3.1,8,1
-"Kane-Maika'i, K.",HON,9,20,2.2,5,0
-"Skywalker, L.",HON,4,14,3.5,9,0
-"Gump, F.",NO,18,73,4.1,10,0
-"Toriki, M.",NO,13,75,5.8,20,0
-"Slothlisberger, B.",NO,1,4,4,4,0
-"Wolfcastle, R.",NO,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Ayers, N.",HON,16,50,3.1,8,1,2,24
+"Kane-Maika'i, K.",HON,9,20,2.2,5,0,2,24
+"Skywalker, L.",HON,4,14,3.5,9,0,2,24
+"Gump, F.",NO,18,73,4.1,10,0,2,24
+"Toriki, M.",NO,13,75,5.8,20,0,2,24
+"Slothlisberger, B.",NO,1,4,4,4,0,2,24
+"Wolfcastle, R.",NO,1,1,1,1,0,2,24

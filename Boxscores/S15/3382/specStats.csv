@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Flash, X.",SJS,1,42,0,42,0,0,0,0
-"Oles, K.",SJS,2,25,39,18,15,0,0,3
-"Shady, S.",AZ,2,29,0,18,0,0,0,0
-"Murphy, J.",AZ,3,54,0,34,0,0,0,0
-"Adams, R.",AZ,0,0,-5,0,0,0,0,1
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Flash, X.",SJS,1,42,0,42,0,0,0,0,7,15
+"Oles, K.",SJS,2,25,39,18,15,0,0,3,7,15
+"Shady, S.",AZ,2,29,0,18,0,0,0,0,7,15
+"Murphy, J.",AZ,3,54,0,34,0,0,0,0,7,15
+"Adams, R.",AZ,0,0,-5,0,0,0,0,1,7,15

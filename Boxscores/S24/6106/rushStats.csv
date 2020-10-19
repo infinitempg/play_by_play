@@ -1,8 +1,8 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Mendonca, M.",AUS,21,90,4.3,10,0
-"Jones, K.",AUS,9,47,5.2,10,0
-"Cole, E.",AUS,1,4,4,4,0
-"Nakamura, T.",OCO,10,46,4.6,12,0
-"Armstrong, F.",OCO,4,1,0.2,4,0
-"McZeal, K.",OCO,3,8,2.7,4,0
-"George, D.",OCO,1,7,7,7,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Mendonca, M.",AUS,21,90,4.3,10,0,14,24
+"Jones, K.",AUS,9,47,5.2,10,0,14,24
+"Cole, E.",AUS,1,4,4,4,0,14,24
+"Nakamura, T.",OCO,10,46,4.6,12,0,14,24
+"Armstrong, F.",OCO,4,1,0.2,4,0,14,24
+"McZeal, K.",OCO,3,8,2.7,4,0,14,24
+"George, D.",OCO,1,7,7,7,0,14,24

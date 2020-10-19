@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Weston, S.",SJS,4,97,9,32,9,0,0,1
-"Canton, J.",SJS,2,59,0,36,0,0,0,0
-"Garden, J.",PHI,4,125,36,42,15,0,0,6
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Weston, S.",SJS,4,97,9,32,9,0,0,1,2,9
+"Canton, J.",SJS,2,59,0,36,0,0,0,0,2,9
+"Garden, J.",PHI,4,125,36,42,15,0,0,6,2,9

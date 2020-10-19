@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Thomas-Fox, D.",SJS,3,49,0,24,0,0,0,0
-"PickSix, H.",SJS,3,83,-1,41,0,0,0,1
-"D'Attoria V, R.",PHI,1,45,0,45,0,0,0,0
-"Panda, F.",PHI,1,38,106,38,67,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Thomas-Fox, D.",SJS,3,49,0,24,0,0,0,0,11,23
+"PickSix, H.",SJS,3,83,-1,41,0,0,0,1,11,23
+"D'Attoria V, R.",PHI,1,45,0,45,0,0,0,0,11,23
+"Panda, F.",PHI,1,38,106,38,67,0,0,3,11,23

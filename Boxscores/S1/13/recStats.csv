@@ -1,9 +1,9 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Phelps, R.",OCO,6,58,9.7,24,1
-"Westfield, B.",OCO,4,70,17.5,32,2
-"Wright Jr, G.",OCO,3,27,9,9,0
-"Wright, O.",OCO,2,10,5,7,0
-"Cook, B.",SJS,6,77,12.8,18,0
-"Weston, S.",SJS,4,26,6.5,13,0
-"Bottles, B.",SJS,3,28,9.3,17,0
-"Wiley, D.",SJS,2,24,12,15,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Phelps, R.",OCO,6,58,9.7,24,1,8,1
+"Westfield, B.",OCO,4,70,17.5,32,2,8,1
+"Wright Jr, G.",OCO,3,27,9,9,0,8,1
+"Wright, O.",OCO,2,10,5,7,0,8,1
+"Cook, B.",SJS,6,77,12.8,18,0,8,1
+"Weston, S.",SJS,4,26,6.5,13,0,8,1
+"Bottles, B.",SJS,3,28,9.3,17,0,8,1
+"Wiley, D.",SJS,2,24,12,15,0,8,1

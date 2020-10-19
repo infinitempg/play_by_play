@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"North, F.",PHI,2,71,0,36,0,0,0,0
-"Garden, J.",PHI,2,21,64,14,19,0,0,5
-"Bly Jr., A.",COL,0,0,17,0,16,0,0,4
-"Miller, H.",COL,2,61,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"North, F.",PHI,2,71,0,36,0,0,0,0,12,9
+"Garden, J.",PHI,2,21,64,14,19,0,0,5,12,9
+"Bly Jr., A.",COL,0,0,17,0,16,0,0,4,12,9
+"Miller, H.",COL,2,61,0,38,0,0,0,0,12,9

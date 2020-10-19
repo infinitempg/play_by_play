@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Dotson, F.",PHI,11,32,2.9,14,0
-"Torenson, S.",PHI,9,32,3.6,8,0
-"McDummy, W.",COL,17,106,6.2,30,0
-"Owens, A.",COL,16,71,4.4,10,0
-"Vincent, M.",COL,14,70,5,9,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Dotson, F.",PHI,11,32,2.9,14,0,2,22
+"Torenson, S.",PHI,9,32,3.6,8,0,2,22
+"McDummy, W.",COL,17,106,6.2,30,0,2,22
+"Owens, A.",COL,16,71,4.4,10,0,2,22
+"Vincent, M.",COL,14,70,5,9,0,2,22

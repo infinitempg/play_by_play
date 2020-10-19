@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Personsacker, J.",PHI,1,10,0,0
-"Varga, N.",PHI,1,10,0,0
-"Tyler, J.",PHI,0,0,4,0
-"Hayes, R.",PHI,0,0,3,1
-"Fillmore, M.",PHI,0,0,2,1
-"Blocksdale Jr., A.",PHI,0,0,2,0
-"Torenson, S.",PHI,0,0,2,0
-"Arthur, C.",PHI,0,0,1,0
-"Dotson, F.",PHI,0,0,1,0
-"Van Buren, M.",PHI,0,0,1,0
-"Williams, D.",BAL,1,11,0,1
-"Maddox, E.",BAL,1,5,0,0
-"Troyski, X.",BAL,1,15,0,0
-"Uchiha, L.",BAL,1,5,0,0
-"Jeremy, R.",BAL,0,0,8,0
-"Diggler, D.",BAL,0,0,4,0
-"Star, L.",BAL,0,0,3,0
-"Grey, S.",BAL,0,0,2,0
-"Steele, R.",BAL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Personsacker, J.",PHI,1,10,0,0,3,21
+"Varga, N.",PHI,1,10,0,0,3,21
+"Tyler, J.",PHI,0,0,4,0,3,21
+"Hayes, R.",PHI,0,0,3,1,3,21
+"Fillmore, M.",PHI,0,0,2,1,3,21
+"Blocksdale Jr., A.",PHI,0,0,2,0,3,21
+"Torenson, S.",PHI,0,0,2,0,3,21
+"Arthur, C.",PHI,0,0,1,0,3,21
+"Dotson, F.",PHI,0,0,1,0,3,21
+"Van Buren, M.",PHI,0,0,1,0,3,21
+"Williams, D.",BAL,1,11,0,1,3,21
+"Maddox, E.",BAL,1,5,0,0,3,21
+"Troyski, X.",BAL,1,15,0,0,3,21
+"Uchiha, L.",BAL,1,5,0,0,3,21
+"Jeremy, R.",BAL,0,0,8,0,3,21
+"Diggler, D.",BAL,0,0,4,0,3,21
+"Star, L.",BAL,0,0,3,0,3,21
+"Grey, S.",BAL,0,0,2,0,3,21
+"Steele, R.",BAL,0,0,1,0,3,21

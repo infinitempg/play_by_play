@@ -1,5 +1,5 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Nuck, B.",COL,15,64,4.3,18,1
-"Joyce, S.",COL,11,45,4.1,8,0
-"Applehort, R.",COL,3,2,0.7,2,0
-"Savea, A.",NO,26,109,4.2,14,2
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Nuck, B.",COL,15,64,4.3,18,1,13,7
+"Joyce, S.",COL,11,45,4.1,8,0,13,7
+"Applehort, R.",COL,3,2,0.7,2,0,13,7
+"Savea, A.",NO,26,109,4.2,14,2,13,7

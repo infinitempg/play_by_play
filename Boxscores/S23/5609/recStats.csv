@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Blocksdale Jr., A.",PHI,6,70,11.7,25,2
-"Vuxta, R.",PHI,4,87,21.8,38,1
-"Panda, F.",PHI,4,17,4.2,12,1
-"Torenson, S.",PHI,3,7,2.3,4,0
-"Varga, N.",PHI,2,25,12.5,15,0
-"Dotson, F.",PHI,2,22,11,15,0
-"Arrabiata, D.",PHI,2,8,4,4,0
-"Quinn, A.",BAL,4,75,18.8,34,0
-"Lewandowski, J.",BAL,3,13,4.3,6,0
-"Kross, C.",BAL,2,64,32,35,0
-"Kaepercolin, N.",BAL,2,20,10,11,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Blocksdale Jr., A.",PHI,6,70,11.7,25,2,3,23
+"Vuxta, R.",PHI,4,87,21.8,38,1,3,23
+"Panda, F.",PHI,4,17,4.2,12,1,3,23
+"Torenson, S.",PHI,3,7,2.3,4,0,3,23
+"Varga, N.",PHI,2,25,12.5,15,0,3,23
+"Dotson, F.",PHI,2,22,11,15,0,3,23
+"Arrabiata, D.",PHI,2,8,4,4,0,3,23
+"Quinn, A.",BAL,4,75,18.8,34,0,3,23
+"Lewandowski, J.",BAL,3,13,4.3,6,0,3,23
+"Kross, C.",BAL,2,64,32,35,0,3,23
+"Kaepercolin, N.",BAL,2,20,10,11,1,3,23

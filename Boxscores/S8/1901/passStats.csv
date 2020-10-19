@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Pennington, B.",SJS,"[17, 27]",198,11.6,0,0,85.1
-"Bronko, K.",AZ,"[31, 42]",257,8.3,2,1,95
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Pennington, B.",SJS,198,11.6,0,0,85.1,17,31,6,8
+"Bronko, K.",AZ,257,8.3,2,1,95,17,31,6,8

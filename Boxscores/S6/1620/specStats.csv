@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Mackworthy, R.",AZ,3,39,0,35,0,0,0,0
-"Hayden, A.",AZ,0,0,19,0,19,0,0,1
-"Tweed, B.",COL,2,68,0,56,0,0,0,0
-"Bly Jr., A.",COL,2,36,24,24,13,0,0,6
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Mackworthy, R.",AZ,3,39,0,35,0,0,0,0,11,6
+"Hayden, A.",AZ,0,0,19,0,19,0,0,1,11,6
+"Tweed, B.",COL,2,68,0,56,0,0,0,0,11,6
+"Bly Jr., A.",COL,2,36,24,24,13,0,0,6,11,6

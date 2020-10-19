@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Lavelle, D.",YKW,4,83,0,43,0,0,0,0
-"Bly Jr., A.",YKW,2,63,9,37,6,0,0,2
-"Danger, D.",COL,0,0,17,0,8,0,0,4
-"Grau, M.",COL,3,41,0,16,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Lavelle, D.",YKW,4,83,0,43,0,0,0,0,7,12
+"Bly Jr., A.",YKW,2,63,9,37,6,0,0,2,7,12
+"Danger, D.",COL,0,0,17,0,8,0,0,4,7,12
+"Grau, M.",COL,3,41,0,16,0,0,0,0,7,12

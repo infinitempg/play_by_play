@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Shady, S.",AZ,30,125,4.2,17,0
-"Goomba, M.",AZ,2,1,0.5,1,0
-"Boija, F.",PHI,15,85,5.7,15,0
-"Davenport, C.",PHI,4,13,3.2,12,0
-"Falconi, A.",PHI,1,0,0,0,0
-"McCargue, B.",PHI,1,2,2,2,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Shady, S.",AZ,30,125,4.2,17,0,8,14
+"Goomba, M.",AZ,2,1,0.5,1,0,8,14
+"Boija, F.",PHI,15,85,5.7,15,0,8,14
+"Davenport, C.",PHI,4,13,3.2,12,0,8,14
+"Falconi, A.",PHI,1,0,0,0,0,8,14
+"McCargue, B.",PHI,1,2,2,2,0,8,14

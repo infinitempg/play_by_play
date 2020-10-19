@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Adams, R.",OCO,6,71,11.8,22,0
-"McPoyal, G.",OCO,5,55,11,25,0
-"Atwell, T.",OCO,4,57,14.2,32,1
-"Sunnycursed, N.",OCO,4,47,11.8,24,0
-"Zephyrous, S.",OCO,4,40,10,12,1
-"Crush, C.",OCO,2,30,15,23,0
-"Valentine, V.",BAL,5,129,25.8,43,0
-"Harp, D.",BAL,5,56,11.2,19,1
-"Nagasawa, Y.",BAL,3,59,19.7,28,0
-"Maddox, E.",BAL,2,27,13.5,21,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Adams, R.",OCO,6,71,11.8,22,0,5,13
+"McPoyal, G.",OCO,5,55,11,25,0,5,13
+"Atwell, T.",OCO,4,57,14.2,32,1,5,13
+"Sunnycursed, N.",OCO,4,47,11.8,24,0,5,13
+"Zephyrous, S.",OCO,4,40,10,12,1,5,13
+"Crush, C.",OCO,2,30,15,23,0,5,13
+"Valentine, V.",BAL,5,129,25.8,43,0,5,13
+"Harp, D.",BAL,5,56,11.2,19,1,5,13
+"Nagasawa, Y.",BAL,3,59,19.7,28,0,5,13
+"Maddox, E.",BAL,2,27,13.5,21,0,5,13

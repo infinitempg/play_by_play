@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Westfield, B.",OCO,1,34,43,34,15,0,0,6
-"Yates, J.",OCO,1,11,0,11,0,0,0,0
-"Weston, S.",SJS,4,96,-2,47,0,0,0,1
-"Jackson, M.",SJS,1,38,0,38,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Westfield, B.",OCO,1,34,43,34,15,0,0,6,12,7
+"Yates, J.",OCO,1,11,0,11,0,0,0,0,12,7
+"Weston, S.",SJS,4,96,-2,47,0,0,0,1,12,7
+"Jackson, M.",SJS,1,38,0,38,0,0,0,0,12,7

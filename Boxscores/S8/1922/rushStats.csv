@@ -1,4 +1,4 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Smallwood, D.",NO,15,88,5.9,19,1
-"Taylor, O.",BAL,27,113,4.2,13,0
-"Blocksdale, A.",BAL,1,23,23,23,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Smallwood, D.",NO,15,88,5.9,19,1,11,8
+"Taylor, O.",BAL,27,113,4.2,13,0,11,8
+"Blocksdale, A.",BAL,1,23,23,23,0,11,8

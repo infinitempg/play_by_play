@@ -1,5 +1,5 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Emoji, E.",PHI,3,60,6,41,6,0,0,1
-"Garnett, L.",PHI,4,96,0,34,0,0,0,0
-"Owens, A.",COL,2,68,0,42,0,0,0,0
-"McMahon, J.",COL,3,59,87,26,71,0,0,3
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Emoji, E.",PHI,3,60,6,41,6,0,0,1,9,20
+"Garnett, L.",PHI,4,96,0,34,0,0,0,0,9,20
+"Owens, A.",COL,2,68,0,42,0,0,0,0,9,20
+"McMahon, J.",COL,3,59,87,26,71,0,0,3,9,20

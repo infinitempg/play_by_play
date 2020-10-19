@@ -1,11 +1,11 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Bishop, J.",COL,5,41,8.2,11,1
-"Crindy, B.",COL,5,32,6.4,15,0
-"LaMelllana, S.",COL,4,55,13.8,21,0
-"Palmer, J.",COL,4,33,8.2,13,0
-"Taffy, T.",COL,4,23,5.8,14,0
-"Brannigan, Z.",PHI,6,74,12.3,20,1
-"von Matt, J.",PHI,5,112,22.4,37,0
-"Varga, N.",PHI,4,67,16.8,30,1
-"Jones, V.",PHI,4,26,6.5,12,2
-"Hank, F.",PHI,3,21,7,8,1
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Bishop, J.",COL,5,41,8.2,11,1,8,16
+"Crindy, B.",COL,5,32,6.4,15,0,8,16
+"LaMelllana, S.",COL,4,55,13.8,21,0,8,16
+"Palmer, J.",COL,4,33,8.2,13,0,8,16
+"Taffy, T.",COL,4,23,5.8,14,0,8,16
+"Brannigan, Z.",PHI,6,74,12.3,20,1,8,16
+"von Matt, J.",PHI,5,112,22.4,37,0,8,16
+"Varga, N.",PHI,4,67,16.8,30,1,8,16
+"Jones, V.",PHI,4,26,6.5,12,2,8,16
+"Hank, F.",PHI,3,21,7,8,1,8,16

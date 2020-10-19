@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Booter, F.",LV,10,75,7.5,17,1
-"Evans, D.",LV,6,117,19.5,53,0
-"Askins, J.",LV,6,40,6.7,11,0
-"O'Sullivan, C.",LV,5,52,10.4,32,1
-"Savea, A.",LV,3,42,14,34,0
-"Omega, K.",LV,2,14,7,10,0
-"Tenzini, G.",LV,2,7,3.5,7,0
-"Baker, J.",LV,1,9,9,9,0
-"Willie, T.",BAL,10,96,9.6,22,1
-"LeClair, A.",BAL,6,109,18.2,33,2
-"Wachter, J.",BAL,6,65,10.8,21,0
-"Stormblessed, N.",BAL,3,16,5.3,8,0
-"Taylor, O.",BAL,2,16,8,9,0
-"Koch, D.",BAL,1,2,2,2,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Booter, F.",LV,10,75,7.5,17,1,9,5
+"Evans, D.",LV,6,117,19.5,53,0,9,5
+"Askins, J.",LV,6,40,6.7,11,0,9,5
+"O'Sullivan, C.",LV,5,52,10.4,32,1,9,5
+"Savea, A.",LV,3,42,14,34,0,9,5
+"Omega, K.",LV,2,14,7,10,0,9,5
+"Tenzini, G.",LV,2,7,3.5,7,0,9,5
+"Baker, J.",LV,1,9,9,9,0,9,5
+"Willie, T.",BAL,10,96,9.6,22,1,9,5
+"LeClair, A.",BAL,6,109,18.2,33,2,9,5
+"Wachter, J.",BAL,6,65,10.8,21,0,9,5
+"Stormblessed, N.",BAL,3,16,5.3,8,0,9,5
+"Taylor, O.",BAL,2,16,8,9,0,9,5
+"Koch, D.",BAL,1,2,2,2,0,9,5

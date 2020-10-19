@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Law, C.",NO,7,108,15.4,28,1
-"Reigns, J.",NO,7,43,6.1,9,0
-"Evans, D.",NO,6,128,21.3,50,0
-"Savea, A.",NO,6,33,5.5,11,0
-"Stormblessed, N.",NO,5,42,8.4,15,0
-"O'Sullivan, C.",NO,1,5,5,5,0
-"McPoyal, G.",YKW,5,39,7.8,11,1
-"Harris Jr., F.",YKW,4,19,4.8,8,0
-"Kennedy, E.",YKW,3,103,34.3,61,0
-"Cook, B.",YKW,1,42,42,42,0
-"Rainey, R.",YKW,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Law, C.",NO,7,108,15.4,28,1,4,7
+"Reigns, J.",NO,7,43,6.1,9,0,4,7
+"Evans, D.",NO,6,128,21.3,50,0,4,7
+"Savea, A.",NO,6,33,5.5,11,0,4,7
+"Stormblessed, N.",NO,5,42,8.4,15,0,4,7
+"O'Sullivan, C.",NO,1,5,5,5,0,4,7
+"McPoyal, G.",YKW,5,39,7.8,11,1,4,7
+"Harris Jr., F.",YKW,4,19,4.8,8,0,4,7
+"Kennedy, E.",YKW,3,103,34.3,61,0,4,7
+"Cook, B.",YKW,1,42,42,42,0,4,7
+"Rainey, R.",YKW,1,7,7,7,0,4,7

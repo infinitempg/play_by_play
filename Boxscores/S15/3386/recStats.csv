@@ -1,14 +1,14 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Crindy, B.",COL,8,82,10.2,25,1
-"Bishop, J.",COL,6,124,20.7,31,1
-"LaMelllana, S.",COL,5,65,13,21,0
-"Taffy, T.",COL,4,16,4,8,0
-"Cansino, D.",COL,3,22,7.3,9,0
-"Grau, M.",COL,3,13,4.3,6,0
-"Landers, B.",AZ,5,74,14.8,28,1
-"Irving, J.",AZ,5,45,9,20,1
-"Hardwick, S.",AZ,4,87,21.8,30,0
-"Adams, R.",AZ,3,20,6.7,8,1
-"Moore, S.",AZ,3,13,4.3,13,0
-"Shady, S.",AZ,2,15,7.5,9,0
-"Hasselhoff, F.",AZ,1,10,10,10,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Crindy, B.",COL,8,82,10.2,25,1,8,15
+"Bishop, J.",COL,6,124,20.7,31,1,8,15
+"LaMelllana, S.",COL,5,65,13,21,0,8,15
+"Taffy, T.",COL,4,16,4,8,0,8,15
+"Cansino, D.",COL,3,22,7.3,9,0,8,15
+"Grau, M.",COL,3,13,4.3,6,0,8,15
+"Landers, B.",AZ,5,74,14.8,28,1,8,15
+"Irving, J.",AZ,5,45,9,20,1,8,15
+"Hardwick, S.",AZ,4,87,21.8,30,0,8,15
+"Adams, R.",AZ,3,20,6.7,8,1,8,15
+"Moore, S.",AZ,3,13,4.3,13,0,8,15
+"Shady, S.",AZ,2,15,7.5,9,0,8,15
+"Hasselhoff, F.",AZ,1,10,10,10,0,8,15

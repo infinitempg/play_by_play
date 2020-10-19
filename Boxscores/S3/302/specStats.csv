@@ -1,6 +1,6 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Wright, O.",PHI,1,32,21,32,15,0,0,2
-"Jefferson, L.",PHI,1,17,0,17,0,0,0,0
-"StoneHandsBot, Z.",PHI,1,0,0,0,0,0,0,0
-"StoneHandsBot, Z.",LV,4,59,0,19,0,0,0,0
-"Ross, J.",LV,2,35,9,22,8,0,0,2
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Wright, O.",PHI,1,32,21,32,15,0,0,2,7,3
+"Jefferson, L.",PHI,1,17,0,17,0,0,0,0,7,3
+"StoneHandsBot, Z.",PHI,1,0,0,0,0,0,0,0,7,3
+"StoneHandsBot, Z.",LV,4,59,0,19,0,0,0,0,7,3
+"Ross, J.",LV,2,35,9,22,8,0,0,2,7,3

@@ -1,12 +1,12 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"DiMirio, P.",NO,9,92,10.2,30,1
-"Evans, D.",NO,8,105,13.1,29,1
-"Law, C.",NO,7,105,15,26,1
-"Savea, A.",NO,6,34,5.7,10,0
-"Smallwood, D.",NO,5,58,11.6,23,0
-"Jackson, M.",NO,5,57,11.4,30,0
-"Chipmunk, A.",COL,4,29,7.2,12,0
-"Cox, J.",COL,3,21,7,9,0
-"Wheat, B.",COL,2,23,11.5,12,0
-"Aaron, D.",COL,1,9,9,9,0
-"Kroetch, D.",COL,1,4,4,4,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"DiMirio, P.",NO,9,92,10.2,30,1,4,9
+"Evans, D.",NO,8,105,13.1,29,1,4,9
+"Law, C.",NO,7,105,15,26,1,4,9
+"Savea, A.",NO,6,34,5.7,10,0,4,9
+"Smallwood, D.",NO,5,58,11.6,23,0,4,9
+"Jackson, M.",NO,5,57,11.4,30,0,4,9
+"Chipmunk, A.",COL,4,29,7.2,12,0,4,9
+"Cox, J.",COL,3,21,7,9,0,4,9
+"Wheat, B.",COL,2,23,11.5,12,0,4,9
+"Aaron, D.",COL,1,9,9,9,0,4,9
+"Kroetch, D.",COL,1,4,4,4,0,4,9

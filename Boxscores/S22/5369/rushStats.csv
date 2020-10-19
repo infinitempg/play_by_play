@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Gump, F.",NO,17,69,4.1,9,0
-"Toriki, M.",NO,11,65,5.9,11,0
-"Francisco, S.",NO,2,-4,-2,2,0
-"Nakamura, T.",OCO,17,45,2.6,8,0
-"Bigby, L.",OCO,14,72,5.1,10,0
-"Armstrong, F.",OCO,9,44,4.9,13,1
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Gump, F.",NO,17,69,4.1,9,0,2,22
+"Toriki, M.",NO,11,65,5.9,11,0,2,22
+"Francisco, S.",NO,2,-4,-2,2,0,2,22
+"Nakamura, T.",OCO,17,45,2.6,8,0,2,22
+"Bigby, L.",OCO,14,72,5.1,10,0,2,22
+"Armstrong, F.",OCO,9,44,4.9,13,1,2,22

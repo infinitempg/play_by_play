@@ -1,7 +1,7 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"L'Alto, V.",BAL,0,0,6,0,6,0,0,1
-"Valentine, V.",BAL,1,101,21,101,13,1,0,3
-"Summer, A.",BAL,1,40,0,40,0,0,0,0
-"Oakes, B.",BAL,1,-2,0,0,0,0,0,0
-"Miller, H.",COL,5,153,0,41,0,0,0,0
-"Grau, M.",COL,3,38,0,18,0,0,0,0
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"L'Alto, V.",BAL,0,0,6,0,6,0,0,1,9,12
+"Valentine, V.",BAL,1,101,21,101,13,1,0,3,9,12
+"Summer, A.",BAL,1,40,0,40,0,0,0,0,9,12
+"Oakes, B.",BAL,1,-2,0,0,0,0,0,0,9,12
+"Miller, H.",COL,5,153,0,41,0,0,0,0,9,12
+"Grau, M.",COL,3,38,0,18,0,0,0,0,9,12

@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Blocksdale, A.",BAL,"[20, 34]",273,13.6,3,2,89.5
-"Rove, C.",PHI,"[20, 40]",263,13.2,1,0,79.5
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Blocksdale, A.",BAL,273,13.6,3,2,89.5,20,20,10,5
+"Rove, C.",PHI,263,13.2,1,0,79.5,20,20,10,5

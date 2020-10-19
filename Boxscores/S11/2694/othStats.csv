@@ -1,21 +1,21 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"Felix, L.",PHI,1,5,0,0
-"Marchand, J.",PHI,1,5,0,0
-"Van Buren, M.",PHI,0,0,7,0
-"Arthur, C.",PHI,0,0,5,0
-"Fillmore, M.",PHI,0,0,5,0
-"Hayes, R.",PHI,0,0,5,0
-"Hondo, A.",PHI,0,0,3,1
-"Brown, M.",PHI,0,0,3,0
-"Tyler, J.",PHI,0,0,3,0
-"O'Sullivan, C.",PHI,0,0,1,0
-"Jeremy, R.",BAL,1,10,6,0
-"Asipi Jr., A.",BAL,1,15,0,0
-"Hendrix, K.",BAL,1,15,0,0
-"Willie, T.",BAL,1,5,0,0
-"Diggler, D.",BAL,0,0,8,0
-"Taylor, O.",BAL,0,0,3,0
-"Grey, S.",BAL,0,0,2,0
-"L'Alto, V.",BAL,0,0,2,0
-"Star, L.",BAL,0,0,2,0
-"Harp, D.",BAL,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"Felix, L.",PHI,1,5,0,0,6,11
+"Marchand, J.",PHI,1,5,0,0,6,11
+"Van Buren, M.",PHI,0,0,7,0,6,11
+"Arthur, C.",PHI,0,0,5,0,6,11
+"Fillmore, M.",PHI,0,0,5,0,6,11
+"Hayes, R.",PHI,0,0,5,0,6,11
+"Hondo, A.",PHI,0,0,3,1,6,11
+"Brown, M.",PHI,0,0,3,0,6,11
+"Tyler, J.",PHI,0,0,3,0,6,11
+"O'Sullivan, C.",PHI,0,0,1,0,6,11
+"Jeremy, R.",BAL,1,10,6,0,6,11
+"Asipi Jr., A.",BAL,1,15,0,0,6,11
+"Hendrix, K.",BAL,1,15,0,0,6,11
+"Willie, T.",BAL,1,5,0,0,6,11
+"Diggler, D.",BAL,0,0,8,0,6,11
+"Taylor, O.",BAL,0,0,3,0,6,11
+"Grey, S.",BAL,0,0,2,0,6,11
+"L'Alto, V.",BAL,0,0,2,0,6,11
+"Star, L.",BAL,0,0,2,0,6,11
+"Harp, D.",BAL,0,0,1,0,6,11

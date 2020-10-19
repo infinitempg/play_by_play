@@ -1,15 +1,15 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Valentine, V.",BAL,4,93,23.2,36,2
-"L'Alto, V.",BAL,4,79,19.8,26,1
-"Nagasawa, Y.",BAL,4,72,18,47,0
-"Harp, D.",BAL,2,9,4.5,7,0
-"Maddox, E.",BAL,1,47,47,47,0
-"Summer, A.",BAL,1,13,13,13,0
-"Taylor, O.",BAL,1,11,11,11,0
-"Bishop, J.",COL,7,101,14.4,35,1
-"Grau, M.",COL,6,41,6.8,10,1
-"Miller, H.",COL,5,91,18.2,27,1
-"Wachter, J.",COL,4,58,14.5,31,0
-"Strike, L.",COL,3,20,6.7,8,0
-"Chipmunk, A.",COL,3,16,5.3,9,0
-"Cansino, D.",COL,1,7,7,7,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Valentine, V.",BAL,4,93,23.2,36,2,9,12
+"L'Alto, V.",BAL,4,79,19.8,26,1,9,12
+"Nagasawa, Y.",BAL,4,72,18,47,0,9,12
+"Harp, D.",BAL,2,9,4.5,7,0,9,12
+"Maddox, E.",BAL,1,47,47,47,0,9,12
+"Summer, A.",BAL,1,13,13,13,0,9,12
+"Taylor, O.",BAL,1,11,11,11,0,9,12
+"Bishop, J.",COL,7,101,14.4,35,1,9,12
+"Grau, M.",COL,6,41,6.8,10,1,9,12
+"Miller, H.",COL,5,91,18.2,27,1,9,12
+"Wachter, J.",COL,4,58,14.5,31,0,9,12
+"Strike, L.",COL,3,20,6.7,8,0,9,12
+"Chipmunk, A.",COL,3,16,5.3,9,0,9,12
+"Cansino, D.",COL,1,7,7,7,0,9,12

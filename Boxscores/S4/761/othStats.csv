@@ -1,20 +1,20 @@
-Player,Team,Penalties,Yards,Pancakes,Sacks Allowed
-"North, F.",PHI,1,5,0,0
-"Arthur, C.",PHI,0,0,5,0
-"Kroetch, D.",PHI,0,0,5,0
-"Van Buren, M.",PHI,0,0,5,0
-"DiMirio, P.",PHI,0,0,4,0
-"Filmore, M.",PHI,0,0,3,0
-"Hayes, R.",PHI,0,0,3,0
-"Milan, C.",PHI,0,0,0,1
-"Tyler, J.",PHI,0,0,0,1
-"Ramathorn, A.",OCO,1,5,6,1
-"Petrakis, A.",OCO,1,5,0,0
-"Westfield, B.",OCO,1,5,0,0
-"Wright Jr, G.",OCO,1,5,0,0
-"Womack, C.",OCO,0,0,5,0
-"Farva, R.",OCO,0,0,4,0
-"Roto, R.",OCO,0,0,3,1
-"Foster, J.",OCO,0,0,2,0
-"Jenkins, L.",OCO,0,0,2,0
-"O'Sullivan, S.",OCO,0,0,1,0
+Player,Team,Penalties,Yards,Pancakes,Sacks Allowed,W,S
+"North, F.",PHI,1,5,0,0,10,4
+"Arthur, C.",PHI,0,0,5,0,10,4
+"Kroetch, D.",PHI,0,0,5,0,10,4
+"Van Buren, M.",PHI,0,0,5,0,10,4
+"DiMirio, P.",PHI,0,0,4,0,10,4
+"Filmore, M.",PHI,0,0,3,0,10,4
+"Hayes, R.",PHI,0,0,3,0,10,4
+"Milan, C.",PHI,0,0,0,1,10,4
+"Tyler, J.",PHI,0,0,0,1,10,4
+"Ramathorn, A.",OCO,1,5,6,1,10,4
+"Petrakis, A.",OCO,1,5,0,0,10,4
+"Westfield, B.",OCO,1,5,0,0,10,4
+"Wright Jr, G.",OCO,1,5,0,0,10,4
+"Womack, C.",OCO,0,0,5,0,10,4
+"Farva, R.",OCO,0,0,4,0,10,4
+"Roto, R.",OCO,0,0,3,1,10,4
+"Foster, J.",OCO,0,0,2,0,10,4
+"Jenkins, L.",OCO,0,0,2,0,10,4
+"O'Sullivan, S.",OCO,0,0,1,0,10,4

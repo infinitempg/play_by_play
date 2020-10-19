@@ -1,3 +1,3 @@
-Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat
-"Armstrong, F.",OCO,"[21, 38]",330,15.7,2,0,101.9
-"Cole, E.",AUS,"[15, 28]",237,15.8,2,1,90.9
+Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Armstrong, F.",OCO,330,15.7,2,0,101.9,21,15,3,19
+"Cole, E.",AUS,237,15.8,2,1,90.9,21,15,3,19

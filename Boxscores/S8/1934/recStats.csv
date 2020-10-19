@@ -1,13 +1,13 @@
-Player,Team,Rec,Yds,Avg,Lg,rec_TD
-"Wachter, J.",AZ,6,109,18.2,28,1
-"Chess, C.",AZ,6,60,10,15,2
-"Squanch, V.",AZ,5,58,11.6,24,0
-"Crindy, B.",AZ,3,17,5.7,8,0
-"Booter, F.",AZ,3,16,5.3,9,1
-"Christmas, C.",AZ,1,9,9,9,0
-"Westfield, B.",OCO,7,92,13.1,31,1
-"Yates, J.",OCO,5,71,14.2,23,0
-"Crush, C.",OCO,4,120,30,40,0
-"Atwell, T.",OCO,4,113,28.2,44,1
-"Phelps, R.",OCO,4,21,5.2,10,1
-"Burnsman, E.",OCO,3,18,6,8,0
+Player,Team,Rec,Yds,Avg,Lg,rec_TD,W,S
+"Wachter, J.",AZ,6,109,18.2,28,1,14,8
+"Chess, C.",AZ,6,60,10,15,2,14,8
+"Squanch, V.",AZ,5,58,11.6,24,0,14,8
+"Crindy, B.",AZ,3,17,5.7,8,0,14,8
+"Booter, F.",AZ,3,16,5.3,9,1,14,8
+"Christmas, C.",AZ,1,9,9,9,0,14,8
+"Westfield, B.",OCO,7,92,13.1,31,1,14,8
+"Yates, J.",OCO,5,71,14.2,23,0,14,8
+"Crush, C.",OCO,4,120,30,40,0,14,8
+"Atwell, T.",OCO,4,113,28.2,44,1,14,8
+"Phelps, R.",OCO,4,21,5.2,10,1,14,8
+"Burnsman, E.",OCO,3,18,6,8,0,14,8

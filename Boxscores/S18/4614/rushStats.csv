@@ -1,6 +1,6 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Torenson, S.",PHI,23,86,3.7,12,0
-"Toriki, M.",SJS,27,131,4.9,14,1
-"Orosz, C.",SJS,11,51,4.6,11,0
-"Bot, B.",SJS,2,2,1,2,0
-"Boija, F.",SJS,1,1,1,1,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Torenson, S.",PHI,23,86,3.7,12,0,12,18
+"Toriki, M.",SJS,27,131,4.9,14,1,12,18
+"Orosz, C.",SJS,11,51,4.6,11,0,12,18
+"Bot, B.",SJS,2,2,1,2,0,12,18
+"Boija, F.",SJS,1,1,1,1,0,12,18

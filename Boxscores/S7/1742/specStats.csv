@@ -1,4 +1,4 @@
-Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR
-"Oakes, B.",NO,3,99,0,34,0,0,0,0
-"Evans, D.",NO,2,44,19,29,10,0,0,3
-"Lavelle, D.",YKW,4,92,214,39,86,0,2,8
+Player,Team,KR,KRYds,PRYds,KRLng,PRLng,KR_TD,PR_TD,PR,W,S
+"Oakes, B.",NO,3,99,0,34,0,0,0,0,4,7
+"Evans, D.",NO,2,44,19,29,10,0,0,3,4,7
+"Lavelle, D.",YKW,4,92,214,39,86,0,2,8,4,7

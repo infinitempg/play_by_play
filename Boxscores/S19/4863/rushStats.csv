@@ -1,7 +1,7 @@
-Player,Team,Att,Yds,Avg,Lg,rush_TD
-"Bigby, L.",BAL,13,83,6.4,17,1
-"Trevor, C.",BAL,11,44,4,7,0
-"Havran, C.",BAL,3,11,3.7,5,0
-"Tyerucker, Q.",SJS,22,85,3.9,13,1
-"Wright, D.",SJS,3,10,3.3,6,0
-"Orosz, C.",SJS,1,8,8,8,0
+Player,Team,Att,Yds,Avg,Lg,rush_TD,W,S
+"Bigby, L.",BAL,13,83,6.4,17,1,12,19
+"Trevor, C.",BAL,11,44,4,7,0,12,19
+"Havran, C.",BAL,3,11,3.7,5,0,12,19
+"Tyerucker, Q.",SJS,22,85,3.9,13,1,12,19
+"Wright, D.",SJS,3,10,3.3,6,0,12,19
+"Orosz, C.",SJS,1,8,8,8,0,12,19
