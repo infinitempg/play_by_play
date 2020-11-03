@@ -8,7 +8,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Slothface, J.",NO,3,0,1,1,0,0,0,0,0,0,0,0,5,17
 "Taylor, D.",NO,3,0,0,1,0,0,0,0,0,0,0,0,5,17
 "Rax, L.",NO,2,1,0,0,0,0,0,0,0,0,0,0,5,17
-"Townsend, F.",NO,2,0,1,0,0,0,0,0,0,0,0,0,5,17
+"Townsend, F.",NO,2,0,1,0,0,0,0,1,0,0,0,0,5,17
 "Hobbs, S.",OCO,13,0,0,0,0,0,0,0,0,0,0,0,5,17
 "Ginsberg, D.",OCO,8,0,0,0,0,0,0,0,0,0,0,0,5,17
 "Grievous, L.",OCO,8,0,0,2,0,0,0,0,0,0,0,0,5,17
@@ -20,4 +20,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Skarsgard, T.",OCO,3,0,1,0,0,0,0,0,0,0,0,0,5,17
 "Lattimer, A.",OCO,1,1,0,0,0,0,0,0,0,0,0,0,5,17
 "Salami, T.",OCO,1,0,0,0,0,0,0,0,0,0,0,0,5,17
-"Wokkenfuss, G.",OCO,0,0,0,0,0,0,0,0,0,0,0,0,5,17
+"Wokkenfuss, G.",OCO,0,0,0,0,0,0,0,0,1,0,0,0,5,17

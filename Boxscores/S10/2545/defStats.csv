@@ -9,7 +9,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Rove, C.",BAL,3,0,0,0,0,0,0,0,0,0,0,0,6,10
 "Delacour, A.",BAL,2,0,0,1,0,0,0,0,0,0,0,0,6,10
 "Fletcher, G.",BAL,1,0,0,1,0,0,0,0,0,0,0,0,6,10
-"Joshua, C.",BAL,1,0,1,0,0,0,0,0,0,0,0,0,6,10
+"Joshua, C.",BAL,1,0,1,0,0,0,0,1,0,0,0,0,6,10
 "Hayden, A.",PHI,14,0,0,0,0,0,0,0,0,0,0,0,6,10
 "Lee, J.",PHI,10,0,0,0,0,0,0,0,0,0,0,0,6,10
 "Garden, J.",PHI,7,0,0,0,0,0,0,0,0,0,0,0,6,10
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "David, M.",PHI,2,0,0,0,0,0,0,0,0,0,0,0,6,10
 "Davidson, D.",PHI,2,1,0,0,0,0,0,0,0,0,0,0,6,10
 "Verns, D.",PHI,2,0,1,0,0,0,0,0,0,0,0,0,6,10
-"Noble, L.",PHI,0,0,0,0,0,0,0,0,0,0,0,0,6,10
+"Noble, L.",PHI,0,0,0,0,0,0,0,0,1,0,0,0,6,10

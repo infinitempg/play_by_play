@@ -4,7 +4,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Tuck, J.",SJS,5,0,0,1,0,0,0,0,0,0,0,0,7,14
 "Deringer, K.",SJS,4,0,0,1,0,0,0,0,0,0,0,0,7,14
 "Castle, S.",SJS,3,0,0,2,0,0,0,0,0,0,0,0,7,14
-"Sackerman, F.",SJS,3,0,1,0,0,0,0,0,0,0,0,0,7,14
+"Sackerman, F.",SJS,3,0,1,0,0,0,0,1,1,0,0,0,7,14
 "Troyski, X.",SJS,3,0,0,1,0,0,0,0,0,0,0,0,7,14
 "Poopsie, D.",SJS,2,1,0,0,0,0,0,0,0,0,0,0,7,14
 "Riposte, F.",SJS,2,0,1,0,0,0,0,0,0,0,0,0,7,14
@@ -17,6 +17,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Knurtsson, K.",YKW,5,0,1,0,0,0,0,0,0,0,0,0,7,14
 "Skinner, Z.",YKW,5,0,1,0,0,0,0,0,0,0,0,0,7,14
 "Steve, R.",YKW,5,3,0,0,0,0,0,0,0,0,0,0,7,14
-"Dugnutt, B.",YKW,4,0,0,0,0,0,0,0,0,0,0,0,7,14
+"Dugnutt, B.",YKW,4,0,0,0,0,0,0,0,0,1,0,0,7,14
 "Foster, W.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,7,14
 "Cox, P.",YKW,2,1,0,0,0,0,0,0,0,0,0,0,7,14

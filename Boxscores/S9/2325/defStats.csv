@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Maddox, R.",YKW,2,1,0,0,0,0,0,0,0,0,0,0,3,9
 "Skinner, Z.",YKW,2,1,0,0,0,0,0,0,0,0,0,0,3,9
 "Brown, J.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,3,9
-"Amper, T.",YKW,0,0,0,0,0,0,0,0,0,0,0,0,3,9
+"Amper, T.",YKW,0,0,0,0,0,0,0,0,1,0,0,0,3,9
 "Sharpei, V.",NO,10,0,2,0,0,0,0,0,0,0,0,0,3,9
 "Mills, B.",NO,9,0,0,1,1,0,0,0,0,0,0,0,3,9
 "Bayley, B.",NO,8,0,0,4,1,0,0,0,0,0,0,0,3,9
@@ -19,6 +19,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Oakes, B.",NO,5,0,0,0,0,0,0,0,0,0,0,0,3,9
 "Fyodorovich, V.",NO,4,1,0,0,0,0,0,0,0,0,0,0,3,9
 "Harrison, W.",NO,4,0,0,0,0,0,0,0,0,0,0,0,3,9
-"King, G.",NO,3,0,0,0,0,0,0,0,0,0,0,0,3,9
+"King, G.",NO,3,0,0,0,0,0,0,1,0,0,0,0,3,9
 "Tuck, J.",NO,3,0,0,0,0,0,0,0,0,0,0,0,3,9
 "Askins, J.",NO,1,0,0,0,0,0,0,0,0,0,0,0,3,9

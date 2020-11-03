@@ -10,9 +10,9 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Björnsson, B.",YKW,2,0,1,0,0,0,0,0,0,0,0,0,12,3
 "Fitzfatrick, R.",YKW,2,0,1,0,0,0,0,0,0,0,0,0,12,3
 "Lavelle, D.",YKW,1,0,0,1,0,0,0,0,0,0,0,0,12,3
-"Hardrool, C.",SJS,12,0,0,0,0,0,0,0,0,0,0,0,12,3
+"Hardrool, C.",SJS,12,0,0,0,0,0,0,0,1,0,0,0,12,3
 "Miller, D.",SJS,9,1,1,0,0,0,0,0,0,0,0,0,12,3
-"Lewith, T.",SJS,8,1,0,2,0,0,0,0,0,0,0,0,12,3
+"Lewith, T.",SJS,8,1,0,2,0,0,0,1,0,0,0,0,12,3
 "Selich, A.",SJS,7,1,0,2,1,0,0,0,0,0,0,0,12,3
 "Chambers III, C.",SJS,6,2,0,0,0,0,0,0,0,0,0,0,12,3
 "Okonkwo, C.",SJS,6,3,0,0,0,0,0,0,0,0,0,0,12,3

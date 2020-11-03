@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Goodson, N.",BAL,12,0,0,1,0,0,0,0,0,0,0,0,1,9
 "Roenick, A.",BAL,8,0,0,1,0,0,0,0,0,0,0,0,1,9
-"Marmeladov, V.",BAL,7,0,1,0,0,0,0,0,0,0,0,0,1,9
+"Marmeladov, V.",BAL,7,0,1,0,0,0,0,1,0,0,0,0,1,9
 "Rove, C.",BAL,7,1,1,0,0,0,0,0,0,0,0,0,1,9
 "Turner, D.",BAL,5,0,0,0,0,0,0,0,0,0,0,0,1,9
 "Broadway, E.",BAL,3,0,0,0,0,0,0,0,0,0,0,0,1,9
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Rodriguez, G.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,1,9
 "Maddox, R.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,1,9
 "Pennington, C.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,1,9
-"Amper, T.",YKW,0,0,0,0,0,0,0,0,0,0,0,0,1,9
+"Amper, T.",YKW,0,0,0,0,0,0,0,0,1,0,0,0,1,9

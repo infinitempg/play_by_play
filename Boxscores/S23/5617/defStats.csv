@@ -3,7 +3,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Jones, D.",OCO,8,0,1,0,0,0,0,0,0,0,0,0,4,23
 "Eagle, R.",OCO,6,1,1,0,0,0,0,0,0,0,0,0,4,23
 "Abernathy, K.",OCO,5,0,0,2,1,0,0,0,0,0,0,0,4,23
-"Skarsgard, T.",OCO,5,0,1,0,0,0,0,0,0,0,0,0,4,23
+"Skarsgard, T.",OCO,5,0,1,0,0,0,0,1,0,0,0,0,4,23
 "Vegeta, P.",OCO,5,0,0,0,0,0,0,0,0,0,0,0,4,23
 "Lattimer, A.",OCO,4,0,0,0,0,0,0,0,0,0,0,0,4,23
 "Grievous, L.",OCO,3,0,1,0,0,0,0,0,0,0,0,0,4,23
@@ -18,6 +18,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Otle, C.",SJS,3,1,0,0,0,0,0,0,0,0,0,0,4,23
 "PickSix, H.",SJS,3,0,0,1,0,0,0,0,0,0,0,0,4,23
 "Harris, C.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,4,23
-"Krause, M.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,4,23
+"Krause, M.",SJS,2,0,0,0,0,0,0,1,1,0,0,0,4,23
 "Allen, O.",SJS,1,0,0,0,0,0,0,0,0,0,0,0,4,23
-"Johnson, R.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,4,23
+"Johnson, R.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,4,23

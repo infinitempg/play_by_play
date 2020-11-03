@@ -7,7 +7,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Shoate, T.",SJS,3,0,0,0,0,0,0,0,0,0,0,0,14,1
 "Canton, J.",SJS,2,0,0,2,1,0,0,0,0,0,0,0,14,1
 "Leafer, S.",SJS,2,0,1,0,0,0,0,0,0,0,0,0,14,1
-"Selich, A.",SJS,2,0,1,3,0,0,0,0,0,0,0,0,14,1
+"Selich, A.",SJS,2,0,1,3,0,0,0,1,0,0,0,0,14,1
 "Taylor, G.",SJS,2,0,1,0,0,0,0,0,0,0,0,0,14,1
 "Oaks, J.",SJS,1,1,0,0,0,0,0,0,0,0,0,0,14,1
 "Hendrix, K.",BAL,9,2,0,1,0,0,0,0,0,0,0,0,14,1
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Harrison, G.",BAL,2,0,0,0,0,0,0,0,0,0,0,0,14,1
 "Crocker, B.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,14,1
 "Metas, B.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,14,1
-"Kyubee, S.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,14,1
+"Kyubee, S.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,14,1

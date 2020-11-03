@@ -6,7 +6,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Espeeyeeseetee, A.",CHI,5,0,0,1,1,0,0,0,0,0,0,0,9,21
 "Harris, B.",CHI,4,0,0,0,0,0,0,0,0,0,0,0,9,21
 "Hockhertz, M.",CHI,4,0,0,2,0,0,0,0,0,0,0,0,9,21
-"Skarsgard, T.",CHI,4,0,1,0,0,0,0,0,0,0,0,0,9,21
+"Skarsgard, T.",CHI,4,0,1,0,0,0,0,1,0,0,0,0,9,21
 "Beat, N.",CHI,3,1,0,0,0,0,0,0,0,0,0,0,9,21
 "Harding, J.",CHI,3,1,1,0,0,0,0,0,0,0,0,0,9,21
 "Vassallo, S.",CHI,1,0,0,0,0,0,0,0,0,0,0,0,9,21
@@ -20,4 +20,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Kuusela, G.",AUS,3,0,0,0,0,0,0,0,0,0,0,0,9,21
 "Moreno, V.",AUS,3,0,0,0,0,0,0,0,0,0,0,0,9,21
 "McTackle, R.",AUS,1,0,0,0,0,0,0,0,0,0,0,0,9,21
-"Mendonca, M.",AUS,0,0,0,0,0,0,0,0,0,0,0,0,9,21
+"Mendonca, M.",AUS,0,0,0,0,0,0,0,0,1,0,0,0,9,21

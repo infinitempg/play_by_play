@@ -3,7 +3,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Ishigawa, H.",COL,9,0,0,0,0,0,0,0,0,0,0,0,2,6
 "Saint, J.",COL,7,0,0,2,1,0,0,0,0,0,0,0,2,6
 "Krimlaw, A.",COL,6,1,0,3,0,0,0,0,0,0,0,0,2,6
-"Tillman, M.",COL,6,0,0,3,0,0,0,0,0,0,0,0,2,6
+"Tillman, M.",COL,6,0,0,3,0,0,0,1,0,0,0,0,2,6
 "Bly Jr., A.",COL,5,0,0,0,0,0,0,0,0,0,0,0,2,6
 "Ruckus, B.",COL,3,0,0,0,0,0,0,0,0,0,0,0,2,6
 "Gustavsson, E.",COL,2,0,0,0,0,0,0,0,0,0,0,0,2,6
@@ -11,7 +11,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Woods, S.",COL,2,0,0,1,0,0,0,0,0,0,0,0,2,6
 "de Ligt, A.",COL,1,0,1,0,0,0,0,0,0,0,0,0,2,6
 "Sandoval, R.",COL,1,0,0,0,0,0,0,0,0,0,0,0,2,6
-"Pierce, L.",COL,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+"Pierce, L.",COL,0,0,0,0,0,0,0,0,0,1,0,0,2,6
 "Kane, M.",YKW,9,0,0,0,0,0,0,0,0,0,0,0,2,6
 "Carter, P.",YKW,7,0,0,1,1,0,0,0,0,0,0,0,2,6
 "Hardrool, C.",YKW,6,0,1,0,0,0,0,0,0,0,0,0,2,6
@@ -20,7 +20,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Tuck, J.",YKW,6,2,1,0,0,0,0,0,0,0,0,0,2,6
 "Wozy, F.",YKW,6,1,1,0,0,0,0,0,0,0,0,0,2,6
 "Maddox, R.",YKW,5,0,0,0,0,0,0,0,0,0,0,0,2,6
-"Lavelle, D.",YKW,4,0,0,0,0,0,0,0,0,0,0,0,2,6
+"Lavelle, D.",YKW,4,0,0,0,0,0,0,1,1,0,0,0,2,6
 "Taylor, C.",YKW,4,0,1,0,0,0,0,0,0,0,0,0,2,6
 "Tiernan, L.",YKW,4,0,0,0,0,0,0,0,0,0,0,0,2,6
-"Akselsen, M.",YKW,0,0,0,0,0,0,0,0,0,0,0,0,2,6
+"Akselsen, M.",YKW,0,0,0,0,0,0,0,0,1,0,0,0,2,6

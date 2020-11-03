@@ -6,7 +6,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Carter, P.",LV,5,0,0,1,0,0,0,0,0,0,0,0,12,4
 "Cox, V.",LV,4,0,1,0,0,0,0,0,0,0,0,0,12,4
 "Flimjollywop, S.",LV,4,0,0,0,0,0,0,0,0,0,0,0,12,4
-"Shoate, T.",LV,2,0,0,1,0,0,0,0,0,0,0,0,12,4
+"Shoate, T.",LV,2,0,0,1,0,0,0,1,0,0,0,0,12,4
 "Cox, J.",LV,1,0,1,0,0,0,0,0,0,0,0,0,12,4
 "Morgan, L.",LV,1,0,0,1,1,0,1,0,0,0,0,0,12,4
 "Oakes, B.",LV,1,0,0,0,0,0,0,0,0,0,0,0,12,4
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Boom, J.",OCO,2,0,0,0,0,0,0,0,0,0,0,0,12,4
 "Wright Jr, G.",OCO,2,1,0,0,0,0,0,0,0,0,0,0,12,4
 "Clegane, G.",OCO,1,0,1,0,0,0,0,0,0,0,0,0,12,4
-"Burnsman, E.",OCO,0,0,0,0,0,0,0,0,0,0,0,0,12,4
+"Burnsman, E.",OCO,0,0,0,0,0,0,0,0,1,0,0,0,12,4

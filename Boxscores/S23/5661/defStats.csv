@@ -8,7 +8,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Culbertson, R.",HON,3,0,1,0,0,0,0,0,0,0,0,0,11,23
 "Waters, J.",HON,3,0,0,0,0,0,0,0,0,0,0,0,11,23
 "Dawkins, S.",HON,2,0,0,2,0,0,0,0,0,0,0,0,11,23
-"Kearse, J.",HON,2,0,0,0,0,0,0,0,0,0,0,0,11,23
+"Kearse, J.",HON,2,0,0,0,0,0,0,1,0,0,0,0,11,23
 "Marston, J.",BAL,10,0,0,0,0,0,0,0,0,0,0,0,11,23
 "De Ville, D.",BAL,8,0,0,0,0,0,0,0,0,0,0,0,11,23
 "Kennedy, D.",BAL,7,0,1,0,0,0,0,0,0,0,0,0,11,23
@@ -21,5 +21,5 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hole, M.",BAL,2,1,1,0,0,0,0,0,0,0,0,0,11,23
 "Nikko, G.",BAL,1,0,0,1,1,0,0,0,0,0,0,0,11,23
 "Taffy, T.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,11,23
-"Fujiwara, C.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,11,23
+"Fujiwara, C.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,11,23
 "Sinclair, Q.",BAL,0,0,0,2,0,0,0,0,0,0,0,0,11,23

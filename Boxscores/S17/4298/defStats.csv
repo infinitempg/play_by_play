@@ -9,8 +9,8 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Riposte, F.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,3,17
 "Sackerman, F.",SJS,2,0,1,0,0,0,0,0,0,0,0,0,3,17
 "Tell, W.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,3,17
-"Johnson, R.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,3,17
-"Stokeley, G.",PHI,13,0,0,0,0,0,0,0,0,0,0,0,3,17
+"Johnson, R.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,3,17
+"Stokeley, G.",PHI,13,0,0,0,0,0,0,1,1,0,0,0,3,17
 "Cox III, J.",PHI,9,0,0,2,0,0,0,0,0,0,0,0,3,17
 "D'Attoria V, R.",PHI,8,0,1,0,0,0,0,0,0,0,0,0,3,17
 "Emoji, E.",PHI,8,0,0,2,0,0,0,0,0,0,0,0,3,17
@@ -18,6 +18,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hardshaft, R.",PHI,6,1,0,0,0,0,0,0,0,0,0,0,3,17
 "Smyles, L.",PHI,5,0,2,0,0,0,0,0,0,0,0,0,3,17
 "Garnett, L.",PHI,4,0,0,4,1,0,0,0,0,0,0,0,3,17
-"Kalilmoku, I.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,3,17
+"Kalilmoku, I.",PHI,3,0,0,0,0,0,0,1,0,0,0,0,3,17
 "McMorris, J.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,3,17
 "McGwire, A.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,3,17

@@ -3,7 +3,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Leonard, M.",YKW,8,0,0,1,0,0,0,0,0,0,0,0,12,24
 "Virtanen, M.",YKW,5,1,0,1,0,0,0,0,0,0,0,0,12,24
 "Hellzapoppin, J.",YKW,4,0,0,0,0,0,0,0,0,0,0,0,12,24
-"Cho, J.",YKW,3,1,0,0,0,0,0,0,0,0,0,0,12,24
+"Cho, J.",YKW,3,1,0,0,0,0,0,1,0,0,0,0,12,24
 "Dookmarriot, L.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,12,24
 "Snuggles, J.",YKW,3,0,0,1,0,0,0,0,0,0,0,0,12,24
 "Alexander, N.",YKW,2,0,1,0,0,0,0,0,0,0,0,0,12,24
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Culbertson, R.",PHI,1,0,1,0,0,0,0,0,0,0,0,0,12,24
 "D'Attoria V, R.",PHI,1,0,0,1,0,0,0,0,0,0,0,0,12,24
 "Gronlie, T.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,12,24
-"Hayes, R.",PHI,0,0,0,0,0,0,0,0,0,0,0,0,12,24
+"Hayes, R.",PHI,0,0,0,0,0,0,0,0,1,0,0,0,12,24

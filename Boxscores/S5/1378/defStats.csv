@@ -2,7 +2,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Bavitz, I.",OCO,9,0,0,0,0,0,0,0,0,0,0,0,2,5
 "O'Sullivan, J.",OCO,9,0,0,0,0,0,0,0,0,0,0,0,2,5
 "Winchester, A.",OCO,6,0,1,0,0,0,0,0,0,0,0,0,2,5
-"Atwell, T.",OCO,5,0,1,0,0,0,0,0,0,0,0,0,2,5
+"Atwell, T.",OCO,5,0,1,0,0,0,0,0,0,1,0,0,2,5
 "Clegane, G.",OCO,4,2,2,0,0,0,0,0,0,0,0,0,2,5
 "Cox, V.",OCO,4,0,1,0,0,0,0,0,0,0,0,0,2,5
 "Verns, D.",OCO,4,0,0,1,0,0,0,0,0,0,0,0,2,5
@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Wright Jr, G.",OCO,3,0,0,0,0,0,0,0,0,0,0,0,2,5
 "Spector, M.",OCO,2,0,0,0,0,0,0,0,0,0,0,0,2,5
 "Petrakis, A.",OCO,1,0,0,0,0,0,0,0,0,0,0,0,2,5
-"Boss, M.",OCO,0,0,0,0,0,0,0,0,0,0,0,0,2,5
+"Boss, M.",OCO,0,0,0,0,0,0,0,0,1,0,0,0,2,5
 "Erikson, V.",COL,8,0,0,1,0,0,0,0,0,0,0,0,2,5
 "Bly Jr., A.",COL,6,0,0,0,0,0,0,0,0,0,0,0,2,5
 "Ishigawa, H.",COL,6,0,1,2,0,0,0,0,0,0,0,0,2,5
@@ -19,7 +19,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Sandoval, R.",COL,4,0,0,0,0,0,0,0,0,0,0,0,2,5
 "Boggs, B.",COL,3,0,0,0,0,0,0,0,0,0,0,0,2,5
 "Novel, L.",COL,2,0,1,4,2,0,0,0,0,0,0,0,2,5
-"Gustavsson, E.",COL,1,1,0,0,0,0,0,0,0,0,0,0,2,5
+"Gustavsson, E.",COL,1,1,0,0,0,0,0,1,0,0,0,0,2,5
 "Krimlaw, A.",COL,1,0,0,0,0,0,0,0,0,0,0,0,2,5
 "Pierce, L.",COL,1,0,0,0,0,0,0,0,0,0,0,0,2,5
 "Sandoval, A.",COL,1,0,0,0,0,0,0,0,0,0,0,0,2,5

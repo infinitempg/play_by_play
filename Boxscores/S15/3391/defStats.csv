@@ -5,7 +5,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "D'Attoria V, R.",PHI,5,0,1,1,1,0,0,0,0,0,0,0,9,15
 "Smyles, L.",PHI,5,1,1,0,0,0,0,0,0,0,0,0,9,15
 "Garnett, L.",PHI,4,0,0,1,0,0,0,0,0,0,0,0,9,15
-"Saul, C.",PHI,4,0,0,0,0,0,0,0,0,0,0,0,9,15
+"Saul, C.",PHI,4,0,0,0,0,0,0,1,0,0,0,0,9,15
 "Emoji, E.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,9,15
 "Kalilmoku, I.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,9,15
 "Beard, M.",PHI,2,0,1,0,0,0,0,0,0,0,0,0,9,15
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Tuck, J.",SJS,3,1,1,0,0,0,0,0,0,0,0,0,9,15
 "Sackerman, F.",SJS,2,0,1,0,0,0,0,0,0,0,0,0,9,15
 "Troyski, X.",SJS,1,0,0,3,0,0,0,0,0,0,0,0,9,15
-"Davenport, C.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,9,15
+"Davenport, C.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,9,15

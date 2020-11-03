@@ -2,7 +2,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Ramero, R.",OCO,9,0,0,1,1,0,0,0,0,0,0,0,1,12
 "Grithead, D.",OCO,7,0,0,1,0,0,0,0,0,0,0,0,1,12
 "Rice, J.",OCO,6,0,0,0,0,0,0,0,0,0,0,0,1,12
-"Brown, M.",OCO,6,0,1,3,0,0,0,0,0,0,0,0,1,12
+"Brown, M.",OCO,6,0,1,3,0,0,0,1,0,0,0,0,1,12
 "Broxton, J.",OCO,5,0,0,2,0,0,0,0,0,0,0,0,1,12
 "Bagwell, N.",OCO,3,0,2,0,0,0,0,0,0,0,0,0,1,12
 "Winchester, A.",OCO,3,0,0,0,0,0,0,0,0,0,0,0,1,12
@@ -20,4 +20,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "McBrain, S.",COL,2,0,0,2,0,0,0,0,0,0,0,0,1,12
 "Sachs, J.",COL,2,0,0,0,0,0,0,0,0,0,0,0,1,12
 "Danger, D.",COL,1,0,0,1,0,0,0,0,0,0,0,0,1,12
-"McCormick, M.",COL,0,0,0,0,0,0,0,0,0,0,0,0,1,12
+"McCormick, M.",COL,0,0,0,0,0,0,0,0,1,0,0,0,1,12

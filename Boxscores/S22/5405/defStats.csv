@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hockhertz, M.",CHI,10,0,0,0,0,0,0,0,0,0,0,0,8,22
 "Bayley Jr., B.",CHI,8,0,0,0,0,0,0,0,0,0,0,0,8,22
-"Works, S.",CHI,8,1,1,0,0,0,0,0,0,0,0,0,8,22
+"Works, S.",CHI,8,1,1,0,0,0,0,1,1,0,0,0,8,22
 "Firestorm-Fjord, O.",CHI,7,0,1,2,0,0,0,0,0,0,0,0,8,22
 "Vassallo, S.",CHI,7,2,0,0,0,0,0,0,0,0,0,0,8,22
 "Ridley, X.",CHI,5,0,0,1,0,0,0,0,0,0,0,0,8,22
@@ -13,7 +13,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Koniecpolski, S.",AZ,10,0,0,0,0,0,0,0,0,0,0,0,8,22
 "Wilf, G.",AZ,9,0,1,1,0,0,0,0,0,0,0,0,8,22
 "Oles JR, T.",AZ,6,0,0,4,0,0,0,0,0,0,0,0,8,22
-"Scarlett, D.",AZ,6,0,0,0,0,0,0,0,0,0,0,0,8,22
+"Scarlett, D.",AZ,6,0,0,0,0,0,0,1,1,0,0,0,8,22
 "Hughes, Q.",AZ,4,0,1,1,1,0,0,0,0,0,0,0,8,22
 "Masters, S.",AZ,4,2,1,0,0,0,0,0,0,0,0,0,8,22
 "Quin, A.",AZ,4,0,0,0,0,0,0,0,0,0,0,0,8,22

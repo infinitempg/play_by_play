@@ -5,7 +5,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Bly Jr., A.",YKW,8,0,0,3,1,0,1,0,0,0,0,0,1,12
 "Piazza, N.",YKW,5,0,0,0,0,0,0,0,0,0,0,0,1,12
 "Lavelle, D.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,1,12
-"Skinner, Z.",YKW,3,0,1,0,0,0,0,0,0,0,0,0,1,12
+"Skinner, Z.",YKW,3,0,1,0,0,0,0,1,0,0,0,0,1,12
 "Taylor, C.",YKW,3,0,1,0,0,0,0,0,0,0,0,0,1,12
 "Chambers III, C.",YKW,1,1,0,0,0,0,0,0,0,0,0,0,1,12
 "Hobbs, S.",AZ,10,0,0,0,0,0,0,0,0,0,0,0,1,12
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "David, M.",AZ,2,0,0,0,0,0,0,0,0,0,0,0,1,12
 "Medved, E.",AZ,2,0,1,0,0,0,0,0,0,0,0,0,1,12
 "Kane III, T.",AZ,1,0,0,0,0,0,0,0,0,0,0,0,1,12
-"Robotman, C.",AZ,0,0,0,0,0,0,0,0,0,0,0,0,1,12
+"Robotman, C.",AZ,0,0,0,0,0,0,0,0,1,0,0,0,1,12

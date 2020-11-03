@@ -11,9 +11,9 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Andres, J.",NO,2,0,1,0,0,0,0,0,0,0,0,0,1,6
 "Askins, J.",NO,2,0,1,0,0,0,0,0,0,0,0,0,1,6
 "Tomlinson, A.",NO,2,0,0,0,0,0,0,0,0,0,0,0,1,6
-"Maximus III, B.",NO,0,0,0,0,0,0,0,0,0,0,0,0,1,6
+"Maximus III, B.",NO,0,0,0,0,0,0,0,0,1,0,0,0,1,6
 "Bavitz, I.",OCO,7,0,0,1,1,0,0,0,0,0,0,0,1,6
-"Enchant, E.",OCO,6,0,1,1,1,0,0,0,0,0,0,0,1,6
+"Enchant, E.",OCO,6,0,1,1,1,0,0,1,0,0,0,0,1,6
 "O'Sullivan, J.",OCO,6,1,1,1,0,0,0,0,0,0,0,0,1,6
 "King, J.",OCO,4,0,0,2,0,0,0,0,0,0,0,0,1,6
 "Spector, M.",OCO,4,0,0,0,0,0,0,0,0,0,0,0,1,6

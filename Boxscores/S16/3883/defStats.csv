@@ -9,7 +9,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Gott, J.",OCO,4,1,0,0,0,0,0,0,0,0,0,0,3,16
 "Ramsey Jr., G.",OCO,4,0,0,1,1,0,0,0,0,0,0,0,3,16
 "Lattimer, A.",OCO,3,1,0,0,0,0,0,0,0,0,0,0,3,16
-"Salami, T.",OCO,1,0,0,0,0,0,0,0,0,0,0,0,3,16
+"Salami, T.",OCO,1,0,0,0,0,0,0,1,0,0,0,0,3,16
 "Bakshi, S.",AUS,7,0,0,1,1,0,0,0,0,0,0,0,3,16
 "Jensen, C.",AUS,6,0,0,0,0,0,0,0,0,0,0,0,3,16
 "Castle, S.",AUS,5,0,0,1,0,0,0,0,0,0,0,0,3,16
@@ -20,5 +20,5 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Kuusela, G.",AUS,2,0,0,0,0,0,0,0,0,0,0,0,3,16
 "Snider, N.",AUS,1,0,1,0,0,0,0,0,0,0,0,0,3,16
 "Waynner, B.",AUS,1,0,0,0,0,0,0,0,0,0,0,0,3,16
-"Cole, E.",AUS,0,0,0,0,0,0,0,0,0,0,0,0,3,16
+"Cole, E.",AUS,0,0,0,0,0,0,0,0,1,0,0,0,3,16
 "Lavelle Jr., D.",AUS,0,0,0,1,0,0,0,0,0,0,0,0,3,16

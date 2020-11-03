@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Earl, B.",NO,1,0,0,2,0,0,0,0,0,0,0,0,5,16
 "Harris, B.",NO,1,0,0,0,0,0,0,0,0,0,0,0,5,16
 "Rax, L.",NO,1,0,1,0,0,0,0,0,0,0,0,0,5,16
-"Grievous, L.",OCO,11,0,1,0,0,0,0,0,0,0,0,0,5,16
+"Grievous, L.",OCO,11,0,1,0,0,0,0,1,1,0,0,0,5,16
 "Hobbs, S.",OCO,7,0,0,0,0,0,0,0,0,0,0,0,5,16
 "Ramsey Jr., G.",OCO,7,0,0,0,0,0,0,0,0,0,0,0,5,16
 "Lattimer, A.",OCO,6,0,1,0,0,0,0,0,0,0,0,0,5,16

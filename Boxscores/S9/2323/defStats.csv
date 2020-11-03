@@ -2,8 +2,8 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Brill, J.",SJS,8,0,1,0,0,0,0,0,0,0,0,0,2,9
 "Canton, J.",SJS,8,0,0,1,0,0,0,0,0,0,0,0,2,9
 "Horne, B.",SJS,7,0,1,0,0,0,0,0,0,0,0,0,2,9
-"Chambers III, C.",SJS,6,0,0,0,0,0,0,0,0,0,0,0,2,9
-"Joshua, C.",SJS,6,1,1,0,0,0,0,0,0,0,0,0,2,9
+"Chambers III, C.",SJS,6,0,0,0,0,0,0,1,0,0,0,0,2,9
+"Joshua, C.",SJS,6,1,1,0,0,0,0,1,1,0,0,0,2,9
 "Hansen, A.",SJS,5,0,1,0,0,0,0,0,0,0,0,0,2,9
 "Washington, L.",SJS,5,0,1,1,0,0,0,0,0,0,0,0,2,9
 "Barnhardt, B.",SJS,3,1,0,0,0,0,0,0,0,0,0,0,2,9
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Flock, R.",PHI,2,0,0,0,0,0,0,0,0,0,0,0,2,9
 "Kyubee, S.",PHI,2,0,0,0,0,0,0,0,0,0,0,0,2,9
 "Jordan, R.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,2,9
-"Van Buren, M.",PHI,0,0,0,0,0,0,0,0,0,0,0,0,2,9
+"Van Buren, M.",PHI,0,0,0,0,0,0,0,0,1,0,0,0,2,9

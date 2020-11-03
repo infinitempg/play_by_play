@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "McCoy, C.",COL,2,0,0,0,0,0,0,0,0,0,0,0,6,16
 "Crane, F.",COL,1,0,0,0,0,0,0,0,0,0,0,0,6,16
 "Marrett, O.",COL,1,0,0,0,0,0,0,0,0,0,0,0,6,16
-"Tackle, R.",COL,0,0,0,0,0,0,0,0,0,0,0,0,6,16
+"Tackle, R.",COL,0,0,0,0,0,0,0,0,1,0,0,0,6,16
 "Lewis, L.",CHI,11,0,0,0,0,0,0,0,0,0,0,0,6,16
 "Faux, B.",CHI,8,0,0,0,0,0,0,0,0,0,0,0,6,16
 "Hondo, A.",CHI,7,0,0,3,1,0,0,0,0,0,0,0,6,16
@@ -18,7 +18,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Stokeley, G.",CHI,7,0,0,0,0,0,0,0,0,0,0,0,6,16
 "Nikko, G.",CHI,6,0,0,1,0,0,0,0,0,0,0,0,6,16
 "Ridley, X.",CHI,6,0,0,3,1,0,0,0,0,0,0,0,6,16
-"Rambo, J.",CHI,5,0,1,0,0,0,0,0,0,0,0,0,6,16
+"Rambo, J.",CHI,5,0,1,0,0,0,0,1,0,0,0,0,6,16
 "Mbanefo, K.",CHI,4,1,0,0,0,0,0,0,0,0,0,0,6,16
 "Foster, W.",CHI,3,0,1,0,0,0,0,0,0,0,0,0,6,16
 "Poopsie, D.",CHI,1,0,0,0,0,0,0,0,0,0,0,0,6,16

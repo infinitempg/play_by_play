@@ -1,6 +1,6 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Tucker, P.",PHI,11,0,1,1,1,0,0,0,0,0,0,0,1,9
-"Wright, J.",PHI,9,0,1,0,0,0,0,0,0,0,0,0,1,9
+"Wright, J.",PHI,9,0,1,0,0,0,0,0,1,0,0,0,1,9
 "Kyubee, S.",PHI,6,0,0,1,1,0,0,0,0,0,0,0,1,9
 "Lee, J.",PHI,6,2,0,2,0,0,0,0,0,0,0,0,1,9
 "David, M.",PHI,5,2,0,0,0,0,0,0,0,0,0,0,1,9
@@ -9,7 +9,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Verns, D.",PHI,4,0,0,0,0,0,0,0,0,0,0,0,1,9
 "Bagwell, N.",PHI,3,1,1,0,0,0,0,0,0,0,0,0,1,9
 "Davidson, D.",PHI,2,0,0,0,0,0,0,0,0,0,0,0,1,9
-"Weathers III, B.",PHI,2,0,0,0,0,0,0,0,0,0,0,0,1,9
+"Weathers III, B.",PHI,2,0,0,0,0,0,0,1,0,0,0,0,1,9
 "Tomlinson, A.",PHI,1,1,0,0,0,0,0,0,0,0,0,0,1,9
 "O'Sullivan, J.",NO,7,0,0,0,0,0,0,0,0,0,0,0,1,9
 "Sharpei, V.",NO,7,0,0,0,0,0,0,0,0,0,0,0,1,9

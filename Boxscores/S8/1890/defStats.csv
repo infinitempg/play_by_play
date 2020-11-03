@@ -3,7 +3,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Broxton, J.",OCO,8,0,0,1,0,0,0,0,0,0,0,0,3,8
 "Spector, M.",OCO,8,0,0,2,1,0,0,0,0,0,0,0,3,8
 "Brown, M.",OCO,7,1,0,0,0,0,0,0,0,0,0,0,3,8
-"Clegane, G.",OCO,5,2,1,0,0,0,0,0,0,0,0,0,3,8
+"Clegane, G.",OCO,5,2,1,0,0,0,0,1,0,0,0,0,3,8
 "Enchant, E.",OCO,4,0,0,0,0,0,0,0,0,0,0,0,3,8
 "King, J.",OCO,3,0,0,3,1,0,0,0,0,0,0,0,3,8
 "Bavitz, I.",OCO,2,0,0,0,0,0,0,0,0,0,0,0,3,8
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Turner, D.",BAL,2,0,0,3,0,0,0,0,0,0,0,0,3,8
 "Valentine, V.",BAL,2,0,1,0,0,0,0,0,0,0,0,0,3,8
 "Gambino, C.",BAL,1,1,0,0,0,0,0,0,0,0,0,0,3,8
-"Steele, R.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,3,8
+"Steele, R.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,3,8

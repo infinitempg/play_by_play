@@ -1,3 +1,3 @@
-Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
-"Kaepercolin, N.",BER,161,10.1,1,3,30.7,16,22,3,25
-"O'Donnell, G.",CHI,203,9.2,0,1,54.7,16,22,3,25
+Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Kaepercolin, N.",BER,16/38,161,10.1,1,3,30.7,16,38,3,25
+"O'Donnell, G.",CHI,22/43,203,9.2,0,1,54.7,22,43,3,25

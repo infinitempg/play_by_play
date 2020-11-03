@@ -199,8 +199,12 @@ def getGameData(S,gameID,idDict):
         
     teamList = list(pbpDF['side'].unique())
     teamList = [t for t in teamList if t != '']
-    pbpDF['homeTeam'] = teamList[0]
-    pbpDF['awayTeam'] = teamList[-1]
+#     if 'touchback' in pbpDF.iloc[0].play:
+#         pbpDF['homeTeam'] = teamList[1]
+#         pbpDF['awayTeam'] = teamList[0]
+#     else:
+#         pbpDF['homeTeam'] = teamList[0]
+#         pbpDF['awayTeam'] = teamList[1]
     
     pageBox = requests.get('%s/Boxscores/%s.html'%(url,gameID),headers=requestHead)
     soupBox = BeautifulSoup(pageBox.content.decode('ISO-8859-1'),'lxml')
@@ -231,6 +235,8 @@ def getGameData(S,gameID,idDict):
     pbpDF['teamPoss'] = pbpDF.apply(lambda row: getTeams(S,row['teamID']),axis=1)
     pbpDF['dist2goal'] = pbpDF.apply(lambda row: dist2goal(row['teamPoss'],row['side'],row['yard']),axis=1)
     pbpDF['distance'] = pbpDF.apply(lambda row: goal2go(row['distance'],row['dist2goal']),axis=1)
+    pbpDF['awayTeam'] = tableBox.find_all('tr')[1:][0].find_all('td')[1].text
+    pbpDF['homeTeam'] = tableBox.find_all('tr')[1:][0].find_all('td')[2].text
     pbpDF['side'] = pbpDF.apply(lambda row: puntSide(row['play'],row['side'],row['awayTeam'],row['homeTeam']),axis=1)
     pbpDF['teamPoss'] = pbpDF.apply(lambda row: puntPoss(row['play'],row['teamPoss'],row['awayTeam'],row['homeTeam']),axis=1)
     pbpDF['awayScore'] = pbpDF.apply(lambda row : getScore(boxDF,row['totTime'])[0],axis=1)
@@ -257,29 +263,54 @@ def posStatDF(S,gameID,boxList,index,homeTeam,awayTeam,name,idDict):
     stats['Player'] = stats['Player'].str.replace(r" \(.*?\)","").str.replace(r"\(.*?\) ","")
     stats = stats.set_index('Player')
     
+    
     if index == 8:
-        cpatList = [int(x.strip('[]').split('/')[0]) for x in stats['Cp/At']]
-        stats['Cmp'] = cpatList[0]
-        stats['Att'] = cpatList[1]
-        stats = stats.drop(columns=['Cp/At'])
-    elif index == 14:        
-        kickList = ['FG < 20','20-29','30-39','40-49','50+']
-        for k in kickList:
-            stats['%sM'%k] = [int(x.strip('[]').split('/')[0]) for x in stats[k]]
-            stats['%sA'%k] = [int(x.strip('[]').split('/')[1]) for x in stats[k]]
-        stats = stats.drop(columns=kickList)
+        stats['Cmp'] = stats['Cp/At'].str.split('/').apply(lambda x: [int(i) for i in x][0]) 
+        stats['Att'] = stats['Cp/At'].str.split('/').apply(lambda x: [int(i) for i in x][1]) 
+    elif index == 14:
+        stats['FG < 20M'] = stats['FG < 20'].str.split('/').apply(lambda x: [int(i) for i in x][0]) 
+        stats['FG < 20A'] = stats['FG < 20'].str.split('/').apply(lambda x: [int(i) for i in x][1]) 
+        stats['20-29M'] = stats['20-29'].str.split('/').apply(lambda x: [int(i) for i in x][0]) 
+        stats['20-29A'] = stats['20-29'].str.split('/').apply(lambda x: [int(i) for i in x][1]) 
+        stats['30-39M'] = stats['30-39'].str.split('/').apply(lambda x: [int(i) for i in x][0]) 
+        stats['30-39A'] = stats['30-39'].str.split('/').apply(lambda x: [int(i) for i in x][1]) 
+        stats['40-49M'] = stats['40-49'].str.split('/').apply(lambda x: [int(i) for i in x][0]) 
+        stats['40-49A'] = stats['40-49'].str.split('/').apply(lambda x: [int(i) for i in x][0]) 
+        stats['50+M'] = stats['50+'].str.split('/').apply(lambda x: [int(i) for i in x][0]) 
+        stats['50+A'] = stats['50+'].str.split('/').apply(lambda x: [int(i) for i in x][1]) 
     elif index == 18:
         stats = stats.iloc[:,:9]
         stats.columns = ['Team','KR','KRYds','PRYds','KRLng','PRLng','KR_TD','PR_TD','PR']
     elif index == 20:
-        fumList = [int(x.strip('[]').split('/')[0]) for x in stats['FF/FR']]
-        stats['FF'] = fumList[0]
-        stats['FR'] = fumList[1]
-        blkList = [int(x.strip('[]').split('/')[0]) for x in stats['Blk P/XP/FG']]
-        stats['Blk P'] = blkList[0]
-        stats['Blk XP'] = blkList[1]
-        stats['Blk FG'] = blkList[2]
-        stats = stats.drop(columns=['FF/FR','Blk P/XP/FG'])
+        stats['FF'] = stats['FF/FR'].str.split('/').apply(lambda x: [int(i) for i in x][0])
+        stats['FF'] = stats['FF/FR'].str.split('/').apply(lambda x: [int(i) for i in x][1])
+        stats['Blk P'] = stats['Blk P/XP/FG'].str.split('/').apply(lambda x: [int(i) for i in x][0]) 
+        stats['Blk XP'] = stats['Blk P/XP/FG'].str.split('/').apply(lambda x: [int(i) for i in x][1]) 
+        stats['Blk FG'] = stats['Blk P/XP/FG'].str.split('/').apply(lambda x: [int(i) for i in x][2]) 
+        
+#     if index == 8:
+#         cpatList = [int(x.strip('[]').split('/')[0]) for x in stats['Cp/At']]
+#         stats['Cmp'] = cpatList[0]
+#         stats['Att'] = cpatList[1]
+#         stats = stats.drop(columns=['Cp/At'])
+#     elif index == 14:        
+#         kickList = ['FG < 20','20-29','30-39','40-49','50+']
+#         for k in kickList:
+#             stats['%sM'%k] = [int(x.strip('[]').split('/')[0]) for x in stats[k]]
+#             stats['%sA'%k] = [int(x.strip('[]').split('/')[1]) for x in stats[k]]
+#         stats = stats.drop(columns=kickList)
+#     elif index == 18:
+#         stats = stats.iloc[:,:9]
+#         stats.columns = ['Team','KR','KRYds','PRYds','KRLng','PRLng','KR_TD','PR_TD','PR']
+#     elif index == 20:
+#         fumList = [int(x.strip('[]').split('/')[0]) for x in stats['FF/FR']]
+#         stats['FF'] = fumList[0]
+#         stats['FR'] = fumList[1]
+#         blkList = [int(x.strip('[]').split('/')[0]) for x in stats['Blk P/XP/FG']]
+#         stats['Blk P'] = blkList[0]
+#         stats['Blk XP'] = blkList[1]
+#         stats['Blk FG'] = blkList[2]
+#         stats = stats.drop(columns=['FF/FR','Blk P/XP/FG'])
         
     
     stats['W'] = str(idDict[gameID])

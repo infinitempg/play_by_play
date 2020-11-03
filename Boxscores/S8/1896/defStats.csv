@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Pierno, N.",COL,2,0,1,0,0,0,0,0,0,0,0,0,5,8
 "Miller, D.",COL,1,0,0,0,0,0,0,0,0,0,0,0,5,8
 "Sandoval, A.",COL,1,0,1,0,0,0,0,0,0,0,0,0,5,8
-"Grau, M.",COL,0,0,0,0,0,0,0,0,0,0,0,0,5,8
+"Grau, M.",COL,0,0,0,0,0,0,0,0,1,0,0,0,5,8
 "Horne, B.",SJS,10,0,1,0,0,0,0,0,0,0,0,0,5,8
 "Harrison, S.",SJS,10,0,1,1,0,0,0,0,0,0,0,0,5,8
 "Hansen, A.",SJS,7,0,0,0,0,0,0,0,0,0,0,0,5,8
@@ -18,7 +18,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Brill, J.",SJS,5,0,1,0,0,0,0,0,0,0,0,0,5,8
 "Canton, J.",SJS,5,0,0,0,0,0,0,0,0,0,0,0,5,8
 "Washington, L.",SJS,5,0,0,0,0,0,0,0,0,0,0,0,5,8
-"Chambers III, C.",SJS,4,0,0,0,0,0,0,0,0,0,0,0,5,8
+"Chambers III, C.",SJS,4,0,0,0,0,0,0,1,0,0,0,0,5,8
 "Joshua, C.",SJS,3,1,0,0,0,0,0,0,0,0,0,0,5,8
 "Lewith, T.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,5,8
 "Bayley, B.",SJS,1,0,0,1,1,0,0,0,0,0,0,0,5,8

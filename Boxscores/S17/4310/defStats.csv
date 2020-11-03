@@ -7,7 +7,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Methane, D.",SJS,3,0,1,0,0,0,0,0,0,0,0,0,5,17
 "Pennington, C.",SJS,3,0,0,2,0,0,0,0,0,0,0,0,5,17
 "Tell, W.",SJS,3,0,0,3,0,0,0,0,0,0,0,0,5,17
-"Tuck, J.",SJS,3,0,0,2,0,0,0,0,0,0,0,0,5,17
+"Tuck, J.",SJS,3,0,0,2,0,0,0,1,0,0,0,0,5,17
 "Tuck, J.",SJS,2,2,0,0,0,0,0,0,0,0,0,0,5,17
 "Vans, R.",AZ,11,0,1,0,0,0,0,0,0,0,0,0,5,17
 "Mughes, H.",AZ,8,0,0,0,0,0,0,0,0,0,0,0,5,17
@@ -20,4 +20,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Woodham, A.",AZ,3,0,1,0,0,0,0,0,0,0,0,0,5,17
 "Spector, M.",AZ,2,1,0,0,0,0,0,0,0,0,0,0,5,17
 "Morris, R.",AZ,1,0,1,0,0,0,0,0,0,0,0,0,5,17
-"Zephyrous, S.",AZ,0,0,0,0,0,0,0,0,0,0,0,0,5,17
+"Zephyrous, S.",AZ,0,0,0,0,0,0,0,0,1,0,0,0,5,17

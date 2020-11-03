@@ -4,7 +4,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Fulton, W.",COL,5,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Hayden, A.",COL,5,0,0,2,0,0,0,0,0,0,0,0,1,1
 "McNoodle, M.",COL,5,0,0,0,0,0,0,0,0,0,0,0,1,1
-"Marmeladov, V.",COL,4,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Marmeladov, V.",COL,4,0,0,0,0,0,0,1,0,0,0,0,1,1
 "Bowden, M.",COL,3,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Teagarden, E.",COL,3,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Carter, P.",COL,2,0,0,1,0,0,0,0,0,0,0,0,1,1
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Al Mahrouqi, K.",BAL,3,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Peterson, M.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,1,1
 "Showcase, S.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,1,1
-"Lecavalier, R.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+"Lecavalier, R.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,1,1

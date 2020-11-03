@@ -4,7 +4,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Stropko, B.",LV,6,1,0,0,0,0,0,0,0,0,0,0,4,2
 "Morgan, L.",LV,5,0,1,0,0,0,0,0,0,0,0,0,4,2
 "Ramrio, M.",LV,5,0,1,0,0,0,0,0,0,0,0,0,4,2
-"Speed, D.",LV,4,0,0,0,0,0,0,0,0,0,0,0,4,2
+"Speed, D.",LV,4,0,0,0,0,0,0,1,0,0,0,0,4,2
 "Flimjollywop, S.",LV,3,0,0,0,0,0,0,0,0,0,0,0,4,2
 "Bullard, T.",LV,2,1,0,0,0,0,0,0,0,0,0,0,4,2
 "Peterson, M.",LV,2,0,0,1,1,0,0,0,0,0,0,0,4,2
@@ -24,5 +24,5 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Novel, L.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,4,2
 "Chunk, L.",YKW,2,0,0,0,0,0,0,0,0,0,0,0,4,2
 "Hampshireton, R.",YKW,2,0,0,1,0,0,0,0,0,0,0,0,4,2
-"Garden, J.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,4,2
+"Garden, J.",YKW,1,0,0,0,0,0,0,0,1,0,0,0,4,2
 "Sanchez, P.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,4,2

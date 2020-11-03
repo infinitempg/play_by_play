@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hockhertz, M.",CHI,7,0,0,3,0,0,0,0,0,0,0,0,4,21
 "Schneider, D.",CHI,7,0,0,1,0,0,0,0,0,0,0,0,4,21
-"Lee, L.",CHI,6,0,1,1,0,0,0,0,0,0,0,0,4,21
+"Lee, L.",CHI,6,0,1,1,0,0,0,1,0,0,0,0,4,21
 "Beat, N.",CHI,5,0,0,0,0,0,0,0,0,0,0,0,4,21
 "Skarsgard, T.",CHI,5,0,1,0,0,0,0,0,0,0,0,0,4,21
 "Bacon, T.",CHI,4,0,0,0,0,0,0,0,0,0,0,0,4,21
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Beaner, S.",BAL,3,0,0,0,0,0,0,0,0,0,0,0,4,21
 "Troyski, X.",BAL,3,0,0,1,0,0,0,0,0,0,0,0,4,21
 "Bakshi, S.",BAL,2,2,0,0,0,0,0,0,0,0,0,0,4,21
-"Quinn, A.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,4,21
+"Quinn, A.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,4,21

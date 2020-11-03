@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Saint, J.",COL,3,0,1,1,0,0,0,0,0,0,0,0,12,5
 "Gustavsson, E.",COL,2,1,1,0,0,0,0,0,0,0,0,0,12,5
 "Novel, L.",COL,2,0,0,1,0,0,0,0,0,0,0,0,12,5
-"Stone, W.",LV,15,0,0,1,1,0,0,0,0,0,0,0,12,5
+"Stone, W.",LV,15,0,0,1,1,0,0,0,1,0,0,0,12,5
 "Washington, L.",LV,15,0,0,1,0,0,0,0,0,0,0,0,12,5
 "Cox, J.",LV,11,3,0,0,0,0,0,0,0,0,0,0,12,5
 "Brown, I.",LV,10,1,0,0,0,0,0,0,0,0,0,0,12,5
@@ -18,6 +18,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Maddox, S.",LV,7,0,0,0,0,0,0,0,0,0,0,0,12,5
 "Saginaw, A.",LV,6,1,0,0,0,0,0,0,0,0,0,0,12,5
 "Oakes, B.",LV,5,0,0,0,0,0,0,0,0,0,0,0,12,5
-"Stropko, B.",LV,3,0,0,1,0,0,0,0,0,0,0,0,12,5
+"Stropko, B.",LV,3,0,0,1,0,0,0,1,0,0,0,0,12,5
 "Shoate, T.",LV,1,0,0,0,0,0,0,0,0,0,0,0,12,5
 "Brister, T.",LV,0,0,0,1,0,0,0,0,0,0,0,0,12,5

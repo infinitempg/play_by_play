@@ -17,7 +17,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "D'Attoria V, R.",PHI,5,0,0,0,0,0,0,0,0,0,0,0,7,23
 "Booker, B.",PHI,4,0,0,0,0,0,0,0,0,0,0,0,7,23
 "Smoothie, E.",PHI,4,0,0,0,0,0,0,0,0,0,0,0,7,23
-"Eriksen, W.",PHI,3,0,1,0,0,0,0,0,0,0,0,0,7,23
+"Eriksen, W.",PHI,3,0,1,0,0,0,0,1,1,0,0,0,7,23
 "Gronlie, T.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,7,23
 "Suzuki, S.",PHI,3,3,0,0,0,0,0,0,0,0,0,0,7,23
 "Gimmy, I.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,7,23

@@ -6,7 +6,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Winchester, A.",OCO,6,0,1,1,0,0,0,0,0,0,0,0,14,10
 "Sierra, R.",OCO,5,0,2,0,0,0,0,0,0,0,0,0,14,10
 "Broxton, J.",OCO,4,0,0,0,0,0,0,0,0,0,0,0,14,10
-"Clegane, G.",OCO,3,0,1,0,0,0,0,0,0,0,0,0,14,10
+"Clegane, G.",OCO,3,0,1,0,0,0,0,1,0,0,0,0,14,10
 "Spaghetti, Y.",OCO,2,0,1,0,0,0,0,0,0,0,0,0,14,10
 "King, J.",OCO,2,0,0,1,0,0,0,0,0,0,0,0,14,10
 "Wright Jr, G.",OCO,2,0,1,0,0,0,0,0,0,0,0,0,14,10
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Sandoval, A.",COL,2,0,0,0,0,0,0,0,0,0,0,0,14,10
 "Bagwell, N.",COL,1,0,0,0,0,0,0,0,0,0,0,0,14,10
 "Kamaka, E.",COL,1,1,0,0,0,0,0,0,0,0,0,0,14,10
-"Applehort, R.",COL,0,0,0,0,0,0,0,0,0,0,0,0,14,10
+"Applehort, R.",COL,0,0,0,0,0,0,0,0,1,0,0,0,14,10

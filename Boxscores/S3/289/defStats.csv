@@ -2,7 +2,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Broadway, E.",BAL,9,0,1,1,0,0,0,0,0,0,0,0,4,3
 "Harrison, S.",BAL,7,0,0,0,0,0,0,0,0,0,0,0,4,3
 "Delacour, A.",BAL,6,0,0,1,0,0,0,0,0,0,0,0,4,3
-"Wright, J.",BAL,6,0,1,3,0,0,0,0,0,0,0,0,4,3
+"Wright, J.",BAL,6,0,1,3,0,0,0,0,0,1,0,0,4,3
 "Masvidal, J.",BAL,5,0,0,0,0,0,0,0,0,0,0,0,4,3
 "Metas, B.",BAL,4,0,2,0,0,0,0,0,0,0,0,0,4,3
 "Sandoval, R.",BAL,4,0,1,0,0,0,0,0,0,0,0,0,4,3
@@ -11,13 +11,13 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Taylor, O.",BAL,3,0,1,0,0,0,0,0,0,0,0,0,4,3
 "Valentine, V.",BAL,1,0,0,1,1,0,0,0,0,0,0,0,4,3
 "Washington, L.",PHI,10,0,0,0,0,0,0,0,0,0,0,0,4,3
-"Ridley, W.",PHI,8,1,1,0,0,0,0,0,0,0,0,0,4,3
+"Ridley, W.",PHI,8,1,1,0,0,0,0,0,1,0,0,0,4,3
 "Hackett, A.",PHI,7,1,0,1,0,0,0,0,0,0,0,0,4,3
 "Jefferson, L.",PHI,7,0,0,0,0,0,0,0,0,0,0,0,4,3
 "Marmeladov, V.",PHI,7,0,0,0,0,0,0,0,0,0,0,0,4,3
 "Davidson, D.",PHI,4,1,0,0,0,0,0,0,0,0,0,0,4,3
 "Kamaka, E.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,4,3
 "Oles, T.",PHI,3,0,0,1,0,0,0,0,0,0,0,0,4,3
-"Ramrio, M.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,4,3
+"Ramrio, M.",PHI,3,0,0,0,0,0,0,1,0,0,0,0,4,3
 "O'Sullivan, K.",PHI,2,0,0,2,0,0,0,0,0,0,0,0,4,3
 "Tucker, P.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,4,3

@@ -5,7 +5,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Jefferson, L.",PHI,8,0,0,0,0,0,0,0,0,0,0,0,4,2
 "Marmeladov, V.",PHI,8,0,0,0,0,0,0,0,0,0,0,0,4,2
 "Krimlaw, A.",PHI,6,1,1,0,0,0,0,0,0,0,0,0,4,2
-"Tucker, P.",PHI,6,1,0,1,1,0,0,0,0,0,0,0,4,2
+"Tucker, P.",PHI,6,1,0,1,1,0,0,1,0,0,0,0,4,2
 "Oles, T.",PHI,4,0,0,0,0,0,0,0,0,0,0,0,4,2
 "O'Sullivan, K.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,4,2
 "Davidson, D.",PHI,1,1,0,0,0,0,0,0,0,0,0,0,4,2
@@ -19,7 +19,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Metas, B.",BAL,2,0,0,0,0,0,0,0,0,0,0,0,4,2
 "Wright, J.",BAL,2,0,0,0,0,0,0,0,0,0,0,0,4,2
 "Boom, J.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,4,2
-"Delacour, A.",BAL,1,0,0,1,0,0,0,0,0,0,0,0,4,2
+"Delacour, A.",BAL,1,0,0,1,0,0,0,1,1,0,0,0,4,2
 "Taylor, O.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,4,2
-"Farlane, D.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,4,2
-"Nasher, W.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,4,2
+"Farlane, D.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,4,2
+"Nasher, W.",BAL,0,0,0,0,0,0,0,0,0,0,0,1,4,2

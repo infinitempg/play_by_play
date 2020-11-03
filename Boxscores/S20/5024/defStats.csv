@@ -5,7 +5,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Abernathy, K.",OCO,4,0,0,2,0,0,0,0,0,0,0,0,11,20
 "Lazer-Eyes, G.",OCO,4,0,0,1,0,0,0,0,0,0,0,0,11,20
 "Lattimer, A.",OCO,3,0,0,1,0,0,0,0,0,0,0,0,11,20
-"Mbanefo, K.",OCO,3,1,0,0,0,0,0,0,0,0,0,0,11,20
+"Mbanefo, K.",OCO,3,1,0,0,0,0,0,1,0,0,0,0,11,20
 "Lovote, M.",OCO,2,0,1,0,0,0,0,0,0,0,0,0,11,20
 "Saul, C.",OCO,2,0,0,0,0,0,0,0,0,0,0,0,11,20
 "Ginsberg, D.",OCO,1,0,1,0,0,0,0,0,0,0,0,0,11,20
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Lavelle Jr., D.",AUS,3,0,0,1,0,0,0,0,0,0,0,0,11,20
 "Bradberton, J.",AUS,2,0,0,0,0,0,0,0,0,0,0,0,11,20
 "Fassingit, H.",AUS,2,0,1,0,0,0,0,0,0,0,0,0,11,20
-"Cole, E.",AUS,0,0,0,0,0,0,0,0,0,0,0,0,11,20
+"Cole, E.",AUS,0,0,0,0,0,0,0,0,1,0,0,0,11,20

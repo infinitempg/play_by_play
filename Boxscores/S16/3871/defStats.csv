@@ -2,7 +2,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Vans, R.",AZ,9,0,1,1,0,0,0,0,0,0,0,0,1,16
 "Mack, M.",AZ,8,0,0,0,0,0,0,0,0,0,0,0,1,16
 "Lee, L.",AZ,6,0,0,0,0,0,0,0,0,0,0,0,1,16
-"McKinnie, L.",AZ,5,0,2,0,0,0,0,0,0,0,0,0,1,16
+"McKinnie, L.",AZ,5,0,2,0,0,0,0,1,0,0,0,0,1,16
 "Mughes, H.",AZ,4,0,0,2,0,0,0,0,0,0,0,0,1,16
 "Barnes, B.",AZ,3,0,1,0,0,0,0,0,0,0,0,0,1,16
 "Knight, L.",AZ,2,0,0,2,0,0,0,0,0,0,0,0,1,16
@@ -24,4 +24,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Mbanefo, K.",CHI,2,0,0,0,0,0,0,0,0,0,0,0,1,16
 "Poopsie, D.",CHI,2,1,0,0,0,0,0,0,0,0,0,0,1,16
 "Foster, W.",CHI,1,0,0,0,0,0,0,0,0,0,0,0,1,16
-"Torenson, S.",CHI,0,0,0,0,0,0,0,0,0,0,0,0,1,16
+"Torenson, S.",CHI,0,0,0,0,0,0,0,0,1,0,0,0,1,16

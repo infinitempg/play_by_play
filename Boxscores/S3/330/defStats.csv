@@ -8,7 +8,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Oles, T.",PHI,3,0,0,1,0,0,0,0,0,0,0,0,14,3
 "O'Sullivan, K.",PHI,3,0,0,1,1,0,0,0,0,0,0,0,14,3
 "Marmeladov, V.",PHI,2,0,0,1,1,0,0,0,0,0,0,0,14,3
-"Ramrio, M.",PHI,1,0,1,0,0,0,0,0,0,0,0,0,14,3
+"Ramrio, M.",PHI,1,0,1,0,0,0,0,1,0,0,0,0,14,3
 "Broadway, E.",BAL,12,0,1,2,1,0,0,0,0,0,0,0,14,3
 "Harrison, S.",BAL,7,0,0,0,0,0,0,0,0,0,0,0,14,3
 "Reyes, R.",BAL,5,0,0,0,0,0,0,0,0,0,0,0,14,3
@@ -20,5 +20,5 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hendrix, K.",BAL,2,0,1,0,0,0,0,0,0,0,0,0,14,3
 "Metas, B.",BAL,2,1,0,0,0,0,0,0,0,0,0,0,14,3
 "Taylor, O.",BAL,2,0,1,0,0,0,0,0,0,0,0,0,14,3
-"Kyubee, S.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,14,3
+"Kyubee, S.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,14,3
 "Masvidal, J.",BAL,0,0,0,1,1,0,0,0,0,0,0,0,14,3

@@ -3,11 +3,11 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Cox III, J.",PHI,9,0,0,0,0,0,0,0,0,0,0,0,5,17
 "McMorris, J.",PHI,6,0,0,1,0,0,0,0,0,0,0,0,5,17
 "Bohne, D.",PHI,5,0,0,0,0,0,0,0,0,0,0,0,5,17
-"D'Attoria V, R.",PHI,5,0,0,0,0,0,0,0,0,0,0,0,5,17
+"D'Attoria V, R.",PHI,5,0,0,0,0,0,0,0,0,1,0,0,5,17
 "Garnett, L.",PHI,4,0,0,2,0,0,0,0,0,0,0,0,5,17
 "McGwire, A.",PHI,4,1,1,0,0,0,0,0,0,0,0,0,5,17
 "Hardshaft, R.",PHI,3,2,1,0,0,0,0,0,0,0,0,0,5,17
-"Smyles, L.",PHI,3,0,1,0,0,0,0,0,0,0,0,0,5,17
+"Smyles, L.",PHI,3,0,1,0,0,0,0,1,0,0,0,0,5,17
 "Emoji, E.",PHI,2,0,0,0,0,0,0,0,0,0,0,0,5,17
 "Berry, M.",COL,9,0,0,2,0,0,0,0,0,0,0,0,5,17
 "Gabagool, T.",COL,8,0,0,0,0,0,0,0,0,0,0,0,5,17
@@ -18,4 +18,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Sinclair, Q.",COL,4,0,0,1,1,0,0,0,0,0,0,0,5,17
 "Towers, J.",COL,3,0,0,0,0,0,0,0,0,0,0,0,5,17
 "Lejune, L.",COL,2,0,0,0,0,0,0,0,0,0,0,0,5,17
-"Guard, R.",COL,0,0,0,0,0,0,0,0,0,0,0,0,5,17
+"Guard, R.",COL,0,0,0,0,0,0,0,0,1,0,0,0,5,17

@@ -1,9 +1,9 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Saint, J.",COL,11,1,1,0,0,0,0,0,0,0,0,0,13,4
-"Boggs, B.",COL,7,0,0,0,0,0,0,0,0,0,0,0,13,4
+"Boggs, B.",COL,7,0,0,0,0,0,0,0,1,0,0,0,13,4
 "Hayden, A.",COL,7,0,0,0,0,0,0,0,0,0,0,0,13,4
 "Skidmarks, S.",COL,7,0,0,0,0,0,0,0,0,0,0,0,13,4
-"Erikson, V.",COL,6,0,0,0,0,0,0,0,0,0,0,0,13,4
+"Erikson, V.",COL,6,0,0,0,0,0,0,1,0,0,0,0,13,4
 "Hampshireton, R.",COL,6,0,0,0,0,0,0,0,0,0,0,0,13,4
 "Krimlaw, A.",COL,5,0,1,2,0,1,0,0,0,0,0,0,13,4
 "Ishigawa, H.",COL,4,0,0,0,0,0,0,0,0,0,0,0,13,4
@@ -12,7 +12,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Wozy, F.",COL,1,0,0,0,0,0,0,0,0,0,0,0,13,4
 "Luechly, L.",ARI,14,0,1,0,0,0,0,0,0,0,0,0,13,4
 "Goodson, N.",ARI,9,0,0,1,0,0,0,0,0,0,0,0,13,4
-"Zhang, S.",ARI,9,0,0,0,0,0,0,0,0,0,0,0,13,4
+"Zhang, S.",ARI,9,0,0,0,0,0,0,1,1,0,0,0,13,4
 "Ernston, H.",ARI,6,1,1,0,0,0,0,0,0,0,0,0,13,4
 "Flock, R.",ARI,3,0,0,0,0,0,0,0,0,0,0,0,13,4
 "Asipi, A.",ARI,2,1,1,0,0,0,0,0,0,0,0,0,13,4

@@ -4,7 +4,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Shields, T.",CHI,8,0,0,0,0,0,0,0,0,0,0,0,1,23
 "MacAndrew, H.",CHI,6,0,1,0,0,0,0,0,0,0,0,0,1,23
 "Firestorm-Fjord, O.",CHI,5,0,0,2,0,0,0,0,0,0,0,0,1,23
-"Oles JR, T.",CHI,5,0,0,0,0,0,0,0,0,0,0,0,1,23
+"Oles JR, T.",CHI,5,0,0,0,0,0,0,1,0,0,0,0,1,23
 "VonPebbles, M.",CHI,4,2,1,0,0,0,0,0,0,0,0,0,1,23
 "Works, S.",CHI,4,3,0,0,0,0,0,0,0,0,0,0,1,23
 "Smirh, J.",CHI,3,0,0,0,0,0,0,0,0,0,0,0,1,23
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "d'Alcott, R.",SAR,2,0,0,0,0,0,0,0,0,0,0,0,1,23
 "Ocewilder, S.",SAR,2,0,1,0,0,0,0,0,0,0,0,0,1,23
 "Karpaasi, M.",SAR,1,0,0,0,0,0,0,0,0,0,0,0,1,23
-"Banks II, D.",SAR,0,0,0,0,0,0,0,0,0,0,0,0,1,23
+"Banks II, D.",SAR,0,0,0,0,0,0,0,0,1,0,0,0,1,23

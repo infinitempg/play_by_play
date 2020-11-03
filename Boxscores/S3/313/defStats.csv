@@ -9,7 +9,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Brill, J.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,10,3
 "Hardrool, C.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,10,3
 "Lewith, T.",SJS,2,0,0,1,0,0,0,0,0,0,0,0,10,3
-"Sharp, B.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,10,3
+"Sharp, B.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,10,3
 "Grant, T.",LV,8,0,0,0,0,0,0,0,0,0,0,0,10,3
 "Varga, T.",LV,8,0,0,1,0,0,0,0,0,0,0,0,10,3
 "Blade, B.",LV,4,0,2,0,0,0,0,0,0,0,0,0,10,3
@@ -20,6 +20,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Speed, D.",LV,3,0,0,0,0,0,0,0,0,0,0,0,10,3
 "Stropko, B.",LV,3,0,0,0,0,0,0,0,0,0,0,0,10,3
 "Flimjollywop, S.",LV,2,0,0,0,0,0,0,0,0,0,0,0,10,3
-"Lockkeu, V.",LV,2,1,1,0,0,0,0,0,0,0,0,0,10,3
+"Lockkeu, V.",LV,2,1,1,0,0,0,0,1,0,0,0,0,10,3
 "Morgan, L.",LV,2,0,0,0,0,0,0,0,0,0,0,0,10,3
 "Lecavalier, R.",LV,1,0,0,0,0,0,0,0,0,0,0,0,10,3

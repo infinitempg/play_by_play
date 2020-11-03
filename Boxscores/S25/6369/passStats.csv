@@ -1,3 +1,3 @@
-Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
-"Ramza, S.",OCO,159,15.9,0,1,40.6,10,20,1,25
-"Jack, M.",SJS,142,7.1,0,1,56.2,10,20,1,25
+Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Ramza, S.",OCO,10/28,159,15.9,0,1,40.6,10,28,1,25
+"Jack, M.",SJS,20/34,142,7.1,0,1,56.2,20,34,1,25

@@ -3,7 +3,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Roenick, A.",BAL,9,0,1,0,0,0,0,0,0,0,0,0,2,9
 "Goodson, N.",BAL,6,0,0,0,0,0,0,0,0,0,0,0,2,9
 "Delacour, A.",BAL,5,0,0,1,0,0,0,0,0,0,0,0,2,9
-"Marmeladov, V.",BAL,5,0,2,0,0,0,0,0,0,0,0,0,2,9
+"Marmeladov, V.",BAL,5,0,2,0,0,0,0,2,0,0,0,0,2,9
 "Hendrix, K.",BAL,3,0,3,0,0,0,0,0,0,0,0,0,2,9
 "Broadway, E.",BAL,2,0,0,0,0,0,0,0,0,0,0,0,2,9
 "Asipi Jr., A.",BAL,1,0,1,0,0,0,0,0,0,0,0,0,2,9
@@ -21,5 +21,5 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Thibault, A.",COL,3,0,0,0,0,0,0,0,0,0,0,0,2,9
 "Miller, D.",COL,2,1,1,0,0,0,0,0,0,0,0,0,2,9
 "Pierno, N.",COL,2,0,1,0,0,0,0,0,0,0,0,0,2,9
-"Down, D.",COL,0,0,0,0,0,0,0,0,0,0,0,0,2,9
-"Kroetch, D.",COL,0,0,0,0,0,0,0,0,0,0,0,0,2,9
+"Down, D.",COL,0,0,0,0,0,0,0,0,1,0,0,0,2,9
+"Kroetch, D.",COL,0,0,0,0,0,0,0,0,1,0,0,0,2,9

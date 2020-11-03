@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Stephens, W.",PHI,12,0,0,0,0,0,0,0,0,0,0,0,12,22
 "D'Attoria V, R.",PHI,9,0,0,0,0,0,0,0,0,0,0,0,12,22
-"Howyanow, W.",PHI,9,0,3,2,0,0,0,0,0,0,0,0,12,22
+"Howyanow, W.",PHI,9,0,3,2,0,0,0,1,0,0,0,0,12,22
 "McKinnie, L.",PHI,7,0,0,0,0,0,0,0,0,0,0,0,12,22
 "Morris, R.",PHI,6,0,0,0,0,0,0,0,0,0,0,0,12,22
 "Cross, M.",PHI,4,0,0,0,0,0,0,0,0,0,0,0,12,22
@@ -12,7 +12,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Suzuki, S.",PHI,1,0,1,0,0,0,0,0,0,0,0,0,12,22
 "Riposte, F.",SAR,10,0,1,0,0,0,0,0,0,0,0,0,12,22
 "Andrews, J.",SAR,9,0,0,2,0,0,0,0,0,0,0,0,12,22
-"Rok, R.",SAR,7,0,0,0,0,0,0,0,0,0,0,0,12,22
+"Rok, R.",SAR,7,0,0,0,0,0,0,1,1,0,0,0,12,22
 "Mango-Panda, H.",SAR,6,1,0,0,0,0,0,0,0,0,0,0,12,22
 "Beat, N.",SAR,5,0,0,0,0,0,0,0,0,0,0,0,12,22
 "Dillmiballs, F.",SAR,4,0,1,0,0,0,0,0,0,0,0,0,12,22
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Franchet, M.",SAR,3,1,0,0,0,0,0,0,0,0,0,0,12,22
 "Nkiah, J.",SAR,2,0,0,0,0,0,0,0,0,0,0,0,12,22
 "Knight, L.",SAR,1,0,0,1,0,0,0,0,0,0,0,0,12,22
-"McTaco, P.",SAR,0,0,0,0,0,0,0,0,0,0,0,0,12,22
+"McTaco, P.",SAR,0,0,0,0,0,0,0,0,1,0,0,0,12,22

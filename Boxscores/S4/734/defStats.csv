@@ -4,7 +4,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Delacour, A.",BAL,5,0,0,1,0,0,0,0,0,0,0,0,3,4
 "Metas, B.",BAL,5,0,1,0,0,0,0,0,0,0,0,0,3,4
 "Broadway, E.",BAL,3,0,0,1,0,0,0,0,0,0,0,0,3,4
-"Hendrix, K.",BAL,3,1,0,0,0,0,0,0,0,0,0,0,3,4
+"Hendrix, K.",BAL,3,1,0,0,0,0,0,1,0,0,0,0,3,4
 "Kyubee, S.",BAL,3,0,0,1,1,0,0,0,0,0,0,0,3,4
 "Sandoval, R.",BAL,3,0,1,0,0,0,0,0,0,0,0,0,3,4
 "Turner, D.",BAL,3,0,0,3,1,0,1,0,0,0,0,0,3,4
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Novel, L.",COL,3,0,0,1,1,0,0,0,0,0,0,0,3,4
 "Skidmarks, S.",COL,3,0,0,0,0,0,0,0,0,0,0,0,3,4
 "McNoodle, M.",COL,1,0,0,0,0,0,0,0,0,0,0,0,3,4
-"Two, B.",COL,0,0,0,0,0,0,0,0,0,0,0,0,3,4
+"Two, B.",COL,0,0,0,0,0,0,0,0,1,0,0,0,3,4

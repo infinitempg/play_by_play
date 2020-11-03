@@ -8,7 +8,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Sachs, J.",COL,3,2,0,0,0,0,0,0,0,0,0,0,8,12
 "Miles, M.",COL,3,0,0,0,0,0,0,0,0,0,0,0,8,12
 "Pierno, N.",COL,1,0,1,0,0,0,0,0,0,0,0,0,8,12
-"Guard, L.",COL,0,0,0,0,0,0,0,0,0,0,0,0,8,12
+"Guard, L.",COL,0,0,0,0,0,0,0,0,1,0,0,0,8,12
 "Ramero, R.",OCO,12,0,0,0,0,0,0,0,0,0,0,0,8,12
 "Broxton, J.",OCO,8,0,0,2,0,0,0,0,0,0,0,0,8,12
 "Brown, M.",OCO,6,0,0,3,1,0,0,0,0,0,0,0,8,12
@@ -18,4 +18,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Bagwell, N.",OCO,2,0,1,0,0,0,0,0,0,0,0,0,8,12
 "Clegane, G.",OCO,2,1,0,0,0,0,0,0,0,0,0,0,8,12
 "Rice, J.",OCO,1,0,1,0,0,0,0,0,0,0,0,0,8,12
-"Sierra, R.",OCO,1,0,0,0,0,0,0,0,0,0,0,0,8,12
+"Sierra, R.",OCO,1,0,0,0,0,0,0,1,0,0,0,0,8,12

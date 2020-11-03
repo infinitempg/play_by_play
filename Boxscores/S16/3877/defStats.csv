@@ -7,11 +7,11 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Waynner, B.",AUS,3,0,0,0,0,0,0,0,0,0,0,0,2,16
 "Henry, J.",AUS,2,1,0,0,0,0,0,0,0,0,0,0,2,16
 "Humuhumunukunukuapua'a, T.",AUS,2,0,0,0,0,0,0,0,0,0,0,0,2,16
-"Lavelle Jr., D.",AUS,2,0,0,2,0,0,0,0,0,0,0,0,2,16
+"Lavelle Jr., D.",AUS,2,0,0,2,0,0,0,1,0,0,0,0,2,16
 "Castle, S.",AUS,1,0,0,2,1,0,0,0,0,0,0,0,2,16
 "Mack, M.",AZ,13,0,0,1,0,0,0,0,0,0,0,0,2,16
 "Barnes, B.",AZ,12,0,0,0,0,0,0,0,0,0,0,0,2,16
-"Vans, R.",AZ,8,1,4,0,0,0,1,0,0,0,0,0,2,16
+"Vans, R.",AZ,8,1,4,0,0,0,1,1,1,1,0,0,2,16
 "Lee, L.",AZ,6,0,0,0,0,0,0,0,0,0,0,0,2,16
 "McKinnie, L.",AZ,6,1,0,0,0,0,0,0,0,0,0,0,2,16
 "Marchand, J.",AZ,5,2,0,0,0,0,0,0,0,0,0,0,2,16
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Morris, R.",AZ,3,0,1,0,0,0,0,0,0,0,0,0,2,16
 "Mughes, H.",AZ,3,0,0,1,0,0,0,0,0,0,0,0,2,16
 "Walker, C.",AZ,1,0,1,0,0,0,0,0,0,0,0,0,2,16
-"Landers, B.",AZ,0,0,0,0,0,0,0,0,0,0,0,0,2,16
+"Landers, B.",AZ,0,0,0,0,0,0,0,0,1,0,0,0,2,16

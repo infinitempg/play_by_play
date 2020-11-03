@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
-"Crooks, L.",BAL,10,0,0,0,0,0,0,0,0,0,0,0,2,24
+"Crooks, L.",BAL,10,0,0,0,0,0,0,0,1,0,0,0,2,24
 "Green, W.",BAL,7,0,1,0,0,0,0,0,0,0,0,0,2,24
-"De Ville, D.",BAL,6,0,1,3,0,0,0,0,0,0,0,0,2,24
+"De Ville, D.",BAL,6,0,1,3,0,0,0,1,0,0,0,0,2,24
 "Kennedy, D.",BAL,6,0,1,0,0,0,0,0,0,0,0,0,2,24
 "Avery, E.",BAL,5,0,0,0,0,0,0,0,0,0,0,0,2,24
 "Riley, C.",BAL,4,0,0,0,0,0,0,0,0,0,0,0,2,24

@@ -9,7 +9,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Poopsie, D.",SJS,3,1,1,0,0,0,0,0,0,0,0,0,12,14
 "Staley, T.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,12,14
 "Riposte, F.",SJS,1,0,1,0,0,0,0,0,0,0,0,0,12,14
-"Christ, J.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,12,14
+"Christ, J.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,12,14
 "Horne, B.",BAL,14,0,0,2,0,0,0,0,0,0,0,0,12,14
 "Roenick, A.",BAL,11,0,0,0,0,0,0,0,0,0,0,0,12,14
 "Oakes, B.",BAL,5,1,0,0,0,0,0,0,0,0,0,0,12,14
@@ -19,7 +19,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hornbacher, A.",BAL,4,0,0,1,0,0,0,0,0,0,0,0,12,14
 "Mbanefo, K.",BAL,4,0,0,0,0,0,0,0,0,0,0,0,12,14
 "Asipi III, A.",BAL,3,0,0,0,0,0,0,0,0,0,0,0,12,14
-"Mills, B.",BAL,3,0,0,0,0,0,0,0,0,0,0,0,12,14
+"Mills, B.",BAL,3,0,0,0,0,0,0,1,0,0,0,0,12,14
 "Hobbs, J.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,12,14
 "Ishigawa, H.",BAL,1,1,0,0,0,0,0,0,0,0,0,0,12,14
 "Z, D.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,12,14

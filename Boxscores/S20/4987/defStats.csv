@@ -9,7 +9,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Okura, T.",AUS,3,0,0,0,0,0,0,0,0,0,0,0,4,20
 "Idlewyld, K.",AUS,2,2,0,0,0,0,0,0,0,0,0,0,4,20
 "Bradberton, J.",AUS,1,0,0,0,0,0,0,0,0,0,0,0,4,20
-"Wilf, G.",AZ,11,0,0,0,0,0,0,0,0,0,0,0,4,20
+"Wilf, G.",AZ,11,0,0,0,0,0,0,1,0,0,0,0,4,20
 "Lee, L.",AZ,10,0,0,1,0,0,0,0,0,0,0,0,4,20
 "Swift, T.",AZ,8,0,2,0,0,0,0,0,0,0,0,0,4,20
 "Montgomery, B.",AZ,7,1,0,1,0,0,0,0,0,0,0,0,4,20
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Masters, S.",AZ,3,1,0,0,0,0,0,0,0,0,0,0,4,20
 "McKinnie, L.",AZ,3,0,0,0,0,0,0,0,0,0,0,0,4,20
 "Culbertson, R.",AZ,2,0,0,0,0,0,0,0,0,0,0,0,4,20
-"Henry, J.",AZ,2,1,0,0,0,0,0,0,0,0,0,0,4,20
+"Henry, J.",AZ,2,1,0,0,0,0,0,0,1,0,0,0,4,20

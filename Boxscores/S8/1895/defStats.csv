@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Rove, C.",PHI,9,0,0,1,0,0,0,0,0,0,0,0,5,8
 "Lee, J.",PHI,8,0,0,0,0,0,0,0,0,0,0,0,5,8
-"Hendrix, M.",PHI,7,0,2,1,0,0,0,0,0,0,0,0,5,8
+"Hendrix, M.",PHI,7,0,2,1,0,0,0,1,0,0,0,0,5,8
 "Kamaka, E.",PHI,6,2,0,0,0,0,0,0,0,0,0,0,5,8
 "Davidson, D.",PHI,4,0,0,0,0,0,0,0,0,0,0,0,5,8
 "Marmeladov, V.",PHI,4,0,1,0,0,0,0,0,0,0,0,0,5,8
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Carter, P.",YKW,2,0,0,3,0,0,0,0,0,0,0,0,5,8
 "Knuckles, U.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,5,8
 "Lavelle, D.",YKW,1,0,0,2,0,0,0,0,0,0,0,0,5,8
-"Amper, T.",YKW,0,0,0,0,0,0,0,0,0,0,0,0,5,8
+"Amper, T.",YKW,0,0,0,0,0,0,0,0,1,0,0,0,5,8

@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Ishigawa, H.",COL,2,1,0,0,0,0,0,0,0,0,0,0,2,14
 "Hornbacher, A.",COL,1,0,0,1,0,0,0,0,0,0,0,0,2,14
 "Wrong, O.",COL,1,0,0,0,0,0,0,0,0,0,0,0,2,14
-"Guard, L.",COL,0,0,0,0,0,0,0,0,0,0,0,0,2,14
+"Guard, L.",COL,0,0,0,0,0,0,0,0,1,0,0,0,2,14
 "Garnett, L.",PHI,9,0,1,0,0,0,0,0,0,0,0,0,2,14
 "Smyles, L.",PHI,9,0,1,0,0,0,0,0,0,0,0,0,2,14
 "Becker, K.",PHI,6,0,0,0,0,0,0,0,0,0,0,0,2,14
@@ -20,4 +20,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Steele, C.",PHI,4,0,0,1,1,0,0,0,0,0,0,0,2,14
 "Beard, M.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,2,14
 "Morley, R.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,2,14
-"Saul, C.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,2,14
+"Saul, C.",PHI,1,0,0,0,0,0,0,1,0,0,0,0,2,14

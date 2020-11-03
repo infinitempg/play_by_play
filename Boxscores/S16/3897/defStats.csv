@@ -9,9 +9,9 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Towers, J.",AUS,2,0,0,0,0,0,0,0,0,0,0,0,6,16
 "Humuhumunukunukuapua'a, T.",AUS,1,0,0,0,0,0,0,0,0,0,0,0,6,16
 "Snider, N.",AUS,1,0,0,0,0,0,0,0,0,0,0,0,6,16
-"Cole, E.",AUS,0,0,0,0,0,0,0,0,0,0,0,0,6,16
+"Cole, E.",AUS,0,0,0,0,0,0,0,0,1,0,0,0,6,16
 "Hobbs, S.",OCO,16,0,0,3,0,0,0,0,0,0,0,0,6,16
-"Grievous, L.",OCO,11,0,1,2,0,0,0,0,0,0,0,0,6,16
+"Grievous, L.",OCO,11,0,1,2,0,0,0,1,0,0,0,0,6,16
 "Ginsberg, D.",OCO,7,0,1,1,1,0,0,0,0,0,0,0,6,16
 "Ramsey Jr., G.",OCO,7,0,0,0,0,0,0,0,0,0,0,0,6,16
 "Brown, M.",OCO,6,0,0,1,0,0,0,0,0,0,0,0,6,16

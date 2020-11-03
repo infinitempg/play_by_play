@@ -9,8 +9,8 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Abernathy, K.",OCO,2,0,0,4,1,0,0,0,0,0,0,0,10,20
 "Lovote, M.",OCO,2,0,1,0,0,0,0,0,0,0,0,0,10,20
 "Saul, C.",OCO,2,1,1,0,0,0,0,0,0,0,0,0,10,20
-"Shady, S.",OCO,0,0,0,0,0,0,0,0,0,0,0,0,10,20
-"D'Attoria V, R.",PHI,10,0,0,0,0,0,0,0,0,0,0,0,10,20
+"Shady, S.",OCO,0,0,0,0,0,0,0,0,1,0,0,0,10,20
+"D'Attoria V, R.",PHI,10,0,0,0,0,0,0,1,0,0,0,0,10,20
 "McMorris, J.",PHI,10,0,0,0,0,0,0,0,0,0,0,0,10,20
 "Kassel, T.",PHI,9,0,0,0,0,0,0,0,0,0,0,0,10,20
 "Howyanow, W.",PHI,7,0,0,1,0,0,0,0,0,0,0,0,10,20
@@ -18,6 +18,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Emoji, E.",PHI,4,0,0,1,0,0,0,0,0,0,0,0,10,20
 "Franchet, M.",PHI,4,1,0,0,0,0,0,0,0,0,0,0,10,20
 "Harding, J.",PHI,4,1,1,0,0,0,0,0,0,0,0,0,10,20
-"ILove, G.",PHI,4,3,0,0,0,0,0,0,0,0,0,0,10,20
+"ILove, G.",PHI,4,3,0,0,0,0,0,1,1,0,0,0,10,20
 "Little IV, S.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,10,20
 "McGwire, A.",PHI,2,0,0,0,0,0,0,0,0,0,0,0,10,20

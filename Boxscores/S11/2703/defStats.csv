@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Collins, V.",COL,1,1,0,0,0,0,0,0,0,0,0,0,9,11
 "LeFevre, R.",COL,1,0,1,0,0,0,0,0,0,0,0,0,9,11
 "Sandoval, A.",COL,1,0,0,0,0,0,0,0,0,0,0,0,9,11
-"Grau, M.",COL,0,0,0,0,0,0,0,0,0,0,0,0,9,11
+"Grau, M.",COL,0,0,0,0,0,0,0,0,1,0,0,0,9,11
 "Joshua, C.",BAL,12,1,1,0,0,0,0,0,0,0,0,0,9,11
 "Arnold, D.",BAL,7,0,0,0,0,0,0,0,0,0,0,0,9,11
 "Blocksdale, A.",BAL,6,0,0,0,0,0,0,0,0,0,0,0,9,11
@@ -18,7 +18,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Oats, D.",BAL,5,1,1,0,0,0,0,0,0,0,0,0,9,11
 "Fletcher, G.",BAL,3,0,0,1,0,0,0,0,0,0,0,0,9,11
 "Mbanefo, K.",BAL,2,1,0,0,0,0,0,0,0,0,0,0,9,11
-"Gambino, C.",BAL,2,0,0,0,0,0,0,0,0,0,0,0,9,11
+"Gambino, C.",BAL,2,0,0,0,0,0,0,1,0,0,0,0,9,11
 "Hendrix, K.",BAL,2,1,0,0,0,0,0,0,0,0,0,0,9,11
 "Asipi Jr., A.",BAL,1,1,0,0,0,0,0,0,0,0,0,0,9,11
 "Willie, T.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,9,11

@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "D'Attoria V, R.",PHI,12,0,0,0,0,0,0,0,0,0,0,0,2,20
 "Howyanow, W.",PHI,10,0,1,3,0,0,0,0,0,0,0,0,2,20
-"Kassel, T.",PHI,10,0,0,0,0,0,0,0,0,0,0,0,2,20
+"Kassel, T.",PHI,10,0,0,0,0,0,0,1,0,0,0,0,2,20
 "Garnett, L.",PHI,7,0,0,0,0,0,0,0,0,0,0,0,2,20
 "Emoji, E.",PHI,5,0,0,0,0,0,0,0,0,0,0,0,2,20
 "ILove, G.",PHI,4,3,0,0,0,0,0,0,0,0,0,0,2,20
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Rector, D.",NO,2,0,0,2,0,0,0,0,0,0,0,0,2,20
 "Taylor, D.",NO,2,0,0,0,0,0,0,0,0,0,0,0,2,20
 "Arianlacher, M.",NO,1,1,0,0,0,0,0,0,0,0,0,0,2,20
-"Ofyourlove, S.",NO,0,0,0,0,0,0,0,0,0,0,0,0,2,20
+"Ofyourlove, S.",NO,0,0,0,0,0,0,0,0,1,0,0,0,2,20

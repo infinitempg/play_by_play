@@ -9,7 +9,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Morris, R.",AZ,3,0,0,0,0,0,0,0,0,0,0,0,2,18
 "Barnes, B.",AZ,2,0,1,1,0,0,0,0,0,0,0,0,2,18
 "Spector, M.",AZ,1,0,0,0,0,0,0,0,0,0,0,0,2,18
-"Ebris, D.",AZ,0,0,0,0,0,0,0,0,0,0,0,0,2,18
+"Ebris, D.",AZ,0,0,0,0,0,0,0,0,1,0,0,0,2,18
 "Jensen, C.",AUS,12,0,0,1,1,0,1,0,0,0,0,0,2,18
 "Bakshi, S.",AUS,9,0,0,0,0,0,0,0,0,0,0,0,2,18
 "Adams, X.",AUS,7,0,0,5,0,0,0,0,0,0,0,0,2,18
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Lavelle Jr., D.",AUS,4,0,0,0,0,0,0,0,0,0,0,0,2,18
 "Ennis, B.",AUS,2,1,0,0,0,0,0,0,0,0,0,0,2,18
 "Okura, T.",AUS,2,0,0,0,0,0,0,0,0,0,0,0,2,18
-"Wizardry, D.",AUS,1,0,0,0,0,0,0,0,0,0,0,0,2,18
+"Wizardry, D.",AUS,1,0,0,0,0,0,0,1,0,0,0,0,2,18

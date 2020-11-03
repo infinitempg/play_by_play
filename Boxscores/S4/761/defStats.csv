@@ -10,9 +10,9 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Davidson, D.",PHI,3,1,1,0,0,0,0,0,0,0,0,0,10,4
 "Oles, T.",PHI,3,0,0,4,0,0,0,0,0,0,0,0,10,4
 "Washington, L.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,10,4
-"Winchester, A.",OCO,12,0,0,0,0,0,0,0,0,0,0,0,10,4
+"Winchester, A.",OCO,12,0,0,0,0,0,0,1,0,0,0,0,10,4
 "Bavitz, I.",OCO,8,0,1,0,0,1,0,0,0,0,0,0,10,4
-"Petrakis, A.",OCO,6,0,0,0,0,0,0,0,0,0,0,0,10,4
+"Petrakis, A.",OCO,6,0,0,0,0,0,0,0,1,0,0,0,10,4
 "Spector, M.",OCO,5,0,0,2,1,0,0,0,0,0,0,0,10,4
 "Clegane, G.",OCO,4,1,2,0,0,0,0,0,0,0,0,0,10,4
 "O'Sullivan, J.",OCO,4,0,1,0,0,0,0,0,0,0,0,0,10,4

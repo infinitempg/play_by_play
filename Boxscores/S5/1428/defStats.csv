@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Charlton, E.",SJS,1,0,0,0,0,0,0,0,0,0,0,0,14,5
 "Hansen, A.",SJS,1,0,0,0,0,0,0,0,0,0,0,0,14,5
 "Okonkwo, C.",SJS,1,1,0,0,0,0,0,0,0,0,0,0,14,5
-"Diaz, D.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,14,5
+"Diaz, D.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,14,5
 "Washington, L.",LV,10,0,1,1,0,0,0,0,0,0,0,0,14,5
 "Stone, W.",LV,9,0,0,0,0,0,0,0,0,0,0,0,14,5
 "Flimjollywop, S.",LV,7,0,0,0,0,0,0,0,0,0,0,0,14,5
@@ -18,7 +18,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Stropko, B.",LV,6,0,0,0,0,0,0,0,0,0,0,0,14,5
 "Brister, T.",LV,5,0,0,1,0,0,0,0,0,0,0,0,14,5
 "Maddox, S.",LV,5,0,0,1,1,0,0,0,0,0,0,0,14,5
-"Saginaw, A.",LV,5,0,0,0,0,0,0,0,0,0,0,0,14,5
+"Saginaw, A.",LV,5,0,0,0,0,0,0,1,0,0,0,0,14,5
 "Shoate, T.",LV,3,0,0,0,0,0,0,0,0,0,0,0,14,5
 "Brown, I.",LV,2,0,0,0,0,0,0,0,0,0,0,0,14,5
 "Cox, J.",LV,2,2,0,0,0,0,0,0,0,0,0,0,14,5

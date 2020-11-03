@@ -1,9 +1,9 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Danger, D.",COL,9,0,0,0,0,0,0,0,0,0,0,0,13,13
 "Mills, B.",COL,8,0,0,0,0,0,0,0,0,0,0,0,13,13
-"Oakes, B.",COL,6,0,1,2,2,0,0,0,0,0,0,0,13,13
+"Oakes, B.",COL,6,0,1,2,2,0,0,1,0,0,0,0,13,13
 "Montgomery, B.",COL,4,0,0,0,0,0,0,0,0,0,0,0,13,13
-"Tillman, M.",COL,4,0,1,0,0,0,0,0,0,0,0,0,13,13
+"Tillman, M.",COL,4,0,1,0,0,0,0,1,1,0,0,0,13,13
 "Ishigawa, H.",COL,3,0,1,0,0,0,0,0,0,0,0,0,13,13
 "Lejune, L.",COL,3,0,0,0,0,0,0,0,0,0,0,0,13,13
 "Hornbacher, A.",COL,2,0,0,1,0,0,0,0,0,0,0,0,13,13
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Earl, B.",AZ,1,0,0,0,0,0,0,0,0,0,0,0,13,13
 "Reese, A.",AZ,1,0,0,0,0,0,0,0,0,0,0,0,13,13
 "Springfield, J.",AZ,1,0,0,0,0,0,0,0,0,0,0,0,13,13
-"Shady, S.",AZ,0,0,0,0,0,0,0,0,0,0,0,0,13,13
+"Shady, S.",AZ,0,0,0,0,0,0,0,0,1,0,0,0,13,13

@@ -2,7 +2,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Barnes, B.",AZ,8,0,0,1,0,0,0,0,0,0,0,0,3,9
 "Dwyer, J.",AZ,8,1,1,0,0,0,0,0,0,0,0,0,3,9
 "Hackett, A.",AZ,8,1,1,1,0,0,0,0,0,0,0,0,3,9
-"Tiernan, L.",AZ,7,0,0,0,0,0,0,0,0,0,0,0,3,9
+"Tiernan, L.",AZ,7,0,0,0,0,0,0,1,0,0,0,0,3,9
 "Morris, D.",AZ,5,0,0,1,1,0,0,0,0,0,0,0,3,9
 "Floggity, J.",AZ,4,0,0,1,0,0,0,0,0,0,0,0,3,9
 "Ernston, H.",AZ,2,1,0,1,0,0,0,0,0,0,0,0,3,9
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Turner, D.",BAL,4,0,0,1,0,0,0,0,0,0,0,0,3,9
 "Broadway, E.",BAL,2,0,0,0,0,0,0,0,0,0,0,0,3,9
 "Gambino, C.",BAL,2,1,0,0,0,0,0,0,0,0,0,0,3,9
-"Taylor, O.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,3,9
+"Taylor, O.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,3,9

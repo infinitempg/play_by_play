@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Lewis, L.",YKW,9,0,0,1,0,0,0,0,0,0,0,0,6,18
 "Selich, A.",YKW,8,0,0,0,0,0,0,0,0,0,0,0,6,18
-"Grithead, D.",YKW,7,0,2,1,0,0,0,0,0,0,0,0,6,18
+"Grithead, D.",YKW,7,0,2,1,0,0,0,1,0,0,0,0,6,18
 "Kroustis, G.",YKW,6,0,1,0,0,0,0,0,0,0,0,0,6,18
 "Leaf Jr., R.",YKW,5,0,1,0,0,0,0,0,0,0,0,0,6,18
 "Uchiha, L.",YKW,5,0,1,0,0,0,0,0,0,0,0,0,6,18
@@ -17,7 +17,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Green, W.",BAL,5,0,1,0,0,0,0,0,0,0,0,0,6,18
 "Terim, F.",BAL,4,0,0,0,0,0,0,0,0,0,0,0,6,18
 "Horne, B.",BAL,3,0,0,1,0,0,0,0,0,0,0,0,6,18
-"Jimbo, D.",BAL,3,0,0,1,0,0,0,0,0,0,0,0,6,18
+"Jimbo, D.",BAL,3,0,0,1,0,0,0,0,0,0,1,0,6,18
 "Harris, B.",BAL,2,0,1,0,0,0,0,0,0,0,0,0,6,18
 "Baldari, F.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,6,18
-"Star, L.",BAL,0,0,0,0,0,0,0,0,0,0,0,0,6,18
+"Star, L.",BAL,0,0,0,0,0,0,0,0,1,0,0,0,6,18

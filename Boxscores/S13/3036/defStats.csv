@@ -10,7 +10,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Harris, B.",NO,1,0,0,0,0,0,0,0,0,0,0,0,7,13
 "Rax, L.",NO,1,0,1,0,0,0,0,0,0,0,0,0,7,13
 "Townsend, F.",NO,1,0,0,0,0,0,0,0,0,0,0,0,7,13
-"Swift, T.",NO,0,0,0,0,0,0,0,0,0,0,0,0,7,13
+"Swift, T.",NO,0,0,0,0,0,0,0,0,1,0,0,0,7,13
 "Danger, D.",COL,7,0,0,0,0,0,0,0,0,0,0,0,7,13
 "Oakes, B.",COL,7,0,0,1,1,0,0,0,0,0,0,0,7,13
 "Mills, B.",COL,6,0,0,0,0,0,0,0,0,0,0,0,7,13
@@ -19,6 +19,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Ishigawa, H.",COL,3,0,1,0,0,0,0,0,0,0,0,0,7,13
 "Tillman, M.",COL,3,0,0,0,0,0,0,0,0,0,0,0,7,13
 "Wrong, O.",COL,3,0,1,0,0,0,0,0,0,0,0,0,7,13
-"Lejune, L.",COL,2,0,0,1,0,0,0,0,0,0,0,0,7,13
+"Lejune, L.",COL,2,0,0,1,0,0,0,1,0,0,0,0,7,13
 "Pierno, N.",COL,1,0,0,0,0,0,0,0,0,0,0,0,7,13
 "Sachs, J.",COL,1,0,0,0,0,0,0,0,0,0,0,0,7,13

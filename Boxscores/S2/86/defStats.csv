@@ -10,8 +10,8 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Tucker, P.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,5,2
 "Krimlaw, A.",PHI,2,0,1,0,0,0,0,0,0,0,0,0,5,2
 "Taylor, G.",PHI,2,1,0,0,0,0,0,0,0,0,0,0,5,2
-"Christ, J.",PHI,0,0,0,0,0,0,0,0,0,0,0,0,5,2
-"Tiernan, L.",COL,10,0,0,0,0,0,0,0,0,0,0,0,5,2
+"Christ, J.",PHI,0,0,0,0,0,0,0,0,1,0,0,0,5,2
+"Tiernan, L.",COL,10,0,0,0,0,0,0,1,1,0,0,0,5,2
 "Austin, S.",COL,5,0,1,0,0,0,0,0,0,0,0,0,5,2
 "Carter, P.",COL,5,0,0,3,0,0,0,0,0,0,0,0,5,2
 "Hayden, A.",COL,5,0,0,1,0,0,0,0,0,0,0,0,5,2
@@ -20,6 +20,6 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Saint, J.",COL,4,1,0,0,0,0,0,0,0,0,0,0,5,2
 "Lewith, T.",COL,3,0,0,0,0,0,0,0,0,0,0,0,5,2
 "Thomas, R.",COL,3,0,0,0,0,0,0,0,0,0,0,0,5,2
-"Wozy, F.",COL,3,2,1,0,0,0,0,0,0,0,0,0,5,2
+"Wozy, F.",COL,3,2,1,0,0,0,0,1,0,0,0,0,5,2
 "Blade, B.",COL,2,0,1,0,0,0,0,0,0,0,0,0,5,2
 "McNoodle, M.",COL,1,0,0,0,0,0,0,0,0,0,0,0,5,2

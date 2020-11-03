@@ -10,8 +10,8 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Bradberton, J.",AUS,2,0,1,0,0,0,0,0,0,0,0,0,11,19
 "Kuusela, G.",AUS,2,0,1,0,0,0,0,0,0,0,0,0,11,19
 "Gaines, N.",AUS,1,0,0,0,0,0,0,0,0,0,0,0,11,19
-"A'Barelyanything, L.",AUS,0,0,0,0,0,0,0,0,0,0,0,0,11,19
-"Grithead, D.",YKW,13,0,1,5,1,0,0,0,0,0,0,0,11,19
+"A'Barelyanything, L.",AUS,0,0,0,0,0,0,0,0,1,0,0,0,11,19
+"Grithead, D.",YKW,13,0,1,5,1,0,0,1,0,0,0,0,11,19
 "Selich, A.",YKW,10,0,0,0,0,0,0,0,0,0,0,0,11,19
 "Leonard, M.",YKW,8,0,0,2,0,0,0,0,0,0,0,0,11,19
 "Snuggles, J.",YKW,7,0,0,0,0,0,0,0,0,0,0,0,11,19
@@ -20,5 +20,5 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Kroustis, G.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,11,19
 "Lewis, L.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,11,19
 "Kearse, J.",YKW,2,0,0,0,0,0,0,0,0,0,0,0,11,19
-"Smyles, L.",YKW,2,0,0,0,0,0,0,0,0,0,0,0,11,19
+"Smyles, L.",YKW,2,0,0,0,0,0,0,1,1,0,0,0,11,19
 "Virtanen, M.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,11,19

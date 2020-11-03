@@ -8,7 +8,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Sierra, R.",OCO,3,0,0,0,0,0,0,0,0,0,0,0,11,12
 "Bagwell, N.",OCO,2,1,0,0,0,0,0,0,0,0,0,0,11,12
 "Spector, M.",OCO,2,0,0,0,0,0,0,0,0,0,0,0,11,12
-"Winchester, A.",OCO,2,0,1,0,0,0,0,0,0,0,0,0,11,12
+"Winchester, A.",OCO,2,0,1,0,0,0,0,1,0,0,0,0,11,12
 "Clegane, G.",OCO,1,0,0,0,0,0,0,0,0,0,0,0,11,12
 "Bayley, B.",SJS,10,0,0,0,0,0,0,0,0,0,0,0,11,12
 "Pennington, T.",SJS,9,0,0,0,0,0,0,0,0,0,0,0,11,12
@@ -20,4 +20,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Horne, B.",SJS,3,0,0,5,0,0,0,0,0,0,0,0,11,12
 "Riposte, F.",SJS,1,0,0,0,0,0,0,0,0,0,0,0,11,12
 "Staley, T.",SJS,1,0,0,0,0,0,0,0,0,0,0,0,11,12
-"Tacktheritrix, J.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,11,12
+"Tacktheritrix, J.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,11,12

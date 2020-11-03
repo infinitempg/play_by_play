@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Lanier, B.",SJS,9,0,0,1,1,0,0,0,0,0,0,0,14,23
 "Brackenridge, T.",SJS,7,0,0,0,0,0,0,0,0,0,0,0,14,23
-"Fisher, G.",SJS,6,1,1,2,0,0,0,0,0,0,0,0,14,23
+"Fisher, G.",SJS,6,1,1,2,0,0,0,1,0,0,0,0,14,23
 "Allen, O.",SJS,3,1,0,0,0,0,0,0,0,0,0,0,14,23
 "Bass, L.",SJS,3,0,0,0,0,0,0,0,0,0,0,0,14,23
 "Otle, C.",SJS,2,1,0,0,0,0,0,0,0,0,0,0,14,23
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Culbertson, R.",HON,3,0,1,0,0,0,0,0,0,0,0,0,14,23
 "Kearse, J.",HON,3,1,1,0,0,0,0,0,0,0,0,0,14,23
 "Noble Jr., L.",HON,3,0,1,0,0,0,0,0,0,0,0,0,14,23
-"Rogers, S.",HON,0,0,0,0,0,0,0,0,0,0,0,0,14,23
+"Rogers, S.",HON,0,0,0,0,0,0,0,0,1,0,0,0,14,23

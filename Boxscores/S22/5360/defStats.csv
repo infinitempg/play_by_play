@@ -1,13 +1,13 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Gabagool, T.",COL,12,0,0,0,0,0,0,0,0,0,0,0,1,22
 "Berry, M.",COL,9,0,1,3,0,0,0,0,0,0,0,0,1,22
-"Sinclair, Q.",COL,8,0,0,1,0,0,0,0,0,0,0,0,1,22
+"Sinclair, Q.",COL,8,0,0,1,0,0,0,1,0,0,0,0,1,22
 "Kirkby, T.",COL,7,0,1,0,0,0,0,0,0,0,0,0,1,22
 "Purchase, L.",COL,5,0,0,4,1,0,1,0,0,0,0,0,1,22
 "Scott, R.",COL,4,0,0,0,0,0,0,0,0,0,0,0,1,22
 "Parker, P.",COL,3,0,0,0,0,0,0,0,0,0,0,0,1,22
 "Thumper, B.",COL,3,0,0,0,0,0,0,0,0,0,0,0,1,22
-"Blackstone, I.",COL,2,0,0,0,0,0,0,0,0,0,0,0,1,22
+"Blackstone, I.",COL,2,0,0,0,0,0,0,0,0,1,0,0,1,22
 "Magic, M.",COL,1,0,0,0,0,0,0,0,0,0,0,0,1,22
 "Sanchez, I.",COL,1,0,0,0,0,0,0,0,0,0,0,0,1,22
 "Quaid, D.",YKW,12,0,0,0,0,0,0,0,0,0,0,0,1,22
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Snuggles, J.",YKW,4,0,0,1,1,0,0,0,0,0,0,0,1,22
 "Maulolo, C.",YKW,2,0,0,0,0,0,0,0,0,0,0,0,1,22
 "Money, P.",YKW,1,1,0,0,0,0,0,0,0,0,0,0,1,22
-"Hanyadi, M.",YKW,0,0,0,0,0,0,0,0,0,0,0,0,1,22
+"Hanyadi, M.",YKW,0,0,0,0,0,0,0,0,1,0,0,0,1,22

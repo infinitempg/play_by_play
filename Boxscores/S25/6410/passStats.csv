@@ -1,3 +1,3 @@
-Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
-"Phoenix, B.",PHI,338,13,3,0,111,26,20,6,25
-"Jack, C.",YKW,267,13.4,3,0,101.5,26,20,6,25
+Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Phoenix, B.",PHI,26/42,338,13,3,0,111,26,42,6,25
+"Jack, C.",YKW,20/38,267,13.4,3,0,101.5,20,38,6,25

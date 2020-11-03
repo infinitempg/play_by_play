@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Sharpei, V.",SJS,11,0,1,0,0,0,0,0,0,0,0,0,13,6
 "Bayley, B.",SJS,6,0,0,6,1,0,0,0,0,0,0,0,13,6
-"Canton, J.",SJS,6,0,0,1,0,0,0,0,0,0,0,0,13,6
+"Canton, J.",SJS,6,0,0,1,0,0,0,1,0,0,0,0,13,6
 "Brill, J.",SJS,5,0,1,0,0,0,0,0,0,0,0,0,13,6
 "Hansen, A.",SJS,4,0,1,1,1,0,0,0,0,0,0,0,13,6
 "Newman, X.",SJS,4,0,0,0,0,0,0,0,0,0,0,0,13,6
@@ -20,4 +20,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Wojcik, B.",OCO,4,1,0,0,0,0,0,0,0,0,0,0,13,6
 "Sierra, R.",OCO,3,0,1,0,0,0,0,0,0,0,0,0,13,6
 "Wright Jr, G.",OCO,1,0,0,0,0,0,0,0,0,0,0,0,13,6
-"Yates, J.",OCO,0,0,0,0,0,0,0,0,0,0,0,0,13,6
+"Yates, J.",OCO,0,0,0,0,0,0,0,0,1,0,0,0,13,6

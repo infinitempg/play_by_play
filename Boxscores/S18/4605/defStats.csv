@@ -2,7 +2,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Ridley, X.",NO,8,2,0,0,0,0,0,0,0,0,0,0,10,18
 "Taylor, D.",NO,6,0,0,1,0,0,0,0,0,0,0,0,10,18
 "Andrews, J.",NO,5,0,0,0,0,0,0,0,0,0,0,0,10,18
-"Faux, B.",NO,5,0,1,0,0,0,0,0,0,0,0,0,10,18
+"Faux, B.",NO,5,0,1,0,0,0,0,1,0,0,0,0,10,18
 "Rector, D.",NO,5,0,0,0,0,0,0,0,0,0,0,0,10,18
 "Bode, Q.",NO,4,0,0,0,0,0,0,0,0,0,0,0,10,18
 "Ironside, B.",NO,4,0,0,0,0,0,0,0,0,0,0,0,10,18
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Uchiha, L.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,10,18
 "Clark, T.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,10,18
 "Leaf Jr., R.",YKW,1,0,0,0,0,0,0,0,0,0,0,0,10,18
-"Rchonsucks, A.",YKW,0,0,0,0,0,0,0,0,0,0,0,0,10,18
+"Rchonsucks, A.",YKW,0,0,0,0,0,0,0,0,1,0,0,0,10,18

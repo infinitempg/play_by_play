@@ -1,5 +1,5 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
-"Valdyr, M.",YKW,12,0,0,3,0,0,0,0,0,0,0,0,6,23
+"Valdyr, M.",YKW,12,0,0,3,0,0,0,0,1,0,0,0,6,23
 "Quaid, D.",YKW,7,0,2,3,0,0,0,0,0,0,0,0,6,23
 "Hellzapoppin, J.",YKW,5,0,0,0,0,0,0,0,0,0,0,0,6,23
 "Jensen, C.",YKW,5,0,0,0,0,0,0,0,0,0,0,0,6,23
@@ -7,7 +7,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Cho, J.",YKW,4,2,1,0,0,0,0,0,0,0,0,0,6,23
 "Snuggles, J.",YKW,4,0,0,0,0,0,0,0,0,0,0,0,6,23
 "Virtanen, M.",YKW,4,0,0,0,0,0,0,0,0,0,0,0,6,23
-"Alexander, N.",YKW,3,2,1,0,0,0,0,0,0,0,0,0,6,23
+"Alexander, N.",YKW,3,2,1,0,0,0,0,2,1,0,0,0,6,23
 "Kroustis, G.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,6,23
 "Leonard, M.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,6,23
 "Abernathy, K.",OCO,8,0,0,2,1,0,0,0,0,0,0,0,6,23

@@ -2,7 +2,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Mills, B.",NO,7,0,0,0,0,0,0,0,0,0,0,0,7,6
 "Andres, J.",NO,6,1,2,0,0,0,0,0,0,0,0,0,7,6
 "Askins, J.",NO,6,0,1,0,0,0,0,0,0,0,0,0,7,6
-"Stone, W.",NO,6,0,0,0,0,0,0,0,0,0,0,0,7,6
+"Stone, W.",NO,6,0,0,0,0,0,0,1,0,0,0,0,7,6
 "Tomlinson, A.",NO,6,2,0,0,0,0,0,0,0,0,0,0,7,6
 "Kronen, R.",NO,5,0,0,0,0,0,0,0,0,0,0,0,7,6
 "Washington, L.",NO,4,0,0,0,0,0,0,0,0,0,0,0,7,6
@@ -11,9 +11,9 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Brister, T.",NO,1,0,0,0,0,0,0,0,0,0,0,0,7,6
 "Verns, D.",NO,1,0,0,0,0,0,0,0,0,0,0,0,7,6
 "Saint, J.",COL,12,0,0,0,0,0,0,0,0,0,0,0,7,6
-"Hackett, A.",COL,10,0,0,0,0,0,0,0,0,0,0,0,7,6
+"Hackett, A.",COL,10,0,0,0,0,0,0,1,0,0,0,0,7,6
 "Ishigawa, H.",COL,9,1,1,2,0,0,0,0,0,0,0,0,7,6
-"Sandoval, A.",COL,9,5,0,0,0,0,0,0,0,0,0,0,7,6
+"Sandoval, A.",COL,9,5,0,0,0,0,0,0,1,0,0,0,7,6
 "Krimlaw, A.",COL,7,2,0,0,0,0,0,0,0,0,0,0,7,6
 "Tillman, M.",COL,7,0,0,1,0,0,0,0,0,0,0,0,7,6
 "Sandoval, R.",COL,6,0,1,0,0,0,0,0,0,0,0,0,7,6
@@ -23,4 +23,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Erikson, V.",COL,1,0,0,0,0,0,0,0,0,0,0,0,7,6
 "Grant, T.",COL,1,0,0,0,0,0,0,0,0,0,0,0,7,6
 "Woods, S.",COL,1,0,0,0,0,0,0,0,0,0,0,0,7,6
-"Pierno, N.",COL,0,0,0,0,0,0,0,0,0,0,0,0,7,6
+"Pierno, N.",COL,0,0,0,0,0,0,0,0,1,0,0,0,7,6

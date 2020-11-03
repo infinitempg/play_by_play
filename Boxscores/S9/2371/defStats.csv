@@ -5,7 +5,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Chambers III, C.",SJS,4,0,0,0,0,0,0,0,0,0,0,0,14,9
 "Hansen, A.",SJS,4,0,0,1,1,0,0,0,0,0,0,0,14,9
 "Washington, L.",SJS,4,0,0,1,0,0,0,0,0,0,0,0,14,9
-"Brill, J.",SJS,3,0,0,0,0,0,0,0,0,0,0,0,14,9
+"Brill, J.",SJS,3,0,0,0,0,0,0,1,0,0,0,0,14,9
 "Brister, T.",SJS,3,0,0,1,1,0,0,0,0,0,0,0,14,9
 "Barnhardt, B.",SJS,2,0,1,0,0,0,0,0,0,0,0,0,14,9
 "Joshua, C.",SJS,1,1,0,0,0,0,0,0,0,0,0,0,14,9
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hackett, A.",AZ,3,0,0,0,0,0,0,0,0,0,0,0,14,9
 "Floggity, J.",AZ,2,0,0,1,0,0,0,0,0,0,0,0,14,9
 "Ramrio, M.",AZ,2,0,0,0,0,0,0,0,0,0,0,0,14,9
-"Mackworthy, R.",AZ,0,0,0,0,0,0,0,0,0,0,0,0,14,9
+"Mackworthy, R.",AZ,0,0,0,0,0,0,0,0,1,0,0,0,14,9

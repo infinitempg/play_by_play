@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Blaylock, M.",NO,12,0,1,0,0,0,0,0,0,0,0,0,4,23
 "Tu'inukuafe, B.",NO,10,3,2,0,0,0,0,0,0,0,0,0,4,23
-"Bode, Q.",NO,8,0,0,0,0,0,0,0,0,0,0,0,4,23
+"Bode, Q.",NO,8,0,0,0,0,0,0,1,0,0,0,0,4,23
 "Dissector, U.",NO,8,0,0,1,0,0,0,0,0,0,0,0,4,23
 "Hexagon, L.",NO,5,0,0,0,0,0,0,0,0,0,0,0,4,23
 "Rikiya, M.",NO,5,0,1,0,0,0,0,0,0,0,0,0,4,23
@@ -20,5 +20,5 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Culbertson, R.",HON,2,0,0,0,0,0,0,0,0,0,0,0,4,23
 "Kearse, J.",HON,1,0,0,0,0,0,0,0,0,0,0,0,4,23
 "Keiki-KÄne, M.",HON,1,0,0,0,0,0,0,0,0,0,0,0,4,23
-"Thornton, B.",HON,1,0,0,0,0,0,0,0,0,0,0,0,4,23
-"Havran, C.",HON,0,0,0,0,0,0,0,0,0,0,0,0,4,23
+"Thornton, B.",HON,1,0,0,0,0,0,0,0,0,1,0,0,4,23
+"Havran, C.",HON,0,0,0,0,0,0,0,0,1,0,0,0,4,23

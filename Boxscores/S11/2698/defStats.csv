@@ -10,8 +10,8 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Saul, C.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,7,11
 "Weathers III, B.",PHI,1,0,1,0,0,0,0,0,0,0,0,0,7,11
 "Goodson, N.",YKW,12,0,0,2,0,0,0,0,0,0,0,0,7,11
-"Pennington, C.",YKW,11,0,0,1,0,0,0,0,0,0,0,0,7,11
-"Rainey, R.",YKW,11,0,0,0,0,0,0,0,0,0,0,0,7,11
+"Pennington, C.",YKW,11,0,0,1,0,0,0,1,1,0,0,0,7,11
+"Rainey, R.",YKW,11,0,0,0,0,0,0,1,1,0,0,0,7,11
 "Lavelle, D.",YKW,8,0,0,4,0,0,0,0,0,0,0,0,7,11
 "Pennington, T.",YKW,5,0,0,0,0,0,0,0,0,0,0,0,7,11
 "Woodham, A.",YKW,4,0,0,0,0,0,0,0,0,0,0,0,7,11

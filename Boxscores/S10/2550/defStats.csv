@@ -7,7 +7,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Marmeladov, V.",BAL,5,0,1,3,1,0,0,0,0,0,0,0,8,10
 "Roenick, A.",BAL,5,1,1,1,0,0,0,0,0,0,0,0,8,10
 "Rove, C.",BAL,5,0,0,0,0,0,0,0,0,0,0,0,8,10
-"Hendrix, K.",BAL,4,0,1,0,0,0,0,0,0,0,0,0,8,10
+"Hendrix, K.",BAL,4,0,1,0,0,0,0,1,1,0,0,0,8,10
 "Joshua, C.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,8,10
 "Stone, W.",YKW,9,0,0,1,0,0,0,0,0,0,0,0,8,10
 "Pennington, T.",YKW,8,0,0,1,0,0,0,0,0,0,0,0,8,10
@@ -18,4 +18,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Maddox, R.",YKW,4,1,1,0,0,0,0,0,0,0,0,0,8,10
 "Taylor, C.",YKW,3,0,0,0,0,0,0,0,0,0,0,0,8,10
 "Brown, J.",YKW,2,0,0,0,0,0,0,0,0,0,0,0,8,10
-"Rodriguez, G.",YKW,2,0,1,0,0,0,0,0,0,0,0,0,8,10
+"Rodriguez, G.",YKW,2,0,1,0,0,0,0,1,1,0,0,0,8,10

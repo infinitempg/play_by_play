@@ -12,7 +12,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Crocker, B.",LV,2,1,1,0,0,0,0,0,0,0,0,0,10,2
 "Grant, T.",LV,0,0,0,1,0,0,0,0,0,0,0,0,10,2
 "Jefferson, L.",PHI,7,0,1,1,1,0,0,0,0,0,0,0,10,2
-"Marmeladov, V.",PHI,7,0,0,1,1,0,0,0,0,0,0,0,10,2
+"Marmeladov, V.",PHI,7,0,0,1,1,0,0,1,1,0,0,0,10,2
 "Washington, L.",PHI,7,0,1,1,0,0,0,0,0,0,0,0,10,2
 "Oles, T.",PHI,6,0,0,1,1,0,0,0,0,0,0,0,10,2
 "Taylor, G.",PHI,5,0,1,0,0,0,0,0,0,0,0,0,10,2

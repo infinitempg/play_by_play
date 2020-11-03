@@ -5,7 +5,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Bayley, B.",SJS,8,0,0,3,0,0,0,0,0,0,0,0,11,7
 "Hansen, A.",SJS,6,0,1,0,0,0,0,0,0,0,0,0,11,7
 "Canton, J.",SJS,3,0,0,2,0,0,0,0,0,0,0,0,11,7
-"Kane III, T.",SJS,3,0,0,2,0,0,0,0,0,0,0,0,11,7
+"Kane III, T.",SJS,3,0,0,2,0,0,0,1,0,0,0,0,11,7
 "Sandoval, R.",SJS,3,0,2,0,0,0,0,0,0,0,0,0,11,7
 "Chambers III, C.",SJS,2,0,1,0,0,0,0,0,0,0,0,0,11,7
 "Okonkwo, C.",SJS,2,0,1,0,0,0,0,0,0,0,0,0,11,7
@@ -15,7 +15,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Lee, J.",PHI,5,0,0,0,0,0,0,0,0,0,0,0,11,7
 "Rove, C.",PHI,5,0,0,1,0,0,0,0,0,0,0,0,11,7
 "Kamaka, E.",PHI,3,0,1,0,0,0,0,0,0,0,0,0,11,7
-"King, G.",PHI,3,0,0,0,0,0,0,0,0,0,0,0,11,7
+"King, G.",PHI,3,0,0,0,0,0,0,0,0,1,0,0,11,7
 "Marmeladov, V.",PHI,3,0,1,1,1,0,0,0,0,0,0,0,11,7
 "Tucker, P.",PHI,2,0,0,1,0,0,0,0,0,0,0,0,11,7
-"Kroetch, D.",PHI,0,0,0,0,0,0,0,0,0,0,0,0,11,7
+"Kroetch, D.",PHI,0,0,0,0,0,0,0,0,1,0,0,0,11,7

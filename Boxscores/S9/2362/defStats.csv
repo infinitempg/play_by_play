@@ -2,7 +2,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Enchant, E.",OCO,9,0,0,1,0,0,0,0,0,0,0,0,12,9
 "Brown, M.",OCO,8,0,0,0,0,0,0,0,0,0,0,0,12,9
 "Sierra, R.",OCO,8,0,2,0,0,0,0,0,0,0,0,0,12,9
-"Broxton, J.",OCO,7,1,0,0,0,0,0,0,0,0,0,0,12,9
+"Broxton, J.",OCO,7,1,0,0,0,0,0,1,0,0,0,0,12,9
 "Spector, M.",OCO,6,0,0,1,0,0,0,0,0,0,0,0,12,9
 "Winchester, A.",OCO,5,0,0,1,0,0,0,0,0,0,0,0,12,9
 "King, J.",OCO,3,0,0,1,0,0,0,0,0,0,0,0,12,9
@@ -19,4 +19,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Maddox, R.",YKW,1,1,0,0,0,1,0,0,0,0,0,0,12,9
 "Skinner, Z.",YKW,1,1,0,0,0,0,0,0,0,0,0,0,12,9
 "Zhang, S.",YKW,1,0,0,3,0,0,0,0,0,0,0,0,12,9
-"Kennedy, E.",YKW,0,0,0,0,0,0,0,0,0,0,0,0,12,9
+"Kennedy, E.",YKW,0,0,0,0,0,0,0,0,1,0,0,0,12,9

@@ -7,7 +7,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hornbacher, A.",BAL,4,0,0,2,0,0,0,0,0,0,0,0,10,16
 "Terim, F.",BAL,4,0,0,0,0,0,0,0,0,0,0,0,10,16
 "Hobbs, J.",BAL,3,0,1,0,0,0,0,0,0,0,0,0,10,16
-"Horne, B.",BAL,3,0,0,0,0,0,0,0,0,0,0,0,10,16
+"Horne, B.",BAL,3,0,0,0,0,0,0,1,0,0,0,0,10,16
 "Oats, S.",BAL,3,1,0,0,0,0,0,0,0,0,0,0,10,16
 "Trout, C.",BAL,2,0,0,0,0,0,0,0,0,0,0,0,10,16
 "Clark, T.",BAL,1,0,0,0,0,0,0,0,0,0,0,0,10,16
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Methane, D.",SJS,2,1,0,0,0,0,0,0,0,0,0,0,10,16
 "Sackerman, F.",SJS,2,0,0,0,0,0,0,0,0,0,0,0,10,16
 "Tuck, J.",SJS,1,0,0,0,0,0,0,0,0,0,0,0,10,16
-"Chains, J.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,10,16
+"Chains, J.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,10,16

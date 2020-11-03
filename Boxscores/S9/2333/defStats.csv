@@ -4,7 +4,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Marmeladov, V.",BAL,6,0,1,0,0,0,0,0,0,0,0,0,5,9
 "Roenick, A.",BAL,6,0,0,0,0,0,0,0,0,0,0,0,5,9
 "Turner, D.",BAL,6,0,0,0,0,0,0,0,0,0,0,0,5,9
-"Asipi Jr., A.",BAL,5,1,0,0,0,0,0,0,0,0,0,0,5,9
+"Asipi Jr., A.",BAL,5,1,0,0,0,0,0,1,0,0,0,0,5,9
 "Delacour, A.",BAL,5,0,0,1,1,0,0,0,0,0,0,0,5,9
 "Broadway, E.",BAL,4,0,1,0,0,0,0,0,0,0,0,0,5,9
 "Fletcher, G.",BAL,3,0,0,1,0,0,0,0,0,0,0,0,5,9
@@ -22,4 +22,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Barnhardt, B.",SJS,1,0,1,0,0,0,0,0,0,0,0,0,5,9
 "Joshua, C.",SJS,1,1,0,0,0,0,0,0,0,0,0,0,5,9
 "Lewith, T.",SJS,1,0,0,0,0,0,0,0,0,0,0,0,5,9
-"Jahelpme, H.",SJS,0,0,0,0,0,0,0,0,0,0,0,0,5,9
+"Jahelpme, H.",SJS,0,0,0,0,0,0,0,0,1,0,0,0,5,9

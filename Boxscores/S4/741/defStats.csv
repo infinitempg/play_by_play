@@ -1,7 +1,7 @@
 Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hackett, A.",PHI,7,1,0,0,0,0,0,0,0,0,0,0,5,4
-"Hendrix, M.",PHI,5,0,1,1,0,0,0,0,0,0,0,0,5,4
-"Kamaka, E.",PHI,5,0,0,0,0,0,0,0,0,0,0,0,5,4
+"Hendrix, M.",PHI,5,0,1,1,0,0,0,0,1,0,0,0,5,4
+"Kamaka, E.",PHI,5,0,0,0,0,0,0,1,0,0,0,0,5,4
 "Cushing, K.",PHI,4,0,0,1,0,0,0,0,0,0,0,0,5,4
 "Marmeladov, V.",PHI,4,0,1,0,0,0,0,0,0,0,0,0,5,4
 "Oles, T.",PHI,4,0,0,1,0,0,0,0,0,0,0,0,5,4
@@ -11,7 +11,7 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Davidson, D.",PHI,1,0,0,0,0,0,0,0,0,0,0,0,5,4
 "Tucker, P.",PHI,1,0,1,1,0,0,0,0,0,0,0,0,5,4
 "Saint, J.",COL,12,1,2,1,0,0,0,0,0,0,0,0,5,4
-"Boggs, B.",COL,9,0,0,1,0,0,0,0,0,0,0,0,5,4
+"Boggs, B.",COL,9,0,0,1,0,0,0,1,1,0,0,0,5,4
 "Erikson, V.",COL,8,0,0,0,0,0,0,0,0,0,0,0,5,4
 "Ishigawa, H.",COL,7,0,0,0,0,0,0,0,0,0,0,0,5,4
 "Krimlaw, A.",COL,6,2,1,1,0,0,0,0,0,0,0,0,5,4
@@ -21,4 +21,4 @@ Player,Team,Tck,TFL,Sack,PD,Int,Sfty,def_TD,FF,FR,Blk P,Blk XP,Blk FG,W,S
 "Hayden, A.",COL,3,0,0,2,1,0,1,0,0,0,0,0,5,4
 "Skidmarks, S.",COL,3,0,0,0,0,0,0,0,0,0,0,0,5,4
 "McNoodle, M.",COL,1,0,0,0,0,0,0,0,0,0,0,0,5,4
-"Thomas, R.",COL,0,0,0,0,0,0,0,0,0,0,0,0,5,4
+"Thomas, R.",COL,0,0,0,0,0,0,0,0,0,1,0,0,5,4
