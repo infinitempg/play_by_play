@@ -1,3 +1,3 @@
-Player,Team,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
-"Draxel, V.",ARI,213,11.8,1,0,82.1,18,34,4,1
-"Orosz, C.",YKW,150,7.1,1,1,56.6,21,42,4,1
+Player,Team,Cp/At,Yds,Avg,pass_TD,Int,Rat,Cmp,Att,W,S
+"Draxel, V.",ARI,18/34,213,11.8,1,0,82.1,18,34,4,1
+"Orosz, C.",YKW,21/42,150,7.1,1,1,56.6,21,42,4,1

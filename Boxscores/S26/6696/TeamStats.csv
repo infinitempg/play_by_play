@@ -1,0 +1,19 @@
+,Stat,PHI,COL
+1,First Downs,11,15
+2,3rd Down Efficiency,0.2857142857142857,0.6
+3,4rd Down Efficiency,0,0
+4,Total Yards,360,311
+5,Passing,251,181
+0,Completions,14,14
+1,Attempts,25,26
+7,Yards per Pass,10.0,7.0
+8,Rushing,109,130
+9,Rushing Attempts,26,40
+10,Yards per Rush,4.2,3.3
+2,Penalties,10,2
+3,Penalty Yards,136,15
+12,Turnovers,0,1
+4,Fumbles,0,1
+5,Fumbles Lost,0,0
+14,Had Intercepted,0,1
+15,Time of Possession,24:29,35:31

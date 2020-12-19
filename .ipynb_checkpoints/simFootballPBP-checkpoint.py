@@ -432,3 +432,109 @@ def getGameBox(S,gameID,idDict):
     othStats = posStatDF(S,gameID,boxList,22,homeTeam,awayTeam,'oth',idDict)
     
     return
+
+def getGameData2(S,gameID):
+    if S < 10:
+        strnum = '0' + str(S)
+    elif S >= 10:
+        strnum = str(S)
+        
+    options = Options()
+    options.add_argument('--headless')
+    options.add_argument('--disable-gpu')
+    browser = webdriver.Chrome("/mnt/c/Python38/Scripts/chromedriver.exe", options=options)
+    browser.get('http://www.mikemakmur.com/isfl/S%s/Logs/PBP.html?id=%s'%(strnum,gameID))
+    
+    browser.get('http://www.mikemakmur.com/isfl/S%s/Boxscores/Boxscore.html?id=%s'%(strnum,gameID))
+    soupBox = BeautifulSoup(browser.page_source,'lxml')
+    for elem in soupBox.find_all(["br"]):
+        elem.replace_with(elem.text + " ")
+    tablePBP = soupPBP.find_all('table',class_='Grid')[0]
+    
+    q = 1
+    pbpList = []
+
+    for row in tablePBP.find_all('tr')[4:]:
+        cols = row.find_all('td')
+        if len(cols) != 5:
+            continue
+        elif len(cols) == 5:
+            try:
+                team = cols[0].find_all('img')[0]['src'][16:].strip('_s.png')
+            except:
+                q += 1
+                continue
+            textTime = cols[1].text
+            minutes,seconds = cols[1].text.strip().split(':')
+            secondsLeft = int(minutes)*60 + int(seconds)
+            totTime = 15*60*(4-q) + secondsLeft
+            downDist = cols[2].text
+            if downDist == '':
+                down = ''
+                dist = ''
+            elif downDist == '---':
+                down = ''
+                dist = ''
+            else:
+                down = int(downDist[0])
+                dist = downDist[8:]
+            loc = cols[3].text
+            if loc == '':
+                side = yard = ''
+            else:
+    #             side = loc[:3]
+    #             yard = int(loc[-2:])
+                side, yard = loc.split(' - ')
+            play = cols[4].text
+            pbpList.append((team,q,textTime,totTime,down,dist,side,yard,play))
+
+    pbpDF = pd.DataFrame(pbpList)
+    pbpDF.columns = ['teamID','Q','time','totTime','down','distance','side','yard','play']
+    pbpDF['gameID'] = gameID
+    pbpDF['S'] = S
+        
+    teamList = list(pbpDF['side'].unique())
+    teamList = [t for t in teamList if t != '']
+    
+    browser.get('http://www.mikemakmur.com/isfl/S%s/Boxscores/Boxscore.html?id=%s'%(strnum,gameID))
+    soupBox = BeautifulSoup(browser.page_source,'lxml')
+    for elem in soupBox.find_all(["br"]):
+        elem.replace_with(elem.text + " ")
+    tableBox = soupBox.find_all('table',class_='Grid')[0]
+    pbpDF['awayTeam'] = tableBox.find_all('tr')[1:][0].find_all('td')[1].text
+    pbpDF['homeTeam'] = tableBox.find_all('tr')[1:][0].find_all('td')[2].text
+    
+    scoreList = [(3600,0,0)]
+
+    q = 0
+    for row in tableBox.find_all('tr')[1:]:
+        cols = row.find_all('td')
+        if len(cols) != 6:
+            q += 1
+        else:
+            time = cols[-4].text.split(':')
+            secondsLeft = int(time[0])*60 + int(time[1])
+            totTime = 15*60*(4-q) + secondsLeft
+
+            awayScore = int(cols[-2].text)
+            homeScore = int(cols[-1].text)
+
+            scoreList.append((totTime,awayScore,homeScore))
+
+    scoreList.append((-901,awayScore,homeScore))
+    
+    boxDF = pd.DataFrame(scoreList)
+    boxDF.columns = ['totTime','awayScore','homeScore']
+    
+    pbpDF['teamPoss'] = pbpDF.apply(lambda row: getTeams(S,row['teamID']),axis=1)
+    pbpDF['dist2goal'] = pbpDF.apply(lambda row: dist2goal(row['teamPoss'],row['side'],row['yard']),axis=1)
+    pbpDF['distance'] = pbpDF.apply(lambda row: goal2go(row['distance'],row['dist2goal']),axis=1)
+    pbpDF['side'] = pbpDF.apply(lambda row: puntSide(row['play'],row['side'],row['awayTeam'],row['homeTeam']),axis=1)
+    pbpDF['teamPoss'] = pbpDF.apply(lambda row: puntPoss(row['play'],row['teamPoss'],row['awayTeam'],row['homeTeam']),axis=1)
+    pbpDF['awayScore'] = pbpDF.apply(lambda row : getScore(boxDF,row['totTime'])[0],axis=1)
+    pbpDF['homeScore'] = pbpDF.apply(lambda row : getScore(boxDF,row['totTime'])[1],axis=1)
+    if pbpDF.iloc[-1]['totTime'] < 0:
+        pbpDF['awayScore'].iloc[-1] = boxDF['awayScore'].iloc[-1]
+        pbpDF['homeScore'].iloc[-1] = boxDF['homeScore'].iloc[-1]
+    
+    return pbpDF
